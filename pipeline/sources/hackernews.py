@@ -1,19 +1,12 @@
 """Hacker News via the official free Firebase API (no key required)."""
 
-from datetime import datetime, timezone
-
 import requests
 
 from pipeline import config
 from pipeline.models import Item
+from pipeline.sources.base import iso_from_epoch
 
 API = "https://hacker-news.firebaseio.com/v0"
-
-
-def _iso(epoch_seconds):
-    if not epoch_seconds:
-        return ""
-    return datetime.fromtimestamp(epoch_seconds, tz=timezone.utc).isoformat().replace("+00:00", "Z")
 
 
 def fetch(limit=60, session=None):
@@ -38,6 +31,6 @@ def fetch(limit=60, session=None):
             snippet=(data.get("text") or "")[:300],
             signal_metric="points",
             signal_value=score,
-            published_at=_iso(data.get("time")),
+            published_at=iso_from_epoch(data.get("time")),
         ))
     return items
