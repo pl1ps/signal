@@ -57,9 +57,24 @@ def test_assemble_records_counts_and_status():
 
 
 def test_build_levels_marks_kept_items_and_limits_bar_count():
-    scanned = [make(f"S{n}") for n in range(100)]
+    scanned = [make(f"S{n}", relevance=0.0) for n in range(100)]
     levels = assemble.build_levels(scanned, scanned[:3], bars=10)
 
     assert len(levels) == 10
     assert sum(1 for level in levels if level["kept"]) >= 1
     assert all(0.0 <= level["v"] <= 1.0 for level in levels)
+
+
+def test_build_levels_never_drops_a_kept_item_when_downsampling():
+    # 100 scanned items; the kept ones sit at positions that an even stride
+    # sample (indices 0, 10, 20, ...) would mostly miss.
+    scanned = [make(f"S{n}", relevance=0.0) for n in range(100)]
+    kept = [scanned[1], scanned[49], scanned[99]]
+    for item in kept:
+        item.relevance = 0.9
+
+    levels = assemble.build_levels(scanned, kept, bars=10)
+
+    assert len(levels) == 10
+    # All three survivors must appear, not just "at least one".
+    assert sum(1 for level in levels if level["kept"]) == 3

@@ -14,7 +14,11 @@ def build_levels(scanned_items, kept_items, bars=config.READOUT_BARS):
     """Data for the noise-floor readout.
 
     Every scanned item becomes a bar. Kept items spike to their relevance;
-    everything else sits low, forming the noise floor.
+    everything else sits low, forming the noise floor. When there are more
+    items than `bars`, only the noise is thinned out — every kept item is
+    always retained (in its original left-to-right position), so a survivor
+    can never disappear from the readout. READOUT_BARS is kept larger than
+    the candidate cap so the kept-heavy path below is only a safety net.
     """
     kept_urls = {item.url for item in kept_items}
     levels = []
@@ -27,20 +31,30 @@ def build_levels(scanned_items, kept_items, bars=config.READOUT_BARS):
     if len(levels) <= bars:
         return levels
 
-    step = len(levels) / bars
-    sampled = [levels[int(index * step)] for index in range(bars)]
+    kept_count = sum(1 for level in levels if level["kept"])
+    noise_budget = bars - kept_count
 
-    # Downsampling can drop kept items. Put any that were lost back, each into
-    # its own slot that currently holds noise, so no survivor disappears.
-    sampled_ids = {id(level) for level in sampled}
-    missing = [lvl for lvl in levels if lvl["kept"] and id(lvl) not in sampled_ids]
+    # Safety net: if survivors somehow outnumber the bars, show as many kept
+    # bars as fit rather than dropping some silently.
+    if noise_budget <= 0:
+        return [level for level in levels if level["kept"]][:bars]
 
-    for level in missing:
-        for slot, existing in enumerate(sampled):
-            if not existing["kept"]:
-                sampled[slot] = level
-                break
-    return sampled
+    # Keep every kept bar; fill the remaining slots with an even sample of the
+    # noise, walking left to right so original order is preserved.
+    noise_total = len(levels) - kept_count
+    stride = noise_total / noise_budget
+    result = []
+    noise_seen = 0
+    noise_taken = 0
+    for level in levels:
+        if level["kept"]:
+            result.append(level)
+        else:
+            if noise_taken < noise_budget and noise_seen >= noise_taken * stride:
+                result.append(level)
+                noise_taken += 1
+            noise_seen += 1
+    return result
 
 
 def assemble(kept, scanned_items, sources_ok, sources_failed, ai_used, now=None):

@@ -4,7 +4,7 @@
 CANDIDATE_CAP = 50          # how many items reach the AI stage
 ITEMS_PER_SECTION = 6       # max cards shown per section
 MIN_RELEVANCE = 0.35        # AI score below this is dropped
-READOUT_BARS = 48           # bars in the noise-floor readout
+READOUT_BARS = 60           # bars in the noise-floor readout (> CANDIDATE_CAP so every kept item always fits)
 
 # Source popularity thresholds (cheap noise removal before any AI cost)
 HN_MIN_POINTS = 50
