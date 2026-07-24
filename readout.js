@@ -20,7 +20,11 @@ window.renderReadout = function renderReadout(readout) {
     const bar = document.createElement("span");
     bar.className = level.kept ? "bar kept" : "bar";
 
-    const height = Math.max(6, Math.round(level.v * 100));
+    // digest.json is fetched data, so a malformed level must not reach CSS:
+    // "NaN%" is an invalid height and would silently collapse the bar.
+    const value = Number(level.v);
+    const safe = Number.isFinite(value) ? Math.min(1, Math.max(0, value)) : 0;
+    const height = Math.max(6, Math.round(safe * 100));
     bar.style.setProperty("--h", `${height}%`);
 
     if (!reduceMotion) {
