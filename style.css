@@ -201,3 +201,13 @@ body {
 }
 
 .refresh:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+/* ---- Readout motion: the one orchestrated moment ---- */
+@keyframes rise {
+  from { height: 0; }
+  to   { height: var(--h); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .readout .bar { animation: none !important; height: var(--h); }
+}
