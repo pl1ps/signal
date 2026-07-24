@@ -1,0 +1,41 @@
+name: Build digest
+
+on:
+  schedule:
+    # 22:17 UTC. Change this to 06:17 in YOUR timezone:
+    # subtract your UTC offset from 06:17. UTC+8 -> 22:17 the previous day.
+    - cron: "17 22 * * *"
+  workflow_dispatch:        # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write           # required to commit digest.json
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Build digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m pipeline.main
+
+      - name: Commit digest
+        run: |
+          git config user.name "signal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add digest.json
+          git diff --staged --quiet || git commit -m "chore: update digest"
+          git push
