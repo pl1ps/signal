@@ -4,11 +4,19 @@ const SECTIONS_EL = document.getElementById("sections");
 const NOTICE_EL = document.getElementById("notice");
 const STAMP_EL = document.getElementById("stamp");
 
+/**
+ * Only http(s) links may become a card target. Digest content comes from
+ * outside feeds, so a "javascript:" or "data:" URL must never reach an href.
+ */
+function safeUrl(url) {
+  return /^https?:\/\//i.test(url || "") ? url : "#";
+}
+
 /** Build one card. Anchors (not divs) so keyboard and long-press work. */
 function buildCard(item) {
   const card = document.createElement("a");
   card.className = "card";
-  card.href = item.url;
+  card.href = safeUrl(item.url);
   card.target = "_blank";
   card.rel = "noopener";
 
@@ -68,6 +76,9 @@ function buildSection(section) {
 }
 
 function formatStamp(iso) {
+  // new Date(null) is the epoch, not an error, so check the type first —
+  // showing a wrong time is worse than admitting we don't know.
+  if (typeof iso !== "string") return "Updated recently";
   const when = new Date(iso);
   if (Number.isNaN(when.getTime())) return "Updated recently";
   const time = when.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
