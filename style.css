@@ -1,0 +1,203 @@
+/* ---- Design tokens: pre-dawn sky and first light ---- */
+:root {
+  --night:   #0E1420;
+  --surface: #171F30;
+  --edge:    #232E44;
+  --amber:   #F5A65B;
+  --aqua:    #64C9CF;
+  --haze:    #8494AE;
+  --paper:   #EDF1F7;
+
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+
+  --gap: 1.25rem;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --night:   #EFF3F9;
+    --surface: #FFFFFF;
+    --edge:    #D6DEEB;
+    --haze:    #5B6980;
+    --paper:   #131A26;
+  }
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  src: url("fonts/space-grotesk-600.woff2") format("woff2");
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("fonts/ibm-plex-mono-500.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0 var(--gap) 3rem;
+  background: var(--night);
+  color: var(--paper);
+  font-family: var(--font-body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Masthead ---- */
+.masthead { padding: 1.75rem 0 1.25rem; }
+
+.masthead-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.wordmark {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.stamp, .readout-stat {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--haze);
+}
+
+/* ---- Signature: the noise-floor readout ---- */
+.readout {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 34px;
+  margin: 1rem 0 0.5rem;
+  border-bottom: 1px solid var(--edge);
+}
+
+.readout .bar {
+  flex: 1 1 auto;
+  min-width: 2px;
+  background: var(--haze);
+  opacity: 0.5;
+  height: var(--h);
+}
+
+.readout .bar.kept {
+  background: var(--amber);
+  opacity: 1;
+}
+
+.readout-stat { margin-top: 0.4rem; }
+
+/* ---- Sections ---- */
+.section { margin-top: 2.25rem; }
+
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.9rem;
+}
+
+.section-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.section-rule { flex: 1; height: 1px; background: var(--edge); }
+
+.section-count {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--haze);
+}
+
+/* ---- Cards ---- */
+.card {
+  display: block;
+  padding: 1rem 1.05rem 0.9rem;
+  margin-bottom: 0.7rem;
+  background: var(--surface);
+  border: 1px solid var(--edge);
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.card:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+
+.card-title {
+  margin: 0 0 0.55rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.02rem;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+.card-why {
+  margin: 0 0 0.5rem;
+  padding-left: 0.7rem;
+  border-left: 3px solid var(--amber);
+  font-size: 0.92rem;
+  color: var(--paper);
+}
+
+.card-summary {
+  margin: 0 0 0.7rem;
+  font-size: 0.9rem;
+  color: var(--haze);
+}
+
+.card-meta {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--aqua);
+}
+
+/* ---- Notices, footer ---- */
+.notice {
+  margin: 0 0 1rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--edge);
+  border-left: 3px solid var(--aqua);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: var(--haze);
+}
+
+.foot { margin-top: 2.5rem; text-align: center; }
+
+.refresh {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--haze);
+  background: transparent;
+  border: 1px solid var(--edge);
+  border-radius: 999px;
+  padding: 0.6rem 1.4rem;
+  cursor: pointer;
+}
+
+.refresh:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
