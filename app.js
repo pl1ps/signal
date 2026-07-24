@@ -139,3 +139,11 @@ async function loadDigest() {
 
 document.getElementById("refresh").addEventListener("click", loadDigest);
 loadDigest();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {
+      // Registration fails on insecure origins; the app still works online.
+    });
+  });
+}
