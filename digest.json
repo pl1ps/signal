@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-07-22T06:17:00Z",
+  "generator_version": 1,
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "A new open-source agent framework",
+          "url": "https://example.com/agents",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "A gentler way into building agents than what you tried before.",
+          "summary": "A toolkit that wires language models to tools with a few lines of Python. The docs start from a working example.",
+          "signal": { "metric": "points", "value": 340 },
+          "published_at": "2026-07-22T04:00:00Z",
+          "relevance": 0.88
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "How to structure your first year of CS",
+          "url": "https://example.com/first-year",
+          "source": "reddit",
+          "source_label": "r/learnprogramming",
+          "why": "Directly relevant while you are choosing what to focus on.",
+          "summary": "A widely upvoted guide arguing you should build small finished projects rather than collect tutorials.",
+          "signal": { "metric": "upvotes", "value": 1200 },
+          "published_at": "2026-07-22T02:00:00Z",
+          "relevance": 0.74
+        }
+      ]
+    }
+  ],
+  "readout": {
+    "scanned": 412,
+    "kept": 2,
+    "levels": [
+      { "v": 0.12, "kept": false }, { "v": 0.08, "kept": false },
+      { "v": 0.2, "kept": false }, { "v": 0.88, "kept": true },
+      { "v": 0.05, "kept": false }, { "v": 0.15, "kept": false },
+      { "v": 0.74, "kept": true }, { "v": 0.1, "kept": false }
+    ]
+  },
+  "status": { "sources_ok": ["hackernews", "reddit"], "sources_failed": [], "ai_used": true }
+}
