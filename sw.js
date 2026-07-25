@@ -14,7 +14,15 @@ const SHELL = [
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting())
+    caches.open(CACHE).then((cache) => {
+      // Cache the digest at install too, best-effort and separate from the
+      // shell: on a first visit the app's own digest fetch runs before this
+      // worker controls the page, so without this an install-then-offline
+      // user would have no digest to fall back to. A missing digest.json
+      // must not abort the install, hence the detached, catch-guarded add.
+      cache.add("digest.json").catch(() => {});
+      return cache.addAll(SHELL);
+    }).then(() => self.skipWaiting())
   );
 });
 
