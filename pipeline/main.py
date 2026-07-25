@@ -58,7 +58,10 @@ def run(dry_run=False, output_path="digest.json"):
     )
     log.info("ai_used=%s kept=%d", ai_used, len(kept))
 
-    digest = assemble.assemble(kept, candidates, sources_ok, sources_failed, ai_used)
+    # candidates drives the readout bars; the headline count is the full
+    # gathered pool, so "N scanned" reflects the real subtraction, not the cap.
+    digest = assemble.assemble(kept, candidates, sources_ok, sources_failed, ai_used,
+                               scanned_total=len(raw_items))
     payload = digest.to_dict()
 
     if dry_run:

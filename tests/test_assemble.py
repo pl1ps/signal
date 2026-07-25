@@ -46,6 +46,23 @@ def test_assemble_caps_items_per_section():
     assert len(digest.sections[0]["items"]) == 6
 
 
+def test_assemble_uses_scanned_total_for_the_headline_count():
+    # The bars come from the (small) candidate list, but the headline "scanned"
+    # count reflects the full gathered pool so the subtraction story is honest.
+    candidates = [make("A"), make("B")]
+    digest = assemble.assemble(candidates, candidates, [], [], True,
+                               now=NOW, scanned_total=317)
+    assert digest.scanned == 317
+    # Bars still built from the candidates actually passed in.
+    assert len(digest.levels) == 2
+
+
+def test_assemble_scanned_total_defaults_to_scanned_items_length():
+    candidates = [make("A"), make("B"), make("C")]
+    digest = assemble.assemble(candidates, candidates, [], [], True, now=NOW)
+    assert digest.scanned == 3
+
+
 def test_assemble_records_counts_and_status():
     scanned = [make(f"S{n}") for n in range(30)]
     digest = assemble.assemble(scanned[:2], scanned, ["hackernews"], ["reddit"], True, now=NOW)

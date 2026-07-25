@@ -57,8 +57,16 @@ def build_levels(scanned_items, kept_items, bars=config.READOUT_BARS):
     return result
 
 
-def assemble(kept, scanned_items, sources_ok, sources_failed, ai_used, now=None):
-    """Group kept items into sections and build the Digest."""
+def assemble(kept, scanned_items, sources_ok, sources_failed, ai_used, now=None,
+             scanned_total=None):
+    """Group kept items into sections and build the Digest.
+
+    `scanned_items` drives the readout bars (a downsampled instrument view).
+    `scanned_total` is the headline "N scanned" count: the true size of the
+    gathered pool before the candidate cap, so the readout tells the real
+    subtraction story instead of a number ceilinged at the cap. It defaults
+    to len(scanned_items) when not given.
+    """
     moment = now or datetime.now(timezone.utc)
 
     if ai_used:
@@ -88,7 +96,7 @@ def assemble(kept, scanned_items, sources_ok, sources_failed, ai_used, now=None)
     return Digest(
         generated_at=_iso(moment),
         sections=sections,
-        scanned=len(scanned_items),
+        scanned=scanned_total if scanned_total is not None else len(scanned_items),
         kept=published_count,
         levels=build_levels(scanned_items, survivors),
         sources_ok=sources_ok,
