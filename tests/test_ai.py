@@ -134,7 +134,8 @@ def test_rank_and_summarize_logs_error_body_on_failure(caplog):
     body = '{"error":{"code":429,"message":"quota"}}'
     session = FakeSession(FakeResponse({}, status=429, text=body))
     items, ai_used = ai.rank_and_summarize("profile", [make("A story")],
-                                           api_key="k", session=session)
+                                           api_key="k", session=session,
+                                           sleep=lambda s: None)
     assert ai_used is False
     assert "quota" in caplog.text  # the real error body reached the log
 
