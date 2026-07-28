@@ -54,3 +54,7 @@ GEMINI_RESPONSE_SCHEMA = {
         "required": ["index", "keep"],
     },
 }
+
+# AI request retry (transient 429/5xx only; a structural 429 is not retryable)
+GEMINI_MAX_ATTEMPTS = 3
+GEMINI_BACKOFF_BASE = 1.0   # seconds; delay = base * 2**attempt

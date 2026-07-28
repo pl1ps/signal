@@ -5,12 +5,24 @@ Every failure path returns (items, False) so the run always produces a digest.
 
 import json
 import logging
+import time
 
 import requests
 
 from pipeline import config
 
 log = logging.getLogger(__name__)
+
+RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+
+
+def _is_retryable(exc):
+    """Retry only transient HTTP statuses; a structural 429 will just repeat,
+    but the bounded loop still exits quickly and falls back."""
+    response = getattr(exc, "response", None)
+    status = getattr(response, "status_code", None)
+    return status in RETRYABLE_STATUS
+
 
 INSTRUCTIONS = """You are the editor of one person's daily briefing.
 
@@ -95,7 +107,7 @@ def _log_ai_failure(exc, api_key):
                 detail.replace(api_key, "<redacted>"))
 
 
-def rank_and_summarize(profile, items, api_key, session=None):
+def rank_and_summarize(profile, items, api_key, session=None, sleep=time.sleep):
     """Return (items, ai_used). On any failure, returns the input untouched."""
     if not api_key or not items:
         log.warning("AI stage skipped: no API key or no items")
@@ -113,11 +125,19 @@ def rank_and_summarize(profile, items, api_key, session=None):
         },
     }
 
-    try:
-        response = http.post(url, json=body, headers=headers, timeout=90)
-        response.raise_for_status()
-        verdicts = json.loads(_parse_text(response.json()))
-        return apply_verdicts(items, verdicts), True
-    except Exception as exc:  # broad: the digest must survive any AI failure
-        _log_ai_failure(exc, api_key)
-        return items, False
+    last_exc = None
+    for attempt in range(config.GEMINI_MAX_ATTEMPTS):
+        try:
+            response = http.post(url, json=body, headers=headers, timeout=90)
+            response.raise_for_status()
+            verdicts = json.loads(_parse_text(response.json()))
+            return apply_verdicts(items, verdicts), True
+        except Exception as exc:  # broad: the digest must survive any AI failure
+            last_exc = exc
+            is_last = attempt == config.GEMINI_MAX_ATTEMPTS - 1
+            if is_last or not _is_retryable(exc):
+                break
+            sleep(config.GEMINI_BACKOFF_BASE * (2 ** attempt))
+
+    _log_ai_failure(last_exc, api_key)
+    return items, False

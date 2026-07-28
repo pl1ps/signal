@@ -137,3 +137,56 @@ def test_rank_and_summarize_logs_error_body_on_failure(caplog):
                                            api_key="k", session=session)
     assert ai_used is False
     assert "quota" in caplog.text  # the real error body reached the log
+
+
+class SequenceSession:
+    """Returns queued responses in order, one per .post call."""
+
+    def __init__(self, responses):
+        self.responses = list(responses)
+        self.calls = 0
+
+    def post(self, url, json=None, headers=None, timeout=None):
+        self.calls += 1
+        return self.responses.pop(0)
+
+
+def test_rank_and_summarize_retries_then_succeeds():
+    ok = gemini_envelope(json.dumps([{"index": 0, "keep": True, "section": "world",
+                                      "why": "w", "summary": "s", "relevance": 0.7}]))
+    session = SequenceSession([FakeResponse({}, status=429, text="quota"),
+                               FakeResponse(ok)])
+    sleeps = []
+
+    items, ai_used = ai.rank_and_summarize("profile", [make("A story")], api_key="k",
+                                           session=session, sleep=lambda s: sleeps.append(s))
+
+    assert ai_used is True
+    assert session.calls == 2
+    assert len(sleeps) == 1  # one backoff between the two attempts
+
+
+def test_rank_and_summarize_gives_up_after_max_attempts():
+    session = SequenceSession([FakeResponse({}, status=429, text="quota")
+                               for _ in range(5)])
+    sleeps = []
+
+    original = [make("A story")]
+    items, ai_used = ai.rank_and_summarize("profile", original, api_key="k",
+                                           session=session, sleep=lambda s: sleeps.append(s))
+
+    assert ai_used is False
+    assert items == original
+    assert session.calls == 3           # config.GEMINI_MAX_ATTEMPTS
+    assert len(sleeps) == 2             # backoff between attempts, not after the last
+
+
+def test_rank_and_summarize_does_not_retry_non_retryable():
+    session = SequenceSession([FakeResponse({}, status=400, text="bad request")])
+    sleeps = []
+
+    ai.rank_and_summarize("profile", [make("A story")], api_key="k",
+                          session=session, sleep=lambda s: sleeps.append(s))
+
+    assert session.calls == 1           # 400 is not retried
+    assert sleeps == []
