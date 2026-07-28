@@ -24,12 +24,13 @@ def load_profile(path="profile.md"):
         return ""
 
 
-def gather(token=None):
+def gather(gh_token=None, reddit_client_id=None, reddit_client_secret=None):
     """Fetch every source. Returns (items, sources_ok, sources_failed)."""
     plan = [
         ("hackernews", lambda: hackernews.fetch()),
-        ("github", lambda: github.fetch(token=token)),
-        ("reddit", lambda: reddit.fetch(config.SUBREDDITS)),
+        ("github", lambda: github.fetch(token=gh_token)),
+        ("reddit", lambda: reddit.fetch(config.SUBREDDITS,
+                                        reddit_client_id, reddit_client_secret)),
         ("news", lambda: news.fetch(config.RSS_FEEDS)),
     ]
 
@@ -47,7 +48,11 @@ def run(dry_run=False, output_path="digest.json"):
     profile = load_profile()
     keywords = prefilter.extract_keywords(profile)
 
-    raw_items, sources_ok, sources_failed = gather(os.environ.get("GH_TOKEN"))
+    raw_items, sources_ok, sources_failed = gather(
+        os.environ.get("GH_TOKEN"),
+        os.environ.get("REDDIT_CLIENT_ID"),
+        os.environ.get("REDDIT_CLIENT_SECRET"),
+    )
     log.info("fetched %d raw items (ok=%s failed=%s)", len(raw_items), sources_ok, sources_failed)
 
     candidates = prefilter.prefilter(raw_items, keywords)

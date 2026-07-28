@@ -1,6 +1,6 @@
 import json
 
-from pipeline import main
+from pipeline import config, main
 from pipeline.models import Item
 
 
@@ -20,7 +20,7 @@ def test_load_profile_returns_empty_string_when_missing(tmp_path):
 
 
 def test_run_writes_digest_json(tmp_path, monkeypatch):
-    monkeypatch.setattr(main, "gather", lambda token=None: ([make("A")], ["hackernews"], []))
+    monkeypatch.setattr(main, "gather", lambda *args, **kwargs: ([make("A")], ["hackernews"], []))
     monkeypatch.setattr(main, "load_profile", lambda path="profile.md": "I like AI.")
     monkeypatch.setattr(main.ai, "rank_and_summarize",
                         lambda profile, items, api_key, session=None: (items, True))
@@ -35,7 +35,7 @@ def test_run_writes_digest_json(tmp_path, monkeypatch):
 
 
 def test_run_dry_run_does_not_write(tmp_path, monkeypatch):
-    monkeypatch.setattr(main, "gather", lambda token=None: ([make("A")], [], []))
+    monkeypatch.setattr(main, "gather", lambda *args, **kwargs: ([make("A")], [], []))
     monkeypatch.setattr(main, "load_profile", lambda path="profile.md": "")
     monkeypatch.setattr(main.ai, "rank_and_summarize",
                         lambda profile, items, api_key, session=None: (items, True))
@@ -44,3 +44,20 @@ def test_run_dry_run_does_not_write(tmp_path, monkeypatch):
     main.run(dry_run=True, output_path=str(output))
 
     assert not output.exists()
+
+
+def test_gather_passes_reddit_credentials(monkeypatch):
+    captured = {}
+
+    def fake_reddit_fetch(subreddits, client_id, client_secret):
+        captured["args"] = (subreddits, client_id, client_secret)
+        return []
+
+    monkeypatch.setattr(main.reddit, "fetch", fake_reddit_fetch)
+    monkeypatch.setattr(main.hackernews, "fetch", lambda: [])
+    monkeypatch.setattr(main.github, "fetch", lambda token=None: [])
+    monkeypatch.setattr(main.news, "fetch", lambda feeds: [])
+
+    main.gather("ghtok", "cid", "secret")
+
+    assert captured["args"] == (config.SUBREDDITS, "cid", "secret")
