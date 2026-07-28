@@ -1,94 +1,120 @@
 {
-  "generated_at": "2026-07-27T23:19:16.056987Z",
+  "generated_at": "2026-07-28T23:14:46.741054Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "Jakubantalik/thinking-orbs",
-          "url": "https://github.com/Jakubantalik/thinking-orbs",
+          "title": "mshumer/Claude-of-Duty",
+          "url": "https://github.com/mshumer/Claude-of-Duty",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "This shows the impressive capabilities of modern LLMs in generating complete, complex 3D web applications from a single prompt.",
+          "summary": "Claude-of-Duty is a full 3D first-person shooter browser game created with Three.js using only one prompt given to Claude.",
           "signal": {
             "metric": "stars",
-            "value": 1166
+            "value": 1682
           },
-          "published_at": "2026-07-21T07:01:53Z",
-          "relevance": 0.0
+          "published_at": "2026-07-25T19:32:36Z",
+          "relevance": 0.89
         },
         {
           "title": "makecindy/cindy",
           "url": "https://github.com/makecindy/cindy",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is an easy-to-use, open-source AI agent project you can explore or run locally.",
+          "summary": "Cindy is an open-source AI agent designed to work out of the box for various tasks without complex setup.",
           "signal": {
             "metric": "stars",
-            "value": 834
+            "value": 991
           },
           "published_at": "2026-07-22T17:49:34Z",
-          "relevance": 0.0
+          "relevance": 0.85
         },
         {
           "title": "VictorTaelin/OptMem",
           "url": "https://github.com/VictorTaelin/OptMem",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It offers a simple, lightweight way to add persistent memory to your AI agent projects.",
+          "summary": "OptMem provides a short prompt and script that gives AI agents long-term memory using minimal tokens.",
           "signal": {
             "metric": "stars",
-            "value": 639
+            "value": 795
           },
           "published_at": "2026-07-25T16:58:43Z",
-          "relevance": 0.0
+          "relevance": 0.82
         },
         {
-          "title": "kvcache-ai/AgentENV",
-          "url": "https://github.com/kvcache-ai/AgentENV",
+          "title": "digimata/quill",
+          "url": "https://github.com/digimata/quill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a practical, lightweight open-source tool for voice recording and AI transcription on macOS.",
+          "summary": "Quill is an ultraminimalist macOS application designed for quick audio recording and automated transcription.",
           "signal": {
             "metric": "stars",
-            "value": 560
+            "value": 493
           },
-          "published_at": "2026-07-23T02:48:07Z",
-          "relevance": 0.0
+          "published_at": "2026-07-24T23:31:27Z",
+          "relevance": 0.76
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "OpenAI just open-sourced Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "OpenAI releasing code tools publicly is a major development for AI-assisted software development.",
+          "summary": "OpenAI has open-sourced Codex Security, bringing AI-driven automated security analysis into open source.",
+          "signal": {
+            "metric": "points",
+            "value": 254
+          },
+          "published_at": "2026-07-28T20:52:55Z",
+          "relevance": 0.88
         },
         {
-          "title": "XYZ-AI-Lab/axrl",
-          "url": "https://github.com/XYZ-AI-Lab/axrl",
+          "title": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "As a CS student using TypeScript, seeing experimental compilers convert web code into native binary is super interesting.",
+          "summary": "Scriptc is an open-source compiler project from Vercel Labs that compiles TypeScript directly into native code.",
           "signal": {
             "metric": "stars",
-            "value": 310
+            "value": 2106
           },
-          "published_at": "2026-07-23T06:07:23Z",
-          "relevance": 0.0
-        },
+          "published_at": "2026-07-22T23:04:54Z",
+          "relevance": 0.83
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
         {
-          "title": "0xwilliamortiz/andrej-karpathy-skills",
-          "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+          "title": "MarcosSete/awesome-free-ai-books",
+          "url": "https://github.com/MarcosSete/awesome-free-ai-books",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It provides a goldmine of free, high-quality textbooks to help you learn AI and machine learning concepts.",
+          "summary": "This repository contains a curated list of legally free books covering artificial intelligence and machine learning topics.",
           "signal": {
             "metric": "stars",
-            "value": 305
+            "value": 334
           },
-          "published_at": "2026-07-21T22:34:47Z",
-          "relevance": 0.0
+          "published_at": "2026-07-22T21:43:31Z",
+          "relevance": 0.95
         }
       ]
     },
@@ -97,88 +123,18 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Self-contained highly-portable Python distributions",
-          "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "title": "MoonshotAI/Kimi-K3",
+          "url": "https://github.com/MoonshotAI/Kimi-K3",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Keeping up with major open-weights frontier LLM releases helps you stay current with the AI landscape.",
+          "summary": "Kimi-K3 is a new open-weights frontier intelligence model released by Moonshot AI.",
           "signal": {
-            "metric": "points",
-            "value": 87
+            "metric": "stars",
+            "value": 3350
           },
-          "published_at": "2026-07-27T18:43:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-          "url": "https://usefeyn.com/blog/feynobg/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 79
-          },
-          "published_at": "2026-07-27T16:59:08Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "AI companies spend record sums on Washington lobbying",
-          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 248
-          },
-          "published_at": "2026-07-27T14:07:48Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "MAI-Cyber-1-Flash inside MDASH",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 205
-          },
-          "published_at": "2026-07-27T16:52:22Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Modern email can be built from borrowed parts",
-          "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 169
-          },
-          "published_at": "2026-07-27T08:27:21Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-          "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 121
-          },
-          "published_at": "2026-07-27T15:08:16Z",
-          "relevance": 0.0
+          "published_at": "2026-07-27T08:01:37Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -187,295 +143,253 @@
       "title": "World",
       "items": [
         {
-          "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
+          "title": "7.1 Earthquake in Japan",
+          "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "A major earthquake in Japan is significant global news you should be aware of today.",
+          "summary": "A powerful 7.1 magnitude earthquake has struck Japan, triggering local emergency responses.",
+          "signal": {
+            "metric": "points",
+            "value": 763
+          },
+          "published_at": "2026-07-28T07:44:24Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "New HIV vaccine shows unprecedented success in preclinical study",
+          "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Major breakthroughs in medical science are crucial global news developments.",
+          "summary": "Researchers announced unprecedented positive results in preclinical trials for a new HIV vaccine.",
+          "signal": {
+            "metric": "points",
+            "value": 528
+          },
+          "published_at": "2026-07-28T13:12:01Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "Photos: Spain and France battle record wildfires",
+          "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
           "source": "news",
           "source_label": "NPR News",
-          "why": "",
-          "summary": "",
+          "why": "Severe climate events causing mass evacuations in Europe are among today's biggest world news stories.",
+          "summary": "Record heatwaves and spreading wildfires across France and Spain have displaced hundreds of thousands of residents.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-27T09:00:00Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-          "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-27T16:33:05Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-          "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-27T12:33:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-          "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-27T22:58:49Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Shots fired at US consulate in Toronto for a second time this year",
-          "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-27T16:56:57Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-27T21:29:27Z",
-          "relevance": 0.0
+          "published_at": "2026-07-28T15:24:07Z",
+          "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 95,
-    "kept": 18,
+    "scanned": 99,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.76,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -483,11 +397,10 @@
     "sources_ok": [
       "hackernews",
       "github",
+      "reddit",
       "news"
     ],
-    "sources_failed": [
-      "reddit"
-    ],
-    "ai_used": false
+    "sources_failed": [],
+    "ai_used": true
   }
 }
