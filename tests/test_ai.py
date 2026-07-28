@@ -10,23 +10,30 @@ def make(title):
 
 
 class FakeResponse:
-    def __init__(self, payload, status=200):
+    def __init__(self, payload, status=200, text=""):
         self._payload = payload
         self.status_code = status
+        self.text = text
 
     def json(self):
         return self._payload
 
     def raise_for_status(self):
         if self.status_code >= 400:
-            raise RuntimeError(f"HTTP {self.status_code}")
+            error = RuntimeError(f"HTTP {self.status_code}")
+            error.response = self
+            raise error
 
 
 class FakeSession:
     def __init__(self, response):
         self.response = response
+        self.last_url = None
+        self.last_headers = None
 
-    def post(self, url, json=None, timeout=None):
+    def post(self, url, json=None, headers=None, timeout=None):
+        self.last_url = url
+        self.last_headers = headers
         return self.response
 
 
@@ -91,3 +98,42 @@ def test_rank_and_summarize_falls_back_when_request_fails():
 def test_rank_and_summarize_falls_back_without_api_key():
     items, ai_used = ai.rank_and_summarize("profile", [make("A story")], api_key=None)
     assert ai_used is False
+
+
+def test_rank_and_summarize_sends_key_in_header_not_url():
+    session = FakeSession(FakeResponse(gemini_envelope("[]")))
+    ai.rank_and_summarize("profile", [make("A story")], api_key="secretkey", session=session)
+    assert session.last_headers["x-goog-api-key"] == "secretkey"
+    assert "secretkey" not in session.last_url
+    assert "key=" not in session.last_url
+
+
+def test_rank_and_summarize_requests_structured_output():
+    captured = {}
+
+    class CapturingSession:
+        def post(self, url, json=None, headers=None, timeout=None):
+            captured["body"] = json
+            return FakeResponse(gemini_envelope("[]"))
+
+    ai.rank_and_summarize("profile", [make("A story")], api_key="k", session=CapturingSession())
+    gen = captured["body"]["generationConfig"]
+    assert gen["responseMimeType"] == "application/json"
+    assert gen["responseSchema"]["type"] == "ARRAY"
+
+
+def test_parse_text_skips_thinking_parts():
+    payload = {"candidates": [{"content": {"parts": [
+        {"text": "internal reasoning", "thought": True},
+        {"text": "[{\"index\": 0, \"keep\": true}]"},
+    ]}}]}
+    assert ai._parse_text(payload) == "[{\"index\": 0, \"keep\": true}]"
+
+
+def test_rank_and_summarize_logs_error_body_on_failure(caplog):
+    body = '{"error":{"code":429,"message":"quota"}}'
+    session = FakeSession(FakeResponse({}, status=429, text=body))
+    items, ai_used = ai.rank_and_summarize("profile", [make("A story")],
+                                           api_key="k", session=session)
+    assert ai_used is False
+    assert "quota" in caplog.text  # the real error body reached the log

@@ -50,8 +50,14 @@ def build_prompt(profile, items):
 
 
 def _parse_text(payload):
-    """Pull the model's text out of the Gemini response envelope."""
-    return payload["candidates"][0]["content"]["parts"][0]["text"]
+    """Concatenate the answer text, skipping any 'thinking' parts.
+
+    gemini-3.6-flash is a thinking model: a response may include a reasoning
+    part (marked thought=True) before the answer part. We want only the answer.
+    """
+    parts = payload["candidates"][0]["content"]["parts"]
+    texts = [p["text"] for p in parts if "text" in p and not p.get("thought")]
+    return "".join(texts)
 
 
 def apply_verdicts(items, verdicts):
@@ -77,6 +83,18 @@ def apply_verdicts(items, verdicts):
     return kept
 
 
+def _log_ai_failure(exc, api_key):
+    """Log the failure with the real error body, never the API key."""
+    detail = str(exc)
+    response = getattr(exc, "response", None)
+    if response is not None:
+        body = getattr(response, "text", "")
+        if body:
+            detail += " | body: " + body
+    log.warning("AI stage failed, falling back to raw items: %s",
+                detail.replace(api_key, "<redacted>"))
+
+
 def rank_and_summarize(profile, items, api_key, session=None):
     """Return (items, ai_used). On any failure, returns the input untouched."""
     if not api_key or not items:
@@ -84,20 +102,22 @@ def rank_and_summarize(profile, items, api_key, session=None):
         return items, False
 
     http = session or requests
-    url = config.GEMINI_URL.format(model=config.GEMINI_MODEL) + f"?key={api_key}"
+    url = config.GEMINI_URL.format(model=config.GEMINI_MODEL)
+    headers = {"x-goog-api-key": api_key, "Content-Type": "application/json"}
     body = {
         "contents": [{"parts": [{"text": build_prompt(profile, items)}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": config.GEMINI_RESPONSE_SCHEMA,
+            "temperature": 0.2,
+        },
     }
 
     try:
-        response = http.post(url, json=body, timeout=90)
+        response = http.post(url, json=body, headers=headers, timeout=90)
         response.raise_for_status()
         verdicts = json.loads(_parse_text(response.json()))
         return apply_verdicts(items, verdicts), True
     except Exception as exc:  # broad: the digest must survive any AI failure
-        # Some request errors embed the full URL (with ?key=...) in their
-        # message, so scrub the key before it ever reaches a log line.
-        safe_message = str(exc).replace(api_key, "<redacted>")
-        log.warning("AI stage failed, falling back to raw items: %s", safe_message)
+        _log_ai_failure(exc, api_key)
         return items, False

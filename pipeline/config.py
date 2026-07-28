@@ -35,5 +35,22 @@ RSS_FEEDS = [
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
 ]
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-3.6-flash"
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+
+# Structured-output schema so Gemini returns consistent, parseable JSON.
+GEMINI_RESPONSE_SCHEMA = {
+    "type": "ARRAY",
+    "items": {
+        "type": "OBJECT",
+        "properties": {
+            "index": {"type": "INTEGER"},
+            "keep": {"type": "BOOLEAN"},
+            "section": {"type": "STRING"},
+            "why": {"type": "STRING"},
+            "summary": {"type": "STRING"},
+            "relevance": {"type": "NUMBER"},
+        },
+        "required": ["index", "keep"],
+    },
+}
