@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:14:46.741054Z",
+  "generated_at": "2026-07-29T23:13:15.841785Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,60 +7,46 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "mshumer/Claude-of-Duty",
-          "url": "https://github.com/mshumer/Claude-of-Duty",
+          "title": "mikehasa/agentacct",
+          "url": "https://github.com/mikehasa/agentacct",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This shows the impressive capabilities of modern LLMs in generating complete, complex 3D web applications from a single prompt.",
-          "summary": "Claude-of-Duty is a full 3D first-person shooter browser game created with Three.js using only one prompt given to Claude.",
+          "why": "It provides a local dashboard to track what your AI coding tools are doing and how much API money they spend.",
+          "summary": "AgentAcct monitors coding agents like Claude Code and Codex, breaking down their work steps, file edits, test runs, and token costs.",
           "signal": {
             "metric": "stars",
-            "value": 1682
+            "value": 526
           },
-          "published_at": "2026-07-25T19:32:36Z",
-          "relevance": 0.89
+          "published_at": "2026-07-24T16:28:06Z",
+          "relevance": 0.92
         },
         {
-          "title": "makecindy/cindy",
-          "url": "https://github.com/makecindy/cindy",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an easy-to-use, open-source AI agent project you can explore or run locally.",
-          "summary": "Cindy is an open-source AI agent designed to work out of the box for various tasks without complex setup.",
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It lets you run a massive 26-billion parameter AI model locally on your Mac using only 2 GB of RAM.",
+          "summary": "TurboFieldfare is an open-source inference engine built in Swift and Metal designed to run large Gemma language models efficiently on Apple Silicon.",
           "signal": {
-            "metric": "stars",
-            "value": 991
+            "metric": "points",
+            "value": 599
           },
-          "published_at": "2026-07-22T17:49:34Z",
-          "relevance": 0.85
+          "published_at": "2026-07-29T15:05:43Z",
+          "relevance": 0.88
         },
         {
           "title": "VictorTaelin/OptMem",
           "url": "https://github.com/VictorTaelin/OptMem",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a simple, lightweight way to add persistent memory to your AI agent projects.",
-          "summary": "OptMem provides a short prompt and script that gives AI agents long-term memory using minimal tokens.",
+          "why": "It offers a simple, lightweight way to add persistent memory to your AI agents without complex setup.",
+          "summary": "OptMem is a minimal, plug-and-play script and prompt that gives AI agents permanent memory across chat sessions.",
           "signal": {
             "metric": "stars",
-            "value": 795
+            "value": 869
           },
           "published_at": "2026-07-25T16:58:43Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "digimata/quill",
-          "url": "https://github.com/digimata/quill",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical, lightweight open-source tool for voice recording and AI transcription on macOS.",
-          "summary": "Quill is an ultraminimalist macOS application designed for quick audio recording and automated transcription.",
-          "signal": {
-            "metric": "stars",
-            "value": 493
-          },
-          "published_at": "2026-07-24T23:31:27Z",
-          "relevance": 0.76
+          "relevance": 0.85
         }
       ]
     },
@@ -69,32 +55,18 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "OpenAI just open-sourced Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "OpenAI releasing code tools publicly is a major development for AI-assisted software development.",
-          "summary": "OpenAI has open-sourced Codex Security, bringing AI-driven automated security analysis into open source.",
-          "signal": {
-            "metric": "points",
-            "value": 254
-          },
-          "published_at": "2026-07-28T20:52:55Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "vercel-labs/scriptc",
-          "url": "https://github.com/vercel-labs/scriptc",
+          "title": "mshumer/Claude-of-Duty",
+          "url": "https://github.com/mshumer/Claude-of-Duty",
           "source": "github",
           "source_label": "GitHub",
-          "why": "As a CS student using TypeScript, seeing experimental compilers convert web code into native binary is super interesting.",
-          "summary": "Scriptc is an open-source compiler project from Vercel Labs that compiles TypeScript directly into native code.",
+          "why": "It is an impressive demonstration of using a single AI prompt to build a complete 3D video game.",
+          "summary": "Claude-of-Duty is a browser-based first-person shooter game built with Three.js generated entirely from one Claude prompt.",
           "signal": {
             "metric": "stars",
-            "value": 2106
+            "value": 2242
           },
-          "published_at": "2026-07-22T23:04:54Z",
-          "relevance": 0.83
+          "published_at": "2026-07-25T19:32:36Z",
+          "relevance": 0.9
         }
       ]
     },
@@ -103,17 +75,17 @@
       "title": "Learn & Career",
       "items": [
         {
-          "title": "MarcosSete/awesome-free-ai-books",
-          "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+          "title": "NikolayS/PGSimCity",
+          "url": "https://github.com/NikolayS/PGSimCity",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides a goldmine of free, high-quality textbooks to help you learn AI and machine learning concepts.",
-          "summary": "This repository contains a curated list of legally free books covering artificial intelligence and machine learning topics.",
+          "why": "It gives you an intuitive, 3D visual way to learn how relational databases like PostgreSQL work under the hood.",
+          "summary": "PGSimCity is an interactive open-source project that visualizes the internal mechanics of a PostgreSQL database as a 3D city.",
           "signal": {
             "metric": "stars",
-            "value": 334
+            "value": 392
           },
-          "published_at": "2026-07-22T21:43:31Z",
+          "published_at": "2026-07-25T22:15:09Z",
           "relevance": 0.95
         }
       ]
@@ -123,17 +95,31 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "MoonshotAI/Kimi-K3",
-          "url": "https://github.com/MoonshotAI/Kimi-K3",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "Keeping up with major open-weights frontier LLM releases helps you stay current with the AI landscape.",
-          "summary": "Kimi-K3 is a new open-weights frontier intelligence model released by Moonshot AI.",
+          "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It shows how AI features in everyday office tools can present new cybersecurity vulnerabilities.",
+          "summary": "Security researchers demonstrated that malicious AI prompts hidden inside documents can automatically spread through Microsoft Copilot for Word like a computer worm.",
           "signal": {
-            "metric": "stars",
-            "value": 3350
+            "metric": "points",
+            "value": 322
           },
-          "published_at": "2026-07-27T08:01:37Z",
+          "published_at": "2026-07-29T11:44:33Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+          "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It highlights growing government oversight and safety concerns around autonomous AI agents hacking software.",
+          "summary": "OpenAI CEO Sam Altman met with US lawmakers following disclosures that AI agents were used in corporate hacking incidents, prompting discussions about government AI regulation.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-07-29T22:27:35Z",
           "relevance": 0.8
         }
       ]
@@ -143,52 +129,66 @@
       "title": "World",
       "items": [
         {
-          "title": "7.1 Earthquake in Japan",
-          "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "A major earthquake in Japan is significant global news you should be aware of today.",
-          "summary": "A powerful 7.1 magnitude earthquake has struck Japan, triggering local emergency responses.",
-          "signal": {
-            "metric": "points",
-            "value": 763
-          },
-          "published_at": "2026-07-28T07:44:24Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "New HIV vaccine shows unprecedented success in preclinical study",
-          "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Major breakthroughs in medical science are crucial global news developments.",
-          "summary": "Researchers announced unprecedented positive results in preclinical trials for a new HIV vaccine.",
-          "signal": {
-            "metric": "points",
-            "value": 528
-          },
-          "published_at": "2026-07-28T13:12:01Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "Photos: Spain and France battle record wildfires",
-          "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
+          "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+          "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
           "source": "news",
           "source_label": "NPR News",
-          "why": "Severe climate events causing mass evacuations in Europe are among today's biggest world news stories.",
-          "summary": "Record heatwaves and spreading wildfires across France and Spain have displaced hundreds of thousands of residents.",
+          "why": "It provides key context on major international conflict escalations involving the US and Middle East.",
+          "summary": "Coordinated US and Saudi airstrikes targeted Iran-backed militia bases in Iraq following renewed missile attacks by Iran, raising fears of a broader conflict.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-28T15:24:07Z",
+          "published_at": "2026-07-29T09:07:03Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+          "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It shows the public pushback and ethical debates happening as schools try to introduce AI into classrooms.",
+          "summary": "A New York school district paused its plan to introduce a humanoid AI robot teacher after facing pushback from state officials, teachers, and parents.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-07-29T09:24:52Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+          "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It reports on a key US economic decision affecting interest rates and inflation.",
+          "summary": "The Federal Reserve decided to keep benchmark interest rates unchanged as policymakers continue working to bring down persistent inflation.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-07-29T09:00:00Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "Oregon is on track for its worst wildfire season yet",
+          "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It covers a major natural disaster in Oregon that has burned over a million acres.",
+          "summary": "Severe wildfires across Oregon are forcing mass evacuations and burning vast public lands in what is on track to be the state's worst wildfire season.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-07-29T20:28:44Z",
           "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 99,
+    "scanned": 93,
     "kept": 11,
     "levels": [
       {
@@ -196,16 +196,12 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
         "v": 0.25,
         "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -248,24 +244,12 @@
         "kept": false
       },
       {
-        "v": 0.95,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
         "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.92,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -278,6 +262,10 @@
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -340,27 +328,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
-        "kept": true
-      },
-      {
-        "v": 0.89,
+        "v": 0.8,
         "kept": true
       },
       {
@@ -368,20 +336,52 @@
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
         "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.76,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.95,
+        "kept": true
       },
       {
         "v": 0.0,
