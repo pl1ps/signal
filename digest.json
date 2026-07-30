@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:13:15.841785Z",
+  "generated_at": "2026-07-30T23:18:28.710253Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,27 +11,13 @@
           "url": "https://github.com/mikehasa/agentacct",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides a local dashboard to track what your AI coding tools are doing and how much API money they spend.",
-          "summary": "AgentAcct monitors coding agents like Claude Code and Codex, breaking down their work steps, file edits, test runs, and token costs.",
+          "why": "This tool helps you monitor actions, token usage, and costs when experimenting with AI coding assistants.",
+          "summary": "AgentAcct is an open-source dashboard that tracks what your AI coding tools do step-by-step, including token costs and files changed.",
           "signal": {
             "metric": "stars",
-            "value": 526
+            "value": 538
           },
           "published_at": "2026-07-24T16:28:06Z",
-          "relevance": 0.92
-        },
-        {
-          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It lets you run a massive 26-billion parameter AI model locally on your Mac using only 2 GB of RAM.",
-          "summary": "TurboFieldfare is an open-source inference engine built in Swift and Metal designed to run large Gemma language models efficiently on Apple Silicon.",
-          "signal": {
-            "metric": "points",
-            "value": 599
-          },
-          "published_at": "2026-07-29T15:05:43Z",
           "relevance": 0.88
         },
         {
@@ -39,14 +25,28 @@
           "url": "https://github.com/VictorTaelin/OptMem",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a simple, lightweight way to add persistent memory to your AI agents without complex setup.",
-          "summary": "OptMem is a minimal, plug-and-play script and prompt that gives AI agents permanent memory across chat sessions.",
+          "why": "It provides a quick, lightweight way for you to add memory functionality to your AI agent projects.",
+          "summary": "OptMem is a minimal script and prompt setup that gives AI agents long-term memory capabilities.",
           "signal": {
             "metric": "stars",
-            "value": 869
+            "value": 930
           },
           "published_at": "2026-07-25T16:58:43Z",
           "relevance": 0.85
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers an accessible look at how advanced AI models are expanding into physical robotics.",
+          "summary": "Google introduced Gemini Robotics 2, an AI model designed to give physical robots whole-body movement and reasoning.",
+          "signal": {
+            "metric": "points",
+            "value": 434
+          },
+          "published_at": "2026-07-30T15:15:48Z",
+          "relevance": 0.81
         }
       ]
     },
@@ -59,14 +59,14 @@
           "url": "https://github.com/mshumer/Claude-of-Duty",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an impressive demonstration of using a single AI prompt to build a complete 3D video game.",
-          "summary": "Claude-of-Duty is a browser-based first-person shooter game built with Three.js generated entirely from one Claude prompt.",
+          "why": "It demonstrates what modern AI prompts can accomplish in web graphics development.",
+          "summary": "Claude-of-Duty is a 3D browser game built with Three.js generated entirely from a single AI prompt.",
           "signal": {
             "metric": "stars",
-            "value": 2242
+            "value": 2397
           },
           "published_at": "2026-07-25T19:32:36Z",
-          "relevance": 0.9
+          "relevance": 0.84
         }
       ]
     },
@@ -79,14 +79,14 @@
           "url": "https://github.com/NikolayS/PGSimCity",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you an intuitive, 3D visual way to learn how relational databases like PostgreSQL work under the hood.",
-          "summary": "PGSimCity is an interactive open-source project that visualizes the internal mechanics of a PostgreSQL database as a 3D city.",
+          "why": "This interactive tool is a great visual resource for learning relational database concepts as a computer science student.",
+          "summary": "PGSimCity is an interactive 3D city game that visually explains how PostgreSQL database internals work.",
           "signal": {
             "metric": "stars",
-            "value": 392
+            "value": 437
           },
           "published_at": "2026-07-25T22:15:09Z",
-          "relevance": 0.95
+          "relevance": 0.92
         }
       ]
     },
@@ -95,32 +95,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+          "title": "Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It shows how AI features in everyday office tools can present new cybersecurity vulnerabilities.",
-          "summary": "Security researchers demonstrated that malicious AI prompts hidden inside documents can automatically spread through Microsoft Copilot for Word like a computer worm.",
+          "why": "Stacked pull requests are an essential software engineering workflow now supported directly on GitHub.",
+          "summary": "GitHub introduced native support for stacked pull requests, enabling developers to split large features into smaller dependent reviews.",
           "signal": {
             "metric": "points",
-            "value": 322
+            "value": 394
           },
-          "published_at": "2026-07-29T11:44:33Z",
+          "published_at": "2026-07-30T16:26:16Z",
+          "relevance": 0.87
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT‑5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Keeping track of key AI model releases helps you stay updated on modern developer tools and capabilities.",
+          "summary": "OpenAI announced GPT-5.6, focusing on improved performance, lower latency, and reduced operational costs.",
+          "signal": {
+            "metric": "points",
+            "value": 455
+          },
+          "published_at": "2026-07-30T17:15:51Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "2x, not 10x: coding with LLMs in 2026",
+          "url": "https://obryant.dev/p/2x-not-10x/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It gives you a realistic perspective on how AI tools actually help software developers in daily work.",
+          "summary": "This article discusses practical experiences with LLM coding assistants, arguing they provide realistic double productivity gains rather than extreme hype.",
+          "signal": {
+            "metric": "points",
+            "value": 178
+          },
+          "published_at": "2026-07-25T14:27:05Z",
           "relevance": 0.82
         },
         {
-          "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
-          "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It highlights growing government oversight and safety concerns around autonomous AI agents hacking software.",
-          "summary": "OpenAI CEO Sam Altman met with US lawmakers following disclosures that AI agents were used in corporate hacking incidents, prompting discussions about government AI regulation.",
+          "title": "GCC steering committee announces AI policy",
+          "url": "https://lwn.net/Articles/1086041/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Understanding how major open-source projects handle AI-assisted code is important as you learn modern software development.",
+          "summary": "The GNU Compiler Collection leadership announced an official policy governing AI-generated code contributions.",
           "signal": {
-            "metric": "",
-            "value": 0
+            "metric": "points",
+            "value": 224
           },
-          "published_at": "2026-07-29T22:27:35Z",
-          "relevance": 0.8
+          "published_at": "2026-07-30T11:45:44Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -129,76 +157,54 @@
       "title": "World",
       "items": [
         {
-          "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-          "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+          "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It provides key context on major international conflict escalations involving the US and Middle East.",
-          "summary": "Coordinated US and Saudi airstrikes targeted Iran-backed militia bases in Iraq following renewed missile attacks by Iran, raising fears of a broader conflict.",
+          "source_label": "BBC World",
+          "why": "This is a significant global news event involving a missile landing inside a NATO member country.",
+          "summary": "Polish officials reported that a missile likely originating from Russia struck a village inside Poland near the Ukrainian border.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-29T09:07:03Z",
+          "published_at": "2026-07-30T15:35:50Z",
           "relevance": 0.85
         },
         {
-          "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-          "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+          "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It shows the public pushback and ethical debates happening as schools try to introduce AI into classrooms.",
-          "summary": "A New York school district paused its plan to introduce a humanoid AI robot teacher after facing pushback from state officials, teachers, and parents.",
+          "source_label": "BBC World",
+          "why": "This major news item highlights how climate extremes are directly affecting critical European energy infrastructure.",
+          "summary": "Record low water levels in the Danube River forced Hungary to temporarily shut down its primary nuclear power plant.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-29T09:24:52Z",
+          "published_at": "2026-07-30T17:55:24Z",
           "relevance": 0.8
         },
         {
-          "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
-          "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+          "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
+          "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
           "source": "news",
           "source_label": "NPR News",
-          "why": "It reports on a key US economic decision affecting interest rates and inflation.",
-          "summary": "The Federal Reserve decided to keep benchmark interest rates unchanged as policymakers continue working to bring down persistent inflation.",
+          "why": "This is a major world news development involving a boycott by European teams in international sports.",
+          "summary": "European football associations announced they will boycott the World Cup following a controversial FIFA financial decision.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-29T09:00:00Z",
+          "published_at": "2026-07-30T17:38:38Z",
           "relevance": 0.78
-        },
-        {
-          "title": "Oregon is on track for its worst wildfire season yet",
-          "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It covers a major natural disaster in Oregon that has burned over a million acres.",
-          "summary": "Severe wildfires across Oregon are forcing mass evacuations and burning vast public lands in what is on track to be the state's worst wildfire season.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-29T20:28:44Z",
-          "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 93,
-    "kept": 11,
+    "scanned": 100,
+    "kept": 12,
     "levels": [
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
       {
         "v": 0.85,
         "kept": true
@@ -220,15 +226,11 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
@@ -246,42 +248,6 @@
       {
         "v": 0.88,
         "kept": true
-      },
-      {
-        "v": 0.92,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.143,
@@ -316,6 +282,14 @@
         "kept": true
       },
       {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -326,14 +300,34 @@
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.78,
@@ -348,11 +342,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.84,
         "kept": true
       },
       {
@@ -380,8 +370,32 @@
         "kept": false
       },
       {
-        "v": 0.95,
+        "v": 0.86,
         "kept": true
+      },
+      {
+        "v": 0.92,
+        "kept": true
+      },
+      {
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
