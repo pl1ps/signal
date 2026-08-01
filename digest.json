@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:15:46.436163Z",
+  "generated_at": "2026-08-01T23:09:50.611758Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,18 +7,60 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "xikhar/persona",
-          "url": "https://github.com/xikhar/persona",
+          "title": "MoonshotAI/Kimi-K3",
+          "url": "https://github.com/MoonshotAI/Kimi-K3",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A useful open-source project to check out if you want to build interactive voice-driven AI agents.",
-          "summary": "An open-source project for integrating real-time voice capabilities into AI applications.",
+          "why": "Keeping track of major open-source model releases helps you stay informed on state-of-the-art AI technology.",
+          "summary": "A massive open-source frontier language model released by Moonshot AI to rival top proprietary AI models.",
           "signal": {
             "metric": "stars",
-            "value": 715
+            "value": 7820
           },
-          "published_at": "2026-07-28T11:40:19Z",
-          "relevance": 0.81
+          "published_at": "2026-07-27T08:01:37Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "gavamedia/deltafin",
+          "url": "https://github.com/gavamedia/deltafin",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It lets you experiment with running high-performance AI models locally on your own machine.",
+          "summary": "A local server tool designed to run the Kimi K3 AI model on a single device while serving a standard OpenAI-compatible API.",
+          "signal": {
+            "metric": "stars",
+            "value": 589
+          },
+          "published_at": "2026-07-28T01:01:23Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "QwenAudio/qwen-audio-agent",
+          "url": "https://github.com/QwenAudio/qwen-audio-agent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "If you want to build voice-enabled AI agents, this project provides a real-time voice runtime.",
+          "summary": "An open-source library that gives AI agents real-time voice capabilities so they can talk while performing tasks.",
+          "signal": {
+            "metric": "stars",
+            "value": 1215
+          },
+          "published_at": "2026-07-27T05:04:26Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "PipeNetwork/kimi-k3-mlx",
+          "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "If you use a Mac, this tool helps you run large open-source LLMs efficiently on your local hardware.",
+          "summary": "An optimized port of the Kimi-K3 model built specifically for Apple Silicon Mac computers using Apple's MLX framework.",
+          "signal": {
+            "metric": "stars",
+            "value": 314
+          },
+          "published_at": "2026-07-27T23:51:45Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -27,108 +69,60 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "mshumer/Claude-of-Duty",
-          "url": "https://github.com/mshumer/Claude-of-Duty",
+          "title": "achimala/TheLongSilence",
+          "url": "https://github.com/achimala/TheLongSilence",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A impressive demonstration of how LLMs can generate complete 3D web games from simple prompts.",
-          "summary": "A Call of Duty-style first-person shooter game built entirely in Three.js generated from a single AI prompt.",
+          "why": "It demonstrates how far AI coding capabilities have come in generating full, functional software projects.",
+          "summary": "An open-source space exploration video game created completely by the Claude Opus 5 AI model.",
           "signal": {
             "metric": "stars",
-            "value": 2514
+            "value": 401
           },
-          "published_at": "2026-07-25T19:32:36Z",
-          "relevance": 0.88
+          "published_at": "2026-07-27T08:43:36Z",
+          "relevance": 0.81
+        },
+        {
+          "title": "sqliteai/waste",
+          "url": "https://github.com/sqliteai/waste",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This project shows how clever low-level C code can overcome hardware limitations to run huge AI models.",
+          "summary": "A dependency-free C engine that streams massive AI model weights directly from fast SSD storage instead of requiring massive amounts of RAM.",
+          "signal": {
+            "metric": "stars",
+            "value": 665
+          },
+          "published_at": "2026-07-28T20:56:00Z",
+          "relevance": 0.78
         },
         {
           "title": "wassgha/rescript",
           "url": "https://github.com/wassgha/rescript",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A neat open-source web app showing how speech-to-text can power innovative media editing UI.",
-          "summary": "An open-source browser tool that lets you edit video and audio directly by editing the generated transcript.",
+          "why": "This project is a great reference for building interactive web tools that combine audio processing with browser UI.",
+          "summary": "An open-source browser application that enables video and audio editing directly by manipulating AI-generated text transcripts.",
           "signal": {
             "metric": "stars",
-            "value": 469
+            "value": 503
           },
           "published_at": "2026-07-26T22:43:11Z",
-          "relevance": 0.82
+          "relevance": 0.76
         },
         {
-          "title": "achimala/TheLongSilence",
-          "url": "https://github.com/achimala/TheLongSilence",
+          "title": "Kenton-GMI/sakura-crossing",
+          "url": "https://github.com/Kenton-GMI/sakura-crossing",
           "source": "github",
           "source_label": "GitHub",
-          "why": "Another great example of AI-assisted game development that you can study to see what modern LLMs can code.",
-          "summary": "A full space exploration game generated completely by Anthropic's Claude Opus 5 model.",
+          "why": "It is a creative example of what you can build on the web using modern JavaScript 3D graphics libraries.",
+          "summary": "An interactive 3D anime-style train crossing scene generated entirely in the browser using Three.js graphics code without external images.",
           "signal": {
             "metric": "stars",
-            "value": 372
+            "value": 257
           },
-          "published_at": "2026-07-27T08:43:36Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "PipeNetwork/kimi-k3-mlx",
-          "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "If you want to run new open models on Apple Silicon (Mac), this project shows how to run Kimi-K3 locally with MLX.",
-          "summary": "MLX port of Kimi-K3 for Apple Silicon, allowing local execution, expert pruning, and analysis on Mac hardware.",
-          "signal": {
-            "metric": "stars",
-            "value": 304
-          },
-          "published_at": "2026-07-27T23:51:45Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Solving poker in custom WebGPU kernels",
-          "url": "https://phulin.me/blog/poker/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a cool example of GPU programming in the browser using WebGPU, which is very relevant if you're curious about low-level graphics and performance.",
-          "summary": "A poker solver built directly on custom WebGPU kernels to run cheaply and fast inside client browsers.",
-          "signal": {
-            "metric": "points",
-            "value": 64
-          },
-          "published_at": "2026-07-30T15:38:54Z",
-          "relevance": 0.72
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "NikolayS/PGSimCity",
-          "url": "https://github.com/NikolayS/PGSimCity",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "A fun and intuitive educational project to help you visualize core database concepts as a CS student.",
-          "summary": "An interactive 3D city that visually represents how the PostgreSQL database engine functions under the hood.",
-          "signal": {
-            "metric": "stars",
-            "value": 457
-          },
-          "published_at": "2026-07-25T22:15:09Z",
-          "relevance": 0.92
-        },
-        {
-          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "A great career resource if you want to learn about engineering roles that bridge software development and customer solutions.",
-          "summary": "A guide covering the roles, responsibilities, and skill sets needed for Forward Deployed Engineers at tech startups.",
-          "signal": {
-            "metric": "stars",
-            "value": 541
-          },
-          "published_at": "2026-07-30T05:39:38Z",
-          "relevance": 0.85
+          "published_at": "2026-07-29T22:06:17Z",
+          "relevance": 0.74
         }
       ]
     },
@@ -137,46 +131,18 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-          "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It highlights an important real-world debate on AI ethics and the risks of synthetic media.",
-          "summary": "Google paused its AI satellite imagery feature after concerns were raised about the potential for boundless disinformation and deepfakes.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-07-31T17:48:26Z",
-          "relevance": 0.88
-        },
-        {
           "title": "Is AI reasoning right for the wrong reasons?",
           "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a CS student, understanding the limits and reliability of LLM reasoning logic will help you build better AI applications.",
-          "summary": "An exploration of whether AI reasoning models actually follow sound logic or just arrive at correct answers by coincidence.",
+          "why": "Understanding how AI models actually reason helps you recognize their hidden limitations when coding with AI.",
+          "summary": "A tech debate examining whether modern AI reasoning models arrive at correct answers through genuine logic or flawed shortcuts.",
           "signal": {
             "metric": "points",
-            "value": 102
+            "value": 197
           },
           "published_at": "2026-07-31T15:29:39Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "Everyone is building LLM routers, we deprecated ours",
-          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This offers great practical system architecture insights into the trade-offs of building LLM-powered applications.",
-          "summary": "A real-world engineering post discussing why one team abandoned LLM routers in favor of simpler architecture.",
-          "signal": {
-            "metric": "points",
-            "value": 76
-          },
-          "published_at": "2026-07-31T18:06:39Z",
-          "relevance": 0.75
+          "relevance": 0.77
         }
       ]
     },
@@ -185,29 +151,61 @@
       "title": "World",
       "items": [
         {
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+          "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is major world news regarding international migration and European border policy.",
-          "summary": "Thousands of migrants arrived in Spain's North African enclave of Ceuta from Morocco, leading to troop deployments and diplomatic strain.",
+          "why": "This covers key ongoing developments in international geopolitics and global conflict.",
+          "summary": "Russian missile strikes targeted Ukraine's capital city while Ukrainian forces sank a Russian military transport ship.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-07-31T17:03:47Z",
+          "published_at": "2026-08-01T13:35:39Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is a major world news story impacting European migration policies and international relations.",
+          "summary": "European Union officials called an emergency meeting after tens of thousands of migrants crossed into Spain's North African enclave of Ceuta.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-01T20:09:27Z",
           "relevance": 0.85
+        },
+        {
+          "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+          "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is an important update on a major global public health emergency.",
+          "summary": "The World Health Organization reported that the ongoing Ebola outbreak in the Democratic Republic of Congo has become the deadliest in the country's history.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-01T16:16:16Z",
+          "relevance": 0.82
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 96,
+    "scanned": 97,
     "kept": 12,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -218,24 +216,12 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.88,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -262,6 +248,10 @@
         "kept": true
       },
       {
+        "v": 0.74,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -270,16 +260,16 @@
         "kept": false
       },
       {
-        "v": 0.78,
+        "v": 0.77,
         "kept": true
       },
       {
-        "v": 0.75,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.72,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.85,
@@ -294,11 +284,15 @@
         "kept": false
       },
       {
+        "v": 0.82,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.88,
+        "v": 0.86,
         "kept": true
       },
       {
@@ -326,55 +320,55 @@
         "kept": false
       },
       {
-        "v": 0.88,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.76,
         "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
       },
       {
         "v": 0.81,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.92,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.82,
         "kept": true
       },
       {
