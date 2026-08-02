@@ -1,128 +1,94 @@
 {
-  "generated_at": "2026-08-01T23:09:50.611758Z",
+  "generated_at": "2026-08-02T23:11:47.265462Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "ai-tools",
-      "title": "AI & Tools",
+      "id": "code-projects",
+      "title": "Code & Projects",
       "items": [
         {
-          "title": "MoonshotAI/Kimi-K3",
-          "url": "https://github.com/MoonshotAI/Kimi-K3",
+          "title": "trycompai/crm",
+          "url": "https://github.com/trycompai/crm",
           "source": "github",
           "source_label": "GitHub",
-          "why": "Keeping track of major open-source model releases helps you stay informed on state-of-the-art AI technology.",
-          "summary": "A massive open-source frontier language model released by Moonshot AI to rival top proprietary AI models.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 7820
+            "value": 1772
           },
-          "published_at": "2026-07-27T08:01:37Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "gavamedia/deltafin",
-          "url": "https://github.com/gavamedia/deltafin",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It lets you experiment with running high-performance AI models locally on your own machine.",
-          "summary": "A local server tool designed to run the Kimi K3 AI model on a single device while serving a standard OpenAI-compatible API.",
-          "signal": {
-            "metric": "stars",
-            "value": 589
-          },
-          "published_at": "2026-07-28T01:01:23Z",
-          "relevance": 0.84
+          "published_at": "2026-07-31T21:38:51Z",
+          "relevance": 0.0
         },
         {
           "title": "QwenAudio/qwen-audio-agent",
           "url": "https://github.com/QwenAudio/qwen-audio-agent",
           "source": "github",
           "source_label": "GitHub",
-          "why": "If you want to build voice-enabled AI agents, this project provides a real-time voice runtime.",
-          "summary": "An open-source library that gives AI agents real-time voice capabilities so they can talk while performing tasks.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1215
+            "value": 1727
           },
           "published_at": "2026-07-27T05:04:26Z",
-          "relevance": 0.82
+          "relevance": 0.0
         },
         {
-          "title": "PipeNetwork/kimi-k3-mlx",
-          "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+          "title": "gavamedia/deltafin",
+          "url": "https://github.com/gavamedia/deltafin",
           "source": "github",
           "source_label": "GitHub",
-          "why": "If you use a Mac, this tool helps you run large open-source LLMs efficiently on your local hardware.",
-          "summary": "An optimized port of the Kimi-K3 model built specifically for Apple Silicon Mac computers using Apple's MLX framework.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 314
+            "value": 618
           },
-          "published_at": "2026-07-27T23:51:45Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "achimala/TheLongSilence",
-          "url": "https://github.com/achimala/TheLongSilence",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It demonstrates how far AI coding capabilities have come in generating full, functional software projects.",
-          "summary": "An open-source space exploration video game created completely by the Claude Opus 5 AI model.",
-          "signal": {
-            "metric": "stars",
-            "value": 401
-          },
-          "published_at": "2026-07-27T08:43:36Z",
-          "relevance": 0.81
+          "published_at": "2026-07-28T01:01:23Z",
+          "relevance": 0.0
         },
         {
-          "title": "sqliteai/waste",
-          "url": "https://github.com/sqliteai/waste",
+          "title": "0xwilliamortiz/ponytail-improved",
+          "url": "https://github.com/0xwilliamortiz/ponytail-improved",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This project shows how clever low-level C code can overcome hardware limitations to run huge AI models.",
-          "summary": "A dependency-free C engine that streams massive AI model weights directly from fast SSD storage instead of requiring massive amounts of RAM.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 665
+            "value": 580
           },
-          "published_at": "2026-07-28T20:56:00Z",
-          "relevance": 0.78
+          "published_at": "2026-07-28T14:16:19Z",
+          "relevance": 0.0
         },
         {
-          "title": "wassgha/rescript",
-          "url": "https://github.com/wassgha/rescript",
+          "title": "MoonshotAI/Kimi-K3",
+          "url": "https://github.com/MoonshotAI/Kimi-K3",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This project is a great reference for building interactive web tools that combine audio processing with browser UI.",
-          "summary": "An open-source browser application that enables video and audio editing directly by manipulating AI-generated text transcripts.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 503
+            "value": 7896
           },
-          "published_at": "2026-07-26T22:43:11Z",
-          "relevance": 0.76
+          "published_at": "2026-07-27T08:01:37Z",
+          "relevance": 0.0
         },
         {
-          "title": "Kenton-GMI/sakura-crossing",
-          "url": "https://github.com/Kenton-GMI/sakura-crossing",
+          "title": "yc-software/qm",
+          "url": "https://github.com/yc-software/qm",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a creative example of what you can build on the web using modern JavaScript 3D graphics libraries.",
-          "summary": "An interactive 3D anime-style train crossing scene generated entirely in the browser using Three.js graphics code without external images.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 257
+            "value": 7105
           },
-          "published_at": "2026-07-29T22:06:17Z",
-          "relevance": 0.74
+          "published_at": "2026-07-29T20:03:08Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -131,18 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Is AI reasoning right for the wrong reasons?",
-          "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+          "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+          "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding how AI models actually reason helps you recognize their hidden limitations when coding with AI.",
-          "summary": "A tech debate examining whether modern AI reasoning models arrive at correct answers through genuine logic or flawed shortcuts.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 197
+            "value": 164
           },
-          "published_at": "2026-07-31T15:29:39Z",
-          "relevance": 0.77
+          "published_at": "2026-08-02T09:06:33Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+          "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 137
+          },
+          "published_at": "2026-08-02T19:19:24Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 76
+          },
+          "published_at": "2026-08-02T19:42:08Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 375
+          },
+          "published_at": "2026-08-02T04:05:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Go 1.27 Interactive Tour",
+          "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 343
+          },
+          "published_at": "2026-08-02T01:35:51Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+          "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 314
+          },
+          "published_at": "2026-08-02T02:07:09Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -151,253 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This covers key ongoing developments in international geopolitics and global conflict.",
-          "summary": "Russian missile strikes targeted Ukraine's capital city while Ukrainian forces sank a Russian military transport ship.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-01T13:35:39Z",
-          "relevance": 0.86
+          "published_at": "2026-08-02T11:12:00Z",
+          "relevance": 0.0
         },
         {
-          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is a major world news story impacting European migration policies and international relations.",
-          "summary": "European Union officials called an emergency meeting after tens of thousands of migrants crossed into Spain's North African enclave of Ceuta.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-01T20:09:27Z",
-          "relevance": 0.85
+          "published_at": "2026-08-02T10:32:28Z",
+          "relevance": 0.0
         },
         {
-          "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-          "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+          "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is an important update on a major global public health emergency.",
-          "summary": "The World Health Organization reported that the ongoing Ebola outbreak in the Democratic Republic of Congo has become the deadliest in the country's history.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-01T16:16:16Z",
-          "relevance": 0.82
+          "published_at": "2026-08-02T15:48:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+          "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-02T18:31:34Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump says he's cancelling Iran strikes, deal pending",
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-02T07:34:27Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+          "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-01T22:23:39Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 97,
-    "kept": 12,
+    "scanned": 90,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.74,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.77,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.76,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.81,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -409,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
