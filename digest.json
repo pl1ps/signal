@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:11:47.265462Z",
+  "generated_at": "2026-08-03T23:19:49.147125Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,23 +15,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1772
+            "value": 3175
           },
           "published_at": "2026-07-31T21:38:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "QwenAudio/qwen-audio-agent",
-          "url": "https://github.com/QwenAudio/qwen-audio-agent",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1727
-          },
-          "published_at": "2026-07-27T05:04:26Z",
           "relevance": 0.0
         },
         {
@@ -43,7 +29,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 618
+            "value": 657
           },
           "published_at": "2026-07-28T01:01:23Z",
           "relevance": 0.0
@@ -57,23 +43,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 580
+            "value": 585
           },
           "published_at": "2026-07-28T14:16:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "MoonshotAI/Kimi-K3",
-          "url": "https://github.com/MoonshotAI/Kimi-K3",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 7896
-          },
-          "published_at": "2026-07-27T08:01:37Z",
           "relevance": 0.0
         },
         {
@@ -85,9 +57,37 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 7105
+            "value": 9535
           },
           "published_at": "2026-07-29T20:03:08Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "sqliteai/waste",
+          "url": "https://github.com/sqliteai/waste",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1526
+          },
+          "published_at": "2026-07-28T20:56:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "WilonityDev/WilonityLoader",
+          "url": "https://github.com/WilonityDev/WilonityLoader",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 898
+          },
+          "published_at": "2026-07-31T07:53:54Z",
           "relevance": 0.0
         }
       ]
@@ -97,87 +97,87 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-          "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+          "title": "AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 164
+            "value": 176
           },
-          "published_at": "2026-08-02T09:06:33Z",
+          "published_at": "2026-08-03T11:15:48Z",
           "relevance": 0.0
         },
         {
-          "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-          "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+          "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+          "url": "https://github.com/garagehq/nightcrawler/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 137
+            "value": 101
           },
-          "published_at": "2026-08-02T19:19:24Z",
+          "published_at": "2026-08-03T11:06:15Z",
           "relevance": 0.0
         },
         {
-          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es/",
+          "title": "SQLite Critical CVEs or LLM Slop?",
+          "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 76
+            "value": 692
           },
-          "published_at": "2026-08-02T19:42:08Z",
+          "published_at": "2026-08-03T11:28:54Z",
           "relevance": 0.0
         },
         {
-          "title": "Karpathy’s Pelican",
-          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 375
+            "value": 357
           },
-          "published_at": "2026-08-02T04:05:56Z",
+          "published_at": "2026-08-03T09:32:07Z",
           "relevance": 0.0
         },
         {
-          "title": "Go 1.27 Interactive Tour",
-          "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+          "title": "Bonsai: Janestreet's UI Library",
+          "url": "https://github.com/janestreet/bonsai",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 343
+            "value": 290
           },
-          "published_at": "2026-08-02T01:35:51Z",
+          "published_at": "2026-08-03T08:29:57Z",
           "relevance": 0.0
         },
         {
-          "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-          "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+          "title": "LLMs reward expertise",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 314
+            "value": 250
           },
-          "published_at": "2026-08-02T02:07:09Z",
+          "published_at": "2026-08-03T21:13:53Z",
           "relevance": 0.0
         }
       ]
@@ -187,8 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -197,12 +197,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-02T11:12:00Z",
+          "published_at": "2026-08-03T18:04:30Z",
           "relevance": 0.0
         },
         {
-          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -211,12 +211,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-02T10:32:28Z",
+          "published_at": "2026-08-03T16:27:43Z",
           "relevance": 0.0
         },
         {
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+          "title": "Russian anti-war politician says he has fled the country",
+          "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -225,12 +225,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-02T15:48:00Z",
+          "published_at": "2026-08-03T15:41:08Z",
           "relevance": 0.0
         },
         {
-          "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
-          "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+          "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+          "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -239,12 +239,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-02T18:31:34Z",
+          "published_at": "2026-08-03T19:33:05Z",
           "relevance": 0.0
         },
         {
-          "title": "Trump says he's cancelling Iran strikes, deal pending",
-          "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+          "title": "Washington wildfires destroy homes, force thousands to evacuate",
+          "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -253,28 +253,28 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-02T07:34:27Z",
+          "published_at": "2026-08-03T14:28:44Z",
           "relevance": 0.0
         },
         {
-          "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+          "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
           "source": "news",
-          "source_label": "NPR News",
+          "source_label": "Al Jazeera",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-01T22:23:39Z",
+          "published_at": "2026-08-03T23:02:07Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 90,
+    "scanned": 95,
     "kept": 18,
     "levels": [
       {
