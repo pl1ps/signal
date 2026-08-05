@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:19:00.827296Z",
+  "generated_at": "2026-08-05T23:17:43.529269Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,60 +7,32 @@
       "title": "AI & Tools",
       "items": [
         {
+          "title": "disler/super-simple-software-factory",
+          "url": "https://github.com/disler/super-simple-software-factory",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows a practical Python workflow for managing and bounding AI coding agents.",
+          "summary": "A framework that uses Python to orchestrate coding agents inside controlled development pipelines.",
+          "signal": {
+            "metric": "stars",
+            "value": 418
+          },
+          "published_at": "2026-08-02T17:41:00Z",
+          "relevance": 0.88
+        },
+        {
           "title": "genspark-ai/genoffice",
           "url": "https://github.com/genspark-ai/genoffice",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical AI application you can explore and potentially use for productivity.",
-          "summary": "An open-source, AI-native office suite covering word processing, spreadsheets, presentations, and PDFs.",
+          "why": "It is a practical AI productivity application designed to enhance everyday document workflows.",
+          "summary": "An AI-native desktop office software suite that handles documents, spreadsheets, and presentations.",
           "signal": {
             "metric": "stars",
-            "value": 1300
+            "value": 1763
           },
           "published_at": "2026-07-31T09:40:58Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "The Warp Agent CLI",
-          "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a practical AI tool that can assist you directly in your command-line workflow.",
-          "summary": "A command-line interface tool powered by an AI agent for terminal operations.",
-          "signal": {
-            "metric": "points",
-            "value": 92
-          },
-          "published_at": "2026-08-04T17:08:41Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "microsoft/skill-recorder",
-          "url": "https://github.com/microsoft/skill-recorder",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical tool that helps you automate repetitive tasks using Copilot and AI agents.",
-          "summary": "A desktop app that records your workflow and uses GitHub Copilot CLI to turn it into a reusable automation skill.",
-          "signal": {
-            "metric": "stars",
-            "value": 1757
-          },
-          "published_at": "2026-07-29T18:16:14Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "0xwilliamortiz/humanizer-cli",
-          "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical Python/CLI tool you can use and study to understand AI text patterns.",
-          "summary": "A command-line tool that detects AI-written text using 33 different patterns and examples.",
-          "signal": {
-            "metric": "stars",
-            "value": 569
-          },
-          "published_at": "2026-08-01T20:36:27Z",
-          "relevance": 0.75
+          "relevance": 0.8
         }
       ]
     },
@@ -69,59 +41,31 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "MarcosSete/awesome-free-ai-course-notes",
-          "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This is a great resource for you to learn AI and machine learning fundamentals using university-level course materials.",
-          "summary": "An open-source repository containing curated lecture notes on machine learning and AI from top universities.",
-          "signal": {
-            "metric": "stars",
-            "value": 380
-          },
-          "published_at": "2026-08-03T11:36:49Z",
-          "relevance": 0.95
-        },
-        {
-          "title": "disler/super-simple-software-factory",
-          "url": "https://github.com/disler/super-simple-software-factory",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows how Python can be used to build and control AI coding agents in a structured, repeatable way.",
-          "summary": "A Python-based framework that orchestrates AI coding agents within deterministic workflows in code repositories.",
-          "signal": {
-            "metric": "stars",
-            "value": 349
-          },
-          "published_at": "2026-08-02T17:41:00Z",
-          "relevance": 0.9
-        },
-        {
           "title": "FareedKhan-dev/kimi-k3-in-c",
           "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It demonstrates how to run massive AI models without specialized GPU hardware using plain C.",
-          "summary": "A C99 implementation that runs inference for the 2.78-trillion parameter Kimi K3 model on a single CPU.",
+          "why": "It is an impressive open-source example of low-level programming for running AI models locally.",
+          "summary": "A lightweight C99 project that runs inference for massive LLM models on a CPU without heavy frameworks.",
           "signal": {
             "metric": "stars",
-            "value": 1988
+            "value": 2556
           },
           "published_at": "2026-08-01T09:29:38Z",
-          "relevance": 0.88
+          "relevance": 0.86
         },
         {
-          "title": "0xwilliamortiz/ratchet",
-          "url": "https://github.com/0xwilliamortiz/ratchet",
+          "title": "trycompai/crm",
+          "url": "https://github.com/trycompai/crm",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides a practical way to test and validate the behavior of AI agents you build.",
-          "summary": "A tool that audits AI agents to check if they adhered to the rules set in their instructions.",
+          "why": "It is a practical open-source project showcasing how to build an AI-agent-first application.",
+          "summary": "An open-source customer relationship management platform designed around autonomous AI agents.",
           "signal": {
             "metric": "stars",
-            "value": 430
+            "value": 6179
           },
-          "published_at": "2026-07-31T17:54:30Z",
+          "published_at": "2026-07-31T21:38:51Z",
           "relevance": 0.85
         },
         {
@@ -129,28 +73,14 @@
           "url": "https://github.com/firecrawl/anydoc",
           "source": "github",
           "source_label": "GitHub",
-          "why": "Converting documents to Markdown is a common and useful task when preparing data for LLMs.",
-          "summary": "A tool built in Rust with Python bindings to convert various document formats into clean Markdown.",
+          "why": "It is a practical open-source tool with Python bindings that you can use in your own projects.",
+          "summary": "A fast converter that turns PDFs, Office files, and EPUBs into clean Markdown using Rust and Python.",
           "signal": {
             "metric": "stars",
-            "value": 1255
+            "value": 4831
           },
           "published_at": "2026-08-03T16:36:14Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "thebuggeddev/anatomy",
-          "url": "https://github.com/thebuggeddev/anatomy",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a cool open-source project showing how to integrate 3D graphics with AI in a web application.",
-          "summary": "An interactive 3D human anatomy viewer built using Three.js and GPT-5.6 Sol.",
-          "signal": {
-            "metric": "stars",
-            "value": 1193
-          },
-          "published_at": "2026-08-02T11:15:16Z",
-          "relevance": 0.8
+          "relevance": 0.82
         }
       ]
     },
@@ -159,18 +89,32 @@
       "title": "Learn & Career",
       "items": [
         {
+          "title": "MarcosSete/awesome-free-ai-course-notes",
+          "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides free, high-quality study material to help you learn AI and machine learning fundamentals.",
+          "summary": "A curated collection of lecture notes from top university AI and machine learning courses.",
+          "signal": {
+            "metric": "stars",
+            "value": 448
+          },
+          "published_at": "2026-08-03T11:36:49Z",
+          "relevance": 0.95
+        },
+        {
           "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
           "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers valuable career guidance on a specific software engineering role you might consider.",
-          "summary": "A guide explaining the Forward Deployed Engineer (FDE) career path and engineering framework.",
+          "why": "It provides valuable tech career guidance on an increasingly common engineering role in industry.",
+          "summary": "A beginner-friendly guide detailing the skills and career trajectory of a Forward Deployed Engineer.",
           "signal": {
             "metric": "stars",
-            "value": 2879
+            "value": 3377
           },
           "published_at": "2026-07-30T05:39:38Z",
-          "relevance": 0.9
+          "relevance": 0.88
         }
       ]
     },
@@ -179,32 +123,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Why Large Language Models Fail at Tabular Prediction",
-          "url": "https://arxiv.org/abs/2608.02412",
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It helps you understand the practical limitations of LLMs when dealing with structured data.",
-          "summary": "An analysis explaining why large language models struggle with predicting structured tabular data.",
+          "why": "This is major industry news concerning executive changes at one of the top AI research institutions.",
+          "summary": "Key leadership shifts at Google DeepMind as founder Demis Hassabis transitions to Chair and Jeff Dean departs.",
           "signal": {
             "metric": "points",
-            "value": 97
+            "value": 395
           },
-          "published_at": "2026-08-04T10:07:06Z",
-          "relevance": 0.8
+          "published_at": "2026-08-05T16:05:31Z",
+          "relevance": 0.9
         },
         {
-          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "title": "Building an Advanced Agentic Harness",
+          "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers insight into current industry dynamics and corporate security around top AI companies.",
-          "summary": "Apple claims former employees may have taken trade secrets to OpenAI.",
+          "why": "It offers practical architectural advice if you want to understand how autonomous AI agents are built.",
+          "summary": "A technical guide explaining how to structure execution environments and control loops for AI agents.",
           "signal": {
             "metric": "points",
-            "value": 318
+            "value": 98
           },
-          "published_at": "2026-08-04T15:37:42Z",
-          "relevance": 0.7
+          "published_at": "2026-08-05T13:54:12Z",
+          "relevance": 0.87
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It introduces a major cloud infrastructure platform aimed at hosting and running AI agents.",
+          "summary": "Cloudflare's new platform for deploying AI agents and web apps directly on their global cloud network.",
+          "signal": {
+            "metric": "points",
+            "value": 435
+          },
+          "published_at": "2026-08-05T13:58:53Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Born Against, or why hobby programming communities are against LLM usage",
+          "url": "https://blog.fogus.me/llm/born-against.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It explores the ongoing debate around using LLMs in software development communities.",
+          "summary": "An essay examining why traditional hobbyist programming communities often resist using AI coding assistants.",
+          "signal": {
+            "metric": "points",
+            "value": 115
+          },
+          "published_at": "2026-08-05T18:37:49Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -213,26 +185,30 @@
       "title": "World",
       "items": [
         {
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+          "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It is a major global economic and geopolitical development regarding critical trade routes.",
-          "summary": "Oil prices dropped as US and regional officials reported progress in talks to reopen the Strait of Hormuz.",
+          "why": "It provides major world news on critical defense supply shortages during the ongoing conflict in Ukraine.",
+          "summary": "Ukraine warns that a severe shortage of air defense interceptors is leaving cities vulnerable to missile strikes.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-04T19:00:43Z",
-          "relevance": 0.7
+          "published_at": "2026-08-05T18:19:51Z",
+          "relevance": 0.85
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 93,
-    "kept": 14,
+    "scanned": 98,
+    "kept": 12,
     "levels": [
+      {
+        "v": 0.85,
+        "kept": true
+      },
       {
         "v": 0.25,
         "kept": false
@@ -242,6 +218,74 @@
         "kept": true
       },
       {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.9,
         "kept": true
       },
@@ -258,27 +302,11 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.87,
         "kept": true
       },
       {
@@ -298,64 +326,16 @@
         "kept": false
       },
       {
-        "v": 0.7,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
       {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
       },
       {
         "v": 0.85,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.7,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.143,
@@ -404,26 +384,18 @@
       {
         "v": 0.0,
         "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
       },
       {
         "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.86,
         "kept": true
       },
       {
         "v": 0.0,
         "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
       },
       {
         "v": 0.0,
