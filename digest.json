@@ -1,120 +1,94 @@
 {
-  "generated_at": "2026-08-05T23:17:43.529269Z",
+  "generated_at": "2026-08-07T01:35:36.445819Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "disler/super-simple-software-factory",
-          "url": "https://github.com/disler/super-simple-software-factory",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows a practical Python workflow for managing and bounding AI coding agents.",
-          "summary": "A framework that uses Python to orchestrate coding agents inside controlled development pipelines.",
-          "signal": {
-            "metric": "stars",
-            "value": 418
-          },
-          "published_at": "2026-08-02T17:41:00Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "genspark-ai/genoffice",
-          "url": "https://github.com/genspark-ai/genoffice",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical AI productivity application designed to enhance everyday document workflows.",
-          "summary": "An AI-native desktop office software suite that handles documents, spreadsheets, and presentations.",
-          "signal": {
-            "metric": "stars",
-            "value": 1763
-          },
-          "published_at": "2026-07-31T09:40:58Z",
-          "relevance": 0.8
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "FareedKhan-dev/kimi-k3-in-c",
-          "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+          "title": "Binaryify/open-kimi-ppt-skill",
+          "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an impressive open-source example of low-level programming for running AI models locally.",
-          "summary": "A lightweight C99 project that runs inference for massive LLM models on a CPU without heavy frameworks.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 2556
+            "value": 1364
           },
-          "published_at": "2026-08-01T09:29:38Z",
-          "relevance": 0.86
+          "published_at": "2026-08-05T07:30:56Z",
+          "relevance": 0.0
         },
         {
-          "title": "trycompai/crm",
-          "url": "https://github.com/trycompai/crm",
+          "title": "MarcosSete/awesome-free-ai-course-notes",
+          "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical open-source project showcasing how to build an AI-agent-first application.",
-          "summary": "An open-source customer relationship management platform designed around autonomous AI agents.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 6179
+            "value": 498
           },
-          "published_at": "2026-07-31T21:38:51Z",
-          "relevance": 0.85
+          "published_at": "2026-08-03T11:36:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "disler/super-simple-software-factory",
+          "url": "https://github.com/disler/super-simple-software-factory",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 467
+          },
+          "published_at": "2026-08-02T17:41:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "criptogus/HermesOffice",
+          "url": "https://github.com/criptogus/HermesOffice",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 394
+          },
+          "published_at": "2026-08-04T15:55:03Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "AMAP-ML/LongHorizon-Harness",
+          "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 340
+          },
+          "published_at": "2026-08-04T04:30:58Z",
+          "relevance": 0.0
         },
         {
           "title": "firecrawl/anydoc",
           "url": "https://github.com/firecrawl/anydoc",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical open-source tool with Python bindings that you can use in your own projects.",
-          "summary": "A fast converter that turns PDFs, Office files, and EPUBs into clean Markdown using Rust and Python.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 4831
+            "value": 8485
           },
           "published_at": "2026-08-03T16:36:14Z",
-          "relevance": 0.82
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "MarcosSete/awesome-free-ai-course-notes",
-          "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It provides free, high-quality study material to help you learn AI and machine learning fundamentals.",
-          "summary": "A curated collection of lecture notes from top university AI and machine learning courses.",
-          "signal": {
-            "metric": "stars",
-            "value": 448
-          },
-          "published_at": "2026-08-03T11:36:49Z",
-          "relevance": 0.95
-        },
-        {
-          "title": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It provides valuable tech career guidance on an increasingly common engineering role in industry.",
-          "summary": "A beginner-friendly guide detailing the skills and career trajectory of a Forward Deployed Engineer.",
-          "signal": {
-            "metric": "stars",
-            "value": 3377
-          },
-          "published_at": "2026-07-30T05:39:38Z",
-          "relevance": 0.88
+          "relevance": 0.0
         }
       ]
     },
@@ -123,60 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
+          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+          "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 252
+          },
+          "published_at": "2026-08-06T11:58:07Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+          "url": "https://www.hyperprobe.co",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 67
+          },
+          "published_at": "2026-08-05T16:47:15Z",
+          "relevance": 0.0
+        },
+        {
           "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
           "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This is major industry news concerning executive changes at one of the top AI research institutions.",
-          "summary": "Key leadership shifts at Google DeepMind as founder Demis Hassabis transitions to Chair and Jeff Dean departs.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 395
+            "value": 827
           },
           "published_at": "2026-08-05T16:05:31Z",
-          "relevance": 0.9
+          "relevance": 0.0
         },
         {
-          "title": "Building an Advanced Agentic Harness",
-          "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+          "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers practical architectural advice if you want to understand how autonomous AI agents are built.",
-          "summary": "A technical guide explaining how to structure execution environments and control loops for AI agents.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 98
+            "value": 423
           },
-          "published_at": "2026-08-05T13:54:12Z",
-          "relevance": 0.87
+          "published_at": "2026-08-06T18:44:49Z",
+          "relevance": 0.0
         },
         {
-          "title": "Cloudflare OS: an open platform for agents, apps, and work",
-          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It introduces a major cloud infrastructure platform aimed at hosting and running AI agents.",
-          "summary": "Cloudflare's new platform for deploying AI agents and web apps directly on their global cloud network.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 435
+            "value": 356
           },
-          "published_at": "2026-08-05T13:58:53Z",
-          "relevance": 0.85
+          "published_at": "2026-08-06T20:23:11Z",
+          "relevance": 0.0
         },
         {
-          "title": "Born Against, or why hobby programming communities are against LLM usage",
-          "url": "https://blog.fogus.me/llm/born-against.html",
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It explores the ongoing debate around using LLMs in software development communities.",
-          "summary": "An essay examining why traditional hobbyist programming communities often resist using AI coding assistants.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 115
+            "value": 317
           },
-          "published_at": "2026-08-05T18:37:49Z",
-          "relevance": 0.8
+          "published_at": "2026-08-06T15:49:38Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -185,225 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-          "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+          "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It provides major world news on critical defense supply shortages during the ongoing conflict in Ukraine.",
-          "summary": "Ukraine warns that a severe shortage of air defense interceptors is leaving cities vulnerable to missile strikes.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-05T18:19:51Z",
-          "relevance": 0.85
+          "published_at": "2026-08-06T18:53:51Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-07T00:54:03Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-06T23:55:35Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-07T01:03:35Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Ukraine hits two oil refineries deep in Russian territory",
+          "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-06T15:41:05Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
+          "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-06T22:06:35Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 98,
-    "kept": 12,
+    "scanned": 99,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.95,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.87,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -415,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
