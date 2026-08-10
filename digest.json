@@ -1,10 +1,119 @@
 {
-  "generated_at": "2026-08-09T22:48:46.721808Z",
+  "generated_at": "2026-08-10T22:55:44.787451Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+          "url": "https://github.com/AntigmaLabs/ante",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It gives you a lightweight, privacy-focused coding assistant that you can run locally without needing API keys or an internet connection.",
+          "summary": "Ante is an open-source AI coding agent distributed as a single binary that operates completely offline.",
+          "signal": {
+            "metric": "points",
+            "value": 118
+          },
+          "published_at": "2026-08-10T15:59:23Z",
+          "relevance": 0.88
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "tanishqkancharla/calldiff",
+          "url": "https://github.com/tanishqkancharla/calldiff",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a useful developer tool that shows how code changes affect execution flow, which is great for code reviews and understanding codebases.",
+          "summary": "Calldiff is an open-source tool that analyzes code changes in function call trees across git commits for 22 programming languages.",
+          "signal": {
+            "metric": "stars",
+            "value": 289
+          },
+          "published_at": "2026-08-07T22:46:51Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This high-profile tech debate highlights the ongoing shift between open-source and proprietary AI models, which shapes the tools you will use as a developer.",
+          "summary": "Meta's Mark Zuckerberg criticized rivals for backing closed AI systems while promoting Meta's push towards open-source AI models.",
+          "signal": {
+            "metric": "points",
+            "value": 292
+          },
+          "published_at": "2026-08-10T14:06:22Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is a major escalate-level event in global news regarding the ongoing war in Ukraine.",
+          "summary": "A Ukrainian drone strike hit target sites deep inside Russia, killing at least 13 people and injuring dozens more.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-10T14:34:25Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is a significant diplomatic development regarding international conflict resolution efforts in the Middle East.",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu rejected a 15-point Gaza peace plan proposed by the Trump administration.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-10T14:43:08Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+          "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "This is major global news about a severe natural disaster affecting hundreds of thousands of people.",
+          "summary": "Monsoon flooding in Assam, India, has killed 100 people and displaced thousands as major rivers overflowed.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-10T12:39:05Z",
+          "relevance": 0.85
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 90,
-    "kept": 0,
+    "scanned": 100,
+    "kept": 6,
     "levels": [
       {
         "v": 0.25,
@@ -31,7 +140,15 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
         "kept": false
       },
       {
@@ -91,6 +208,26 @@
         "kept": false
       },
       {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -119,6 +256,30 @@
         "kept": false
       },
       {
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -135,67 +296,15 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
