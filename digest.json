@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:01:24.161147Z",
+  "generated_at": "2026-08-14T22:39:13.410799Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,70 +11,70 @@
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It introduces Google's latest fast LLM model release that you can test and integrate into your software projects.",
-          "summary": "Google has released official documentation for Gemini 3.7 Flash, their newest high-speed AI model optimized for low latency and reasoning. Developers can access and integrate it through the Gemini API.",
+          "why": "Google launched Gemini 3.7 Flash, offering a high-speed AI model you can use via API.",
+          "summary": "Gemini 3.7 Flash is Google's newest speed-optimized language model for developer applications. It balances quick response times with lower API costs for building real-time AI features.",
           "signal": {
             "metric": "points",
-            "value": 527
+            "value": 946
           },
           "published_at": "2026-08-13T17:23:22Z",
-          "relevance": 0.92
+          "relevance": 0.9
         },
         {
-          "title": "shadcn-ui/chatbot-template",
-          "url": "https://github.com/shadcn-ui/chatbot-template",
+          "title": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This template makes it simple for you to build and deploy your own full-stack AI chatbot web applications.",
-          "summary": "Created by the shadcn team, this project is a starter template for building AI chatbots using Next.js and the Vercel AI SDK. It includes ready-to-use user interface components and API configurations.",
+          "why": "DeepSeek released an official harness framework that lets you build and extend modular AI plugins easily.",
+          "summary": "This open-source project provides a plugin architecture for DeepSeek models, allowing developers to extend AI capabilities. It gives you a structured foundation to build custom AI workflows and tools.",
           "signal": {
             "metric": "stars",
-            "value": 650
+            "value": 94906
           },
-          "published_at": "2026-08-11T11:53:02Z",
+          "published_at": "2026-08-13T11:56:32Z",
           "relevance": 0.88
         },
         {
-          "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-          "url": "https://github.com/fellowgeek/mcp-memory",
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers a practical open-source solution for giving persistent memory to your AI agents using simple database tools.",
-          "summary": "MCP Memory is an open-source tool that provides fast persistent memory for AI agents using SQLite full-text search. It connects via the Model Context Protocol to help agents store and retrieve interaction history.",
+          "why": "Alibaba released a major updated open model in their popular Qwen LLM family.",
+          "summary": "Qwen 3.8 27B is an open-weights language model optimized for coding and complex reasoning tasks. It provides a strong open-source option for running models locally or integrating into custom apps.",
           "signal": {
             "metric": "points",
-            "value": 53
+            "value": 766
           },
-          "published_at": "2026-08-13T13:57:47Z",
-          "relevance": 0.83
+          "published_at": "2026-08-14T15:00:00Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Leutenegger/book-to-skill",
+          "url": "https://github.com/Leutenegger/book-to-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "You can convert programming books or documentation into custom knowledge tools for AI coding assistants.",
+          "summary": "A practical tool that turns technical book PDFs into structured skills for Claude Code. This enables your AI assistant to reference concepts directly from textbooks while helping you write code.",
+          "signal": {
+            "metric": "stars",
+            "value": 1066
+          },
+          "published_at": "2026-08-13T13:15:23Z",
+          "relevance": 0.87
         },
         {
           "title": "0xnyn/airship",
           "url": "https://github.com/0xnyn/airship",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides a visual, Figma-like editor interface to manage and interact with coding AI agents.",
-          "summary": "Airship is a visual interface built for AI coding tools like Claude Code and OpenCode. It allows developers to inspect and edit code visually while interacting with coding assistants.",
+          "why": "It provides a visual, Figma-like editor interface for interactive AI coding tools like Claude Code.",
+          "summary": "Airship brings a graphical design canvas to command-line AI coding assistants. It helps developers inspect, visualize, and steer automated code editing tasks.",
           "signal": {
             "metric": "stars",
-            "value": 422
+            "value": 439
           },
           "published_at": "2026-08-10T19:03:10Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "ShawnPana/phone-harness",
-          "url": "https://github.com/ShawnPana/phone-harness",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It allows you to experiment with AI agents that can directly interact with and automate mobile phone actions.",
-          "summary": "Phone Harness is an open-source tool that lets AI agents control smartphone functions and perform mobile tasks. It bridges LLM reasoning with mobile device automation.",
-          "signal": {
-            "metric": "stars",
-            "value": 1712
-          },
-          "published_at": "2026-08-07T22:28:53Z",
-          "relevance": 0.78
+          "relevance": 0.85
         }
       ]
     },
@@ -83,31 +83,45 @@
       "title": "Code & Projects",
       "items": [
         {
+          "title": "shadcn-ui/chatbot-template",
+          "url": "https://github.com/shadcn-ui/chatbot-template",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "If you want to build a modern AI chat web application, this template gives you a full starter codebase.",
+          "summary": "A minimal chatbot template built with Next.js, Vercel AI SDK, and modern UI components. It helps you quickly deploy a working web chat interface connected to AI services.",
+          "signal": {
+            "metric": "stars",
+            "value": 672
+          },
+          "published_at": "2026-08-11T11:53:02Z",
+          "relevance": 0.91
+        },
+        {
           "title": "antirez/h3.c",
           "url": "https://github.com/antirez/h3.c",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an open-source local AI engine written in concise C by one of the tech world's most famous developers.",
-          "summary": "Created by Redis creator Salvatore Sanfilippo, h3.c is a lightweight C implementation for running MiniMax H3 AI models natively on Mac hardware. It demonstrates high-performance local LLM execution without heavy dependencies.",
+          "why": "Written by the creator of Redis, this small C engine shows how fast AI model inference is built from scratch.",
+          "summary": "A lightweight C-based engine designed to run the MiniMax H3 language model on Mac computers. It serves as an accessible open-source codebase for learning efficient LLM execution.",
           "signal": {
             "metric": "stars",
-            "value": 1770
+            "value": 1849
           },
           "published_at": "2026-08-09T09:12:47Z",
-          "relevance": 0.88
+          "relevance": 0.86
         },
         {
-          "title": "deepseek-ai/deepseek-harness",
-          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "title": "vercel-labs/eve-software-factory-template",
+          "url": "https://github.com/vercel-labs/eve-software-factory-template",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This official repository gives you a modular framework for building customizable AI plugins and agent workflows.",
-          "summary": "DeepSeek Harness is an open-source modular framework designed to let developers extend AI agent capabilities using plugins. It offers a structured way to build and connect custom tools to DeepSeek models.",
+          "why": "This template from Vercel Labs demonstrates how to structure automated AI agent workflows for building software.",
+          "summary": "An open-source starter kit for creating automated software development pipelines powered by AI agents. It gives developers a real-world project structure for experimenting with AI code generation.",
           "signal": {
             "metric": "stars",
-            "value": 39281
+            "value": 566
           },
-          "published_at": "2026-08-13T11:56:32Z",
+          "published_at": "2026-08-12T12:34:43Z",
           "relevance": 0.85
         }
       ]
@@ -117,80 +131,46 @@
       "title": "Learn & Career",
       "items": [
         {
+          "title": "AI by Hand",
+          "url": "https://www.byhand.ai/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Working through neural network concepts step-by-step by hand is one of the best ways to build intuitive understanding.",
+          "summary": "A beginner-friendly educational series that visually breaks down fundamental machine learning algorithms using manual calculations. It helps you grasp underlying math concepts without getting lost in code.",
+          "signal": {
+            "metric": "points",
+            "value": 154
+          },
+          "published_at": "2026-08-14T15:58:59Z",
+          "relevance": 0.93
+        },
+        {
           "title": "SaladDay/pi-from-scratch",
           "url": "https://github.com/SaladDay/pi-from-scratch",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a beginner-friendly project that helps you understand how AI agents work under the hood by building one yourself.",
-          "summary": "This repository provides a minimal 600-line TypeScript implementation of an AI agent framework. It serves as a step-by-step educational guide to understanding agent design from scratch.",
+          "why": "Building a mini AI agent from scratch in TypeScript is a clear, hands-on way to learn how agents work.",
+          "summary": "A simplified AI agent written in roughly 600 lines of TypeScript code. It serves as a step-by-step tutorial for early-stage programmers wanting to understand AI agent internals.",
           "signal": {
             "metric": "stars",
-            "value": 882
+            "value": 976
           },
           "published_at": "2026-08-09T12:15:30Z",
-          "relevance": 0.9
+          "relevance": 0.92
         },
         {
-          "title": "Leutenegger/book-to-skill",
-          "url": "https://github.com/Leutenegger/book-to-skill",
+          "title": "Appllama/top-welcome-screens",
+          "url": "https://github.com/Appllama/top-welcome-screens",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you turn textbook material into custom context that Claude Code can directly query while you learn to program.",
-          "summary": "Book-to-Skill is an open-source tool that converts technical PDF books into structured knowledge modules for Claude Code. It allows your AI coding assistant to reference specific textbook chapters while you study or program.",
+          "why": "Studying how real mobile apps build user onboarding screens is a great way to improve your UI skills.",
+          "summary": "A collection of 10 animated mobile welcome screens inspired by top iOS apps, recreated using React Native and Expo. It provides clear sample code for learning cross-platform mobile frontend development.",
           "signal": {
             "metric": "stars",
-            "value": 1022
+            "value": 479
           },
-          "published_at": "2026-08-13T13:15:23Z",
-          "relevance": 0.89
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-          "url": "https://www.codewithbullet.com",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It showcases a new student-founded startup building AI coding tools, offering inspiration and industry insight.",
-          "summary": "Bullet is a Y Combinator startup creating a high-speed AI coding agent built by recent college graduates. The founders share their launch story and discuss speed optimizations for autonomous coding assistants.",
-          "signal": {
-            "metric": "points",
-            "value": 73
-          },
-          "published_at": "2026-08-13T08:14:30Z",
-          "relevance": 0.87
-        },
-        {
-          "title": "Choosing an AI model: one prompt, 11 models, different results",
-          "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This practical comparison helps you see how different modern LLMs perform on the exact same programming task.",
-          "summary": "A developer tested eleven popular AI models with a single identical prompt to compare their outputs and reasoning styles. The post breaks down key differences in model accuracy and code generation quality.",
-          "signal": {
-            "metric": "points",
-            "value": 162
-          },
-          "published_at": "2026-08-13T13:05:29Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-          "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It demonstrates how you can build and launch a impressive full web project on a tiny budget using basic tools.",
-          "summary": "A developer shares how they built a search engine indexing 500,000 domains in a single weekend for just $10. The write-up highlights efficient web indexing, minimal data architecture, and cost-effective design.",
-          "signal": {
-            "metric": "points",
-            "value": 137
-          },
-          "published_at": "2026-08-13T13:36:19Z",
-          "relevance": 0.8
+          "published_at": "2026-08-08T12:44:52Z",
+          "relevance": 0.84
         }
       ]
     },
@@ -199,79 +179,51 @@
       "title": "World",
       "items": [
         {
-          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "It provides important global perspective on the ongoing geopolitical developments in Ukraine.",
-          "summary": "In an exclusive interview, Russian Nobel Peace Prize winner Dmitry Muratov stated that President Vladimir Putin can no longer claim a decisive military victory in Ukraine. He highlighted that the war has reached a standstill where total conquest is unachievable.",
+          "source_label": "Al Jazeera",
+          "why": "Tensions surrounding this strategic global shipping channel represent a key development in international news.",
+          "summary": "US leadership announced intentions to claim jurisdiction over the Strait of Hormuz, a critical global oil transit route. The statement comes amid ongoing conflict and volatile negotiations with Iran.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-13T04:55:58Z",
-          "relevance": 0.85
+          "published_at": "2026-08-14T21:50:46Z",
+          "relevance": 0.82
         },
         {
-          "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-          "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+          "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+          "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
           "source": "news",
           "source_label": "NPR News",
-          "why": "It covers a notable world event where national defense planning directly impacts daily digital technology usage.",
-          "summary": "Taiwan temporarily throttled its mobile internet infrastructure to text-only speeds during a defense exercise. The drill tested network resilience and emergency communications amid geopolitical tensions with China.",
+          "why": "It gives you a brief global overview of severe weather events occurring simultaneously across continents.",
+          "summary": "Extreme weather shocks are causing disruptions worldwide, including fatal flooding in Japan and severe heatwaves across Europe. Emergency workers are struggling with power grid outages and widespread wildfires.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-13T13:18:43Z",
-          "relevance": 0.82
+          "published_at": "2026-08-14T10:30:17Z",
+          "relevance": 0.8
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 14,
+    "scanned": 94,
+    "kept": 13,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
         "v": 0.88,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -286,20 +238,16 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.9,
         "kept": true
       },
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.91,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -314,7 +262,15 @@
         "kept": true
       },
       {
-        "v": 0.8,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.93,
         "kept": true
       },
       {
@@ -323,6 +279,78 @@
       },
       {
         "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.86,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
@@ -330,87 +358,15 @@
         "kept": true
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
-        "kept": true
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
@@ -422,7 +378,31 @@
         "kept": false
       },
       {
-        "v": 0.89,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
