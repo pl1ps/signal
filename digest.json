@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:35:41.281587Z",
+  "generated_at": "2026-08-17T22:39:16.542317Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,32 +7,46 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "Leutenegger/book-to-skill",
-          "url": "https://github.com/Leutenegger/book-to-skill",
+          "title": "shadcn-ui/chatbot-template",
+          "url": "https://github.com/shadcn-ui/chatbot-template",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a practical productivity hack for converting your CS textbooks into searchable AI study assistants.",
-          "summary": "An open-source utility that parses technical PDF textbooks and turns them into custom reference skills for the Claude Code coding assistant.",
+          "why": "This is a perfect beginner-friendly starter template if you want to build and host your own AI chat web app.",
+          "summary": "A lightweight web template for building custom AI chatbots using Next.js, Vercel AI SDK, and pre-styled UI components.",
           "signal": {
             "metric": "stars",
-            "value": 1152
+            "value": 717
           },
-          "published_at": "2026-08-13T13:15:23Z",
-          "relevance": 0.89
+          "published_at": "2026-08-11T11:53:02Z",
+          "relevance": 0.92
         },
         {
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+          "url": "https://speko.ai/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Qwen models are among the top open-source LLMs available today for local experimentation and developer projects.",
-          "summary": "Alibaba released a new 27-billion parameter model in its popular Qwen open-weights language model series.",
+          "why": "It simplifies building voice AI applications by giving you a single API route to optimal voice models.",
+          "summary": "Speko is a unified platform that automatically selects the best combination of speech recognition, LLM, and text-to-speech models for your application.",
           "signal": {
             "metric": "points",
-            "value": 1405
+            "value": 81
           },
-          "published_at": "2026-08-14T15:00:00Z",
-          "relevance": 0.85
+          "published_at": "2026-08-17T15:36:18Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "yetone/cumora",
+          "url": "https://github.com/yetone/cumora",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows a practical implementation of how AI agents can collaborate with developers in a shared team chat interface.",
+          "summary": "Cumora is a cross-platform team chat app where AI agents participate as full teammates alongside human members.",
+          "signal": {
+            "metric": "stars",
+            "value": 1030
+          },
+          "published_at": "2026-08-17T09:13:52Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -41,46 +55,32 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "shadcn-ui/chatbot-template",
-          "url": "https://github.com/shadcn-ui/chatbot-template",
+          "title": "dmmulroy/anti-slop",
+          "url": "https://github.com/dmmulroy/anti-slop",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you a complete, practical starter kit if you want to build and deploy your own AI chat web app.",
-          "summary": "A beginner-friendly web template for building custom AI chatbots using Next.js, modern UI components, and Vercel AI tools.",
+          "why": "Using code checkers like this can help you learn better programming habits and write cleaner TypeScript early in your journey.",
+          "summary": "An open-source set of code-checking rules designed to catch sloppy or low-quality JavaScript and TypeScript code patterns.",
           "signal": {
             "metric": "stars",
-            "value": 703
+            "value": 2326
           },
-          "published_at": "2026-08-11T11:53:02Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "deepseek-ai/deepseek-harness",
-          "url": "https://github.com/deepseek-ai/deepseek-harness",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "DeepSeek is one of the most prominent open-weights AI creators, and this tool helps you learn how plugin architectures work in AI systems.",
-          "summary": "An open-source framework from DeepSeek designed to let developers extend AI agent capabilities through modular plugins.",
-          "signal": {
-            "metric": "stars",
-            "value": 130808
-          },
-          "published_at": "2026-08-13T11:56:32Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "milind-soni/OpenMausBot",
-          "url": "https://github.com/milind-soni/OpenMausBot",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It serves as a neat open-source example of how developers build autonomous coding agents using secure code execution sandboxes.",
-          "summary": "An open-source AI bot framework that provides language models with an isolated virtual machine to run code safely and execute tasks.",
-          "signal": {
-            "metric": "stars",
-            "value": 1108
-          },
-          "published_at": "2026-08-11T18:58:55Z",
+          "published_at": "2026-08-12T13:48:50Z",
           "relevance": 0.83
+        },
+        {
+          "title": "sohaibdevv/youtube-music",
+          "url": "https://github.com/sohaibdevv/youtube-music",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a great practical open-source project to study if you want to learn how desktop apps interact with web APIs.",
+          "summary": "An open-source desktop client for YouTube Music that offers background playback and custom playlists without subscription ads.",
+          "signal": {
+            "metric": "stars",
+            "value": 854
+          },
+          "published_at": "2026-08-11T18:17:18Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -89,17 +89,17 @@
       "title": "Learn & Career",
       "items": [
         {
-          "title": "DrHazemAli/enterprise-system-design",
-          "url": "https://github.com/DrHazemAli/enterprise-system-design",
+          "title": "Leutenegger/book-to-skill",
+          "url": "https://github.com/Leutenegger/book-to-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "System design is a critical topic for software engineering internships and career growth beyond basic programming projects.",
-          "summary": "A reference course covering fundamental concepts for building reliable software systems that handle real web traffic and security needs.",
+          "why": "It offers an innovative way to study CS textbooks while coding by feeding book knowledge directly into your AI assistant.",
+          "summary": "A utility that converts technical textbook PDFs into interactive skill modules for AI coding assistants.",
           "signal": {
             "metric": "stars",
-            "value": 526
+            "value": 1177
           },
-          "published_at": "2026-08-12T04:03:15Z",
+          "published_at": "2026-08-13T13:15:23Z",
           "relevance": 0.9
         }
       ]
@@ -109,60 +109,32 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
+          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a student learning to code alongside AI, developing proper testing and verification habits early is essential.",
-          "summary": "A discussion on disciplined software habits when coding with AI assistants, focusing on test-driven verification instead of trusting generated code blindly.",
+          "why": "It highlights an important real-world lesson about why developers must carefully review AI-generated code fixes.",
+          "summary": "A security analysis detailed how an automated code fix suggested by AI allowed an unauthorized security breach.",
           "signal": {
             "metric": "points",
-            "value": 71
+            "value": 289
           },
-          "published_at": "2026-08-16T10:31:36Z",
-          "relevance": 0.87
+          "published_at": "2026-08-17T14:18:38Z",
+          "relevance": 0.85
         },
         {
-          "title": "Patterns and problems in emerging multi-agent systems",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "title": "Anthropic's War on open source AI",
+          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Multi-agent systems are a key emerging area in AI software development, and understanding these patterns will help you design better tools.",
-          "summary": "An analysis of standard design patterns and common pitfalls developers encounter when connecting multiple AI agents together.",
+          "why": "It gives you insight into current industry debates surrounding open-source software versus proprietary AI models.",
+          "summary": "A community discussion examining how corporate AI strategies from major labs like Anthropic impact open-source AI developers.",
           "signal": {
             "metric": "points",
-            "value": 178
+            "value": 125
           },
-          "published_at": "2026-08-16T02:12:53Z",
-          "relevance": 0.86
-        },
-        {
-          "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "OpenRouter is widely used by developer tools to access various LLMs, making this acquisition a notable milestone for the developer ecosystem.",
-          "summary": "Financial platform Stripe has reportedly agreed to buy OpenRouter, a popular unified API service used by developers to query AI models.",
-          "signal": {
-            "metric": "points",
-            "value": 76
-          },
-          "published_at": "2026-08-16T20:31:16Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It helps you build a realistic mental model of how LLMs actually work without getting lost in hype or overly technical jargon.",
-          "summary": "An insightful article explaining how modern AI models solve complex math problems mainly through vast pattern retrieval rather than human-like logic.",
-          "signal": {
-            "metric": "points",
-            "value": 578
-          },
-          "published_at": "2026-08-15T18:13:02Z",
-          "relevance": 0.82
+          "published_at": "2026-08-17T15:24:34Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -171,78 +143,92 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-          "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+          "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This marks a notable shift in US international relations and military alliances in East Asia.",
-          "summary": "President Trump announced a reduction in joint US military exercises with South Korea after South Korea declined involvement in military actions in Iran.",
+          "why": "It covers major foreign policy and international diplomatic developments in the Middle East.",
+          "summary": "The US president issued military threats against Oman regarding its independent diplomatic negotiations with Iran.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-16T22:34:10Z",
+          "published_at": "2026-08-17T19:25:05Z",
           "relevance": 0.8
         },
         {
-          "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-          "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+          "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+          "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "It provides crucial coverage on significant escalations in the ongoing conflict between Ukraine and Russia.",
-          "summary": "Ukraine launched a major drone strike across Russian regions, while Russian strikes simultaneously targeted Kyiv, marking a major surge in fighting.",
+          "source_label": "Al Jazeera",
+          "why": "It provides crucial updates on major ongoing international armed conflicts reported by UN observers.",
+          "summary": "UN peacekeepers reported widespread daily shelling in Lebanon as local military escalations continue to affect civilians.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-16T19:03:04Z",
+          "published_at": "2026-08-17T20:54:03Z",
           "relevance": 0.8
+        },
+        {
+          "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+          "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It keeps you informed on a significant world disaster and ongoing humanitarian recovery effort.",
+          "summary": "A major earthquake in Indonesia killed dozens and left thousands displaced while facing acute food and aid shortages.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-17T10:39:24Z",
+          "relevance": 0.78
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 99,
-    "kept": 12,
+    "scanned": 96,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.9,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.92,
         "kept": true
       },
       {
@@ -259,126 +245,6 @@
       },
       {
         "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
-        "kept": true
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.87,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
         "kept": false
       },
       {
@@ -386,16 +252,136 @@
         "kept": true
       },
       {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.89,
-        "kept": true
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.83,
         "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
