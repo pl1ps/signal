@@ -1,207 +1,26 @@
 {
-  "generated_at": "2026-08-17T22:39:16.542317Z",
+  "generated_at": "2026-08-18T22:39:58.290888Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "shadcn-ui/chatbot-template",
-          "url": "https://github.com/shadcn-ui/chatbot-template",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This is a perfect beginner-friendly starter template if you want to build and host your own AI chat web app.",
-          "summary": "A lightweight web template for building custom AI chatbots using Next.js, Vercel AI SDK, and pre-styled UI components.",
-          "signal": {
-            "metric": "stars",
-            "value": 717
-          },
-          "published_at": "2026-08-11T11:53:02Z",
-          "relevance": 0.92
-        },
-        {
-          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-          "url": "https://speko.ai/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It simplifies building voice AI applications by giving you a single API route to optimal voice models.",
-          "summary": "Speko is a unified platform that automatically selects the best combination of speech recognition, LLM, and text-to-speech models for your application.",
-          "signal": {
-            "metric": "points",
-            "value": 81
-          },
-          "published_at": "2026-08-17T15:36:18Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "yetone/cumora",
-          "url": "https://github.com/yetone/cumora",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows a practical implementation of how AI agents can collaborate with developers in a shared team chat interface.",
-          "summary": "Cumora is a cross-platform team chat app where AI agents participate as full teammates alongside human members.",
-          "signal": {
-            "metric": "stars",
-            "value": 1030
-          },
-          "published_at": "2026-08-17T09:13:52Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "dmmulroy/anti-slop",
-          "url": "https://github.com/dmmulroy/anti-slop",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "Using code checkers like this can help you learn better programming habits and write cleaner TypeScript early in your journey.",
-          "summary": "An open-source set of code-checking rules designed to catch sloppy or low-quality JavaScript and TypeScript code patterns.",
-          "signal": {
-            "metric": "stars",
-            "value": 2326
-          },
-          "published_at": "2026-08-12T13:48:50Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "sohaibdevv/youtube-music",
-          "url": "https://github.com/sohaibdevv/youtube-music",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a great practical open-source project to study if you want to learn how desktop apps interact with web APIs.",
-          "summary": "An open-source desktop client for YouTube Music that offers background playback and custom playlists without subscription ads.",
-          "signal": {
-            "metric": "stars",
-            "value": 854
-          },
-          "published_at": "2026-08-11T18:17:18Z",
-          "relevance": 0.78
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "Leutenegger/book-to-skill",
-          "url": "https://github.com/Leutenegger/book-to-skill",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It offers an innovative way to study CS textbooks while coding by feeding book knowledge directly into your AI assistant.",
-          "summary": "A utility that converts technical textbook PDFs into interactive skill modules for AI coding assistants.",
-          "signal": {
-            "metric": "stars",
-            "value": 1177
-          },
-          "published_at": "2026-08-13T13:15:23Z",
-          "relevance": 0.9
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights an important real-world lesson about why developers must carefully review AI-generated code fixes.",
-          "summary": "A security analysis detailed how an automated code fix suggested by AI allowed an unauthorized security breach.",
-          "signal": {
-            "metric": "points",
-            "value": 289
-          },
-          "published_at": "2026-08-17T14:18:38Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Anthropic's War on open source AI",
-          "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you insight into current industry debates surrounding open-source software versus proprietary AI models.",
-          "summary": "A community discussion examining how corporate AI strategies from major labs like Anthropic impact open-source AI developers.",
-          "signal": {
-            "metric": "points",
-            "value": 125
-          },
-          "published_at": "2026-08-17T15:24:34Z",
-          "relevance": 0.75
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-          "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers major foreign policy and international diplomatic developments in the Middle East.",
-          "summary": "The US president issued military threats against Oman regarding its independent diplomatic negotiations with Iran.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-17T19:25:05Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-          "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It provides crucial updates on major ongoing international armed conflicts reported by UN observers.",
-          "summary": "UN peacekeepers reported widespread daily shelling in Lebanon as local military escalations continue to affect civilians.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-17T20:54:03Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-          "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It keeps you informed on a significant world disaster and ongoing humanitarian recovery effort.",
-          "summary": "A major earthquake in Indonesia killed dozens and left thousands displaced while facing acute food and aid shortages.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-17T10:39:24Z",
-          "relevance": 0.78
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 96,
-    "kept": 11,
+    "scanned": 99,
+    "kept": 0,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.82,
-        "kept": true
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.25,
@@ -224,12 +43,20 @@
         "kept": false
       },
       {
-        "v": 0.78,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.92,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -248,10 +75,6 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -264,24 +87,8 @@
         "kept": false
       },
       {
-        "v": 0.75,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -300,8 +107,20 @@
         "kept": false
       },
       {
-        "v": 0.78,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -320,8 +139,8 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -356,10 +175,6 @@
         "kept": false
       },
       {
-        "v": 0.83,
-        "kept": true
-      },
-      {
         "v": 0.0,
         "kept": false
       },
@@ -376,8 +191,8 @@
         "kept": false
       },
       {
-        "v": 0.9,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
