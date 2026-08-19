@@ -1,18 +1,175 @@
 {
-  "generated_at": "2026-08-18T22:39:58.290888Z",
+  "generated_at": "2026-08-19T22:38:58.769305Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "fx :Tiny, open, native coding agent.",
+          "url": "https://fx.sh",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It is a simple and lightweight AI coding tool you can test out as you learn to code.",
+          "summary": "fx is an open-source, lightweight coding agent designed to assist with programming tasks directly on your local setup.",
+          "signal": {
+            "metric": "points",
+            "value": 148
+          },
+          "published_at": "2026-08-18T22:00:21Z",
+          "relevance": 0.89
+        },
+        {
+          "title": "yetone/cumora",
+          "url": "https://github.com/yetone/cumora",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It showcases how modern AI agents are being integrated directly into daily team communication workflows.",
+          "summary": "Cumora is a cross-platform chat app where AI agents work alongside human team members as first-class collaborators.",
+          "signal": {
+            "metric": "stars",
+            "value": 2676
+          },
+          "published_at": "2026-08-17T09:13:52Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "DeepSeek is an important open-source AI ecosystem for CS students to follow.",
+          "summary": "DeepSeek Harness is an open-source plugin framework for extending LLM capabilities and creating modular agent behaviors.",
+          "signal": {
+            "metric": "stars",
+            "value": 166992
+          },
+          "published_at": "2026-08-13T11:56:32Z",
+          "relevance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "Leutenegger/book-to-skill",
+          "url": "https://github.com/Leutenegger/book-to-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This practical project lets you convert computer science textbooks into interactive AI learning assistants.",
+          "summary": "Book-to-skill is an open-source tool that processes technical PDFs into custom skill modules for Claude Code.",
+          "signal": {
+            "metric": "stars",
+            "value": 1202
+          },
+          "published_at": "2026-08-13T13:15:23Z",
+          "relevance": 0.92
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "AI usage patterns in software teams",
+          "url": "https://linear.app/data",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Understanding how professional developers use AI helps you prepare for modern software engineering practices.",
+          "summary": "This discussion examines real-world insights into how software development teams integrate AI assistants into daily coding workflows.",
+          "signal": {
+            "metric": "points",
+            "value": 178
+          },
+          "published_at": "2026-08-18T22:08:07Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Extensible Software in the age of LLMs",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers practical concepts on how software design is shifting to accommodate generative AI tools.",
+          "summary": "This article discusses modern software architecture strategies for building applications that integrate easily with large language models.",
+          "signal": {
+            "metric": "points",
+            "value": 90
+          },
+          "published_at": "2026-08-19T16:26:05Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+          "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "This is a significant tech policy and legal story regarding safety standards at major tech companies.",
+          "summary": "A former Meta whistleblower testified in court alleging that company leadership prioritized user growth over child safety measures.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-19T21:20:15Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+          "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is a major update on a critical international security incident.",
+          "summary": "A Ukrainian man was arrested in Croatia over his alleged involvement in planting explosives on the Nord Stream pipeline in 2022.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-19T16:31:48Z",
+          "relevance": 0.75
+        },
+        {
+          "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It highlights major ongoing international economic negotiations between close trade partners.",
+          "summary": "Canada and the US are finalizing a trade deal ahead of impending tariff deadlines, though key terms remain under discussion.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-19T19:59:14Z",
+          "relevance": 0.72
+        }
+      ]
+    }
+  ],
   "readout": {
     "scanned": 99,
-    "kept": 0,
+    "kept": 9,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -27,8 +184,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.9,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -87,8 +244,20 @@
         "kept": false
       },
       {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.89,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -107,8 +276,12 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.72,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -119,16 +292,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.82,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -195,16 +360,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
+        "v": 0.92,
+        "kept": true
       }
     ]
   },
