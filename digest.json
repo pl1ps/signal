@@ -1,197 +1,26 @@
 {
-  "generated_at": "2026-08-20T22:43:49.738384Z",
+  "generated_at": "2026-08-21T22:39:43.191617Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "browser-use/macos-harness",
-          "url": "https://github.com/browser-use/macos-harness",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It lets you easily experiment with computer-use AI agents on your own Mac.",
-          "summary": "MacOS-harness is a lightweight open-source framework that grants LLMs complete control over a Mac desktop. It allows agents to interact directly with the operating system, screen, and system tools.",
-          "signal": {
-            "metric": "stars",
-            "value": 567
-          },
-          "published_at": "2026-08-17T00:22:20Z",
-          "relevance": 0.89
-        },
-        {
-          "title": "CopilotKit/OpenBot",
-          "url": "https://github.com/CopilotKit/OpenBot",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source tool for building autonomous AI agents that can safely control computer environments.",
-          "summary": "OpenBot is an open-source framework that deploys autonomous AI agents inside isolated virtual computer environments with browsers and file access. It plans and logs every action, making it easier to build secure, transparent AI coworkers.",
-          "signal": {
-            "metric": "stars",
-            "value": 1570
-          },
-          "published_at": "2026-08-17T00:44:59Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It presents a fresh approach to coding alongside AI agents instead of writing every line manually.",
-          "summary": "Huzzah is an experimental code editor built specifically around interacting with AI coding agents. It reimagines the developer workflow to make agentic programming smoother and more intuitive.",
-          "signal": {
-            "metric": "points",
-            "value": 167
-          },
-          "published_at": "2026-08-20T19:05:36Z",
-          "relevance": 0.86
-        },
-        {
-          "title": "Spielewoy/autoprompt-skill",
-          "url": "https://github.com/Spielewoy/autoprompt-skill",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It offers a direct way to boost the reliability of the AI coding agents you use.",
-          "summary": "Autoprompt-skill is an open-source enhancement for AI coding agents that automatically optimizes prompts during coding tasks. It reduces failure rates on agentic benchmarks by 45 percent.",
-          "signal": {
-            "metric": "stars",
-            "value": 443
-          },
-          "published_at": "2026-08-17T22:40:47Z",
-          "relevance": 0.85
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-          "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It shows a clever, real-world application of training small transformer models for on-device generation.",
-          "summary": "This project features a 125M-parameter transformer trained to generate piano completions on an iPhone in real time. It acts like GitHub Copilot for music, predicting upcoming notes as a user plays.",
-          "signal": {
-            "metric": "points",
-            "value": 459
-          },
-          "published_at": "2026-08-20T12:04:38Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "bawadou/ai-data-extractor",
-          "url": "https://github.com/bawadou/ai-data-extractor",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It helps you track and analyze how you use popular AI coding assistants.",
-          "summary": "AI Data Extractor is an open-source utility that extracts conversation logs from tools like Cursor, Claude Code, and Aider. It makes it easy to archive, analyze, or back up your AI coding chat history.",
-          "signal": {
-            "metric": "stars",
-            "value": 528
-          },
-          "published_at": "2026-08-16T18:35:58Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "jaredrhod/barehands",
-          "url": "https://github.com/jaredrhod/barehands",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a fun and creative open-source project that shows how computer vision can drive computer interfaces.",
-          "summary": "Barehands is an open-source Python project that uses a standard webcam to track hand movements. It allows you to control screen elements and interact with AI models using hand gestures without needing extra hardware.",
-          "signal": {
-            "metric": "stars",
-            "value": 466
-          },
-          "published_at": "2026-08-15T07:30:37Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Malicious Rust crate Arrayref runs a build-time payload",
-          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Understanding software supply chain vulnerabilities is an essential lesson as you learn to build applications with external dependencies.",
-          "summary": "A popular Rust package, Arrayref, was found executing a malicious payload during its build phase. Security researchers warned developers about the supply chain attack, highlighting risks when importing external libraries.",
-          "signal": {
-            "metric": "points",
-            "value": 347
-          },
-          "published_at": "2026-08-20T13:23:12Z",
-          "relevance": 0.87
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-          "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It reports on a major escalation in international news.",
-          "summary": "A massive Russian missile and drone attack targeted critical infrastructure in Ukraine's capital city of Kyiv, leaving at least 17 people dead. The strikes caused severe disruptions to heating and water supplies across the city.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-20T17:14:55Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-          "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It tracks a major economic milestone for the US economy.",
-          "summary": "The US national debt has officially surpassed $40 trillion for the first time in history. At the same time, experts expressed concern over a new census report touted by President Trump regarding noncitizen voting.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-20T11:30:18Z",
-          "relevance": 0.76
-        },
-        {
-          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-          "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers major international geopolitical and economic policy changes.",
-          "summary": "US Treasury Secretary Scott Bessent announced aggressive new sanctions designed to cripple Iran's economy and force political collapse. US officials stated that international allies will need to take a clear stance on enforcement.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-20T19:52:48Z",
-          "relevance": 0.75
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 98,
-    "kept": 11,
+    "scanned": 92,
+    "kept": 0,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.25,
@@ -206,12 +35,32 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.86,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -242,62 +91,6 @@
         "kept": false
       },
       {
-        "v": 0.89,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.87,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -314,8 +107,8 @@
         "kept": false
       },
       {
-        "v": 0.76,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -339,6 +132,34 @@
       },
       {
         "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
