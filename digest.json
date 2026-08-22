@@ -1,14 +1,185 @@
 {
-  "generated_at": "2026-08-21T22:39:43.191617Z",
+  "generated_at": "2026-08-22T22:36:52.254660Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "missuo/herdrm",
+          "url": "https://github.com/missuo/herdrm",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you a single control center to monitor multiple AI coding agents running on your machine.",
+          "summary": "herdrm is a native Mac dashboard that lets you manage and view live terminal sessions for all your running AI coding agents.",
+          "signal": {
+            "metric": "stars",
+            "value": 604
+          },
+          "published_at": "2026-08-19T06:55:39Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "yetone/cumora",
+          "url": "https://github.com/yetone/cumora",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you a collaborative workspace where AI coding agents interact alongside you as real teammates.",
+          "summary": "Cumora is a cross-platform chat application where AI agents act as active team members powered by models like Claude Code or Codex.",
+          "signal": {
+            "metric": "stars",
+            "value": 2899
+          },
+          "published_at": "2026-08-17T09:13:52Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "bawadou/ai-data-extractor",
+          "url": "https://github.com/bawadou/ai-data-extractor",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It allows you to easily back up and inspect your conversations across popular AI coding assistants.",
+          "summary": "This open-source utility extracts and saves chat histories from AI coding tools like Claude Code, Cursor, and Windsurf.",
+          "signal": {
+            "metric": "stars",
+            "value": 541
+          },
+          "published_at": "2026-08-16T18:35:58Z",
+          "relevance": 0.84
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "iAmCorey/Wake",
+          "url": "https://github.com/iAmCorey/Wake",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides a clean desktop interface for tracking and managing your AI coding history.",
+          "summary": "Wake is a Mac application built with Rust that lets you search, browse, and resume previous coding agent sessions.",
+          "signal": {
+            "metric": "stars",
+            "value": 451
+          },
+          "published_at": "2026-08-18T09:46:23Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "browser-use/macos-harness",
+          "url": "https://github.com/browser-use/macos-harness",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is an approachable open-source project showing how AI agents interact directly with desktop operating systems.",
+          "summary": "This lightweight harness allows an LLM to directly control a Mac desktop to automate user tasks.",
+          "signal": {
+            "metric": "stars",
+            "value": 708
+          },
+          "published_at": "2026-08-17T00:22:20Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "AI boosted homework scores, then exam scores dropped: study",
+          "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers a crucial warning on how over-relying on AI during your CS studies can hinder deep learning.",
+          "summary": "A research study revealed that while AI assistants boosted students' homework marks, their exam scores dropped due to a lack of independent problem solving.",
+          "signal": {
+            "metric": "points",
+            "value": 369
+          },
+          "published_at": "2026-08-19T06:13:31Z",
+          "relevance": 0.95
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It teaches you practical troubleshooting tips for running local open-source AI models effectively on your own hardware.",
+          "summary": "This article discusses practical configuration mistakes—like incorrect prompt templates or context limits—that make open local LLMs perform poorly.",
+          "signal": {
+            "metric": "points",
+            "value": 106
+          },
+          "published_at": "2026-08-22T18:14:16Z",
+          "relevance": 0.89
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It covers a significant US legal ruling on immigration and international mobility.",
+          "summary": "A federal judge struck down a US policy banning visas for citizens of 75 nations, ruling it illegally discriminated based on nationality.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-22T20:53:19Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It keeps you informed on significant developments in international conflict news.",
+          "summary": "A Russian missile strike destroyed a shopping center in Ukraine, leaving at least 16 dead and over 130 injured.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-22T13:13:16Z",
+          "relevance": 0.81
+        },
+        {
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It highlights major international trade conflicts affecting global markets.",
+          "summary": "Canada has announced retaliatory tariffs against the US following a breakdown in trade negotiations between the two nations.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-22T20:10:00Z",
+          "relevance": 0.8
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 92,
-    "kept": 0,
+    "scanned": 101,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -31,8 +202,96 @@
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.86,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.89,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.83,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -64,94 +323,6 @@
       },
       {
         "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
         "kept": false
       },
       {
