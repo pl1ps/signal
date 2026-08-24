@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:36:31.131264Z",
+  "generated_at": "2026-08-24T22:42:42.077434Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,32 +7,66 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "jaredrhod/fullstack-agent",
-          "url": "https://github.com/jaredrhod/fullstack-agent",
+          "title": "only-cli/oc",
+          "url": "https://github.com/only-cli/oc",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides an easy installer to set up an AI agent equipped with voice, memory, and interactive tools.",
-          "summary": "An open-source setup wizard that helps developers quickly assemble a full-featured AI agent with multimodal capabilities.",
+          "why": "It is a practical tool for making web data cheap and fast for AI agents you build.",
+          "summary": "This tool condenses full web pages into lightweight text designed specifically for AI agents to browse efficiently.",
           "signal": {
             "metric": "stars",
-            "value": 308
+            "value": 281
           },
-          "published_at": "2026-08-17T04:00:03Z",
-          "relevance": 0.81
+          "published_at": "2026-08-18T13:00:30Z",
+          "relevance": 0.85
         },
         {
-          "title": "browser-use/macos-harness",
-          "url": "https://github.com/browser-use/macos-harness",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "A practical utility for extracting text from locked documents to feed into your AI prompts.",
+          "summary": "A simple tool that pulls text out of un-copyable files or images so you can easily pass the data to LLMs.",
+          "signal": {
+            "metric": "points",
+            "value": 116
+          },
+          "published_at": "2026-08-24T06:25:31Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "An inspiring example of how voice AI can be integrated into real-time interactive applications.",
+          "summary": "A project showing how a low-latency AI companion can listen, speak, and play Skyrim live alongside a gamer.",
+          "signal": {
+            "metric": "points",
+            "value": 331
+          },
+          "published_at": "2026-08-23T23:18:17Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "iAmCorey/Wake",
+          "url": "https://github.com/iAmCorey/Wake",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an open-source tool that shows how LLMs can automate tasks directly on a desktop operating system.",
-          "summary": "A lightweight harness designed to let AI models navigate and perform actions on a Mac environment.",
+          "why": "A helpful open-source tool if you manage multiple local AI coding assistant sessions.",
+          "summary": "An open-source desktop application built in Rust that helps you organize, search, and resume AI coding sessions on macOS.",
           "signal": {
             "metric": "stars",
-            "value": 728
+            "value": 585
           },
-          "published_at": "2026-08-17T00:22:20Z",
-          "relevance": 0.79
+          "published_at": "2026-08-18T09:46:23Z",
+          "relevance": 0.88
         }
       ]
     },
@@ -41,18 +75,32 @@
       "title": "Learn & Career",
       "items": [
         {
-          "title": "My agent.md to improve LLM-assisted code quality",
-          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "title": "I were 17, I'd learn how to build LLMs from scratch",
+          "url": "https://twitter.com/paulg/status/2091544343589060625",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This guide shares practical tips for structuring context files to improve the quality of AI-generated code.",
-          "summary": "A practical article explaining how to use an agent rules file to give LLMs clearer guidelines when assisting with programming.",
+          "why": "Great career advice for CS beginners aiming to build strong core fundamentals in AI.",
+          "summary": "A discussion emphasizing why learning to build Large Language Models from scratch is valuable practice for aspiring developers.",
           "signal": {
             "metric": "points",
-            "value": 94
+            "value": 498
           },
-          "published_at": "2026-08-23T17:59:52Z",
-          "relevance": 0.88
+          "published_at": "2026-08-23T20:38:09Z",
+          "relevance": 0.95
+        },
+        {
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Important reading on how AI reliance could affect your core coding skills as a CS student.",
+          "summary": "A critique arguing that over-relying on AI code generators can erode fundamental problem-solving and programming skills.",
+          "signal": {
+            "metric": "points",
+            "value": 393
+          },
+          "published_at": "2026-08-24T15:52:33Z",
+          "relevance": 0.92
         }
       ]
     },
@@ -61,60 +109,32 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It helps beginners understand common pitfalls like quantization and bad prompts that make open-source local LLMs perform poorly.",
-          "summary": "An accessible guide explaining why local AI models underperform and how proper configuration settings can fix them.",
-          "signal": {
-            "metric": "points",
-            "value": 470
-          },
-          "published_at": "2026-08-22T18:14:16Z",
-          "relevance": 0.9
-        },
-        {
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It helps you stay informed on AI industry trends regarding pricing and developer adoption across top models.",
-          "summary": "A story discussing how high API costs are pushing developers away from premium models like Claude toward affordable alternatives.",
+          "why": "It gives you insight into real-world AI business dynamics where lower cost beats top performance.",
+          "summary": "An article exploring why cheaper, accessible AI tools are gaining popularity over Anthropic high-end model.",
           "signal": {
             "metric": "points",
-            "value": 64
+            "value": 757
           },
           "published_at": "2026-08-23T18:16:37Z",
-          "relevance": 0.85
+          "relevance": 0.8
         },
         {
-          "title": "A battle over 'Italian brainrot' could shape who owns AI art",
-          "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It explains an important legal case that could define copyright ownership rules for AI-generated creative assets.",
-          "summary": "A court case involving viral AI characters is examining whether creators can legally claim copyright over AI-generated designs.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-21T22:16:46Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers an insightful real-world example of using modern AI models to solve complex coding and hardware challenges.",
-          "summary": "A developer details how they utilized multiple LLMs to successfully reverse-engineer and take control of their tablet.",
+          "why": "Helps you understand important security risks when running AI models locally on host machines.",
+          "summary": "Security research detailing how malicious inputs could theoretically trick local AI inference engines into running dangerous commands.",
           "signal": {
             "metric": "points",
-            "value": 581
+            "value": 68
           },
-          "published_at": "2026-08-23T14:23:09Z",
-          "relevance": 0.82
+          "published_at": "2026-08-24T19:03:06Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -123,39 +143,39 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers a significant economic and political development between major trade partners.",
-          "summary": "Trade talks between the US and Canada broke down, leading to threats of new tariffs and heightened trade friction.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-23T19:11:30Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-          "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+          "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+          "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
           "source": "news",
           "source_label": "NPR News",
-          "why": "It reports on a key legal ruling affecting international travel and visa policies.",
-          "summary": "A US judge struck down a policy that suspended visa issuance for citizens from 75 nations, declaring it illegal.",
+          "why": "Keeps you updated on major international trade developments and government sanctions.",
+          "summary": "The United States announced new economic pressures on Iran while Canada planned retaliatory tariffs on US goods.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-22T20:53:19Z",
-          "relevance": 0.78
+          "published_at": "2026-08-24T11:27:44Z",
+          "relevance": 0.75
+        },
+        {
+          "title": "Violence flares in Haiti as gang attack kills 30 people",
+          "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "Covers significant global events as Haiti faces stability challenges ahead of national elections.",
+          "summary": "A fatal gang attack in Haiti claimed 30 lives as the country prepares for its first elections in over ten years.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-24T20:23:39Z",
+          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 94,
-    "kept": 9,
+    "scanned": 90,
+    "kept": 10,
     "levels": [
       {
         "v": 0.25,
@@ -174,24 +194,48 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.81,
+        "v": 0.85,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.95,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -202,7 +246,11 @@
         "kept": false
       },
       {
-        "v": 0.79,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.92,
         "kept": true
       },
       {
@@ -234,44 +282,12 @@
         "kept": false
       },
       {
-        "v": 0.9,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.8,
@@ -294,36 +310,40 @@
         "kept": false
       },
       {
-        "v": 0.78,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.83,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.7,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
       },
       {
         "v": 0.0,
