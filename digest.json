@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:42:42.077434Z",
+  "generated_at": "2026-08-25T22:43:44.303773Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,45 +7,31 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "only-cli/oc",
-          "url": "https://github.com/only-cli/oc",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://github.com/ThinkOffApp/CarWatch",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It demonstrates a creative, practical project where AI models run on budget hardware to interact with real-world sensor data.",
+          "summary": "A developer successfully ran a 35-billion parameter Qwen language model on a Raspberry Pi, connecting it to a car's onboard diagnostics port to act as an offline automotive assistant.",
+          "signal": {
+            "metric": "points",
+            "value": 75
+          },
+          "published_at": "2026-08-25T15:20:20Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "missuo/herdrm",
+          "url": "https://github.com/missuo/herdrm",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical tool for making web data cheap and fast for AI agents you build.",
-          "summary": "This tool condenses full web pages into lightweight text designed specifically for AI agents to browse efficiently.",
+          "why": "This tool helps you organize and control multiple command-line AI coding assistants from one central dashboard.",
+          "summary": "Herdrm provides a native macOS terminal application that lets you manage, view, and interact with multiple active AI coding agents simultaneously across devices.",
           "signal": {
             "metric": "stars",
-            "value": 281
+            "value": 631
           },
-          "published_at": "2026-08-18T13:00:30Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "A practical utility for extracting text from locked documents to feed into your AI prompts.",
-          "summary": "A simple tool that pulls text out of un-copyable files or images so you can easily pass the data to LLMs.",
-          "signal": {
-            "metric": "points",
-            "value": 116
-          },
-          "published_at": "2026-08-24T06:25:31Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "url": "https://pantel.is/projects/ai-gaming-companion/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "An inspiring example of how voice AI can be integrated into real-time interactive applications.",
-          "summary": "A project showing how a low-latency AI companion can listen, speak, and play Skyrim live alongside a gamer.",
-          "signal": {
-            "metric": "points",
-            "value": 331
-          },
-          "published_at": "2026-08-23T23:18:17Z",
+          "published_at": "2026-08-19T06:55:39Z",
           "relevance": 0.82
         }
       ]
@@ -55,18 +41,32 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "iAmCorey/Wake",
-          "url": "https://github.com/iAmCorey/Wake",
+          "title": "GamePhanes/GamePhanes",
+          "url": "https://github.com/GamePhanes/GamePhanes",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A helpful open-source tool if you manage multiple local AI coding assistant sessions.",
-          "summary": "An open-source desktop application built in Rust that helps you organize, search, and resume AI coding sessions on macOS.",
+          "why": "It is an interesting open-source project combining AI agent development with game creation in the Godot engine.",
+          "summary": "GamePhanes is an open-source framework designed to train and benchmark AI agents as they generate code for the popular Godot game engine.",
           "signal": {
             "metric": "stars",
-            "value": 585
+            "value": 254
           },
-          "published_at": "2026-08-18T09:46:23Z",
+          "published_at": "2026-08-21T02:57:42Z",
           "relevance": 0.88
+        },
+        {
+          "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+          "url": "https://github.com/jeffhajewski/latticedb",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "As a computer science student, learning about lightweight embedded databases gives you valuable software architecture ideas for personal projects.",
+          "summary": "LatticeDB is an open-source embedded graph database designed to be simple to set up locally, similar to how SQLite works for relational databases.",
+          "signal": {
+            "metric": "points",
+            "value": 89
+          },
+          "published_at": "2026-08-25T16:52:05Z",
+          "relevance": 0.85
         }
       ]
     },
@@ -79,28 +79,14 @@
           "url": "https://twitter.com/paulg/status/2091544343589060625",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Great career advice for CS beginners aiming to build strong core fundamentals in AI.",
-          "summary": "A discussion emphasizing why learning to build Large Language Models from scratch is valuable practice for aspiring developers.",
+          "why": "This perspective from Y Combinator founder Paul Graham offers inspiring direction for aspiring CS students entering the AI era.",
+          "summary": "Paul Graham argues that young programmers should focus on building foundational Large Language Models from first principles rather than just relying on high-level API wrappers.",
           "signal": {
             "metric": "points",
-            "value": 498
+            "value": 592
           },
           "published_at": "2026-08-23T20:38:09Z",
           "relevance": 0.95
-        },
-        {
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Important reading on how AI reliance could affect your core coding skills as a CS student.",
-          "summary": "A critique arguing that over-relying on AI code generators can erode fundamental problem-solving and programming skills.",
-          "signal": {
-            "metric": "points",
-            "value": 393
-          },
-          "published_at": "2026-08-24T15:52:33Z",
-          "relevance": 0.92
         }
       ]
     },
@@ -109,31 +95,31 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It gives you insight into real-world AI business dynamics where lower cost beats top performance.",
-          "summary": "An article exploring why cheaper, accessible AI tools are gaining popularity over Anthropic high-end model.",
+          "why": "It covers a significant shift in AI hardware as major AI labs attempt to reduce reliance on Nvidia GPUs.",
+          "summary": "OpenAI is testing custom silicon chips codenamed Jalapeño, claiming in early benchmarks that they can outperform Nvidia's flagship AI processors.",
           "signal": {
             "metric": "points",
-            "value": 757
+            "value": 253
           },
-          "published_at": "2026-08-23T18:16:37Z",
-          "relevance": 0.8
+          "published_at": "2026-08-25T14:06:02Z",
+          "relevance": 0.84
         },
         {
-          "title": "LLMs could control their host machines by exploiting inference engines",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "title": "Python's pre-declared constants are kinda weird",
+          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Helps you understand important security risks when running AI models locally on host machines.",
-          "summary": "Security research detailing how malicious inputs could theoretically trick local AI inference engines into running dangerous commands.",
+          "why": "Understanding the nuances of Python's built-in behaviors helps you write cleaner code and avoid subtle bugs as you learn.",
+          "summary": "This article explores how Python handles pre-declared internal constants like True, False, and None under the hood, pointing out unusual quirks in language implementation.",
           "signal": {
             "metric": "points",
-            "value": 68
+            "value": 50
           },
-          "published_at": "2026-08-24T19:03:06Z",
+          "published_at": "2026-08-25T21:39:02Z",
           "relevance": 0.8
         }
       ]
@@ -143,38 +129,52 @@
       "title": "World",
       "items": [
         {
-          "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-          "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "Keeps you updated on major international trade developments and government sanctions.",
-          "summary": "The United States announced new economic pressures on Iran while Canada planned retaliatory tariffs on US goods.",
+          "source_label": "BBC World",
+          "why": "It keeps you informed on major top-tier diplomatic developments occurring between global superpowers.",
+          "summary": "Flight records and news reports indicate the director of the CIA made an unannounced diplomatic visit to Moscow for high-level talks amid international tensions.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-24T11:27:44Z",
-          "relevance": 0.75
+          "published_at": "2026-08-25T19:48:14Z",
+          "relevance": 0.88
         },
         {
-          "title": "Violence flares in Haiti as gang attack kills 30 people",
-          "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+          "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+          "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
           "source": "news",
           "source_label": "Al Jazeera",
-          "why": "Covers significant global events as Haiti faces stability challenges ahead of national elections.",
-          "summary": "A fatal gang attack in Haiti claimed 30 lives as the country prepares for its first elections in over ten years.",
+          "why": "It provides crucial coverage on major international events and ongoing global conflicts.",
+          "summary": "An airstrike destroyed a critical humanitarian aid supply warehouse in Gaza, escalating warnings of a severe breakdown in essential human supplies.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-24T20:23:39Z",
-          "relevance": 0.7
+          "published_at": "2026-08-25T21:26:25Z",
+          "relevance": 0.87
+        },
+        {
+          "title": "Brazil fines TikTok $30m for child data privacy violations",
+          "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It highlights global legal efforts to regulate tech giants over user privacy and child safety.",
+          "summary": "Brazilian regulators fined TikTok $30 million and ordered the deletion of illegally collected data belonging to underage users.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-25T22:06:49Z",
+          "relevance": 0.81
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 90,
+    "scanned": 101,
     "kept": 10,
     "levels": [
       {
@@ -194,11 +194,7 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
@@ -214,10 +210,6 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -230,7 +222,7 @@
         "kept": false
       },
       {
-        "v": 0.88,
+        "v": 0.82,
         "kept": true
       },
       {
@@ -250,83 +242,79 @@
         "kept": false
       },
       {
-        "v": 0.92,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.84,
         "kept": true
       },
       {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
+        "v": 0.88,
         "kept": true
       },
       {
@@ -342,23 +330,35 @@
         "kept": false
       },
       {
-        "v": 0.7,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.87,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
