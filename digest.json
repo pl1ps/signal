@@ -1,181 +1,10 @@
 {
-  "generated_at": "2026-08-25T22:43:44.303773Z",
+  "generated_at": "2026-08-27T03:17:36.454919Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-          "url": "https://github.com/ThinkOffApp/CarWatch",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It demonstrates a creative, practical project where AI models run on budget hardware to interact with real-world sensor data.",
-          "summary": "A developer successfully ran a 35-billion parameter Qwen language model on a Raspberry Pi, connecting it to a car's onboard diagnostics port to act as an offline automotive assistant.",
-          "signal": {
-            "metric": "points",
-            "value": 75
-          },
-          "published_at": "2026-08-25T15:20:20Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "missuo/herdrm",
-          "url": "https://github.com/missuo/herdrm",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This tool helps you organize and control multiple command-line AI coding assistants from one central dashboard.",
-          "summary": "Herdrm provides a native macOS terminal application that lets you manage, view, and interact with multiple active AI coding agents simultaneously across devices.",
-          "signal": {
-            "metric": "stars",
-            "value": 631
-          },
-          "published_at": "2026-08-19T06:55:39Z",
-          "relevance": 0.82
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "GamePhanes/GamePhanes",
-          "url": "https://github.com/GamePhanes/GamePhanes",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an interesting open-source project combining AI agent development with game creation in the Godot engine.",
-          "summary": "GamePhanes is an open-source framework designed to train and benchmark AI agents as they generate code for the popular Godot game engine.",
-          "signal": {
-            "metric": "stars",
-            "value": 254
-          },
-          "published_at": "2026-08-21T02:57:42Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-          "url": "https://github.com/jeffhajewski/latticedb",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "As a computer science student, learning about lightweight embedded databases gives you valuable software architecture ideas for personal projects.",
-          "summary": "LatticeDB is an open-source embedded graph database designed to be simple to set up locally, similar to how SQLite works for relational databases.",
-          "signal": {
-            "metric": "points",
-            "value": 89
-          },
-          "published_at": "2026-08-25T16:52:05Z",
-          "relevance": 0.85
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "I were 17, I'd learn how to build LLMs from scratch",
-          "url": "https://twitter.com/paulg/status/2091544343589060625",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This perspective from Y Combinator founder Paul Graham offers inspiring direction for aspiring CS students entering the AI era.",
-          "summary": "Paul Graham argues that young programmers should focus on building foundational Large Language Models from first principles rather than just relying on high-level API wrappers.",
-          "signal": {
-            "metric": "points",
-            "value": 592
-          },
-          "published_at": "2026-08-23T20:38:09Z",
-          "relevance": 0.95
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It covers a significant shift in AI hardware as major AI labs attempt to reduce reliance on Nvidia GPUs.",
-          "summary": "OpenAI is testing custom silicon chips codenamed Jalapeño, claiming in early benchmarks that they can outperform Nvidia's flagship AI processors.",
-          "signal": {
-            "metric": "points",
-            "value": 253
-          },
-          "published_at": "2026-08-25T14:06:02Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "Python's pre-declared constants are kinda weird",
-          "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Understanding the nuances of Python's built-in behaviors helps you write cleaner code and avoid subtle bugs as you learn.",
-          "summary": "This article explores how Python handles pre-declared internal constants like True, False, and None under the hood, pointing out unusual quirks in language implementation.",
-          "signal": {
-            "metric": "points",
-            "value": 50
-          },
-          "published_at": "2026-08-25T21:39:02Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It keeps you informed on major top-tier diplomatic developments occurring between global superpowers.",
-          "summary": "Flight records and news reports indicate the director of the CIA made an unannounced diplomatic visit to Moscow for high-level talks amid international tensions.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-25T19:48:14Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-          "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It provides crucial coverage on major international events and ongoing global conflicts.",
-          "summary": "An airstrike destroyed a critical humanitarian aid supply warehouse in Gaza, escalating warnings of a severe breakdown in essential human supplies.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-25T21:26:25Z",
-          "relevance": 0.87
-        },
-        {
-          "title": "Brazil fines TikTok $30m for child data privacy violations",
-          "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It highlights global legal efforts to regulate tech giants over user privacy and child safety.",
-          "summary": "Brazilian regulators fined TikTok $30 million and ordered the deletion of illegally collected data belonging to underage users.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-25T22:06:49Z",
-          "relevance": 0.81
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
     "scanned": 101,
-    "kept": 10,
+    "kept": 0,
     "levels": [
       {
         "v": 0.25,
@@ -198,43 +27,19 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.95,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
@@ -274,14 +79,6 @@
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -298,24 +95,16 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.9,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.88,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -346,19 +135,59 @@
         "kept": false
       },
       {
-        "v": 0.81,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.87,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
