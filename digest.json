@@ -1,14 +1,171 @@
 {
-  "generated_at": "2026-08-27T03:17:36.454919Z",
+  "generated_at": "2026-08-28T06:06:14.256743Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "wide-trace/open-higgsfield",
+          "url": "https://github.com/wide-trace/open-higgsfield",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides a straightforward open-source studio to try out different AI image and video generation models.",
+          "summary": "Open Higgsfield is a unified interface for visual AI generation that lets users run multiple media models in one place.",
+          "signal": {
+            "metric": "stars",
+            "value": 865
+          },
+          "published_at": "2026-08-26T06:09:58Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "ApodexAI/FrontierAgent",
+          "url": "https://github.com/ApodexAI/FrontierAgent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you an easy-to-run open-source framework to experiment with AI agents directly from your terminal.",
+          "summary": "FrontierAgent is a command-line tool for running AI agents on macOS and Linux without needing complex dependencies like Docker.",
+          "signal": {
+            "metric": "stars",
+            "value": 1167
+          },
+          "published_at": "2026-08-22T05:07:35Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This is a great hands-on resource to learn core AI concepts without getting lost in complex software frameworks.",
+          "summary": "A collection of free Google Colab notebooks that teach how to build RAG (Retrieval-Augmented Generation) and AI agents using pure, framework-free code.",
+          "signal": {
+            "metric": "points",
+            "value": 79
+          },
+          "published_at": "2026-08-27T21:46:39Z",
+          "relevance": 0.95
+        },
+        {
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Understanding community expectations around AI-generated code is essential when building open-source contributions for your resume.",
+          "summary": "Open-source maintainers discuss the negative impact of low-quality, AI-generated pull requests submitted by job candidates trying to pad their GitHub activity.",
+          "signal": {
+            "metric": "points",
+            "value": 100
+          },
+          "published_at": "2026-08-28T03:49:33Z",
+          "relevance": 0.88
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This massive acquisition combines the dominant AI hardware manufacturer with the largest open-source model hub.",
+          "summary": "Nvidia has agreed to acquire Hugging Face, the primary hosting platform for open-source AI models and datasets, for $13 billion.",
+          "signal": {
+            "metric": "points",
+            "value": 1869
+          },
+          "published_at": "2026-08-27T01:12:55Z",
+          "relevance": 0.92
+        },
+        {
+          "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Reading real-world optimization case studies is a useful way to learn fundamental computer science principles.",
+          "summary": "Cloudflare engineers share how they redesigned their DNS cache data structures to save 100 terabytes of memory across global servers.",
+          "signal": {
+            "metric": "points",
+            "value": 649
+          },
+          "published_at": "2026-08-27T17:17:57Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+          "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This ruling highlights the legal and ethical tension between leading AI startups and military policy.",
+          "summary": "A federal judge ruled that the US government acted illegally when penalizing AI startup Anthropic over its stance on military AI usage.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-28T03:41:59Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "U.S. State Department pauses immigrant visa applications",
+          "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This major policy announcement impacts international travel and global workforce mobility.",
+          "summary": "The U.S. State Department has paused processing immigrant visa applications across all diplomatic posts.",
+          "signal": {
+            "metric": "points",
+            "value": 801
+          },
+          "published_at": "2026-08-26T17:22:16Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "Congo launches Ebola vaccination drive to tackle deadly outbreak",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/congo-launches-ebola-vaccination-drive-to-tackle-deadly-outbreak?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "This is a critical global public health update on efforts to contain a severe disease outbreak.",
+          "summary": "The Democratic Republic of Congo has begun an urgent vaccination drive to stop the spread of a deadly Ebola outbreak.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-28T02:34:59Z",
+          "relevance": 0.75
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 101,
-    "kept": 0,
+    "scanned": 105,
+    "kept": 9,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -31,16 +188,16 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.95,
+        "kept": true
       },
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.92,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -111,8 +268,20 @@
         "kept": false
       },
       {
+        "v": 0.88,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -137,6 +306,14 @@
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -167,8 +344,12 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.0,
@@ -179,32 +360,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       }
     ]
   },
