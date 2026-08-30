@@ -1,86 +1,94 @@
 {
-  "generated_at": "2026-08-29T03:43:06.347044Z",
+  "generated_at": "2026-08-30T00:19:37.738039Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "ai-tools",
-      "title": "AI & Tools",
+      "id": "code-projects",
+      "title": "Code & Projects",
       "items": [
         {
-          "title": "GLM-5.3 is now open-weight",
-          "url": "https://huggingface.co/zai-org/GLM-5.3",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you access to a powerful open-source AI model that you can examine and host yourself.",
-          "summary": "GLM-5.3 has made its model weights publicly available, allowing developers to run and fine-tune the LLM independently.",
-          "signal": {
-            "metric": "points",
-            "value": 616
-          },
-          "published_at": "2026-08-28T15:20:13Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "s0xDk/refactoring-ui-skill",
-          "url": "https://github.com/s0xDk/refactoring-ui-skill",
+          "title": "leopard627/fire-your-seo-agency",
+          "url": "https://github.com/leopard627/fire-your-seo-agency",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you generate better UI code by applying proven design principles to your frontend projects.",
-          "summary": "This Claude Code extension automatically applies design rules from Refactoring UI, improving typography, spacing, and visual hierarchy.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 400
+            "value": 343
           },
-          "published_at": "2026-08-26T22:42:48Z",
-          "relevance": 0.85
+          "published_at": "2026-08-26T23:47:02Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "S1N6H/pentest-harness",
+          "url": "https://github.com/S1N6H/pentest-harness",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 284
+          },
+          "published_at": "2026-08-26T04:57:19Z",
+          "relevance": 0.0
         },
         {
           "title": "XiaoDuoYa/codex-with-chatgpt",
           "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It showcases a practical workflow for dividing high-level AI planning and low-level code execution.",
-          "summary": "This project pairs ChatGPT as an architecture planning engine with Codex to automatically carry out software task execution.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 390
+            "value": 915
           },
           "published_at": "2026-08-28T12:57:24Z",
-          "relevance": 0.85
+          "relevance": 0.0
         },
         {
-          "title": "wide-trace/open-higgsfield",
-          "url": "https://github.com/wide-trace/open-higgsfield",
+          "title": "amosblomqvist/learn",
+          "url": "https://github.com/amosblomqvist/learn",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a beginner-friendly open-source environment to experiment with open image and video AI models.",
-          "summary": "Open-Higgsfield is an open-source visual studio interface that aggregates multiple image and video generation AI models into one interface.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 977
+            "value": 767
           },
-          "published_at": "2026-08-26T06:09:58Z",
-          "relevance": 0.85
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
+          "published_at": "2026-08-24T16:45:07Z",
+          "relevance": 0.0
+        },
         {
-          "title": "HTTPX2 – A next-generation HTTP client for Python",
-          "url": "https://github.com/pydantic/httpx2",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "HTTP clients are essential Python tools for interacting with web APIs and gathering data.",
-          "summary": "HTTPX2 is a modern Python library for making HTTP requests, featuring support for asynchronous programming and web APIs.",
+          "title": "MetaMask-AI/metamask-desktop",
+          "url": "https://github.com/MetaMask-AI/metamask-desktop",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 117
+            "metric": "stars",
+            "value": 690
           },
-          "published_at": "2026-08-28T11:41:45Z",
-          "relevance": 0.88
+          "published_at": "2026-08-28T08:07:10Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Nanako0129/sepia",
+          "url": "https://github.com/Nanako0129/sepia",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 652
+          },
+          "published_at": "2026-08-28T05:56:49Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -89,18 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+          "title": "GLM-5.3 is now open-weight",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Anthropic is a top AI creator, so this ruling has big implications for the AI industry and tech policy.",
-          "summary": "A federal judge ruled that government blacklisting actions against leading AI developer Anthropic were unlawful.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 554
+            "value": 780
           },
-          "published_at": "2026-08-28T02:03:38Z",
-          "relevance": 0.9
+          "published_at": "2026-08-28T15:20:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "EVE Online moves to Python 3",
+          "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 294
+          },
+          "published_at": "2026-08-25T13:04:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 272
+          },
+          "published_at": "2026-08-28T23:27:45Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 224
+          },
+          "published_at": "2026-08-29T17:19:47Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 199
+          },
+          "published_at": "2026-08-29T01:24:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Time complexity of operations on Python's built-in types",
+          "url": "https://docs.python.org/3.16/library/time-complexity.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 93
+          },
+          "published_at": "2026-08-25T15:15:08Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -109,239 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "This conflict impacts major international shipping channels and global stability.",
-          "summary": "Military tensions have escalated in the Middle East as Iran claims control of the Strait of Hormuz while the US maintains a naval blockade.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-29T00:00:00Z",
-          "relevance": 0.82
+          "published_at": "2026-08-29T20:13:16Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+          "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-29T17:52:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+          "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-29T00:56:19Z",
+          "relevance": 0.0
         },
         {
           "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
           "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This represents a major development in international relations and global energy market control.",
-          "summary": "The US announced an agreement granting control over Venezuela's oil reserves in an effort to stabilize the country's economy.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-29T02:42:27Z",
-          "relevance": 0.8
+          "published_at": "2026-08-29T22:40:51Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-29T15:54:40Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Opinion: Remembering Dolly Parton",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-29T12:00:00Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 8,
+    "scanned": 103,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -353,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
