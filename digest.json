@@ -1,94 +1,148 @@
 {
-  "generated_at": "2026-08-30T00:19:37.738039Z",
+  "generated_at": "2026-08-31T00:36:09.793829Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "leopard627/fire-your-seo-agency",
-          "url": "https://github.com/leopard627/fire-your-seo-agency",
+          "title": "damejan80/tokentab",
+          "url": "https://github.com/damejan80/tokentab",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It helps you monitor and manage API costs when spending money on AI developer tools.",
+          "summary": "A command-line tool that parses session logs from AI assistants like Claude Code, Codex, and Gemini CLI to calculate API spending. It breaks down API token costs by model, project, and daily usage.",
           "signal": {
             "metric": "stars",
-            "value": 343
+            "value": 353
           },
-          "published_at": "2026-08-26T23:47:02Z",
-          "relevance": 0.0
+          "published_at": "2026-08-27T14:16:09Z",
+          "relevance": 0.89
         },
         {
-          "title": "S1N6H/pentest-harness",
-          "url": "https://github.com/S1N6H/pentest-harness",
+          "title": "hkqr/my-free-code",
+          "url": "https://github.com/hkqr/my-free-code",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It gives you a free, flexible tool to manage and experiment with different AI models while building with coding agents.",
+          "summary": "An open-source AI gateway that lets you connect Claude Code and other coding agents to multiple AI model providers. It includes features like automatic fallback options and support for running models locally on your computer.",
           "signal": {
             "metric": "stars",
-            "value": 284
+            "value": 351
           },
-          "published_at": "2026-08-26T04:57:19Z",
-          "relevance": 0.0
+          "published_at": "2026-08-27T17:59:23Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "s0xDk/refactoring-ui-skill",
+          "url": "https://github.com/s0xDk/refactoring-ui-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It brings clear, beginner-friendly UI design principles into your AI coding agent workflow.",
+          "summary": "A skill extension for Claude Code based on the practical design book Refactoring UI. It provides automated design checks for spacing, typography, colors, and visual hierarchy directly in your workspace.",
+          "signal": {
+            "metric": "stars",
+            "value": 448
+          },
+          "published_at": "2026-08-26T22:42:48Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "cbrock84/headcount",
+          "url": "https://github.com/cbrock84/headcount",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical example of how AI agents can be modularized and structured for complex developer workflows.",
+          "summary": "An extension system for Claude Code that organizes modular AI skills into departments like a company structure. You can install individual skills independently depending on what task you want the agent to handle.",
+          "signal": {
+            "metric": "stars",
+            "value": 688
+          },
+          "published_at": "2026-08-28T18:03:04Z",
+          "relevance": 0.85
         },
         {
           "title": "XiaoDuoYa/codex-with-chatgpt",
           "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It demonstrates a practical technique for using multiple AI tools together to improve automated coding workflows.",
+          "summary": "A developer tool setup that combines ChatGPT's reasoning capabilities with the Codex framework. It lets ChatGPT handle high-level planning while Codex executes the actual code changes.",
           "signal": {
             "metric": "stars",
-            "value": 915
+            "value": 1380
           },
           "published_at": "2026-08-28T12:57:24Z",
-          "relevance": 0.0
-        },
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
         {
-          "title": "amosblomqvist/learn",
-          "url": "https://github.com/amosblomqvist/learn",
+          "title": "jub0t/WolfCut",
+          "url": "https://github.com/jub0t/WolfCut",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a modern open-source project showing how consumer desktop tools are built and maintained.",
+          "summary": "An open-source desktop video editor designed as a free alternative to commercial applications like CapCut. It gives users full control over video processing without subscription fees or watermarks.",
           "signal": {
             "metric": "stars",
-            "value": 767
+            "value": 712
           },
-          "published_at": "2026-08-24T16:45:07Z",
-          "relevance": 0.0
+          "published_at": "2026-08-25T18:34:47Z",
+          "relevance": 0.79
         },
         {
-          "title": "MetaMask-AI/metamask-desktop",
-          "url": "https://github.com/MetaMask-AI/metamask-desktop",
+          "title": "chrisgreg/boop",
+          "url": "https://github.com/chrisgreg/boop",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a straightforward, clean open-source project that shows how simple backend utilities work.",
+          "summary": "A lightweight, self-hosted developer tool that sends push notifications to your phone whenever an event occurs in your apps. It serves as a simple alternative to complex logging and alerting services.",
           "signal": {
             "metric": "stars",
-            "value": 690
+            "value": 602
           },
-          "published_at": "2026-08-28T08:07:10Z",
-          "relevance": 0.0
+          "published_at": "2026-08-28T15:38:33Z",
+          "relevance": 0.76
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "Bug Blindness",
+          "url": "https://danluu.com/bug-blind/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Developing strong debugging habits early in your programming journey is essential for growing as a software engineer.",
+          "summary": "A developer article discussing why programmers often overlook subtle bugs in their own code and how to train yourself to spot them. It covers practical habits for code reviewing and testing.",
+          "signal": {
+            "metric": "points",
+            "value": 382
+          },
+          "published_at": "2026-08-30T00:21:40Z",
+          "relevance": 0.83
         },
         {
-          "title": "Nanako0129/sepia",
-          "url": "https://github.com/Nanako0129/sepia",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "title": "What my dad taught me about AI coding in the 90s",
+          "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers timeless perspective on how software development evolves and how to build strong fundamentals alongside AI tools.",
+          "summary": "A developer essay reflecting on foundational principles of software construction and automation lessons learned across generations. It compares modern AI-assisted development with historical approaches to code generation.",
           "signal": {
-            "metric": "stars",
-            "value": 652
+            "metric": "points",
+            "value": 128
           },
-          "published_at": "2026-08-28T05:56:49Z",
-          "relevance": 0.0
+          "published_at": "2026-08-24T13:19:55Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -97,88 +151,32 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "GLM-5.3 is now open-weight",
-          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It highlights an important legal victory for open-source software and technology policy.",
+          "summary": "California lawmakers passed a bill exempting open-source operating systems like Linux from age-verification regulations. The decision protects open-source distributions from impossible compliance burdens.",
           "signal": {
             "metric": "points",
-            "value": 780
+            "value": 692
           },
-          "published_at": "2026-08-28T15:20:13Z",
-          "relevance": 0.0
+          "published_at": "2026-08-30T03:15:36Z",
+          "relevance": 0.81
         },
         {
-          "title": "EVE Online moves to Python 3",
-          "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+          "title": "RISC-V is now officially supported by CPython",
+          "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "As a CS student learning Python, it is helpful to know how major computer architectures are supported by core software.",
+          "summary": "CPython, the standard implementation of the Python programming language, now officially supports the open RISC-V processor architecture. This ensures Python code runs reliably on modern RISC-V hardware without special workarounds.",
           "signal": {
             "metric": "points",
             "value": 294
           },
-          "published_at": "2026-08-25T13:04:55Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 272
-          },
-          "published_at": "2026-08-28T23:27:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 224
-          },
-          "published_at": "2026-08-29T17:19:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "StemDeck, a free, open-source and local AI stem separator",
-          "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 199
-          },
-          "published_at": "2026-08-29T01:24:13Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Time complexity of operations on Python's built-in types",
-          "url": "https://docs.python.org/3.16/library/time-complexity.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 93
-          },
-          "published_at": "2026-08-25T15:15:08Z",
-          "relevance": 0.0
+          "published_at": "2026-08-24T20:12:22Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -191,291 +189,235 @@
           "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It is critical major world news regarding the ongoing conflict in Ukraine.",
+          "summary": "A Russian strike on a weapons depot near residential areas in Kyiv killed at least 37 people and forced widespread evacuations. Ukrainian officials have opened an official investigation into the disaster.",
           "signal": {
             "metric": "",
             "value": 0
           },
           "published_at": "2026-08-29T20:13:16Z",
-          "relevance": 0.0
+          "relevance": 0.9
         },
         {
-          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-          "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-29T17:52:42Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-          "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-29T00:56:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-29T22:40:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-          "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+          "title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
           "source": "news",
           "source_label": "NPR News",
-          "why": "",
-          "summary": "",
+          "why": "It is a major milestone in global science and space exploration.",
+          "summary": "NASA launched a major new space telescope designed to survey the sky and discover thousands of planets outside our solar system. The mission aims to help scientists better understand cosmic history and planetary formation.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-29T15:54:40Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Opinion: Remembering Dolly Parton",
-          "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-29T12:00:00Z",
-          "relevance": 0.0
+          "published_at": "2026-08-30T10:30:00Z",
+          "relevance": 0.87
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 103,
-    "kept": 18,
+    "scanned": 100,
+    "kept": 13,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.87,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.79,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.76,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +429,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
