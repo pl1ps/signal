@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:36:09.793829Z",
+  "generated_at": "2026-09-01T01:17:16.925911Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,27 +11,13 @@
           "url": "https://github.com/damejan80/tokentab",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you monitor and manage API costs when spending money on AI developer tools.",
-          "summary": "A command-line tool that parses session logs from AI assistants like Claude Code, Codex, and Gemini CLI to calculate API spending. It breaks down API token costs by model, project, and daily usage.",
+          "why": "It helps you keep track of how much API usage costs when using AI coding assistants.",
+          "summary": "A command-line tool that parses session logs from AI coding tools to compute usage costs by model and project.",
           "signal": {
             "metric": "stars",
-            "value": 353
+            "value": 673
           },
           "published_at": "2026-08-27T14:16:09Z",
-          "relevance": 0.89
-        },
-        {
-          "title": "hkqr/my-free-code",
-          "url": "https://github.com/hkqr/my-free-code",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It gives you a free, flexible tool to manage and experiment with different AI models while building with coding agents.",
-          "summary": "An open-source AI gateway that lets you connect Claude Code and other coding agents to multiple AI model providers. It includes features like automatic fallback options and support for running models locally on your computer.",
-          "signal": {
-            "metric": "stars",
-            "value": 351
-          },
-          "published_at": "2026-08-27T17:59:23Z",
           "relevance": 0.88
         },
         {
@@ -39,42 +25,28 @@
           "url": "https://github.com/s0xDk/refactoring-ui-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It brings clear, beginner-friendly UI design principles into your AI coding agent workflow.",
-          "summary": "A skill extension for Claude Code based on the practical design book Refactoring UI. It provides automated design checks for spacing, typography, colors, and visual hierarchy directly in your workspace.",
+          "why": "It helps you easily improve the design and visual quality of web apps you build with AI assistance.",
+          "summary": "A Claude Code skill that automatically applies clean UI design principles from the Refactoring UI book to your web projects.",
           "signal": {
             "metric": "stars",
-            "value": 448
+            "value": 464
           },
           "published_at": "2026-08-26T22:42:48Z",
-          "relevance": 0.86
-        },
-        {
-          "title": "cbrock84/headcount",
-          "url": "https://github.com/cbrock84/headcount",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical example of how AI agents can be modularized and structured for complex developer workflows.",
-          "summary": "An extension system for Claude Code that organizes modular AI skills into departments like a company structure. You can install individual skills independently depending on what task you want the agent to handle.",
-          "signal": {
-            "metric": "stars",
-            "value": 688
-          },
-          "published_at": "2026-08-28T18:03:04Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "XiaoDuoYa/codex-with-chatgpt",
-          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It demonstrates a practical technique for using multiple AI tools together to improve automated coding workflows.",
-          "summary": "A developer tool setup that combines ChatGPT's reasoning capabilities with the Codex framework. It lets ChatGPT handle high-level planning while Codex executes the actual code changes.",
-          "signal": {
-            "metric": "stars",
-            "value": 1380
-          },
-          "published_at": "2026-08-28T12:57:24Z",
           "relevance": 0.82
+        },
+        {
+          "title": "wide-trace/open-higgsfield",
+          "url": "https://github.com/wide-trace/open-higgsfield",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you an easy, open-source way to test and interact with various media generation models.",
+          "summary": "An open-source desktop app that brings image and video generation models into a single user interface.",
+          "signal": {
+            "metric": "stars",
+            "value": 1143
+          },
+          "published_at": "2026-08-26T06:09:58Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -83,66 +55,32 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "jub0t/WolfCut",
-          "url": "https://github.com/jub0t/WolfCut",
+          "title": "crmne/fastpotify",
+          "url": "https://github.com/crmne/fastpotify",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a modern open-source project showing how consumer desktop tools are built and maintained.",
-          "summary": "An open-source desktop video editor designed as a free alternative to commercial applications like CapCut. It gives users full control over video processing without subscription fees or watermarks.",
+          "why": "It is a practical open-source Rust application you can examine to see how fast desktop apps are built.",
+          "summary": "A lightweight, native Spotify client written in Rust that supports local audio playback and Spotify Connect.",
           "signal": {
             "metric": "stars",
-            "value": 712
+            "value": 753
           },
-          "published_at": "2026-08-25T18:34:47Z",
-          "relevance": 0.79
-        },
-        {
-          "title": "chrisgreg/boop",
-          "url": "https://github.com/chrisgreg/boop",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a straightforward, clean open-source project that shows how simple backend utilities work.",
-          "summary": "A lightweight, self-hosted developer tool that sends push notifications to your phone whenever an event occurs in your apps. It serves as a simple alternative to complex logging and alerting services.",
-          "signal": {
-            "metric": "stars",
-            "value": 602
-          },
-          "published_at": "2026-08-28T15:38:33Z",
+          "published_at": "2026-08-27T12:46:32Z",
           "relevance": 0.76
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "Bug Blindness",
-          "url": "https://danluu.com/bug-blind/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Developing strong debugging habits early in your programming journey is essential for growing as a software engineer.",
-          "summary": "A developer article discussing why programmers often overlook subtle bugs in their own code and how to train yourself to spot them. It covers practical habits for code reviewing and testing.",
-          "signal": {
-            "metric": "points",
-            "value": 382
-          },
-          "published_at": "2026-08-30T00:21:40Z",
-          "relevance": 0.83
         },
         {
-          "title": "What my dad taught me about AI coding in the 90s",
-          "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+          "title": "OpenShot 4.0 – Open-source video editor",
+          "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers timeless perspective on how software development evolves and how to build strong fundamentals alongside AI tools.",
-          "summary": "A developer essay reflecting on foundational principles of software construction and automation lessons learned across generations. It compares modern AI-assisted development with historical approaches to code generation.",
+          "why": "It is a major release of a popular open-source software project worth keeping on your radar.",
+          "summary": "OpenShot has released version 4.0 of its free, open-source video editing software.",
           "signal": {
             "metric": "points",
-            "value": 128
+            "value": 534
           },
-          "published_at": "2026-08-24T13:19:55Z",
-          "relevance": 0.8
+          "published_at": "2026-08-31T09:59:05Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -151,31 +89,59 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights an important legal victory for open-source software and technology policy.",
-          "summary": "California lawmakers passed a bill exempting open-source operating systems like Linux from age-verification regulations. The decision protects open-source distributions from impossible compliance burdens.",
+          "why": "This major Chrome update affects browser extensions, privacy tools, and web development practices.",
+          "summary": "Google has disabled older Manifest V2 browser extensions in Chrome, removing popular tools like uBlock Origin from its store.",
           "signal": {
             "metric": "points",
-            "value": 692
+            "value": 464
           },
-          "published_at": "2026-08-30T03:15:36Z",
-          "relevance": 0.81
+          "published_at": "2026-08-31T21:10:58Z",
+          "relevance": 0.86
         },
         {
-          "title": "RISC-V is now officially supported by CPython",
-          "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+          "title": "Agent memory as a file format",
+          "url": "https://calpaterson.com/memoryfields.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a CS student learning Python, it is helpful to know how major computer architectures are supported by core software.",
-          "summary": "CPython, the standard implementation of the Python programming language, now officially supports the open RISC-V processor architecture. This ensures Python code runs reliably on modern RISC-V hardware without special workarounds.",
+          "why": "Understanding how AI agents store long-term memory is key as you learn to build persistent AI tools.",
+          "summary": "An article discussing the idea of standardizing AI agent memory into a single portable file format.",
           "signal": {
             "metric": "points",
-            "value": 294
+            "value": 161
           },
-          "published_at": "2026-08-24T20:12:22Z",
+          "published_at": "2026-08-31T11:17:25Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "The U.S. sues Amazon again",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "Major antitrust actions against tech giants shape the tech industry ecosystem you are preparing to enter.",
+          "summary": "Federal regulators and 22 US states filed a lawsuit accusing Amazon of inflating advertising costs for sellers.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-08-31T20:17:03Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It highlights how developers are increasingly using hardware like Mac Minis to run local AI models efficiently.",
+          "summary": "Surging developer demand for compact Mac hardware to run AI models locally has caught Apple off guard.",
+          "signal": {
+            "metric": "points",
+            "value": 288
+          },
+          "published_at": "2026-08-31T12:41:22Z",
           "relevance": 0.78
         }
       ]
@@ -185,47 +151,47 @@
       "title": "World",
       "items": [
         {
-          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "title": "US and Iran trade strikes for first time in weeks",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It is critical major world news regarding the ongoing conflict in Ukraine.",
-          "summary": "A Russian strike on a weapons depot near residential areas in Kyiv killed at least 37 people and forced widespread evacuations. Ukrainian officials have opened an official investigation into the disaster.",
+          "why": "This is major world news regarding escalating geopolitical tension in the Middle East.",
+          "summary": "US forces and Iranian military exchanged direct strikes in the Strait of Hormuz for the first time since July.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-29T20:13:16Z",
-          "relevance": 0.9
+          "published_at": "2026-08-31T13:47:30Z",
+          "relevance": 0.8
         },
         {
-          "title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+          "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+          "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It is a major milestone in global science and space exploration.",
-          "summary": "NASA launched a major new space telescope designed to survey the sky and discover thousands of planets outside our solar system. The mission aims to help scientists better understand cosmic history and planetary formation.",
+          "source_label": "BBC World",
+          "why": "This covers major international news regarding a severe natural disaster in Nepal.",
+          "summary": "Emergency crews in Nepal are using explosives to reach trapped workers after devastating flooding killed nearly 1,000 people.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-30T10:30:00Z",
-          "relevance": 0.87
+          "published_at": "2026-08-31T17:30:47Z",
+          "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 13,
+    "scanned": 99,
+    "kept": 11,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.25,
@@ -233,11 +199,51 @@
       },
       {
         "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
         "v": 0.82,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -260,28 +266,16 @@
         "kept": false
       },
       {
-        "v": 0.86,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.8,
@@ -292,35 +286,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.87,
+        "v": 0.82,
         "kept": true
       },
       {
@@ -340,7 +306,11 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -356,19 +326,7 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.79,
-        "kept": true
-      },
-      {
-        "v": 0.81,
+        "v": 0.8,
         "kept": true
       },
       {
@@ -384,19 +342,7 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.83,
+        "v": 0.88,
         "kept": true
       },
       {
@@ -404,8 +350,28 @@
         "kept": false
       },
       {
-        "v": 0.89,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.86,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
