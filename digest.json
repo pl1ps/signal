@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:17:16.925911Z",
+  "generated_at": "2026-09-02T00:11:33.731111Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,45 +7,73 @@
       "title": "AI & Tools",
       "items": [
         {
+          "title": "useagenthq/useagent",
+          "url": "https://github.com/useagenthq/useagent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This open-source project demonstrates how AI agents can run in cloud environments to complete end-to-end tasks for developers.",
+          "summary": "An open-source AI coworker system where agents run inside their own cloud computers to build web applications and write pull requests. It integrates with tools like Claude Code and OpenAI Codex.",
+          "signal": {
+            "metric": "stars",
+            "value": 269
+          },
+          "published_at": "2026-08-29T21:14:31Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "hkqr/my-free-code",
+          "url": "https://github.com/hkqr/my-free-code",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides an open-source gateway to manage model routing and fallbacks when building with AI coding agents.",
+          "summary": "An open-source tool that acts as a central hub for connecting different AI model providers to your coding workflows. It supports model routing, streaming, and local model integration.",
+          "signal": {
+            "metric": "stars",
+            "value": 617
+          },
+          "published_at": "2026-08-27T17:59:23Z",
+          "relevance": 0.85
+        },
+        {
           "title": "damejan80/tokentab",
           "url": "https://github.com/damejan80/tokentab",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you keep track of how much API usage costs when using AI coding assistants.",
-          "summary": "A command-line tool that parses session logs from AI coding tools to compute usage costs by model and project.",
+          "why": "It is a practical tool that helps you track and control your API costs when experimenting with AI coding tools.",
+          "summary": "A command-line tool that reads logs from AI coding sessions to show how much money you spent on API calls by project and model.",
           "signal": {
             "metric": "stars",
-            "value": 673
+            "value": 1135
           },
           "published_at": "2026-08-27T14:16:09Z",
-          "relevance": 0.88
+          "relevance": 0.84
         },
         {
-          "title": "s0xDk/refactoring-ui-skill",
-          "url": "https://github.com/s0xDk/refactoring-ui-skill",
+          "title": "cbrock84/headcount",
+          "url": "https://github.com/cbrock84/headcount",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you easily improve the design and visual quality of web apps you build with AI assistance.",
-          "summary": "A Claude Code skill that automatically applies clean UI design principles from the Refactoring UI book to your web projects.",
+          "why": "It shows a creative open-source approach to organizing complex AI agent teams for software development.",
+          "summary": "An organizational framework for Claude Code that structures AI agents into specialized virtual departments with over 125 modular skills.",
           "signal": {
             "metric": "stars",
-            "value": 464
+            "value": 944
           },
-          "published_at": "2026-08-26T22:42:48Z",
+          "published_at": "2026-08-28T18:03:04Z",
           "relevance": 0.82
         },
         {
-          "title": "wide-trace/open-higgsfield",
-          "url": "https://github.com/wide-trace/open-higgsfield",
+          "title": "XiaoDuoYa/codex-with-chatgpt",
+          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you an easy, open-source way to test and interact with various media generation models.",
-          "summary": "An open-source desktop app that brings image and video generation models into a single user interface.",
+          "why": "It offers a practical workflow combining ChatGPT's reasoning strengths with Codex's code execution.",
+          "summary": "A developer tool that uses ChatGPT to plan software architecture while handing off code execution to OpenAI Codex.",
           "signal": {
             "metric": "stars",
-            "value": 1143
+            "value": 2124
           },
-          "published_at": "2026-08-26T06:09:58Z",
+          "published_at": "2026-08-28T12:57:24Z",
           "relevance": 0.8
         }
       ]
@@ -59,28 +87,34 @@
           "url": "https://github.com/crmne/fastpotify",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical open-source Rust application you can examine to see how fast desktop apps are built.",
-          "summary": "A lightweight, native Spotify client written in Rust that supports local audio playback and Spotify Connect.",
+          "why": "This is a clean open-source project that serves as a practical example if you want to learn Rust development.",
+          "summary": "A fast, lightweight Spotify client written in Rust that supports local audio playback and cross-platform desktop use.",
           "signal": {
             "metric": "stars",
-            "value": 753
+            "value": 1529
           },
           "published_at": "2026-08-27T12:46:32Z",
-          "relevance": 0.76
-        },
+          "relevance": 0.78
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
         {
-          "title": "OpenShot 4.0 – Open-source video editor",
-          "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a major release of a popular open-source software project worth keeping on your radar.",
-          "summary": "OpenShot has released version 4.0 of its free, open-source video editing software.",
+          "title": "mouredev/hello-sdd",
+          "url": "https://github.com/mouredev/hello-sdd",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Learning specification-driven development early will help you design software better before writing code.",
+          "summary": "An open-source course covering Spec-Driven Development, a technique where you write clear specifications before coding.",
           "signal": {
-            "metric": "points",
-            "value": 534
+            "metric": "stars",
+            "value": 397
           },
-          "published_at": "2026-08-31T09:59:05Z",
-          "relevance": 0.75
+          "published_at": "2026-08-27T11:49:48Z",
+          "relevance": 0.82
         }
       ]
     },
@@ -89,60 +123,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+          "title": "AI Can Make You Suck Faster Too",
+          "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This major Chrome update affects browser extensions, privacy tools, and web development practices.",
-          "summary": "Google has disabled older Manifest V2 browser extensions in Chrome, removing popular tools like uBlock Origin from its store.",
+          "why": "As a beginner programmer, this provides an important reality check on avoiding over-reliance on AI coding tools.",
+          "summary": "An opinion article explaining how relying too heavily on AI coding tools can slow down your learning and introduce subtle bugs.",
           "signal": {
             "metric": "points",
-            "value": 464
+            "value": 143
           },
-          "published_at": "2026-08-31T21:10:58Z",
+          "published_at": "2026-09-01T05:32:56Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Staying updated on new Claude model releases helps you know which tools are current in the AI ecosystem.",
+          "summary": "Anthropic released documentation on its new Claude model updates, highlighting enhanced reasoning and platform performance.",
+          "signal": {
+            "metric": "points",
+            "value": 865
+          },
+          "published_at": "2026-09-01T17:53:53Z",
           "relevance": 0.86
         },
         {
-          "title": "Agent memory as a file format",
-          "url": "https://calpaterson.com/memoryfields.html",
+          "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+          "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding how AI agents store long-term memory is key as you learn to build persistent AI tools.",
-          "summary": "An article discussing the idea of standardizing AI agent memory into a single portable file format.",
+          "why": "It offers a prominent game developer's perspective on how rapid AI adoption is impacting tech careers and software engineering.",
+          "summary": "The creator of Dwarf Fortress critiques the tech industry's rapid shift toward AI automation and its impact on software development.",
           "signal": {
             "metric": "points",
-            "value": 161
+            "value": 192
           },
-          "published_at": "2026-08-31T11:17:25Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "The U.S. sues Amazon again",
-          "url": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "Major antitrust actions against tech giants shape the tech industry ecosystem you are preparing to enter.",
-          "summary": "Federal regulators and 22 US states filed a lawsuit accusing Amazon of inflating advertising costs for sellers.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-08-31T20:17:03Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights how developers are increasingly using hardware like Mac Minis to run local AI models efficiently.",
-          "summary": "Surging developer demand for compact Mac hardware to run AI models locally has caught Apple off guard.",
-          "signal": {
-            "metric": "points",
-            "value": 288
-          },
-          "published_at": "2026-08-31T12:41:22Z",
-          "relevance": 0.78
+          "published_at": "2026-09-01T15:53:42Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -151,39 +171,39 @@
       "title": "World",
       "items": [
         {
-          "title": "US and Iran trade strikes for first time in weeks",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+          "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is major world news regarding escalating geopolitical tension in the Middle East.",
-          "summary": "US forces and Iranian military exchanged direct strikes in the Strait of Hormuz for the first time since July.",
+          "why": "This represents a major international conflict escalation with direct military action.",
+          "summary": "Iran launched retaliatory missile and drone strikes against U.S. targets following a lethal air strike.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-31T13:47:30Z",
-          "relevance": 0.8
+          "published_at": "2026-09-01T23:56:44Z",
+          "relevance": 0.88
         },
         {
-          "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-          "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+          "title": "Germany says Russia behind Leipzig airport drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This covers major international news regarding a severe natural disaster in Nepal.",
-          "summary": "Emergency crews in Nepal are using explosives to reach trapped workers after devastating flooding killed nearly 1,000 people.",
+          "why": "This is a major world event involving European security and state-backed drone attacks.",
+          "summary": "German authorities accused Russia of launching an explosive drone attack near cargo planes at Leipzig airport.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-08-31T17:30:47Z",
-          "relevance": 0.75
+          "published_at": "2026-09-01T21:05:22Z",
+          "relevance": 0.85
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 99,
-    "kept": 11,
+    "scanned": 95,
+    "kept": 12,
     "levels": [
       {
         "v": 0.25,
@@ -198,28 +218,20 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.88,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -238,7 +250,31 @@
         "kept": false
       },
       {
-        "v": 0.78,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
@@ -246,8 +282,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.9,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -258,95 +294,51 @@
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.76,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
         "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -354,7 +346,11 @@
         "kept": false
       },
       {
-        "v": 0.75,
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
@@ -376,6 +372,30 @@
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
       },
       {
         "v": 0.0,
