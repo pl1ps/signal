@@ -1,235 +1,22 @@
 {
-  "generated_at": "2026-09-03T00:13:37.002046Z",
+  "generated_at": "2026-09-04T00:04:40.347660Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "WebLLM: high-performance in-browser LLM inference engine",
-          "url": "https://github.com/mlc-ai/web-llm",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It lets you run Large Language Models directly inside a web browser without needing a backend server or GPU setup.",
-          "summary": "WebLLM is an open-source engine that uses WebGPU to run AI models locally inside user web browsers. It enables developers to build private, serverless AI applications using JavaScript.",
-          "signal": {
-            "metric": "points",
-            "value": 83
-          },
-          "published_at": "2026-09-02T14:02:35Z",
-          "relevance": 0.92
-        },
-        {
-          "title": "useagenthq/useagent",
-          "url": "https://github.com/useagenthq/useagent",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an open-source tool that lets AI agents run inside cloud environments to complete complex workplace tasks for you.",
-          "summary": "Useagent is an open-source platform that gives AI agents their own cloud computer to write code, create slide decks, and generate spreadsheets. It integrates tools like Claude Code to automate multi-step workflows.",
-          "signal": {
-            "metric": "stars",
-            "value": 274
-          },
-          "published_at": "2026-08-29T21:14:31Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "XiaoDuoYa/codex-with-chatgpt",
-          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It combines ChatGPT's planning capabilities with Codex's code execution to make AI coding assistance more reliable.",
-          "summary": "This project uses ChatGPT as a planning brain to organize complex coding tasks before passing execution steps to OpenAI Codex. It helps developers automate multi-step software development without losing context.",
-          "signal": {
-            "metric": "stars",
-            "value": 2273
-          },
-          "published_at": "2026-08-28T12:57:24Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "anthropics/commerce-agents",
-          "url": "https://github.com/anthropics/commerce-agents",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It offers official code examples from Anthropic on how to build practical AI agents for real-world tasks.",
-          "summary": "This repository provides reference designs and sample code for creating commercial AI agents using Claude. It covers use cases like retail and customer support to help developers learn agent architecture.",
-          "signal": {
-            "metric": "stars",
-            "value": 325
-          },
-          "published_at": "2026-09-01T12:30:12Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "shadcn-ui/cn",
-          "url": "https://github.com/shadcn-ui/cn",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "If you build web apps with Tailwind CSS, this tool significantly speeds up utility class merging.",
-          "summary": "Created by the team behind shadcn/ui, cn is a high-performance engine for merging Tailwind CSS styling classes. It replaces older utility libraries with an identical API that runs up to 30 times faster.",
-          "signal": {
-            "metric": "stars",
-            "value": 541
-          },
-          "published_at": "2026-08-31T07:04:03Z",
-          "relevance": 0.82
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "Understanding the tech giants' oversized influence in American schools",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It explains how major tech platforms shape educational tools and early technology adoption for students.",
-          "summary": "This report examines how companies like Apple and Microsoft embed their hardware, software, and training programs directly into school curricula. It discusses the long-term impact on student learning and device lock-in.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-02T16:08:31Z",
-          "relevance": 0.76
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "LLMs: Intelligence vs. Cost",
-          "url": "https://openteams.com/intelligence-vs-cost/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Learning how to balance model performance against API pricing is a crucial skill for building cost-effective AI projects.",
-          "summary": "This analysis breaks down the trade-offs between model intelligence and API cost across leading LLMs. It compares raw capability benchmark scores with running costs to help developers pick the right model for their budget.",
-          "signal": {
-            "metric": "points",
-            "value": 68
-          },
-          "published_at": "2026-09-02T13:03:50Z",
-          "relevance": 0.87
-        },
-        {
-          "title": "Can I opt out of my input or output data being used for training?",
-          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Understanding how AI vendors handle your data is essential when building apps or choosing development tools.",
-          "summary": "This online discussion explores policies across major AI providers regarding whether your prompt inputs and generated outputs are used to train future models. It covers opt-out settings and privacy implications for developers.",
-          "signal": {
-            "metric": "points",
-            "value": 359
-          },
-          "published_at": "2026-09-02T12:30:39Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you insight into how web content is being manipulated to rank higher in AI search engines like Perplexity.",
-          "summary": "An investigation reveals how programmatic SEO sites generated over 200,000 low-quality recommendation pages that AI search engines frequently cite as sources. The discussion highlights the growing challenge of AI search contamination.",
-          "signal": {
-            "metric": "points",
-            "value": 287
-          },
-          "published_at": "2026-09-02T13:59:59Z",
-          "relevance": 0.75
-        },
-        {
-          "title": "Mamdani Bans AI in NYC Schools",
-          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights the ongoing debate over how AI tools should be regulated in educational environments.",
-          "summary": "A major discussion on the recent decision to ban AI usage across New York City schools. Community members argue about academic integrity versus preparing students for an AI-driven workforce.",
-          "signal": {
-            "metric": "points",
-            "value": 133
-          },
-          "published_at": "2026-09-02T20:57:04Z",
-          "relevance": 0.72
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It marks a significant strategic statement regarding active foreign military objectives in the Middle East conflict.",
-          "summary": "Israeli Prime Minister Benjamin Netanyahu publicly stated that Israel is actively working to bring down the Iranian government. The statement signals an explicit expansion of strategic goals amid regional military clashes.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-02T21:23:55Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-          "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It highlights rising European geopolitical security concerns following physical sabotage attempts on critical infrastructure.",
-          "summary": "European leaders and NATO pledged stronger responses against Russia following a failed drone strike targeting Leipzig airport in Germany. Authorities accused Moscow of orchestrating dangerous hybrid attacks across the continent.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-02T16:49:00Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It details a major escalation in Middle Eastern shipping corridors impacting international maritime safety.",
-          "summary": "Saudi Arabia reported that an attack in the Strait of Hormuz hit the oil tanker Sidr, killing two crew members. The incident has raised tensions over critical global energy transport routes.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-02T17:33:45Z",
-          "relevance": 0.81
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 98,
-    "kept": 13,
+    "scanned": 99,
+    "kept": 0,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.25,
@@ -240,10 +27,6 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -260,32 +43,8 @@
         "kept": false
       },
       {
-        "v": 0.82,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -308,36 +67,8 @@
         "kept": false
       },
       {
-        "v": 0.72,
-        "kept": true
-      },
-      {
-        "v": 0.92,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.87,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.81,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -352,8 +83,8 @@
         "kept": false
       },
       {
-        "v": 0.76,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -376,11 +107,67 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
