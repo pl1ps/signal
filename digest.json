@@ -1,22 +1,255 @@
 {
-  "generated_at": "2026-09-05T00:02:32.818459Z",
+  "generated_at": "2026-09-05T23:53:33.017003Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "anthropics/commerce-agents",
+          "url": "https://github.com/anthropics/commerce-agents",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you a practical Anthropic blueprint for building AI commerce agents.",
+          "summary": "Anthropics released reference code and examples for building retail and commerce agents with Claude.",
+          "signal": {
+            "metric": "stars",
+            "value": 2047
+          },
+          "published_at": "2026-09-01T12:30:12Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "2akouwu/reverify",
+          "url": "https://github.com/2akouwu/reverify",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It offers an open-source solution to reduce hallucinations and make AI outputs reliable.",
+          "summary": "Reverify is an open-source tool that checks AI claims against ground truth data to ensure factual accuracy.",
+          "signal": {
+            "metric": "stars",
+            "value": 923
+          },
+          "published_at": "2026-08-31T01:02:18Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "ahujasid/camera-to-blender",
+          "url": "https://github.com/ahujasid/camera-to-blender",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical open-source tool bridging real-world photos with 3D graphic design.",
+          "summary": "Camera-to-Blender allows developers to capture photos of real objects and import them into Blender as 3D models.",
+          "signal": {
+            "metric": "stars",
+            "value": 442
+          },
+          "published_at": "2026-09-03T10:34:30Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "shadcn-ui/cn",
+          "url": "https://github.com/shadcn-ui/cn",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a popular open-source tool that significantly speeds up Tailwind CSS class merging in web projects.",
+          "summary": "shadcn-ui released cn, a modern engine for merging Tailwind CSS classes that is 30 times faster than older options.",
+          "signal": {
+            "metric": "stars",
+            "value": 1168
+          },
+          "published_at": "2026-08-31T07:04:03Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "Human-Agent-Society/reef",
+          "url": "https://github.com/Human-Agent-Society/reef",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides open-source infrastructure if you are interested in self-improving AI agent systems.",
+          "summary": "Reef is a continual learning framework that helps AI agents improve their performance automatically over time.",
+          "signal": {
+            "metric": "stars",
+            "value": 481
+          },
+          "published_at": "2026-08-31T01:39:18Z",
+          "relevance": 0.76
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It discusses an important career trade-off regarding how over-relying on AI can impact your system knowledge.",
+          "summary": "Software engineers share insights on how delegating incident response to AI can reduce hands-on technical understanding.",
+          "signal": {
+            "metric": "points",
+            "value": 364
+          },
+          "published_at": "2026-09-05T07:52:50Z",
+          "relevance": 0.87
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It covers the official safety and system details for OpenAI's upcoming major LLM release.",
+          "summary": "OpenAI released the official system card details for their upcoming GPT-6 Astra model family.",
+          "signal": {
+            "metric": "points",
+            "value": 2217
+          },
+          "published_at": "2026-09-03T18:41:05Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It marks a notable milestone in AI's ability to tackle formal mathematical reasoning.",
+          "summary": "Anthropic used AI models to complete the formal proof verification of Fermat's Last Theorem.",
+          "signal": {
+            "metric": "points",
+            "value": 741
+          },
+          "published_at": "2026-09-04T18:42:56Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+          "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It highlights how the physical footprint of AI infrastructure is impacting public policy and elections.",
+          "summary": "Political campaigns in the U.S. are addressing growing public backlash against the energy demands of large AI data centers.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-05T09:00:00Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It is a major diplomatic development in the ongoing war between Russia and Ukraine.",
+          "summary": "U.S. envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin in Moscow to discuss peace efforts.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-05T21:39:02Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Trump signs order to remove endangered species protection for grey wolves",
+          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It covers significant U.S. environmental policy and wildlife protection news.",
+          "summary": "President Trump signed an order removing endangered species protections for grey wolves across the United States.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-05T09:12:48Z",
+          "relevance": 0.75
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 93,
-    "kept": 0,
+    "scanned": 102,
+    "kept": 11,
     "levels": [
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.76,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.87,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -51,8 +284,12 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.75,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -67,60 +304,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -155,8 +340,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.83,
+        "kept": true
       },
       {
         "v": 0.0,
@@ -191,8 +376,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.0,
