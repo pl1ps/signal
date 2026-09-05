@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T00:04:40.347660Z",
+  "generated_at": "2026-09-05T00:02:32.818459Z",
   "generator_version": 1,
   "sections": [],
   "readout": {
-    "scanned": 99,
+    "scanned": 93,
     "kept": 0,
     "levels": [
       {
@@ -19,14 +19,6 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -155,11 +147,19 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
