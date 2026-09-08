@@ -1,114 +1,94 @@
 {
-  "generated_at": "2026-09-06T23:52:28.977647Z",
+  "generated_at": "2026-09-08T00:23:59.355123Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "ai-tools",
-      "title": "AI & Tools",
+      "id": "code-projects",
+      "title": "Code & Projects",
       "items": [
-        {
-          "title": "anthropics/commerce-agents",
-          "url": "https://github.com/anthropics/commerce-agents",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It provides a clear template by Anthropic for building practical AI agents in real-world industries.",
-          "summary": "An open-source blueprint showing how to use Claude to create shopping and merchant agents across e-commerce, retail, and entertainment.",
-          "signal": {
-            "metric": "stars",
-            "value": 2202
-          },
-          "published_at": "2026-09-01T12:30:12Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "If you use AI coding assistants like Claude Code or Cursor, this tool helps you monitor your usage caps right on your screen.",
-          "summary": "A macOS desktop utility that displays remaining usage limits for popular AI coding tools along your screen edge.",
-          "signal": {
-            "metric": "stars",
-            "value": 684
-          },
-          "published_at": "2026-09-05T14:55:35Z",
-          "relevance": 0.84
-        },
         {
           "title": "okf-memory/okf-agent-memory",
           "url": "https://github.com/okf-memory/okf-agent-memory",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It shows how persistent memory is implemented for AI coding assistants to keep context without wasting API tokens.",
-          "summary": "A memory system for AI coding agents that saves relevant conversation context locally in Git to reduce token usage.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 347
+            "value": 458
           },
           "published_at": "2026-09-05T21:26:04Z",
-          "relevance": 0.82
+          "relevance": 0.0
         },
         {
           "title": "lnkiai/m3e-canvas",
           "url": "https://github.com/lnkiai/m3e-canvas",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical tool that helps you design user interfaces visually and turn them directly into AI coding prompts.",
-          "summary": "A web app that lets you sketch user interface screens in the browser and automatically convert them into prompts for AI code generation.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 4268
+            "value": 4660
           },
           "published_at": "2026-09-02T04:36:34Z",
-          "relevance": 0.8
+          "relevance": 0.0
+        },
+        {
+          "title": "Rion-Wu-tech/wechat-intelligence-hub",
+          "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1781
+          },
+          "published_at": "2026-09-04T15:00:53Z",
+          "relevance": 0.0
         },
         {
           "title": "pierrenade/short-video-generator-AI",
           "url": "https://github.com/pierrenade/short-video-generator-AI",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a hands-on project demonstrating how AI audio, video processing, and subtitling tools can be combined into one workflow.",
-          "summary": "An open-source tool that automatically turns longer videos into short clips with AI highlight detection, voiceovers, and subtitles.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 830
+            "value": 1169
           },
           "published_at": "2026-09-05T11:55:18Z",
-          "relevance": 0.75
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "shadcn-ui/cn",
-          "url": "https://github.com/shadcn-ui/cn",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It comes from the creator of shadcn/ui and is useful to know if you are learning modern web development with Tailwind CSS.",
-          "summary": "A new, high-performance engine for merging Tailwind CSS styling classes in web applications.",
-          "signal": {
-            "metric": "stars",
-            "value": 1212
-          },
-          "published_at": "2026-08-31T07:04:03Z",
-          "relevance": 0.78
+          "relevance": 0.0
         },
         {
-          "title": "ahujasid/camera-to-blender",
-          "url": "https://github.com/ahujasid/camera-to-blender",
+          "title": "EverettFish/holo-card-studio",
+          "url": "https://github.com/EverettFish/holo-card-studio",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an intuitive open-source project showing how computer vision can bridge physical objects with 3D modeling software.",
-          "summary": "A tool that lets you capture photos of real-world objects and import them directly into Blender as 3D assets.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 466
+            "value": 808
           },
-          "published_at": "2026-09-03T10:34:30Z",
-          "relevance": 0.78
+          "published_at": "2026-09-07T00:41:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Albert-Weasker/niubigeo",
+          "url": "https://github.com/Albert-Weasker/niubigeo",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 673
+          },
+          "published_at": "2026-09-03T15:55:54Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -117,18 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Research acceleration: The view inside OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "title": "De-Brainrot Vacations",
+          "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It gives you insight into how leading AI labs like OpenAI are structuring their internal workflows to speed up research.",
-          "summary": "A discussion offering a look inside OpenAI at how they use modern AI tools to accelerate machine learning research.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 97
+            "value": 462
           },
-          "published_at": "2026-09-06T15:08:44Z",
-          "relevance": 0.85
+          "published_at": "2026-09-07T13:00:48Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Making a Python interpreter in 1024 bytes",
+          "url": "https://austinhenley.com/blog/python1024.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 307
+          },
+          "published_at": "2026-09-06T23:14:08Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+          "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 270
+          },
+          "published_at": "2026-09-07T11:46:37Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+          "url": "https://arxiv.org/abs/2607.24888",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 132
+          },
+          "published_at": "2026-09-05T11:25:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 126
+          },
+          "published_at": "2026-09-07T09:26:41Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Initial effects of AI technology on employment look positive",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 66
+          },
+          "published_at": "2026-09-07T10:38:32Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -137,267 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-          "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+          "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It highlights a significant political shift in European politics that could impact regional policy and stability.",
-          "summary": "Germany's far-right AfD party projected a historic result in eastern state elections, winning 44% of the vote.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-06T23:02:45Z",
-          "relevance": 0.88
+          "published_at": "2026-09-07T22:23:03Z",
+          "relevance": 0.0
         },
         {
-          "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-          "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+          "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+          "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It updates you on major international diplomacy efforts surrounding the war in Ukraine.",
-          "summary": "US diplomatic envoys held meetings with both Russian and Ukrainian leaders, though core differences remain unresolved.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-06T20:52:12Z",
-          "relevance": 0.88
+          "published_at": "2026-09-07T23:46:44Z",
+          "relevance": 0.0
         },
         {
-          "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-          "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It is crucial global news regarding growing international military tensions in the Middle East.",
-          "summary": "Iran threatened strong retaliation against the US following strikes on Iranian oil tankers in response to attacks on US warships.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-06T17:00:56Z",
-          "relevance": 0.85
+          "published_at": "2026-09-07T23:29:12Z",
+          "relevance": 0.0
         },
         {
-          "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-          "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+          "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+          "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It covers a major fatal aviation disaster occurring at a primary US commercial hub.",
-          "summary": "Five people died after an Amazon cargo Boeing 767 overran the runway at Miami International Airport and crashed.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-06T19:54:28Z",
-          "relevance": 0.82
+          "published_at": "2026-09-07T14:50:50Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+          "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-07T15:27:50Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+          "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-07T07:03:44Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 93,
-    "kept": 12,
+    "scanned": 100,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -409,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
