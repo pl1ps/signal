@@ -1,481 +1,210 @@
 {
-  "generated_at": "2026-09-08T00:23:59.355123Z",
+  "generated_at": "2026-09-09T00:12:14.446853Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "okf-memory/okf-agent-memory",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 458
-          },
-          "published_at": "2026-09-05T21:26:04Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "lnkiai/m3e-canvas",
-          "url": "https://github.com/lnkiai/m3e-canvas",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 4660
-          },
-          "published_at": "2026-09-02T04:36:34Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Rion-Wu-tech/wechat-intelligence-hub",
-          "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1781
-          },
-          "published_at": "2026-09-04T15:00:53Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "pierrenade/short-video-generator-AI",
-          "url": "https://github.com/pierrenade/short-video-generator-AI",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1169
-          },
-          "published_at": "2026-09-05T11:55:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "EverettFish/holo-card-studio",
-          "url": "https://github.com/EverettFish/holo-card-studio",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 808
-          },
-          "published_at": "2026-09-07T00:41:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Albert-Weasker/niubigeo",
-          "url": "https://github.com/Albert-Weasker/niubigeo",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 673
-          },
-          "published_at": "2026-09-03T15:55:54Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "De-Brainrot Vacations",
-          "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 462
-          },
-          "published_at": "2026-09-07T13:00:48Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Making a Python interpreter in 1024 bytes",
-          "url": "https://austinhenley.com/blog/python1024.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 307
-          },
-          "published_at": "2026-09-06T23:14:08Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-          "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 270
-          },
-          "published_at": "2026-09-07T11:46:37Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-          "url": "https://arxiv.org/abs/2607.24888",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 132
-          },
-          "published_at": "2026-09-05T11:25:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 126
-          },
-          "published_at": "2026-09-07T09:26:41Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Initial effects of AI technology on employment look positive",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 66
-          },
-          "published_at": "2026-09-07T10:38:32Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-          "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T22:23:03Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
-          "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T23:46:44Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T23:29:12Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-          "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T14:50:50Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-          "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T15:27:50Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-          "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-07T07:03:44Z",
-          "relevance": 0.0
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 100,
-    "kept": 18,
+    "scanned": 102,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +216,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
