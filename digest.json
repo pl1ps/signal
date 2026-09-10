@@ -1,18 +1,209 @@
 {
-  "generated_at": "2026-09-09T00:12:14.446853Z",
+  "generated_at": "2026-09-10T00:13:07.952886Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "Muse – Meta’s personal AI agent",
+          "url": "https://ai.meta.com/muse/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Meta is building a personal AI agent called Muse, which is directly relevant to your interest in AI agents.",
+          "summary": "Muse is Meta's new personal AI agent designed to help users manage daily tasks and automated workflows.",
+          "signal": {
+            "metric": "points",
+            "value": 637
+          },
+          "published_at": "2026-09-08T19:25:00Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Desert Ant Labs: local, fast models that run on device",
+          "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "On-device AI models allow you to run fast, private machine learning tasks directly on your laptop without API fees.",
+          "summary": "Desert Ant Labs released compact AI models optimized to run locally on personal hardware with high speed and low resource usage.",
+          "signal": {
+            "metric": "points",
+            "value": 376
+          },
+          "published_at": "2026-09-09T11:39:46Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+          "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "Anthropic created an interactive model allowing you to explore how AI automation could impact jobs and the economy.",
+          "summary": "Anthropic built a web simulation tool that lets users test different economic scenarios regarding the impact of modern AI.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-09T13:34:48Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "vinzdg/codenotch",
+          "url": "https://github.com/vinzdg/codenotch",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This utility lets you easily monitor your API usage and limits across AI development tools like Claude and Cursor.",
+          "summary": "Codenotch is a macOS menu bar utility that displays real-time rate limit usage for major AI coding assistants.",
+          "signal": {
+            "metric": "stars",
+            "value": 1287
+          },
+          "published_at": "2026-09-05T14:55:35Z",
+          "relevance": 0.81
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "okf-memory/okf-agent-memory",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This open-source tool helps AI coding agents store long-term context while drastically cutting token costs.",
+          "summary": "OKF Agent Memory provides a fast, Git-native memory system for AI coding assistants to retain context efficiently across sessions.",
+          "signal": {
+            "metric": "stars",
+            "value": 518
+          },
+          "published_at": "2026-09-05T21:26:04Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+          "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This toolkit turns AI agents into interactive coding tutors tailored to help you learn software development faster.",
+          "summary": "An open-source project designed to transform AI agents into interactive teachers that guide you through coding concepts step-by-step.",
+          "signal": {
+            "metric": "stars",
+            "value": 294
+          },
+          "published_at": "2026-09-05T16:46:07Z",
+          "relevance": 0.92
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Shopify acquires Tailwind",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Tailwind CSS is a fundamental tool in web development, making its acquisition by Shopify important developer news.",
+          "summary": "Shopify has acquired Tailwind Labs, bringing the team behind the wildly popular utility-first CSS framework into its platform.",
+          "signal": {
+            "metric": "points",
+            "value": 857
+          },
+          "published_at": "2026-09-09T13:27:11Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Claude, change the “Add to Cart” button to blue",
+          "url": "https://opusfived.dev/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This discussion highlights how natural language commands with modern AI are changing real-world web development.",
+          "summary": "A look into how developers are using LLM tools like Claude to modify user interface code directly using simple English instructions.",
+          "signal": {
+            "metric": "points",
+            "value": 974
+          },
+          "published_at": "2026-09-09T09:39:46Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "Understanding the recent DDoS attack against Read the Docs",
+          "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Read the Docs hosts documentation for thousands of Python libraries you will use during your CS studies.",
+          "summary": "An engineering postmortem analyzing a major cyberattack against Read the Docs and explaining how the team restored services.",
+          "signal": {
+            "metric": "points",
+            "value": 145
+          },
+          "published_at": "2026-09-09T15:55:53Z",
+          "relevance": 0.72
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "The ongoing US-Canada trade conflict has major economic ramifications for trade and global supply chains.",
+          "summary": "The United States announced new import bans on Canadian products following counter-tariffs imposed by Canada.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-09T10:20:40Z",
+          "relevance": 0.75
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 102,
-    "kept": 0,
+    "scanned": 97,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.25,
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.92,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -55,8 +246,36 @@
         "kept": false
       },
       {
+        "v": 0.72,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -87,68 +306,20 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.0,
@@ -203,8 +374,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.86,
+        "kept": true
       }
     ]
   },
