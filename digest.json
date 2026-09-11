@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:13:07.952886Z",
+  "generated_at": "2026-09-11T00:09:14.445555Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,80 +7,60 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "Muse – Meta’s personal AI agent",
-          "url": "https://ai.meta.com/muse/",
+          "title": "OpenAI Agents API",
+          "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Meta is building a personal AI agent called Muse, which is directly relevant to your interest in AI agents.",
-          "summary": "Muse is Meta's new personal AI agent designed to help users manage daily tasks and automated workflows.",
+          "why": "OpenAI is releasing a dedicated API for building AI agents, which is essential knowledge if you want to build agentic applications.",
+          "summary": "OpenAI has introduced an official Agents API, giving developers standardized tools and endpoints to build autonomous AI workflows.",
           "signal": {
             "metric": "points",
-            "value": 637
+            "value": 93
           },
-          "published_at": "2026-09-08T19:25:00Z",
+          "published_at": "2026-09-10T19:43:22Z",
+          "relevance": 0.95
+        },
+        {
+          "title": "yudaprasetya007/routeVSCODE",
+          "url": "https://github.com/yudaprasetya007/routeVSCODE",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "If you use VS Code for your CS coursework, this tool lets you switch between different local and cloud AI models easily inside Copilot Chat.",
+          "summary": "An open-source VS Code extension and proxy that enables dynamic, zero-reload switching between different AI models in Copilot Chat.",
+          "signal": {
+            "metric": "stars",
+            "value": 326
+          },
+          "published_at": "2026-09-10T01:25:00Z",
+          "relevance": 0.89
+        },
+        {
+          "title": "Vincentwei1021/anything2explainer",
+          "url": "https://github.com/Vincentwei1021/anything2explainer",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "You can use this tool to quickly create narrated educational videos explaining complex computer science concepts.",
+          "summary": "A coding skill tool that automatically converts text topics into motion-graphics explainer videos complete with AI voiceover and subtitles.",
+          "signal": {
+            "metric": "stars",
+            "value": 695
+          },
+          "published_at": "2026-09-08T17:19:54Z",
           "relevance": 0.88
-        },
-        {
-          "title": "Desert Ant Labs: local, fast models that run on device",
-          "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "On-device AI models allow you to run fast, private machine learning tasks directly on your laptop without API fees.",
-          "summary": "Desert Ant Labs released compact AI models optimized to run locally on personal hardware with high speed and low resource usage.",
-          "signal": {
-            "metric": "points",
-            "value": 376
-          },
-          "published_at": "2026-09-09T11:39:46Z",
-          "relevance": 0.86
-        },
-        {
-          "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
-          "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "Anthropic created an interactive model allowing you to explore how AI automation could impact jobs and the economy.",
-          "summary": "Anthropic built a web simulation tool that lets users test different economic scenarios regarding the impact of modern AI.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-09T13:34:48Z",
-          "relevance": 0.84
         },
         {
           "title": "vinzdg/codenotch",
           "url": "https://github.com/vinzdg/codenotch",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This utility lets you easily monitor your API usage and limits across AI development tools like Claude and Cursor.",
-          "summary": "Codenotch is a macOS menu bar utility that displays real-time rate limit usage for major AI coding assistants.",
+          "why": "This tool helps you monitor your usage limits across AI coding tools like Claude Code and Cursor directly on your screen.",
+          "summary": "A lightweight macOS app that pins real-time usage and rate limits for popular AI coding assistants to the top edge of your desktop screen.",
           "signal": {
             "metric": "stars",
-            "value": 1287
+            "value": 1382
           },
           "published_at": "2026-09-05T14:55:35Z",
-          "relevance": 0.81
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "okf-memory/okf-agent-memory",
-          "url": "https://github.com/okf-memory/okf-agent-memory",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This open-source tool helps AI coding agents store long-term context while drastically cutting token costs.",
-          "summary": "OKF Agent Memory provides a fast, Git-native memory system for AI coding assistants to retain context efficiently across sessions.",
-          "signal": {
-            "metric": "stars",
-            "value": 518
-          },
-          "published_at": "2026-09-05T21:26:04Z",
-          "relevance": 0.85
+          "relevance": 0.84
         }
       ]
     },
@@ -93,14 +73,28 @@
           "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This toolkit turns AI agents into interactive coding tutors tailored to help you learn software development faster.",
-          "summary": "An open-source project designed to transform AI agents into interactive teachers that guide you through coding concepts step-by-step.",
+          "why": "It turns AI coding assistants into patient tutors to help you learn programming rather than just giving raw code.",
+          "summary": "An open-source toolkit designed to configure AI agents so they guide and teach developers instead of automatically generating code.",
           "signal": {
             "metric": "stars",
-            "value": 294
+            "value": 325
           },
           "published_at": "2026-09-05T16:46:07Z",
           "relevance": 0.92
+        },
+        {
+          "title": "Python sets and dictionaries can have quadratic-time performance",
+          "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Understanding when standard Python data structures perform slowly is a key concept for CS data structure classes and technical interviews.",
+          "summary": "A technical discussion exploring how worst-case hash collisions in Python sets and dictionaries can degrade lookup performance from instant to slow quadratic time.",
+          "signal": {
+            "metric": "points",
+            "value": 86
+          },
+          "published_at": "2026-09-08T16:17:51Z",
+          "relevance": 0.91
         }
       ]
     },
@@ -109,46 +103,74 @@
       "title": "Tech Discussion",
       "items": [
         {
+          "title": "Rust is tier-1 language at Microsoft",
+          "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Rust is increasingly becoming a critical systems programming language, and Microsoft's backing signals strong future job market demand.",
+          "summary": "Microsoft has officially elevated Rust to a Tier-1 fully supported language for internal systems development and software engineering.",
+          "signal": {
+            "metric": "points",
+            "value": 584
+          },
+          "published_at": "2026-09-10T13:39:16Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Shopify is moving from React Native back to Swift and Kotlin",
+          "url": "https://shopify.engineering/back-to-native",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Understanding why major tech companies switch mobile tech stacks offers valuable insight into real-world software engineering tradeoffs.",
+          "summary": "Shopify announced it is transitioning its mobile applications away from React Native back to native iOS (Swift) and Android (Kotlin) development.",
+          "signal": {
+            "metric": "points",
+            "value": 716
+          },
+          "published_at": "2026-09-10T14:09:31Z",
+          "relevance": 0.87
+        },
+        {
           "title": "Shopify acquires Tailwind",
           "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Tailwind CSS is a fundamental tool in web development, making its acquisition by Shopify important developer news.",
-          "summary": "Shopify has acquired Tailwind Labs, bringing the team behind the wildly popular utility-first CSS framework into its platform.",
+          "why": "Tailwind CSS is one of the most popular web development frameworks, so its acquisition by e-commerce giant Shopify is major tech news.",
+          "summary": "Shopify has acquired Tailwind CSS, bringing the widely used utility-first CSS framework into its developer tools ecosystem.",
           "signal": {
             "metric": "points",
-            "value": 857
+            "value": 1123
           },
           "published_at": "2026-09-09T13:27:11Z",
-          "relevance": 0.8
+          "relevance": 0.85
         },
         {
-          "title": "Claude, change the “Add to Cart” button to blue",
-          "url": "https://opusfived.dev/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This discussion highlights how natural language commands with modern AI are changing real-world web development.",
-          "summary": "A look into how developers are using LLM tools like Claude to modify user interface code directly using simple English instructions.",
+          "title": "LG defends smart-TV features amid audio surveillance allegations",
+          "url": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It touches on key consumer privacy concerns regarding how smart devices collect and monitor audio data without clear user consent.",
+          "summary": "LG responded to allegations that its smart TVs non-consensually monitor user audio to harvest personal viewer data.",
           "signal": {
-            "metric": "points",
-            "value": 974
+            "metric": "",
+            "value": 0
           },
-          "published_at": "2026-09-09T09:39:46Z",
-          "relevance": 0.78
+          "published_at": "2026-09-10T21:33:28Z",
+          "relevance": 0.82
         },
         {
-          "title": "Understanding the recent DDoS attack against Read the Docs",
-          "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+          "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+          "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Read the Docs hosts documentation for thousands of Python libraries you will use during your CS studies.",
-          "summary": "An engineering postmortem analyzing a major cyberattack against Read the Docs and explaining how the team restored services.",
+          "why": "Automattic runs WordPress.com, which powers a massive portion of the web, making executive shifts there important web tech industry news.",
+          "summary": "The board of directors at Automattic forced CEO Matt Mullenweg to take an indefinite leave of absence following recent company controversies.",
           "signal": {
             "metric": "points",
-            "value": 145
+            "value": 429
           },
-          "published_at": "2026-09-09T15:55:53Z",
-          "relevance": 0.72
+          "published_at": "2026-09-09T23:49:29Z",
+          "relevance": 0.81
         }
       ]
     },
@@ -157,41 +179,123 @@
       "title": "World",
       "items": [
         {
-          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "The ongoing US-Canada trade conflict has major economic ramifications for trade and global supply chains.",
-          "summary": "The United States announced new import bans on Canadian products following counter-tariffs imposed by Canada.",
+          "why": "This is major geopolitical news impacting international shipping lanes and global trade in the Red Sea.",
+          "summary": "Iran-backed Houthi forces in Yemen have reportedly taken control of the strategic Red Sea port city of Mokha near a critical shipping channel.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-09T10:20:40Z",
-          "relevance": 0.75
+          "published_at": "2026-09-10T18:15:47Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Russian strike hits shopping centre in central Ukraine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It covers significant developments in the ongoing conflict in Ukraine.",
+          "summary": "A Russian military strike on a shopping center in the Ukrainian city of Pavlohrad resulted in at least four civilian deaths.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-10T21:03:42Z",
+          "relevance": 0.78
         }
       ]
     }
   ],
   "readout": {
     "scanned": 97,
-    "kept": 10,
+    "kept": 13,
     "levels": [
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.92,
         "kept": true
       },
       {
+        "v": 0.95,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.89,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.91,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -242,79 +346,11 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.72,
+        "v": 0.82,
         "kept": true
       },
       {
         "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.81,
-        "kept": true
-      },
-      {
-        "v": 0.0,
         "kept": false
       },
       {
@@ -334,48 +370,48 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.86,
+        "v": 0.84,
         "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
