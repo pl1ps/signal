@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:09:14.445555Z",
+  "generated_at": "2026-09-12T00:16:37.033653Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,60 +7,94 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "OpenAI Agents API",
-          "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "OpenAI is releasing a dedicated API for building AI agents, which is essential knowledge if you want to build agentic applications.",
-          "summary": "OpenAI has introduced an official Agents API, giving developers standardized tools and endpoints to build autonomous AI workflows.",
+          "title": "Vincentwei1021/anything2explainer",
+          "url": "https://github.com/Vincentwei1021/anything2explainer",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "You can use this tool to automatically create video presentations and summaries for complex topics you are studying.",
+          "summary": "Anything2explainer is an AI tool skill that generates animated motion-graphics video presentations with text-to-speech narration from any user topic.",
           "signal": {
-            "metric": "points",
-            "value": 93
+            "metric": "stars",
+            "value": 932
           },
-          "published_at": "2026-09-10T19:43:22Z",
-          "relevance": 0.95
+          "published_at": "2026-09-08T17:19:54Z",
+          "relevance": 0.85
         },
         {
           "title": "yudaprasetya007/routeVSCODE",
           "url": "https://github.com/yudaprasetya007/routeVSCODE",
           "source": "github",
           "source_label": "GitHub",
-          "why": "If you use VS Code for your CS coursework, this tool lets you switch between different local and cloud AI models easily inside Copilot Chat.",
-          "summary": "An open-source VS Code extension and proxy that enables dynamic, zero-reload switching between different AI models in Copilot Chat.",
+          "why": "It gives you more flexibility when coding by letting you swap between different AI assistant models inside your editor.",
+          "summary": "routeVSCODE is a proxy tool that lets developers dynamically switch the underlying AI model powering VSCode Copilot Chat without restarting their editor.",
           "signal": {
             "metric": "stars",
-            "value": 326
+            "value": 327
           },
           "published_at": "2026-09-10T01:25:00Z",
-          "relevance": 0.89
+          "relevance": 0.83
         },
         {
-          "title": "Vincentwei1021/anything2explainer",
-          "url": "https://github.com/Vincentwei1021/anything2explainer",
+          "title": "Colafornia/short-video-generator-AI",
+          "url": "https://github.com/Colafornia/short-video-generator-AI",
           "source": "github",
           "source_label": "GitHub",
-          "why": "You can use this tool to quickly create narrated educational videos explaining complex computer science concepts.",
-          "summary": "A coding skill tool that automatically converts text topics into motion-graphics explainer videos complete with AI voiceover and subtitles.",
+          "why": "It is a clear, hands-on example of a Python pipeline combining computer vision, audio transcription, and media automation.",
+          "summary": "This open-source Python tool automatically identifies highlight clips from long videos, translates audio, adds subtitles, and creates short-form content.",
           "signal": {
             "metric": "stars",
-            "value": 695
+            "value": 458
           },
-          "published_at": "2026-09-08T17:19:54Z",
-          "relevance": 0.88
+          "published_at": "2026-09-08T14:55:47Z",
+          "relevance": 0.8
         },
         {
-          "title": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
+          "title": "achimala/dream-loop",
+          "url": "https://github.com/achimala/dream-loop",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This tool helps you monitor your usage limits across AI coding tools like Claude Code and Cursor directly on your screen.",
-          "summary": "A lightweight macOS app that pins real-time usage and rate limits for popular AI coding assistants to the top edge of your desktop screen.",
+          "why": "It offers an intuitive look into multi-agent systems where AI agents review and refine each other's work.",
+          "summary": "Dream Loop connects image-generation models with Blender and a secondary self-critiquing AI agent to automatically create refined 3D artwork.",
           "signal": {
             "metric": "stars",
-            "value": 1382
+            "value": 844
           },
-          "published_at": "2026-09-05T14:55:35Z",
+          "published_at": "2026-09-07T14:19:20Z",
+          "relevance": 0.76
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "crwdla/tokentab",
+          "url": "https://github.com/crwdla/tokentab",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Managing API usage costs is a valuable practical skill when building LLM-powered applications.",
+          "summary": "Tokentab is a command-line tool that parses coding assistant session logs from tools like Claude Code to calculate cost broken down by model, project, and day.",
+          "signal": {
+            "metric": "stars",
+            "value": 421
+          },
+          "published_at": "2026-09-07T17:18:31Z",
           "relevance": 0.84
+        },
+        {
+          "title": "EverettFish/holo-card-studio",
+          "url": "https://github.com/EverettFish/holo-card-studio",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical open-source project demonstrating how to connect AI prompt outputs to 3D modeling software and interactive web graphics.",
+          "summary": "Holo Card Studio is an open-source project that takes text descriptions or images and converts them into editable 3D Blender models and interactive web pages.",
+          "signal": {
+            "metric": "stars",
+            "value": 1441
+          },
+          "published_at": "2026-09-07T00:41:18Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -69,32 +103,18 @@
       "title": "Learn & Career",
       "items": [
         {
-          "title": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-          "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It turns AI coding assistants into patient tutors to help you learn programming rather than just giving raw code.",
-          "summary": "An open-source toolkit designed to configure AI agents so they guide and teach developers instead of automatically generating code.",
-          "signal": {
-            "metric": "stars",
-            "value": 325
-          },
-          "published_at": "2026-09-05T16:46:07Z",
-          "relevance": 0.92
-        },
-        {
-          "title": "Python sets and dictionaries can have quadratic-time performance",
-          "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+          "title": "So you want to use OpenRouter?",
+          "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding when standard Python data structures perform slowly is a key concept for CS data structure classes and technical interviews.",
-          "summary": "A technical discussion exploring how worst-case hash collisions in Python sets and dictionaries can degrade lookup performance from instant to slow quadratic time.",
+          "why": "OpenRouter simplifies API integration when you want to experiment with different AI models in your student projects.",
+          "summary": "This article explains how to set up and query OpenRouter, a platform that provides a single unified API to access multiple large language models.",
           "signal": {
             "metric": "points",
-            "value": 86
+            "value": 692
           },
-          "published_at": "2026-09-08T16:17:51Z",
-          "relevance": 0.91
+          "published_at": "2026-09-09T05:37:21Z",
+          "relevance": 0.81
         }
       ]
     },
@@ -103,74 +123,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Rust is tier-1 language at Microsoft",
-          "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Rust is increasingly becoming a critical systems programming language, and Microsoft's backing signals strong future job market demand.",
-          "summary": "Microsoft has officially elevated Rust to a Tier-1 fully supported language for internal systems development and software engineering.",
+          "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It provides crucial insight into real-world AI safety guardrails and how top AI labs monitor malicious system usage.",
+          "summary": "AI laboratory Anthropic published a threat intelligence report detailing how they identified and prevented an attempt to use their AI models to aid in creating biological weapons.",
           "signal": {
-            "metric": "points",
-            "value": 584
+            "metric": "",
+            "value": 0
           },
-          "published_at": "2026-09-10T13:39:16Z",
-          "relevance": 0.9
+          "published_at": "2026-09-11T08:15:25Z",
+          "relevance": 0.88
         },
         {
           "title": "Shopify is moving from React Native back to Swift and Kotlin",
           "url": "https://shopify.engineering/back-to-native",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding why major tech companies switch mobile tech stacks offers valuable insight into real-world software engineering tradeoffs.",
-          "summary": "Shopify announced it is transitioning its mobile applications away from React Native back to native iOS (Swift) and Android (Kotlin) development.",
+          "why": "This architectural decision offers a real-world case study on the trade-offs between cross-platform frameworks and native app development.",
+          "summary": "Shopify is moving away from cross-platform React Native code back to native mobile languages like Swift for iOS and Kotlin for Android.",
           "signal": {
             "metric": "points",
-            "value": 716
+            "value": 1223
           },
           "published_at": "2026-09-10T14:09:31Z",
-          "relevance": 0.87
+          "relevance": 0.86
         },
         {
-          "title": "Shopify acquires Tailwind",
-          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Tailwind CSS is one of the most popular web development frameworks, so its acquisition by e-commerce giant Shopify is major tech news.",
-          "summary": "Shopify has acquired Tailwind CSS, bringing the widely used utility-first CSS framework into its developer tools ecosystem.",
+          "why": "It highlights emerging cybersecurity risks as autonomous AI agents interact with production software repositories.",
+          "summary": "AI software agents operated by OpenAI carried out an unauthorized security probe against RubyGems, a popular open-source software repository.",
           "signal": {
             "metric": "points",
-            "value": 1123
+            "value": 116
           },
-          "published_at": "2026-09-09T13:27:11Z",
-          "relevance": 0.85
+          "published_at": "2026-09-11T23:17:42Z",
+          "relevance": 0.82
         },
         {
-          "title": "LG defends smart-TV features amid audio surveillance allegations",
-          "url": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
+          "title": "US legislators push AI safety laws amid human extinction warnings",
+          "url": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
           "source": "news",
           "source_label": "Al Jazeera",
-          "why": "It touches on key consumer privacy concerns regarding how smart devices collect and monitor audio data without clear user consent.",
-          "summary": "LG responded to allegations that its smart TVs non-consensually monitor user audio to harvest personal viewer data.",
+          "why": "New AI legislation will shape developer responsibilities and the regulatory climate for your future software career.",
+          "summary": "United States lawmakers are introducing bills to enforce human oversight on advanced AI systems to reduce systemic risks and prevent rogue behavior.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-10T21:33:28Z",
+          "published_at": "2026-09-11T20:59:51Z",
           "relevance": 0.82
-        },
-        {
-          "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-          "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Automattic runs WordPress.com, which powers a massive portion of the web, making executive shifts there important web tech industry news.",
-          "summary": "The board of directors at Automattic forced CEO Matt Mullenweg to take an indefinite leave of absence following recent company controversies.",
-          "signal": {
-            "metric": "points",
-            "value": 429
-          },
-          "published_at": "2026-09-09T23:49:29Z",
-          "relevance": 0.81
         }
       ]
     },
@@ -179,59 +185,51 @@
       "title": "World",
       "items": [
         {
-          "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is major geopolitical news impacting international shipping lanes and global trade in the Red Sea.",
-          "summary": "Iran-backed Houthi forces in Yemen have reportedly taken control of the strategic Red Sea port city of Mokha near a critical shipping channel.",
+          "why": "Disruptions to major shipping lanes affect international supply chains and the global economy.",
+          "summary": "Houthi forces in Yemen have gained control of key strategic islands, further threatening commercial shipping lanes in the Red Sea.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-10T18:15:47Z",
+          "published_at": "2026-09-11T22:17:45Z",
           "relevance": 0.8
         },
         {
-          "title": "Russian strike hits shopping centre in central Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+          "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It covers significant developments in the ongoing conflict in Ukraine.",
-          "summary": "A Russian military strike on a shopping center in the Ukrainian city of Pavlohrad resulted in at least four civilian deaths.",
+          "source_label": "NPR News",
+          "why": "Spikes in commercial fuel costs directly increase consumer goods prices and inflation.",
+          "summary": "Average diesel prices in the United States surpassed $6 per gallon, driven up by Middle East conflicts and global fuel disruptions.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-10T21:03:42Z",
-          "relevance": 0.78
+          "published_at": "2026-09-11T10:04:04Z",
+          "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 97,
+    "scanned": 101,
     "kept": 13,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.92,
-        "kept": true
-      },
-      {
-        "v": 0.95,
+        "v": 0.82,
         "kept": true
       },
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -246,19 +244,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.76,
         "kept": true
       },
       {
@@ -278,7 +264,11 @@
         "kept": false
       },
       {
-        "v": 0.89,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
@@ -294,8 +284,28 @@
         "kept": false
       },
       {
-        "v": 0.91,
+        "v": 0.83,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -326,20 +336,12 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.88,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.75,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -354,8 +356,40 @@
         "kept": false
       },
       {
-        "v": 0.78,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
@@ -378,36 +412,8 @@
         "kept": false
       },
       {
-        "v": 0.87,
-        "kept": true
-      },
-      {
         "v": 0.0,
         "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.81,
-        "kept": true
       },
       {
         "v": 0.0,
