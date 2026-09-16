@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T00:37:26.570115Z",
+  "generated_at": "2026-09-16T00:17:08.093389Z",
   "generator_version": 1,
   "sections": [],
   "readout": {
-    "scanned": 102,
+    "scanned": 99,
     "kept": 0,
     "levels": [
       {
@@ -23,10 +23,6 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -139,35 +135,39 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
