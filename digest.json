@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T00:29:08.590362Z",
+  "generated_at": "2026-09-18T00:14:54.035646Z",
   "generator_version": 1,
   "sections": [],
   "readout": {
-    "scanned": 100,
+    "scanned": 98,
     "kept": 0,
     "levels": [
       {
@@ -27,7 +27,11 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
         "kept": false
       },
       {
@@ -155,11 +159,7 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
