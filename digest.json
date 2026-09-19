@@ -1,210 +1,481 @@
 {
-  "generated_at": "2026-09-18T00:14:54.035646Z",
+  "generated_at": "2026-09-19T00:20:11.267050Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 362
+          },
+          "published_at": "2026-09-18T06:45:54Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "AetherLabsAI/RSIAgent",
+          "url": "https://github.com/AetherLabsAI/RSIAgent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 334
+          },
+          "published_at": "2026-09-13T01:48:25Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "fhshaik/typesafe-mario",
+          "url": "https://github.com/fhshaik/typesafe-mario",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 261
+          },
+          "published_at": "2026-09-16T04:57:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "mcncarl/jianying-headless",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1021
+          },
+          "published_at": "2026-09-15T11:51:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jarrodwatts/jev-trader",
+          "url": "https://github.com/jarrodwatts/jev-trader",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 866
+          },
+          "published_at": "2026-09-16T21:36:20Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "korcarc/text-humanizer",
+          "url": "https://github.com/korcarc/text-humanizer",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 725
+          },
+          "published_at": "2026-09-16T13:21:56Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+          "url": "https://prismml.com/news/bonsai-2-27b",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 563
+          },
+          "published_at": "2026-09-17T21:13:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 468
+          },
+          "published_at": "2026-09-18T02:47:24Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 458
+          },
+          "published_at": "2026-09-18T21:00:32Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 374
+          },
+          "published_at": "2026-09-18T17:28:01Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 367
+          },
+          "published_at": "2026-09-17T21:48:38Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+          "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 285
+          },
+          "published_at": "2026-09-18T11:01:44Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T22:58:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T18:04:38Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T17:10:58Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Shots heard as police start moving migrants from Ceuta beaches",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T11:59:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T21:13:14Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-18T19:14:15Z",
+          "relevance": 0.0
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 98,
-    "kept": 0,
+    "scanned": 100,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -216,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
