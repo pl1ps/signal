@@ -1,210 +1,481 @@
 {
-  "generated_at": "2026-09-20T00:08:46.560874Z",
+  "generated_at": "2026-09-21T00:16:21.232277Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 500
+          },
+          "published_at": "2026-09-18T06:45:54Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "mcncarl/jianying-headless",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1971
+          },
+          "published_at": "2026-09-15T11:51:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jarrodwatts/jev-trader",
+          "url": "https://github.com/jarrodwatts/jev-trader",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1526
+          },
+          "published_at": "2026-09-16T21:36:20Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "TianyuCodings/NanoJev",
+          "url": "https://github.com/TianyuCodings/NanoJev",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1395
+          },
+          "published_at": "2026-09-17T16:08:30Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "bespokelabsai/nimble",
+          "url": "https://github.com/bespokelabsai/nimble",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1093
+          },
+          "published_at": "2026-09-18T09:07:48Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jaredpalmer/kev",
+          "url": "https://github.com/jaredpalmer/kev",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1017
+          },
+          "published_at": "2026-09-17T20:49:39Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 1772
+          },
+          "published_at": "2026-09-19T09:20:58Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 716
+          },
+          "published_at": "2026-09-17T21:48:38Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 418
+          },
+          "published_at": "2026-09-20T15:16:07Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Google's Open Agentic Orchestrator",
+          "url": "https://agentexecutor.io",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 96
+          },
+          "published_at": "2026-09-20T22:32:43Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+          "url": "https://sigabrt.dev",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 69
+          },
+          "published_at": "2026-09-19T10:47:59Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 1292
+          },
+          "published_at": "2026-09-19T10:46:58Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+          "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-20T21:53:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-20T10:45:39Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-20T16:36:43Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-20T21:17:22Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-19T23:49:26Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Google's Gemini AI hacked three companies in security test",
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-19T13:39:32Z",
+          "relevance": 0.0
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 101,
-    "kept": 0,
+    "scanned": 107,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -216,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
