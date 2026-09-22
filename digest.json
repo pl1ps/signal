@@ -1,11 +1,25 @@
 {
-  "generated_at": "2026-09-21T00:16:21.232277Z",
+  "generated_at": "2026-09-22T00:49:48.931827Z",
   "generator_version": 1,
   "sections": [
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
+        {
+          "title": "zai-org/ZCode",
+          "url": "https://github.com/zai-org/ZCode",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 5596
+          },
+          "published_at": "2026-09-20T12:01:16Z",
+          "relevance": 0.0
+        },
         {
           "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
           "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
@@ -15,23 +29,37 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 500
+            "value": 519
           },
           "published_at": "2026-09-18T06:45:54Z",
           "relevance": 0.0
         },
         {
-          "title": "mcncarl/jianying-headless",
-          "url": "https://github.com/mcncarl/jianying-headless",
+          "title": "browser-use/jev-ultrafast",
+          "url": "https://github.com/browser-use/jev-ultrafast",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1971
+            "value": 15723
           },
-          "published_at": "2026-09-15T11:51:15Z",
+          "published_at": "2026-09-16T21:30:12Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jaredpalmer/kev",
+          "url": "https://github.com/jaredpalmer/kev",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2445
+          },
+          "published_at": "2026-09-17T20:49:39Z",
           "relevance": 0.0
         },
         {
@@ -43,7 +71,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1526
+            "value": 1854
           },
           "published_at": "2026-09-16T21:36:20Z",
           "relevance": 0.0
@@ -57,37 +85,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1395
+            "value": 1809
           },
           "published_at": "2026-09-17T16:08:30Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "bespokelabsai/nimble",
-          "url": "https://github.com/bespokelabsai/nimble",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1093
-          },
-          "published_at": "2026-09-18T09:07:48Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "jaredpalmer/kev",
-          "url": "https://github.com/jaredpalmer/kev",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1017
-          },
-          "published_at": "2026-09-17T20:49:39Z",
           "relevance": 0.0
         }
       ]
@@ -97,49 +97,21 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "AI-generated posters don’t have to be horrible",
-          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "title": "Python Workers are now generally available",
+          "url": "https://blog.cloudflare.com/python-workers-ga/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 1772
+            "value": 178
           },
-          "published_at": "2026-09-19T09:20:58Z",
+          "published_at": "2026-09-21T13:38:19Z",
           "relevance": 0.0
         },
         {
-          "title": "How to Write with an LLM",
-          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 716
-          },
-          "published_at": "2026-09-17T21:48:38Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 418
-          },
-          "published_at": "2026-09-20T15:16:07Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Google's Open Agentic Orchestrator",
+          "title": "AX – Google’s Open Agentic Orchestrator",
           "url": "https://agentexecutor.io",
           "source": "hackernews",
           "source_label": "Hacker News",
@@ -147,37 +119,65 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 96
+            "value": 629
           },
           "published_at": "2026-09-20T22:32:43Z",
           "relevance": 0.0
         },
         {
-          "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-          "url": "https://sigabrt.dev",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "url": "https://github.com/volotat/mini-AGI/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 69
+            "value": 248
           },
-          "published_at": "2026-09-19T10:47:59Z",
+          "published_at": "2026-09-21T04:42:37Z",
           "relevance": 0.0
         },
         {
-          "title": "I built non-autoregressive decision models with RL a year ago",
-          "url": "https://laya.convaiinnovations.com/",
+          "title": "The LLMentalist Effect (2023)",
+          "url": "https://softwarecrisis.dev/letters/llmentalist/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 1292
+            "value": 222
           },
-          "published_at": "2026-09-19T10:46:58Z",
+          "published_at": "2026-09-20T12:20:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 208
+          },
+          "published_at": "2026-09-21T14:10:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "US halts flights at busy East Coast airports, says fiber line cut",
+          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 188
+          },
+          "published_at": "2026-09-21T18:41:59Z",
           "relevance": 0.0
         }
       ]
@@ -187,8 +187,78 @@
       "title": "World",
       "items": [
         {
-          "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-          "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-22T00:16:06Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-21T00:05:11Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Xhaka under investigation over Covid-19 certificate",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-21T15:24:51Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-21T12:08:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+          "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-21T20:21:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Aviation regulators turn to AI to help manage the nation's airspace",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -197,84 +267,14 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-20T21:53:00Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-          "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-20T10:45:39Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump says triumphal arch will be military complex with drones and snipers",
-          "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-20T16:36:43Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-20T21:17:22Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-19T23:49:26Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-19T13:39:32Z",
+          "published_at": "2026-09-21T17:37:56Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 107,
+    "scanned": 104,
     "kept": 18,
     "levels": [
       {
