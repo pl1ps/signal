@@ -1,481 +1,210 @@
 {
-  "generated_at": "2026-09-22T00:49:48.931827Z",
+  "generated_at": "2026-09-23T00:30:00.992591Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "zai-org/ZCode",
-          "url": "https://github.com/zai-org/ZCode",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 5596
-          },
-          "published_at": "2026-09-20T12:01:16Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 519
-          },
-          "published_at": "2026-09-18T06:45:54Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "browser-use/jev-ultrafast",
-          "url": "https://github.com/browser-use/jev-ultrafast",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 15723
-          },
-          "published_at": "2026-09-16T21:30:12Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "jaredpalmer/kev",
-          "url": "https://github.com/jaredpalmer/kev",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 2445
-          },
-          "published_at": "2026-09-17T20:49:39Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "jarrodwatts/jev-trader",
-          "url": "https://github.com/jarrodwatts/jev-trader",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1854
-          },
-          "published_at": "2026-09-16T21:36:20Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "TianyuCodings/NanoJev",
-          "url": "https://github.com/TianyuCodings/NanoJev",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1809
-          },
-          "published_at": "2026-09-17T16:08:30Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Python Workers are now generally available",
-          "url": "https://blog.cloudflare.com/python-workers-ga/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 178
-          },
-          "published_at": "2026-09-21T13:38:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "AX – Google’s Open Agentic Orchestrator",
-          "url": "https://agentexecutor.io",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 629
-          },
-          "published_at": "2026-09-20T22:32:43Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-          "url": "https://github.com/volotat/mini-AGI/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 248
-          },
-          "published_at": "2026-09-21T04:42:37Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "The LLMentalist Effect (2023)",
-          "url": "https://softwarecrisis.dev/letters/llmentalist/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 222
-          },
-          "published_at": "2026-09-20T12:20:13Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 208
-          },
-          "published_at": "2026-09-21T14:10:49Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "US halts flights at busy East Coast airports, says fiber line cut",
-          "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 188
-          },
-          "published_at": "2026-09-21T18:41:59Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-          "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-22T00:16:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-          "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-21T00:05:11Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Xhaka under investigation over Covid-19 certificate",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-21T15:24:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-21T12:08:56Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
-          "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-21T20:21:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Aviation regulators turn to AI to help manage the nation's airspace",
-          "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-21T17:37:56Z",
-          "relevance": 0.0
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 104,
-    "kept": 18,
+    "scanned": 99,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +216,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
