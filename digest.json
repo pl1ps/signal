@@ -1,94 +1,106 @@
 {
-  "generated_at": "2026-09-24T00:29:35.243816Z",
+  "generated_at": "2026-09-25T00:32:52.452661Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
           "title": "zai-org/ZCode",
           "url": "https://github.com/zai-org/ZCode",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "This tool provides an open-source framework for building and running your own AI coding agents.",
+          "summary": "ZCode is an open-source harness designed to help developers create, extend, and run automated AI coding assistants.",
           "signal": {
             "metric": "stars",
-            "value": 6535
+            "value": 6713
           },
           "published_at": "2026-09-20T12:01:16Z",
-          "relevance": 0.0
+          "relevance": 0.88
         },
         {
-          "title": "unreallabsai/unreal-agent",
-          "url": "https://github.com/unreallabsai/unreal-agent",
+          "title": "mikehasa/golive-skill",
+          "url": "https://github.com/mikehasa/golive-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It simplifies deploying projects that you build with AI agents to real hosting and domain services.",
+          "summary": "golive-skill is a command-line tool that automates database setup, hosting, and domains for AI-generated applications.",
           "signal": {
             "metric": "stars",
-            "value": 1708
+            "value": 874
           },
-          "published_at": "2026-09-21T23:14:02Z",
-          "relevance": 0.0
+          "published_at": "2026-09-23T13:37:26Z",
+          "relevance": 0.85
         },
         {
-          "title": "freestylefly/WeChatBridge",
-          "url": "https://github.com/freestylefly/WeChatBridge",
+          "title": "yetone/magpie",
+          "url": "https://github.com/yetone/magpie",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It offers a convenient way to manage and switch between different AI coding agents from your desktop.",
+          "summary": "Magpie is a menu-bar utility that connects various AI models and coding agents into a single access point.",
           "signal": {
             "metric": "stars",
-            "value": 541
+            "value": 619
           },
-          "published_at": "2026-09-21T02:54:51Z",
-          "relevance": 0.0
+          "published_at": "2026-09-23T16:22:35Z",
+          "relevance": 0.82
         },
         {
-          "title": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
-          "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+          "title": "volotat/mini-AGI",
+          "url": "https://github.com/volotat/mini-AGI",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It shows how you can experiment with training AI models on standard consumer hardware.",
+          "summary": "mini-AGI is an open-source project demonstrating real-time model training on a consumer laptop with 8GB of VRAM.",
           "signal": {
             "metric": "stars",
-            "value": 532
+            "value": 754
           },
-          "published_at": "2026-09-18T06:45:54Z",
-          "relevance": 0.0
-        },
+          "published_at": "2026-09-19T00:25:59Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
         {
-          "title": "unicodef1wn/grokbot-field-notes",
-          "url": "https://github.com/unicodef1wn/grokbot-field-notes",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+          "url": "https://github.com/devdotfast/whiteboard",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It gives you an open-source tool to plan and design software visually before writing code.",
+          "summary": "Whiteboard is a desktop IDE built to help software developers design system architecture thoughtfully.",
           "signal": {
-            "metric": "stars",
-            "value": 512
+            "metric": "points",
+            "value": 176
           },
-          "published_at": "2026-09-18T09:15:24Z",
-          "relevance": 0.0
-        },
+          "published_at": "2026-09-24T17:21:36Z",
+          "relevance": 0.83
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
         {
-          "title": "bespokelabsai/nimble",
-          "url": "https://github.com/bespokelabsai/nimble",
+          "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+          "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "This cheat sheet offers practical preparation for software engineering interviews focused on AI roles.",
+          "summary": "It provides company-specific interview questions and detailed answers for technical AI engineering positions.",
           "signal": {
             "metric": "stars",
-            "value": 1684
+            "value": 649
           },
-          "published_at": "2026-09-18T09:07:48Z",
-          "relevance": 0.0
+          "published_at": "2026-09-19T04:14:43Z",
+          "relevance": 0.95
         }
       ]
     },
@@ -97,88 +109,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Unreal Agent",
-          "url": "https://unreallabs.ai/blog/unreal-agent/",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It highlights a real scientific discovery enabled directly by large language models.",
+          "summary": "Anthropic's Claude AI model helped researchers discover a novel biological enzyme system.",
           "signal": {
             "metric": "points",
-            "value": 234
+            "value": 757
           },
-          "published_at": "2026-09-22T18:15:53Z",
-          "relevance": 0.0
+          "published_at": "2026-09-23T18:06:47Z",
+          "relevance": 0.89
         },
         {
-          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+          "title": "Linux support is coming to Snapdragon X2 series",
+          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It is important hardware news if you are interested in running open-source Linux on ARM processors.",
+          "summary": "Qualcomm's upcoming Snapdragon X2 processors will natively support the Linux operating system.",
           "signal": {
             "metric": "points",
-            "value": 890
+            "value": 590
           },
-          "published_at": "2026-09-22T19:03:38Z",
-          "relevance": 0.0
+          "published_at": "2026-09-23T22:38:16Z",
+          "relevance": 0.79
         },
         {
-          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It offers a glimpse into how tech companies plan to scale machine learning infrastructure in the future.",
+          "summary": "Google's Project Suncatcher explores placing machine learning data centers into orbit.",
           "signal": {
             "metric": "points",
-            "value": 720
+            "value": 92
           },
-          "published_at": "2026-09-22T13:52:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Jev in 25 Lines of Python",
-          "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 629
-          },
-          "published_at": "2026-09-23T07:26:23Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-          "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 442
-          },
-          "published_at": "2026-09-23T12:15:33Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "I don't want the details",
-          "url": "https://michaelheap.com/i-dont-want-the-details/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 343
-          },
-          "published_at": "2026-09-23T13:04:44Z",
-          "relevance": 0.0
+          "published_at": "2026-09-24T13:53:29Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -187,295 +157,239 @@
       "title": "World",
       "items": [
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It covers major international news concerning AI security and government oversight.",
+          "summary": "Australia announced a significant cybersecurity breach involving OpenAI during an address at the United Nations.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-23T23:44:58Z",
-          "relevance": 0.0
+          "published_at": "2026-09-24T18:06:40Z",
+          "relevance": 0.86
         },
         {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-          "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump and Xi hold critical talks at White House summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "Al Jazeera",
+          "why": "It highlights key international diplomatic discussions that directly impact global AI policy and trade.",
+          "summary": "US and Chinese leaders met at the White House to negotiate trade, Taiwan, and rules surrounding AI.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-23T22:01:17Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-23T16:53:37Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-23T12:31:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "UK survivor of Canadian poison seller says he exploited her despair",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-23T21:16:00Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-          "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-23T18:51:12Z",
-          "relevance": 0.0
+          "published_at": "2026-09-24T21:41:40Z",
+          "relevance": 0.84
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 95,
-    "kept": 18,
+    "scanned": 102,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.79,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +401,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
