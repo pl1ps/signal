@@ -1,106 +1,94 @@
 {
-  "generated_at": "2026-09-25T00:32:52.452661Z",
+  "generated_at": "2026-09-26T00:37:02.821976Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "ai-tools",
-      "title": "AI & Tools",
+      "id": "code-projects",
+      "title": "Code & Projects",
       "items": [
         {
           "title": "zai-org/ZCode",
           "url": "https://github.com/zai-org/ZCode",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This tool provides an open-source framework for building and running your own AI coding agents.",
-          "summary": "ZCode is an open-source harness designed to help developers create, extend, and run automated AI coding assistants.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 6713
+            "value": 6771
           },
           "published_at": "2026-09-20T12:01:16Z",
-          "relevance": 0.88
+          "relevance": 0.0
+        },
+        {
+          "title": "unreallabsai/unreal-agent",
+          "url": "https://github.com/unreallabsai/unreal-agent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1940
+          },
+          "published_at": "2026-09-21T23:14:02Z",
+          "relevance": 0.0
         },
         {
           "title": "mikehasa/golive-skill",
           "url": "https://github.com/mikehasa/golive-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It simplifies deploying projects that you build with AI agents to real hosting and domain services.",
-          "summary": "golive-skill is a command-line tool that automates database setup, hosting, and domains for AI-generated applications.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 874
+            "value": 949
           },
           "published_at": "2026-09-23T13:37:26Z",
-          "relevance": 0.85
+          "relevance": 0.0
         },
         {
-          "title": "yetone/magpie",
-          "url": "https://github.com/yetone/magpie",
+          "title": "freestylefly/WeChatBridge",
+          "url": "https://github.com/freestylefly/WeChatBridge",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a convenient way to manage and switch between different AI coding agents from your desktop.",
-          "summary": "Magpie is a menu-bar utility that connects various AI models and coding agents into a single access point.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 619
+            "value": 715
           },
-          "published_at": "2026-09-23T16:22:35Z",
-          "relevance": 0.82
+          "published_at": "2026-09-21T02:54:51Z",
+          "relevance": 0.0
         },
         {
-          "title": "volotat/mini-AGI",
-          "url": "https://github.com/volotat/mini-AGI",
+          "title": "nokia-applied-research/AnyJev",
+          "url": "https://github.com/nokia-applied-research/AnyJev",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It shows how you can experiment with training AI models on standard consumer hardware.",
-          "summary": "mini-AGI is an open-source project demonstrating real-time model training on a consumer laptop with 8GB of VRAM.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 754
+            "value": 704
           },
-          "published_at": "2026-09-19T00:25:59Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
+          "published_at": "2026-09-21T05:55:40Z",
+          "relevance": 0.0
+        },
         {
-          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-          "url": "https://github.com/devdotfast/whiteboard",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you an open-source tool to plan and design software visually before writing code.",
-          "summary": "Whiteboard is a desktop IDE built to help software developers design system architecture thoughtfully.",
-          "signal": {
-            "metric": "points",
-            "value": 176
-          },
-          "published_at": "2026-09-24T17:21:36Z",
-          "relevance": 0.83
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-          "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+          "title": "yukitorido/short-video-generator-AI",
+          "url": "https://github.com/yukitorido/short-video-generator-AI",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This cheat sheet offers practical preparation for software engineering interviews focused on AI roles.",
-          "summary": "It provides company-specific interview questions and detailed answers for technical AI engineering positions.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 649
+            "value": 615
           },
-          "published_at": "2026-09-19T04:14:43Z",
-          "relevance": 0.95
+          "published_at": "2026-09-23T18:11:57Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -109,46 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights a real scientific discovery enabled directly by large language models.",
-          "summary": "Anthropic's Claude AI model helped researchers discover a novel biological enzyme system.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 757
+            "value": 149
           },
-          "published_at": "2026-09-23T18:06:47Z",
-          "relevance": 0.89
+          "published_at": "2026-09-25T21:09:27Z",
+          "relevance": 0.0
         },
         {
-          "title": "Linux support is coming to Snapdragon X2 series",
-          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It is important hardware news if you are interested in running open-source Linux on ARM processors.",
-          "summary": "Qualcomm's upcoming Snapdragon X2 processors will natively support the Linux operating system.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 590
+            "value": 367
           },
-          "published_at": "2026-09-23T22:38:16Z",
-          "relevance": 0.79
+          "published_at": "2026-09-25T15:29:25Z",
+          "relevance": 0.0
         },
         {
-          "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+          "title": "What About Rails?",
+          "url": "https://jardo.dev/what-about-rails",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers a glimpse into how tech companies plan to scale machine learning infrastructure in the future.",
-          "summary": "Google's Project Suncatcher explores placing machine learning data centers into orbit.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 92
+            "value": 304
           },
-          "published_at": "2026-09-24T13:53:29Z",
-          "relevance": 0.78
+          "published_at": "2026-09-25T02:50:16Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 165
+          },
+          "published_at": "2026-09-24T19:14:27Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+          "url": "https://mouse.dev/blog/muse-special/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 109
+          },
+          "published_at": "2026-09-25T18:18:06Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 74
+          },
+          "published_at": "2026-09-25T14:07:08Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -157,239 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-          "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+          "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It covers major international news concerning AI security and government oversight.",
-          "summary": "Australia announced a significant cybersecurity breach involving OpenAI during an address at the United Nations.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-24T18:06:40Z",
-          "relevance": 0.86
+          "published_at": "2026-09-26T00:09:45Z",
+          "relevance": 0.0
         },
         {
-          "title": "Trump and Xi hold critical talks at White House summit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It highlights key international diplomatic discussions that directly impact global AI policy and trade.",
-          "summary": "US and Chinese leaders met at the White House to negotiate trade, Taiwan, and rules surrounding AI.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-09-24T21:41:40Z",
-          "relevance": 0.84
+          "published_at": "2026-09-25T23:38:48Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-25T20:47:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-25T23:20:48Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-25T23:05:40Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pope warns against 'losing humanity' to AI machines",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-25T15:06:41Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 102,
-    "kept": 11,
+    "scanned": 93,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.95,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.89,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.79,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -401,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
