@@ -1,210 +1,481 @@
 {
-  "generated_at": "2026-09-28T00:43:27.390338Z",
+  "generated_at": "2026-09-29T01:54:48.007784Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "amitshekhariitbhu/ai-engineering-course",
+          "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 432
+          },
+          "published_at": "2026-09-23T08:04:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "amitshekhariitbhu/ai-system-design",
+          "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 463
+          },
+          "published_at": "2026-09-25T04:50:06Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "mikehasa/golive-skill",
+          "url": "https://github.com/mikehasa/golive-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1048
+          },
+          "published_at": "2026-09-23T13:37:26Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "yukitorido/short-video-generator-AI",
+          "url": "https://github.com/yukitorido/short-video-generator-AI",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 731
+          },
+          "published_at": "2026-09-23T18:11:57Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "lemomo-ai/lemo-opuscar",
+          "url": "https://github.com/lemomo-ai/lemo-opuscar",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 524
+          },
+          "published_at": "2026-09-26T10:10:41Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "kaankiziltug/logo-design-skill",
+          "url": "https://github.com/kaankiziltug/logo-design-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 466
+          },
+          "published_at": "2026-09-26T08:23:34Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+          "url": "https://hn.watch/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 126
+          },
+          "published_at": "2026-09-28T15:16:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+          "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 102
+          },
+          "published_at": "2026-09-28T15:46:36Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "The problem is not AI code, but not knowing about system architecture or intent",
+          "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 347
+          },
+          "published_at": "2026-09-28T16:11:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+          "url": "https://git.mills.io/prologic/parley",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 304
+          },
+          "published_at": "2026-09-28T10:30:54Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "It's Time to Investigate the AI Labs",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 291
+          },
+          "published_at": "2026-09-28T19:53:35Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "url": "https://github.com/firelex/jeff",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 273
+          },
+          "published_at": "2026-09-28T20:23:36Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-29T01:51:25Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-28T14:57:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "French PM warns against escalation of school protests after 164 arrested",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-28T21:46:53Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+          "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-28T17:26:21Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
+          "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-28T17:14:25Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
+          "url": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-09-28T16:27:30Z",
+          "relevance": 0.0
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 103,
-    "kept": 0,
+    "scanned": 98,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -216,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
