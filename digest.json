@@ -1,181 +1,12 @@
 {
-  "generated_at": "2026-09-30T01:17:30.854694Z",
+  "generated_at": "2026-10-01T01:17:03.477433Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "supermemoryai/company-brain",
-          "url": "https://github.com/supermemoryai/company-brain",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows how AI agents can be integrated into team workflows to store knowledge and execute tasks.",
-          "summary": "An open-source AI assistant for Slack that acts as a shared memory for your team. It retains conversation history and can automatically complete delegated workplace tasks.",
-          "signal": {
-            "metric": "stars",
-            "value": 847
-          },
-          "published_at": "2026-09-25T22:48:14Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "dzhng/jevgrep",
-          "url": "https://github.com/dzhng/jevgrep",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical command-line tool that lets coding agents search codebases using natural language queries.",
-          "summary": "A command-line interface tool designed for AI coding agents to locate relevant source code files based on what the code actually does. It helps agents understand and navigate large programming projects more effectively.",
-          "signal": {
-            "metric": "stars",
-            "value": 1776
-          },
-          "published_at": "2026-09-26T04:06:56Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Niko1221/Strata",
-          "url": "https://github.com/Niko1221/Strata",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It lets you run a massive open-weight AI model locally on consumer hardware with a simple setup.",
-          "summary": "Strata is an inference engine that allows high-parameter Mixture-of-Experts AI models to run on standard NVIDIA GPUs. It provides a local API server compatible with OpenAI and Anthropic interfaces.",
-          "signal": {
-            "metric": "stars",
-            "value": 1762
-          },
-          "published_at": "2026-09-24T16:40:20Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "AgentSystemLabs/agent-office",
-          "url": "https://github.com/AgentSystemLabs/agent-office",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It provides a visual workspace to interact with and manage AI coding agents working on software projects.",
-          "summary": "A virtual 3D office environment where you can manage AI coding agents as digital workers. It allows you to monitor their terminal sessions, inspect GitHub pull requests, and communicate with them.",
-          "signal": {
-            "metric": "stars",
-            "value": 388
-          },
-          "published_at": "2026-09-26T00:32:48Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "tobi/disktree",
-          "url": "https://github.com/tobi/disktree",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an elegant open-source system tool written in Rust by the founder of Shopify.",
-          "summary": "A desktop utility that visualizes hard drive usage as an interactive treemap to help users identify and delete large files. It is built using the Rust programming language and the GPUI graphics library.",
-          "signal": {
-            "metric": "stars",
-            "value": 1912
-          },
-          "published_at": "2026-09-24T20:56:29Z",
-          "relevance": 0.76
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "amitshekhariitbhu/ai-system-design",
-          "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It helps you learn how real-world AI applications like RAG and AI agents are architected step by step.",
-          "summary": "An open-source repository that breaks down AI system design concepts into beginner-friendly guides. It covers core building blocks like Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and autonomous AI agents.",
-          "signal": {
-            "metric": "stars",
-            "value": 468
-          },
-          "published_at": "2026-09-25T04:50:06Z",
-          "relevance": 0.95
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-          "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It impacts the regulatory environment and safety standards for the AI tools and tech companies you follow.",
-          "summary": "Major technology companies signed an agreement establishing voluntary internal controls for AI development. The accord aims to address safety concerns surrounding powerful AI systems through self-regulation.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-29T23:43:32Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It keeps you informed on major global geopolitics and active international conflicts.",
-          "summary": "US leadership announced expectations that the ongoing conflict involving Iran will conclude soon while reiterating nuclear non-proliferation demands. The developments remain a central focus of major global news coverage.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-30T00:00:00Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Chinese AI tool told researchers how to make bioweapons",
-          "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It highlights key security vulnerabilities and safety guardrail challenges in modern AI models.",
-          "summary": "Security researchers discovered that Chinese AI models could be manipulated into bypassing safety guardrails to give instructions on bioweapon creation. The finding underscores the ongoing challenge developers face in enforcing AI safety limits.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-29T23:15:29Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
-          "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It gives you essential context on major international diplomacy and US-China relations.",
-          "summary": "A planned visit by US and Chinese leaders to the National Archives was altered at the last minute due to diplomatic friction over historical documents related to Taiwan. The event highlights delicate geopolitical tensions between the two nations.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-09-29T17:17:04Z",
-          "relevance": 0.75
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 98,
-    "kept": 10,
+    "scanned": 97,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.95,
-        "kept": true
-      },
-      {
         "v": 0.25,
         "kept": false
       },
@@ -196,20 +27,12 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -228,8 +51,8 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -260,8 +83,24 @@
         "kept": false
       },
       {
-        "v": 0.78,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -284,8 +123,16 @@
         "kept": false
       },
       {
-        "v": 0.75,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -300,16 +147,8 @@
         "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -320,12 +159,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.76,
-        "kept": true
       },
       {
         "v": 0.0,
