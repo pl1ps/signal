@@ -1,38 +1,225 @@
 {
-  "generated_at": "2026-10-02T01:40:44.221787Z",
+  "generated_at": "2026-10-03T01:11:22.315063Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "composio-community/open-dot",
+          "url": "https://github.com/composio-community/open-dot",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This tool gives you an easy way to run autonomous personal AI agents directly on your computer.",
+          "summary": "Open-dot is a Mac application that lets you run independent AI agents locally on your machine. It combines OpenAI models with Composio tools to execute tasks automatically.",
+          "signal": {
+            "metric": "stars",
+            "value": 427
+          },
+          "published_at": "2026-09-29T16:34:16Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "feder-cr/dots",
+          "url": "https://github.com/feder-cr/dots",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It provides an open-source AI agent that can navigate web pages smoothly without triggering anti-bot blocks.",
+          "summary": "Dots is an open-source web agent equipped with its own browser designed to bypass common web blocks. It allows developers to automate complex web browsing tasks using AI.",
+          "signal": {
+            "metric": "stars",
+            "value": 2486
+          },
+          "published_at": "2026-09-29T23:06:00Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Louis-CFM/coucou",
+          "url": "https://github.com/Louis-CFM/coucou",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you a lightweight visual monitor for tracking active AI coding assistants like Cursor and Claude Code.",
+          "summary": "Coucou is a small desktop app that sits in your Mac notch or screen top to display the status of your AI coding assistants. It helps you see when tools like Cursor or Gemini CLI are working without switching windows.",
+          "signal": {
+            "metric": "stars",
+            "value": 2982
+          },
+          "published_at": "2026-09-27T21:54:12Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "openai/mcp-extensions",
+          "url": "https://github.com/openai/mcp-extensions",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "As an official OpenAI repository, this helps you learn how to build deep integrations and plugins directly for ChatGPT.",
+          "summary": "This repository provides extensions based on the Model Context Protocol to integrate custom capabilities into ChatGPT. It allows your plugins to act like native built-in features.",
+          "signal": {
+            "metric": "stars",
+            "value": 699
+          },
+          "published_at": "2026-09-29T00:45:42Z",
+          "relevance": 0.92
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+          "url": "https://github.com/kitao/pyxel",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Pyxel is a beginner-friendly Python game engine that can help you practice programming through fun game development projects.",
+          "summary": "Pyxel is a free retro game engine built specifically for Python programmers. It comes with built-in pixel art and sound editors so you can start creating games right away.",
+          "signal": {
+            "metric": "points",
+            "value": 67
+          },
+          "published_at": "2026-10-01T23:26:35Z",
+          "relevance": 0.95
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://dwarfstar.sh/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "The creator of Redis released a simple tool for running large language models locally on your own computer.",
+          "summary": "Salvatore Sanfilippo, the creator of the popular database Redis, released ds4, a lightweight tool for running local LLMs. It offers an approachable way to explore local AI execution without complex cloud infrastructure.",
+          "signal": {
+            "metric": "points",
+            "value": 143
+          },
+          "published_at": "2026-10-02T18:01:16Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "This offers a practical case study on how real-world AI surveillance tools impact public safety and civil privacy.",
+          "summary": "San Francisco city leaders attribute a steep drop in auto thefts to AI-powered license plate reader cameras. The report explores whether these high-tech networks effectively cut crime without violating privacy rights.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-02T10:30:00Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+          "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This decision highlights an important tech-policy victory regarding digital privacy rights and technical reality.",
+          "summary": "A US court backed the Electronic Frontier Foundation in ruling against a Utah law regulating Virtual Private Networks. The court recognized that enforcing the law's age verification demands was technically impossible.",
+          "signal": {
+            "metric": "points",
+            "value": 489
+          },
+          "published_at": "2026-10-01T22:23:07Z",
+          "relevance": 0.81
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This provides a critical update on the ongoing war in Ukraine and its severe impact on national infrastructure.",
+          "summary": "Kyiv's mayor reported severe damage to critical energy and civic infrastructure following intensified Russian missile strikes. The attacks have left large parts of Ukraine's capital city in a dramatic crisis.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-02T15:26:37Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This major economic move highlights growing global tension and efforts to stabilize international energy prices.",
+          "summary": "G7 nations agreed to release 100 million barrels of crude oil and diesel to prevent global price spikes. The move comes in response to potential US export restriction threats.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-02T20:25:19Z",
+          "relevance": 0.8
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 100,
-    "kept": 0,
+    "scanned": 96,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.92,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -71,8 +258,44 @@
         "kept": false
       },
       {
+        "v": 0.9,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -103,68 +326,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -197,6 +360,14 @@
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
+        "kept": true
       },
       {
         "v": 0.0,
