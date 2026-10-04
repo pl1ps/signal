@@ -1,92 +1,94 @@
 {
-  "generated_at": "2026-10-03T01:11:22.315063Z",
+  "generated_at": "2026-10-04T00:36:19.328979Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "composio-community/open-dot",
-          "url": "https://github.com/composio-community/open-dot",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This tool gives you an easy way to run autonomous personal AI agents directly on your computer.",
-          "summary": "Open-dot is a Mac application that lets you run independent AI agents locally on your machine. It combines OpenAI models with Composio tools to execute tasks automatically.",
-          "signal": {
-            "metric": "stars",
-            "value": 427
-          },
-          "published_at": "2026-09-29T16:34:16Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "feder-cr/dots",
-          "url": "https://github.com/feder-cr/dots",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It provides an open-source AI agent that can navigate web pages smoothly without triggering anti-bot blocks.",
-          "summary": "Dots is an open-source web agent equipped with its own browser designed to bypass common web blocks. It allows developers to automate complex web browsing tasks using AI.",
-          "signal": {
-            "metric": "stars",
-            "value": 2486
-          },
-          "published_at": "2026-09-29T23:06:00Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Louis-CFM/coucou",
-          "url": "https://github.com/Louis-CFM/coucou",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It gives you a lightweight visual monitor for tracking active AI coding assistants like Cursor and Claude Code.",
-          "summary": "Coucou is a small desktop app that sits in your Mac notch or screen top to display the status of your AI coding assistants. It helps you see when tools like Cursor or Gemini CLI are working without switching windows.",
-          "signal": {
-            "metric": "stars",
-            "value": 2982
-          },
-          "published_at": "2026-09-27T21:54:12Z",
-          "relevance": 0.82
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "openai/mcp-extensions",
-          "url": "https://github.com/openai/mcp-extensions",
+          "title": "feder-cr/dots",
+          "url": "https://github.com/feder-cr/dots",
           "source": "github",
           "source_label": "GitHub",
-          "why": "As an official OpenAI repository, this helps you learn how to build deep integrations and plugins directly for ChatGPT.",
-          "summary": "This repository provides extensions based on the Model Context Protocol to integrate custom capabilities into ChatGPT. It allows your plugins to act like native built-in features.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 699
+            "value": 2573
           },
-          "published_at": "2026-09-29T00:45:42Z",
-          "relevance": 0.92
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
+          "published_at": "2026-09-29T23:06:00Z",
+          "relevance": 0.0
+        },
         {
-          "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-          "url": "https://github.com/kitao/pyxel",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Pyxel is a beginner-friendly Python game engine that can help you practice programming through fun game development projects.",
-          "summary": "Pyxel is a free retro game engine built specifically for Python programmers. It comes with built-in pixel art and sound editors so you can start creating games right away.",
+          "title": "nanaism/yomiyasu",
+          "url": "https://github.com/nanaism/yomiyasu",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 67
+            "metric": "stars",
+            "value": 1315
           },
-          "published_at": "2026-10-01T23:26:35Z",
-          "relevance": 0.95
+          "published_at": "2026-09-30T11:49:32Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "composio-community/open-dot",
+          "url": "https://github.com/composio-community/open-dot",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 507
+          },
+          "published_at": "2026-09-29T16:34:16Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "KKKKhazix/AIHOT",
+          "url": "https://github.com/KKKKhazix/AIHOT",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 5405
+          },
+          "published_at": "2026-09-28T23:40:05Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "CopilotKit/OpenDots",
+          "url": "https://github.com/CopilotKit/OpenDots",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2504
+          },
+          "published_at": "2026-09-29T17:13:58Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "wy51ai/floorplan-3d",
+          "url": "https://github.com/wy51ai/floorplan-3d",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1361
+          },
+          "published_at": "2026-09-29T02:57:30Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -95,46 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh/",
+          "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+          "url": "https://pipod.dev/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "The creator of Redis released a simple tool for running large language models locally on your own computer.",
-          "summary": "Salvatore Sanfilippo, the creator of the popular database Redis, released ds4, a lightweight tool for running local LLMs. It offers an approachable way to explore local AI execution without complex cloud infrastructure.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 143
+            "value": 74
           },
-          "published_at": "2026-10-02T18:01:16Z",
-          "relevance": 0.9
+          "published_at": "2026-10-02T19:10:38Z",
+          "relevance": 0.0
         },
         {
-          "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "This offers a practical case study on how real-world AI surveillance tools impact public safety and civil privacy.",
-          "summary": "San Francisco city leaders attribute a steep drop in auto thefts to AI-powered license plate reader cameras. The report explores whether these high-tech networks effectively cut crime without violating privacy rights.",
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "",
-            "value": 0
+            "metric": "points",
+            "value": 80
           },
-          "published_at": "2026-10-02T10:30:00Z",
-          "relevance": 0.84
+          "published_at": "2026-10-03T22:18:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 72
+          },
+          "published_at": "2026-10-03T17:44:29Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+          "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 68
+          },
+          "published_at": "2026-10-02T10:40:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+          "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 54
+          },
+          "published_at": "2026-10-03T19:07:18Z",
+          "relevance": 0.0
         },
         {
           "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
           "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This decision highlights an important tech-policy victory regarding digital privacy rights and technical reality.",
-          "summary": "A US court backed the Electronic Frontier Foundation in ruling against a Utah law regulating Virtual Private Networks. The court recognized that enforcing the law's age verification demands was technically impossible.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 489
+            "value": 777
           },
           "published_at": "2026-10-01T22:23:07Z",
-          "relevance": 0.81
+          "relevance": 0.0
         }
       ]
     },
@@ -143,239 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-          "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This provides a critical update on the ongoing war in Ukraine and its severe impact on national infrastructure.",
-          "summary": "Kyiv's mayor reported severe damage to critical energy and civic infrastructure following intensified Russian missile strikes. The attacks have left large parts of Ukraine's capital city in a dramatic crisis.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-02T15:26:37Z",
-          "relevance": 0.85
+          "published_at": "2026-10-03T17:48:42Z",
+          "relevance": 0.0
         },
         {
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-03T14:27:33Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-03T16:16:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-03T13:34:11Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This major economic move highlights growing global tension and efforts to stabilize international energy prices.",
-          "summary": "G7 nations agreed to release 100 million barrels of crude oil and diesel to prevent global price spikes. The move comes in response to potential US export restriction threats.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-02T20:25:19Z",
-          "relevance": 0.8
+          "published_at": "2026-10-03T04:38:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Medical plane with 6 on board missing off Massachusetts coast",
+          "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-03T21:16:21Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 96,
-    "kept": 10,
+    "scanned": 93,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.92,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.95,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.81,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -387,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
