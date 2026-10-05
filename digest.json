@@ -1,94 +1,106 @@
 {
-  "generated_at": "2026-10-04T00:36:19.328979Z",
+  "generated_at": "2026-10-05T00:54:15.425974Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "feder-cr/dots",
-          "url": "https://github.com/feder-cr/dots",
+          "title": "StayLameBro/backburner",
+          "url": "https://github.com/StayLameBro/backburner",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a clever open-source hack for running powerful open-weights LLMs on personal hardware.",
+          "summary": "Backburner connects an iPhone to a Mac via USB-C to share processing power and run large AI models locally.",
           "signal": {
             "metric": "stars",
-            "value": 2573
+            "value": 435
           },
-          "published_at": "2026-09-29T23:06:00Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "nanaism/yomiyasu",
-          "url": "https://github.com/nanaism/yomiyasu",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1315
-          },
-          "published_at": "2026-09-30T11:49:32Z",
-          "relevance": 0.0
+          "published_at": "2026-10-01T20:59:56Z",
+          "relevance": 0.9
         },
         {
           "title": "composio-community/open-dot",
           "url": "https://github.com/composio-community/open-dot",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a practical tool for trying out local personal AI agents on your Mac.",
+          "summary": "Open-dot is a desktop application that lets you run independent AI agents locally on your computer.",
           "signal": {
             "metric": "stars",
-            "value": 507
+            "value": 556
           },
           "published_at": "2026-09-29T16:34:16Z",
-          "relevance": 0.0
+          "relevance": 0.88
         },
         {
-          "title": "KKKKhazix/AIHOT",
-          "url": "https://github.com/KKKKhazix/AIHOT",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It shows how open-source software optimization brings state-of-the-art AI to consumer PCs.",
+          "summary": "Engineers successfully ran a massive 125-billion parameter LLM at high speeds on a single consumer graphics card.",
           "signal": {
-            "metric": "stars",
-            "value": 5405
+            "metric": "points",
+            "value": 596
           },
-          "published_at": "2026-09-28T23:40:05Z",
-          "relevance": 0.0
+          "published_at": "2026-10-04T12:51:53Z",
+          "relevance": 0.87
         },
         {
-          "title": "CopilotKit/OpenDots",
-          "url": "https://github.com/CopilotKit/OpenDots",
+          "title": "feder-cr/dots",
+          "url": "https://github.com/feder-cr/dots",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It shows you how open-source AI agents can navigate the live web autonomously.",
+          "summary": "Dots is an open-source AI agent equipped with its own web browser designed to avoid getting blocked by anti-bot systems.",
           "signal": {
             "metric": "stars",
-            "value": 2504
+            "value": 2602
           },
-          "published_at": "2026-09-29T17:13:58Z",
-          "relevance": 0.0
-        },
+          "published_at": "2026-09-29T23:06:00Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
         {
-          "title": "wy51ai/floorplan-3d",
-          "url": "https://github.com/wy51ai/floorplan-3d",
+          "title": "openai/mcp-extensions",
+          "url": "https://github.com/openai/mcp-extensions",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It gives you hands-on open-source code to build custom extensions for ChatGPT.",
+          "summary": "This official OpenAI repository provides tools to create plugins that integrate seamlessly with ChatGPT.",
           "signal": {
             "metric": "stars",
-            "value": 1361
+            "value": 750
           },
-          "published_at": "2026-09-29T02:57:30Z",
-          "relevance": 0.0
+          "published_at": "2026-09-29T00:45:42Z",
+          "relevance": 0.86
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "nykooi1/vibe-wise",
+          "url": "https://github.com/nykooi1/vibe-wise",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It directly helps you learn how to code while using modern AI coding assistants.",
+          "summary": "Vibe-wise is a Claude Code extension that explains coding concepts and architecture while the AI writes software for you.",
+          "signal": {
+            "metric": "stars",
+            "value": 1053
+          },
+          "published_at": "2026-09-29T01:29:57Z",
+          "relevance": 0.95
         }
       ]
     },
@@ -97,88 +109,32 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "url": "https://pipod.dev/",
+          "title": "Agents don't need memory, they need documentation",
+          "url": "https://liao.gg/blog/agents-dont-need-memory",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It teaches key architecture principles for building efficient AI agents.",
+          "summary": "This article explains why providing AI agents with clear API documentation is more effective than giving them long-term memory.",
           "signal": {
             "metric": "points",
-            "value": 74
+            "value": 347
           },
-          "published_at": "2026-10-02T19:10:38Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 80
-          },
-          "published_at": "2026-10-03T22:18:13Z",
-          "relevance": 0.0
+          "published_at": "2026-10-03T17:03:37Z",
+          "relevance": 0.89
         },
         {
           "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It gives you perspective from a top AI pioneer on current AI safety debates.",
+          "summary": "Turing Award winner Yann LeCun stated he has no concerns about AI existential risk despite recent news about rogue AI behaviors.",
           "signal": {
             "metric": "points",
-            "value": 72
+            "value": 383
           },
           "published_at": "2026-10-03T17:44:29Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-          "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 68
-          },
-          "published_at": "2026-10-02T10:40:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-          "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 54
-          },
-          "published_at": "2026-10-03T19:07:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-          "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 777
-          },
-          "published_at": "2026-10-01T22:23:07Z",
-          "relevance": 0.0
+          "relevance": 0.8
         }
       ]
     },
@@ -187,294 +143,252 @@
       "title": "World",
       "items": [
         {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+          "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "NPR News",
+          "why": "It informs you about significant government policy moves affecting the AI industry.",
+          "summary": "Jay Clayton was named to lead a new federal task force responsible for coordinating government strategy on artificial intelligence.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-03T17:48:42Z",
-          "relevance": 0.0
+          "published_at": "2026-10-04T18:36:48Z",
+          "relevance": 0.84
         },
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It provides critical context on major military escalations in the Ukraine war.",
+          "summary": "Russian military strikes damaged key bridges near Ukraine's capital for a second consecutive day.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-03T14:27:33Z",
-          "relevance": 0.0
+          "published_at": "2026-10-04T14:25:32Z",
+          "relevance": 0.82
         },
         {
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "Al Jazeera",
+          "why": "It updates you on major geopolitical developments in the Middle East.",
+          "summary": "Yemen announced a major military campaign against Houthi forces as Iran warned it is prepared to respond to US strikes.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-03T16:16:49Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-03T13:34:11Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-03T04:38:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Medical plane with 6 on board missing off Massachusetts coast",
-          "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-03T21:16:21Z",
-          "relevance": 0.0
+          "published_at": "2026-10-05T00:00:00Z",
+          "relevance": 0.81
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 93,
-    "kept": 18,
+    "scanned": 97,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
+        "v": 0.9,
         "kept": true
       }
     ]
@@ -487,6 +401,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
