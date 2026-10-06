@@ -1,106 +1,94 @@
 {
-  "generated_at": "2026-10-05T00:54:15.425974Z",
+  "generated_at": "2026-10-06T02:17:15.850339Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "StayLameBro/backburner",
-          "url": "https://github.com/StayLameBro/backburner",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a clever open-source hack for running powerful open-weights LLMs on personal hardware.",
-          "summary": "Backburner connects an iPhone to a Mac via USB-C to share processing power and run large AI models locally.",
-          "signal": {
-            "metric": "stars",
-            "value": 435
-          },
-          "published_at": "2026-10-01T20:59:56Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "composio-community/open-dot",
-          "url": "https://github.com/composio-community/open-dot",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical tool for trying out local personal AI agents on your Mac.",
-          "summary": "Open-dot is a desktop application that lets you run independent AI agents locally on your computer.",
-          "signal": {
-            "metric": "stars",
-            "value": 556
-          },
-          "published_at": "2026-09-29T16:34:16Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-          "url": "https://github.com/Niko1221/Strata",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It shows how open-source software optimization brings state-of-the-art AI to consumer PCs.",
-          "summary": "Engineers successfully ran a massive 125-billion parameter LLM at high speeds on a single consumer graphics card.",
-          "signal": {
-            "metric": "points",
-            "value": 596
-          },
-          "published_at": "2026-10-04T12:51:53Z",
-          "relevance": 0.87
-        },
-        {
-          "title": "feder-cr/dots",
-          "url": "https://github.com/feder-cr/dots",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows you how open-source AI agents can navigate the live web autonomously.",
-          "summary": "Dots is an open-source AI agent equipped with its own web browser designed to avoid getting blocked by anti-bot systems.",
-          "signal": {
-            "metric": "stars",
-            "value": 2602
-          },
-          "published_at": "2026-09-29T23:06:00Z",
-          "relevance": 0.85
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "openai/mcp-extensions",
-          "url": "https://github.com/openai/mcp-extensions",
+          "title": "nanaism/yomiyasu",
+          "url": "https://github.com/nanaism/yomiyasu",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you hands-on open-source code to build custom extensions for ChatGPT.",
-          "summary": "This official OpenAI repository provides tools to create plugins that integrate seamlessly with ChatGPT.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 750
+            "value": 1520
           },
-          "published_at": "2026-09-29T00:45:42Z",
-          "relevance": 0.86
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
+          "published_at": "2026-09-30T11:49:32Z",
+          "relevance": 0.0
+        },
         {
-          "title": "nykooi1/vibe-wise",
-          "url": "https://github.com/nykooi1/vibe-wise",
+          "title": "QingYunA/answer-me-with-html",
+          "url": "https://github.com/QingYunA/answer-me-with-html",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It directly helps you learn how to code while using modern AI coding assistants.",
-          "summary": "Vibe-wise is a Claude Code extension that explains coding concepts and architecture while the AI writes software for you.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1053
+            "value": 1494
           },
-          "published_at": "2026-09-29T01:29:57Z",
-          "relevance": 0.95
+          "published_at": "2026-10-02T09:57:40Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Edwardxlai/easyread",
+          "url": "https://github.com/Edwardxlai/easyread",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 805
+          },
+          "published_at": "2026-09-30T12:52:24Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "oil-oil/oil-ui",
+          "url": "https://github.com/oil-oil/oil-ui",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 632
+          },
+          "published_at": "2026-09-30T03:55:35Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "lucasmarkes/hairline",
+          "url": "https://github.com/lucasmarkes/hairline",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 566
+          },
+          "published_at": "2026-10-01T13:52:19Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "OpSafari/hypoarena",
+          "url": "https://github.com/OpSafari/hypoarena",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 557
+          },
+          "published_at": "2026-09-30T03:35:45Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -109,32 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Agents don't need memory, they need documentation",
-          "url": "https://liao.gg/blog/agents-dont-need-memory",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It teaches key architecture principles for building efficient AI agents.",
-          "summary": "This article explains why providing AI agents with clear API documentation is more effective than giving them long-term memory.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 347
+            "value": 219
           },
-          "published_at": "2026-10-03T17:03:37Z",
-          "relevance": 0.89
+          "published_at": "2026-10-05T21:00:21Z",
+          "relevance": 0.0
         },
         {
-          "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "url": "https://qlabs.sh/research/dust",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It gives you perspective from a top AI pioneer on current AI safety debates.",
-          "summary": "Turing Award winner Yann LeCun stated he has no concerns about AI existential risk despite recent news about rogue AI behaviors.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 383
+            "value": 109
           },
-          "published_at": "2026-10-03T17:44:29Z",
-          "relevance": 0.8
+          "published_at": "2026-10-05T21:15:07Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Linux containers in 500 lines of code (2016)",
+          "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 100
+          },
+          "published_at": "2026-10-05T14:09:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Martian chaos terrain",
+          "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 98
+          },
+          "published_at": "2026-10-02T01:11:28Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+          "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 82
+          },
+          "published_at": "2026-10-02T07:40:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+          "url": "https://github.com/rsutcliffe/nightwatch",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 73
+          },
+          "published_at": "2026-10-04T09:31:01Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -143,252 +187,294 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-          "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It informs you about significant government policy moves affecting the AI industry.",
-          "summary": "Jay Clayton was named to lead a new federal task force responsible for coordinating government strategy on artificial intelligence.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-04T18:36:48Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-          "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It provides critical context on major military escalations in the Ukraine war.",
-          "summary": "Russian military strikes damaged key bridges near Ukraine's capital for a second consecutive day.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-04T14:25:32Z",
-          "relevance": 0.82
+          "published_at": "2026-10-05T21:46:22Z",
+          "relevance": 0.0
         },
         {
-          "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It updates you on major geopolitical developments in the Middle East.",
-          "summary": "Yemen announced a major military campaign against Houthi forces as Iran warned it is prepared to respond to US strikes.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-05T00:00:00Z",
-          "relevance": 0.81
+          "published_at": "2026-10-05T11:34:59Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-05T15:17:23Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Spain PM pins hopes on housing crisis to help win snap election",
+          "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-05T19:30:50Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-05T16:13:21Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Nobel Prize awarded for revealing inner workings of the brain",
+          "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-05T11:04:37Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 97,
-    "kept": 11,
+    "scanned": 96,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.95,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.89,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.81,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.87,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.9,
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
         "kept": true
       }
     ]
@@ -401,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
