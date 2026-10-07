@@ -1,94 +1,128 @@
 {
-  "generated_at": "2026-10-06T02:17:15.850339Z",
+  "generated_at": "2026-10-07T01:31:06.714048Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "nanaism/yomiyasu",
-          "url": "https://github.com/nanaism/yomiyasu",
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4/\\",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Staying up to date with major LLM model releases helps you know which state-of-the-art tools are available.",
+          "summary": "Mistral has released its latest flagship frontier model, Mistral Large 4, offering upgraded reasoning capabilities.",
+          "signal": {
+            "metric": "points",
+            "value": 1588
+          },
+          "published_at": "2026-10-06T13:15:49Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Jakeschincariol/replica-skill",
+          "url": "https://github.com/Jakeschincariol/replica-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It offers hands-on AI workflow prompts that help you practice reverse-engineering and software development.",
+          "summary": "A set of eleven free Claude skills designed to analyze existing software applications, reverse-engineer them, and rebuild their core logic.",
           "signal": {
             "metric": "stars",
-            "value": 1520
+            "value": 693
           },
-          "published_at": "2026-09-30T11:49:32Z",
-          "relevance": 0.0
+          "published_at": "2026-10-03T12:07:49Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It represents a notable milestone in open-source AI with a massive open-weight model being made publicly accessible.",
+          "summary": "Reflection has open-sourced Beam, a massive 501-billion parameter open-weights language model.",
+          "signal": {
+            "metric": "points",
+            "value": 541
+          },
+          "published_at": "2026-10-05T19:16:35Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "allenv0/SCM",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical local AI utility for searching your personal media using natural language.",
+          "summary": "An open-source macOS utility that performs deep AI semantic search across photos and video frames stored in local folders.",
+          "signal": {
+            "metric": "stars",
+            "value": 410
+          },
+          "published_at": "2026-10-03T16:11:55Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "DozenTwelve/Papermorph",
+          "url": "https://github.com/DozenTwelve/Papermorph",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows how generative AI can be applied to create engaging educational web interfaces.",
+          "summary": "An AI tool that transforms text from books into interactive, narrated, and animated web experiences.",
+          "signal": {
+            "metric": "stars",
+            "value": 451
+          },
+          "published_at": "2026-10-03T01:38:22Z",
+          "relevance": 0.83
         },
         {
           "title": "QingYunA/answer-me-with-html",
           "url": "https://github.com/QingYunA/answer-me-with-html",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It gives you an easy way to make AI agents format their output into readable HTML pages.",
+          "summary": "A skill for AI agents that formats answers to complex questions into a clean, single-page web document.",
           "signal": {
             "metric": "stars",
-            "value": 1494
+            "value": 1790
           },
           "published_at": "2026-10-02T09:57:40Z",
-          "relevance": 0.0
-        },
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
         {
-          "title": "Edwardxlai/easyread",
-          "url": "https://github.com/Edwardxlai/easyread",
+          "title": "StayLameBro/backburner",
+          "url": "https://github.com/StayLameBro/backburner",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a clever local LLM utility that lets you combine your existing hardware devices to run large AI models.",
+          "summary": "An open-source tool that offloads prompt processing to an iPhone over USB-C to run a 27B parameter LLM faster on a Mac.",
           "signal": {
             "metric": "stars",
-            "value": 805
+            "value": 774
           },
-          "published_at": "2026-09-30T12:52:24Z",
-          "relevance": 0.0
+          "published_at": "2026-10-01T20:59:56Z",
+          "relevance": 0.9
         },
         {
-          "title": "oil-oil/oil-ui",
-          "url": "https://github.com/oil-oil/oil-ui",
+          "title": "elstongun/leviathan",
+          "url": "https://github.com/elstongun/leviathan",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It provides a practical open-source project showing how AI agents retain context over large datasets.",
+          "summary": "A lightweight CLI tool that converts standard database files like JSONL and CSV into a searchable long-term memory system for AI agents.",
           "signal": {
             "metric": "stars",
-            "value": 632
+            "value": 636
           },
-          "published_at": "2026-09-30T03:55:35Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "lucasmarkes/hairline",
-          "url": "https://github.com/lucasmarkes/hairline",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 566
-          },
-          "published_at": "2026-10-01T13:52:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "OpSafari/hypoarena",
-          "url": "https://github.com/OpSafari/hypoarena",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 557
-          },
-          "published_at": "2026-09-30T03:35:45Z",
-          "relevance": 0.0
+          "published_at": "2026-10-05T08:57:44Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -101,84 +135,28 @@
           "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It highlights a real-world scientific breakthrough achieved by AI agents solving complex problems.",
+          "summary": "Anthropic's Opus 5.5 AI agents autonomously identified two candidate materials for room-temperature magnetic semiconductors.",
           "signal": {
             "metric": "points",
-            "value": 219
+            "value": 482
           },
           "published_at": "2026-10-05T21:00:21Z",
-          "relevance": 0.0
+          "relevance": 0.89
         },
         {
-          "title": "Dust: Pretraining Transformers Without Backpropagation",
-          "url": "https://qlabs.sh/research/dust",
+          "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It is a major policy development showing how AI is being granted autonomous decision-making power in critical real-world fields.",
+          "summary": "Utah has passed a policy allowing AI systems to evaluate medical patients and issue prescriptions without human doctor oversight.",
           "signal": {
             "metric": "points",
-            "value": 109
+            "value": 64
           },
-          "published_at": "2026-10-05T21:15:07Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Linux containers in 500 lines of code (2016)",
-          "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 100
-          },
-          "published_at": "2026-10-05T14:09:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Martian chaos terrain",
-          "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 98
-          },
-          "published_at": "2026-10-02T01:11:28Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-          "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 82
-          },
-          "published_at": "2026-10-02T07:40:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-          "url": "https://github.com/rsutcliffe/nightwatch",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 73
-          },
-          "published_at": "2026-10-04T09:31:01Z",
-          "relevance": 0.0
+          "published_at": "2026-10-06T17:01:52Z",
+          "relevance": 0.86
         }
       ]
     },
@@ -187,295 +165,239 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-          "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+          "title": "Former German spy chief arrested for espionage and treason",
+          "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It is one of the day's major international news developments involving high-level intelligence and treason charges.",
+          "summary": "August Hanning, the former head of Germany's foreign intelligence agency, was taken into custody under suspicion of passing classified secrets to a foreign government.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-05T21:46:22Z",
-          "relevance": 0.0
+          "published_at": "2026-10-06T10:05:42Z",
+          "relevance": 0.78
         },
         {
-          "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-          "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It covers an unprecedented and dramatic world news event involving legal and medical complications.",
+          "summary": "A death row inmate in the US survived a failed lethal injection attempt and regained consciousness a week later.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-05T11:34:59Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-          "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-05T15:17:23Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Spain PM pins hopes on housing crisis to help win snap election",
-          "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-05T19:30:50Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-          "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-05T16:13:21Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Nobel Prize awarded for revealing inner workings of the brain",
-          "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-05T11:04:37Z",
-          "relevance": 0.0
+          "published_at": "2026-10-07T00:56:59Z",
+          "relevance": 0.75
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 96,
-    "kept": 18,
+    "scanned": 102,
+    "kept": 12,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +409,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
