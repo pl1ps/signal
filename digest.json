@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:31:06.714048Z",
+  "generated_at": "2026-10-08T01:54:53.030034Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,88 +7,74 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "Mistral Large 4",
-          "url": "https://mistral.ai/news/mistral-large-4/\\",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Staying up to date with major LLM model releases helps you know which state-of-the-art tools are available.",
-          "summary": "Mistral has released its latest flagship frontier model, Mistral Large 4, offering upgraded reasoning capabilities.",
-          "signal": {
-            "metric": "points",
-            "value": 1588
-          },
-          "published_at": "2026-10-06T13:15:49Z",
-          "relevance": 0.88
-        },
-        {
           "title": "Jakeschincariol/replica-skill",
           "url": "https://github.com/Jakeschincariol/replica-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers hands-on AI workflow prompts that help you practice reverse-engineering and software development.",
-          "summary": "A set of eleven free Claude skills designed to analyze existing software applications, reverse-engineer them, and rebuild their core logic.",
+          "why": "This provides a practical hands-on tool for reverse-engineering and learning how web applications are constructed.",
+          "summary": "A set of 11 open-source Claude skills designed to analyze existing applications, generate code to recreate them, and identify bugs.",
           "signal": {
             "metric": "stars",
-            "value": 693
+            "value": 876
           },
           "published_at": "2026-10-03T12:07:49Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Beam: Reflection's 501B open-weight model",
-          "url": "https://reflection.ai/blog/introducing-beam",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It represents a notable milestone in open-source AI with a massive open-weight model being made publicly accessible.",
-          "summary": "Reflection has open-sourced Beam, a massive 501-billion parameter open-weights language model.",
-          "signal": {
-            "metric": "points",
-            "value": 541
-          },
-          "published_at": "2026-10-05T19:16:35Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "allenv0/SCM",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical local AI utility for searching your personal media using natural language.",
-          "summary": "An open-source macOS utility that performs deep AI semantic search across photos and video frames stored in local folders.",
-          "signal": {
-            "metric": "stars",
-            "value": 410
-          },
-          "published_at": "2026-10-03T16:11:55Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "DozenTwelve/Papermorph",
-          "url": "https://github.com/DozenTwelve/Papermorph",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows how generative AI can be applied to create engaging educational web interfaces.",
-          "summary": "An AI tool that transforms text from books into interactive, narrated, and animated web experiences.",
-          "signal": {
-            "metric": "stars",
-            "value": 451
-          },
-          "published_at": "2026-10-03T01:38:22Z",
-          "relevance": 0.83
+          "relevance": 0.9
         },
         {
           "title": "QingYunA/answer-me-with-html",
           "url": "https://github.com/QingYunA/answer-me-with-html",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you an easy way to make AI agents format their output into readable HTML pages.",
-          "summary": "A skill for AI agents that formats answers to complex questions into a clean, single-page web document.",
+          "why": "It is a practical open-source tool showing how AI agents can format output for better user readability.",
+          "summary": "An open-source AI agent skill that formats answers to complex questions into a clean, single-page HTML document.",
           "signal": {
             "metric": "stars",
-            "value": 1790
+            "value": 2070
           },
           "published_at": "2026-10-02T09:57:40Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "SynthID Detector",
+          "url": "https://synthid.com/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Watermarking and AI content detection are crucial developments in modern AI ethics and software safety.",
+          "summary": "Google DeepMind's SynthID provides tools to watermark and identify AI-generated text, images, audio, and video content.",
+          "signal": {
+            "metric": "points",
+            "value": 93
+          },
+          "published_at": "2026-10-07T14:16:44Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "whirlchat/whirl",
+          "url": "https://github.com/whirlchat/whirl",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical open-source AI application you can inspect or use directly for multi-model chatting.",
+          "summary": "Whirl is an open-source desktop chat application that connects to multiple top AI models with integrated memory and tools.",
+          "signal": {
+            "metric": "stars",
+            "value": 494
+          },
+          "published_at": "2026-10-02T13:50:42Z",
           "relevance": 0.82
+        },
+        {
+          "title": "allenv0/SCM",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows a clear, useful application of local AI vision models for searching computer files.",
+          "summary": "SCM is an open-source macOS app that enables natural language search across local photos and video frames using vision models.",
+          "signal": {
+            "metric": "stars",
+            "value": 427
+          },
+          "published_at": "2026-10-03T16:11:55Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -97,32 +83,38 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "StayLameBro/backburner",
-          "url": "https://github.com/StayLameBro/backburner",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a clever local LLM utility that lets you combine your existing hardware devices to run large AI models.",
-          "summary": "An open-source tool that offloads prompt processing to an iPhone over USB-C to run a 27B parameter LLM faster on a Mac.",
-          "signal": {
-            "metric": "stars",
-            "value": 774
-          },
-          "published_at": "2026-10-01T20:59:56Z",
-          "relevance": 0.9
-        },
-        {
           "title": "elstongun/leviathan",
           "url": "https://github.com/elstongun/leviathan",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It provides a practical open-source project showing how AI agents retain context over large datasets.",
-          "summary": "A lightweight CLI tool that converts standard database files like JSONL and CSV into a searchable long-term memory system for AI agents.",
+          "why": "Understanding agent memory systems is crucial as you learn to build practical AI agent projects.",
+          "summary": "Leviathan is an open-source tool that acts as a deep memory store for AI agents, allowing fast searching across large local datasets.",
           "signal": {
             "metric": "stars",
-            "value": 636
+            "value": 666
           },
           "published_at": "2026-10-05T08:57:44Z",
           "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "Reasons to Dislike AI Coding",
+          "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "As a student starting your programming journey, learning when not to rely on AI will help you build stronger core coding skills.",
+          "summary": "An article exploring the drawbacks of using AI coding tools, including reduced problem-solving practice and subtle bug creation.",
+          "signal": {
+            "metric": "points",
+            "value": 62
+          },
+          "published_at": "2026-10-07T09:15:00Z",
+          "relevance": 0.92
         }
       ]
     },
@@ -131,32 +123,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4/\\",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights a real-world scientific breakthrough achieved by AI agents solving complex problems.",
-          "summary": "Anthropic's Opus 5.5 AI agents autonomously identified two candidate materials for room-temperature magnetic semiconductors.",
+          "why": "Following major LLM updates helps you stay informed on the rapidly advancing state of AI models.",
+          "summary": "Mistral AI has released Mistral Large 4, the latest version of their flagship large language model.",
           "signal": {
             "metric": "points",
-            "value": 482
+            "value": 1996
           },
-          "published_at": "2026-10-05T21:00:21Z",
-          "relevance": 0.89
+          "published_at": "2026-10-06T13:15:49Z",
+          "relevance": 0.88
         },
         {
-          "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "title": "Margaret Hamilton has died",
+          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It is a major policy development showing how AI is being granted autonomous decision-making power in critical real-world fields.",
-          "summary": "Utah has passed a policy allowing AI systems to evaluate medical patients and issue prescriptions without human doctor oversight.",
+          "why": "Margaret Hamilton was a foundational pioneer in computer science history whose work shaped modern software development.",
+          "summary": "Margaret Hamilton, the pioneering computer scientist who led NASA's Apollo flight software team and helped define software engineering, has died.",
           "signal": {
             "metric": "points",
-            "value": 64
+            "value": 725
           },
-          "published_at": "2026-10-06T17:01:52Z",
-          "relevance": 0.86
+          "published_at": "2026-10-07T21:16:18Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers insight into corporate AI governance and security practices at top tech companies.",
+          "summary": "Meta and Microsoft are placing restrictions on employee usage of Anthropic's Claude AI for internal corporate tasks.",
+          "signal": {
+            "metric": "points",
+            "value": 277
+          },
+          "published_at": "2026-10-07T18:49:40Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+          "url": "https://news.ycombinator.com/item?id=49982498",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It highlights real-world developer discussions around code intellectual property, AI scraping, and software licensing.",
+          "summary": "The creator of Photopea raised concerns about AI models being used to extract JavaScript code and strip copyright protections from web software.",
+          "signal": {
+            "metric": "points",
+            "value": 516
+          },
+          "published_at": "2026-10-06T18:54:01Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -165,42 +185,28 @@
       "title": "World",
       "items": [
         {
-          "title": "Former German spy chief arrested for espionage and treason",
-          "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It is one of the day's major international news developments involving high-level intelligence and treason charges.",
-          "summary": "August Hanning, the former head of Germany's foreign intelligence agency, was taken into custody under suspicion of passing classified secrets to a foreign government.",
+          "why": "It keeps you updated on major critical developments in international news.",
+          "summary": "A Russian missile attack hit an apartment building in northern Ukraine, resulting in 19 deaths, including five children.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-06T10:05:42Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers an unprecedented and dramatic world news event involving legal and medical complications.",
-          "summary": "A death row inmate in the US survived a failed lethal injection attempt and regained consciousness a week later.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-07T00:56:59Z",
-          "relevance": 0.75
+          "published_at": "2026-10-07T18:12:58Z",
+          "relevance": 0.85
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 102,
+    "scanned": 99,
     "kept": 12,
     "levels": [
       {
-        "v": 0.82,
+        "v": 0.85,
         "kept": true
       },
       {
@@ -210,6 +216,10 @@
       {
         "v": 0.88,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -232,64 +242,24 @@
         "kept": false
       },
       {
-        "v": 0.81,
-        "kept": true
-      },
-      {
-        "v": 0.89,
-        "kept": true
-      },
-      {
-        "v": 0.83,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
         "v": 0.75,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -312,8 +282,48 @@
         "kept": false
       },
       {
+        "v": 0.8,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.83,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.92,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -348,7 +358,15 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -377,18 +395,6 @@
       },
       {
         "v": 0.88,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.85,
         "kept": true
       },
       {
