@@ -1,120 +1,94 @@
 {
-  "generated_at": "2026-10-08T01:54:53.030034Z",
+  "generated_at": "2026-10-09T02:07:32.879671Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "Jakeschincariol/replica-skill",
-          "url": "https://github.com/Jakeschincariol/replica-skill",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This provides a practical hands-on tool for reverse-engineering and learning how web applications are constructed.",
-          "summary": "A set of 11 open-source Claude skills designed to analyze existing applications, generate code to recreate them, and identify bugs.",
-          "signal": {
-            "metric": "stars",
-            "value": 876
-          },
-          "published_at": "2026-10-03T12:07:49Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "QingYunA/answer-me-with-html",
-          "url": "https://github.com/QingYunA/answer-me-with-html",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source tool showing how AI agents can format output for better user readability.",
-          "summary": "An open-source AI agent skill that formats answers to complex questions into a clean, single-page HTML document.",
-          "signal": {
-            "metric": "stars",
-            "value": 2070
-          },
-          "published_at": "2026-10-02T09:57:40Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "SynthID Detector",
-          "url": "https://synthid.com/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Watermarking and AI content detection are crucial developments in modern AI ethics and software safety.",
-          "summary": "Google DeepMind's SynthID provides tools to watermark and identify AI-generated text, images, audio, and video content.",
-          "signal": {
-            "metric": "points",
-            "value": 93
-          },
-          "published_at": "2026-10-07T14:16:44Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "whirlchat/whirl",
-          "url": "https://github.com/whirlchat/whirl",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source AI application you can inspect or use directly for multi-model chatting.",
-          "summary": "Whirl is an open-source desktop chat application that connects to multiple top AI models with integrated memory and tools.",
-          "signal": {
-            "metric": "stars",
-            "value": 494
-          },
-          "published_at": "2026-10-02T13:50:42Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "allenv0/SCM",
-          "url": "https://github.com/allenv0/SCM",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows a clear, useful application of local AI vision models for searching computer files.",
-          "summary": "SCM is an open-source macOS app that enables natural language search across local photos and video frames using vision models.",
-          "signal": {
-            "metric": "stars",
-            "value": 427
-          },
-          "published_at": "2026-10-03T16:11:55Z",
-          "relevance": 0.78
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "elstongun/leviathan",
-          "url": "https://github.com/elstongun/leviathan",
+          "title": "mhtsec/ARTEX",
+          "url": "https://github.com/mhtsec/ARTEX",
           "source": "github",
           "source_label": "GitHub",
-          "why": "Understanding agent memory systems is crucial as you learn to build practical AI agent projects.",
-          "summary": "Leviathan is an open-source tool that acts as a deep memory store for AI agents, allowing fast searching across large local datasets.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 666
+            "value": 846
           },
-          "published_at": "2026-10-05T08:57:44Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
+          "published_at": "2026-10-08T05:33:06Z",
+          "relevance": 0.0
+        },
         {
-          "title": "Reasons to Dislike AI Coding",
-          "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "As a student starting your programming journey, learning when not to rely on AI will help you build stronger core coding skills.",
-          "summary": "An article exploring the drawbacks of using AI coding tools, including reduced problem-solving practice and subtle bug creation.",
+          "title": "openai/math",
+          "url": "https://github.com/openai/math",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 62
+            "metric": "stars",
+            "value": 12177
           },
-          "published_at": "2026-10-07T09:15:00Z",
-          "relevance": 0.92
+          "published_at": "2026-10-06T21:47:02Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "alchaincyf/huashu-art-motion",
+          "url": "https://github.com/alchaincyf/huashu-art-motion",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2482
+          },
+          "published_at": "2026-10-06T04:49:37Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "nullmoth/nvidia-macos-driver",
+          "url": "https://github.com/nullmoth/nvidia-macos-driver",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1147
+          },
+          "published_at": "2026-10-07T08:13:12Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "storytold/cadcraft",
+          "url": "https://github.com/storytold/cadcraft",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 795
+          },
+          "published_at": "2026-10-07T05:22:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jiwoochris/artex-ko",
+          "url": "https://github.com/jiwoochris/artex-ko",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 702
+          },
+          "published_at": "2026-10-03T14:49:48Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -123,60 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Mistral Large 4",
-          "url": "https://mistral.ai/news/mistral-large-4/\\",
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Following major LLM updates helps you stay informed on the rapidly advancing state of AI models.",
-          "summary": "Mistral AI has released Mistral Large 4, the latest version of their flagship large language model.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 1996
+            "value": 1321
           },
-          "published_at": "2026-10-06T13:15:49Z",
-          "relevance": 0.88
+          "published_at": "2026-10-06T22:17:21Z",
+          "relevance": 0.0
         },
         {
-          "title": "Margaret Hamilton has died",
-          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "title": "OpenAI annualised revenues $20B less than previously signalled",
+          "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Margaret Hamilton was a foundational pioneer in computer science history whose work shaped modern software development.",
-          "summary": "Margaret Hamilton, the pioneering computer scientist who led NASA's Apollo flight software team and helped define software engineering, has died.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 725
+            "value": 353
           },
-          "published_at": "2026-10-07T21:16:18Z",
-          "relevance": 0.88
+          "published_at": "2026-10-08T16:45:58Z",
+          "relevance": 0.0
         },
         {
-          "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-          "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "title": "OpenAI withdraws three mathematical results",
+          "url": "https://twitter.com/danintheory/status/2108065033070789090",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers insight into corporate AI governance and security practices at top tech companies.",
-          "summary": "Meta and Microsoft are placing restrictions on employee usage of Anthropic's Claude AI for internal corporate tasks.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 277
+            "value": 249
           },
-          "published_at": "2026-10-07T18:49:40Z",
-          "relevance": 0.8
+          "published_at": "2026-10-08T07:05:40Z",
+          "relevance": 0.0
         },
         {
-          "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-          "url": "https://news.ycombinator.com/item?id=49982498",
+          "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+          "url": "https://news.ycombinator.com/item?id=49985548",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights real-world developer discussions around code intellectual property, AI scraping, and software licensing.",
-          "summary": "The creator of Photopea raised concerns about AI models being used to extract JavaScript code and strip copyright protections from web software.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 516
+            "value": 118
           },
-          "published_at": "2026-10-06T18:54:01Z",
-          "relevance": 0.75
+          "published_at": "2026-10-06T23:16:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Time Travel in Braid (2015)",
+          "url": "https://qntm.org/braid",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 98
+          },
+          "published_at": "2026-10-04T21:42:43Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "OpenAI, the Partition Principle, and Mathematics",
+          "url": "https://karagila.org/2026/openai-pp/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 85
+          },
+          "published_at": "2026-10-08T23:29:43Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -185,225 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-          "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It keeps you updated on major critical developments in international news.",
-          "summary": "A Russian missile attack hit an apartment building in northern Ukraine, resulting in 19 deaths, including five children.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-07T18:12:58Z",
-          "relevance": 0.85
+          "published_at": "2026-10-08T23:11:10Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T01:25:33Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-08T16:31:29Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-08T15:02:32Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+          "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-08T19:10:06Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+          "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T00:25:15Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 99,
-    "kept": 12,
+    "scanned": 100,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.92,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -415,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
