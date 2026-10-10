@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:07:32.879671Z",
+  "generated_at": "2026-10-10T01:45:19.413351Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,7 +15,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 846
+            "value": 2227
           },
           "published_at": "2026-10-08T05:33:06Z",
           "relevance": 0.0
@@ -29,7 +29,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 12177
+            "value": 13102
           },
           "published_at": "2026-10-06T21:47:02Z",
           "relevance": 0.0
@@ -43,7 +43,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 2482
+            "value": 2890
           },
           "published_at": "2026-10-06T04:49:37Z",
           "relevance": 0.0
@@ -57,9 +57,23 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1147
+            "value": 1877
           },
           "published_at": "2026-10-07T08:13:12Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "LosaLosSantos/aurelio-finance",
+          "url": "https://github.com/LosaLosSantos/aurelio-finance",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1555
+          },
+          "published_at": "2026-10-06T20:14:19Z",
           "relevance": 0.0
         },
         {
@@ -71,23 +85,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 795
+            "value": 1388
           },
           "published_at": "2026-10-07T05:22:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "jiwoochris/artex-ko",
-          "url": "https://github.com/jiwoochris/artex-ko",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 702
-          },
-          "published_at": "2026-10-03T14:49:48Z",
           "relevance": 0.0
         }
       ]
@@ -97,6 +97,20 @@
       "title": "Tech Discussion",
       "items": [
         {
+          "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 378
+          },
+          "published_at": "2026-10-09T11:03:48Z",
+          "relevance": 0.0
+        },
+        {
           "title": "Sharing AI progress in mathematics",
           "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
           "source": "hackernews",
@@ -105,65 +119,51 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 1321
+            "value": 1338
           },
           "published_at": "2026-10-06T22:17:21Z",
           "relevance": 0.0
         },
         {
-          "title": "OpenAI annualised revenues $20B less than previously signalled",
-          "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+          "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 353
+            "value": 317
           },
-          "published_at": "2026-10-08T16:45:58Z",
+          "published_at": "2026-10-09T10:00:26Z",
           "relevance": 0.0
         },
         {
-          "title": "OpenAI withdraws three mathematical results",
-          "url": "https://twitter.com/danintheory/status/2108065033070789090",
+          "title": "Typesafe AI raises $870M at $7.5B",
+          "url": "https://typesafe.ai/blog/series-ai",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 249
+            "value": 272
           },
-          "published_at": "2026-10-08T07:05:40Z",
+          "published_at": "2026-10-09T17:02:31Z",
           "relevance": 0.0
         },
         {
-          "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-          "url": "https://news.ycombinator.com/item?id=49985548",
+          "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+          "url": "https://carrierexplode.com/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 118
+            "value": 214
           },
-          "published_at": "2026-10-06T23:16:56Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Time Travel in Braid (2015)",
-          "url": "https://qntm.org/braid",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 98
-          },
-          "published_at": "2026-10-04T21:42:43Z",
+          "published_at": "2026-10-09T18:10:55Z",
           "relevance": 0.0
         },
         {
@@ -175,7 +175,7 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 85
+            "value": 196
           },
           "published_at": "2026-10-08T23:29:43Z",
           "relevance": 0.0
@@ -187,78 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-08T23:11:10Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-09T01:25:33Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-08T16:31:29Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-08T15:02:32Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-          "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-08T19:10:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-          "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+          "title": "Kalshi taps former FBI agent to fight against money laundering",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -267,14 +197,84 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-09T00:25:15Z",
+          "published_at": "2026-10-09T22:23:11Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-10T00:45:51Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T22:30:22Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T23:02:07Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T17:14:44Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Fired OpenAI employees question the company's commitment to safety",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-09T21:28:09Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
+    "scanned": 94,
     "kept": 18,
     "levels": [
       {
