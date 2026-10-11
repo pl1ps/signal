@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:45:19.413351Z",
+  "generated_at": "2026-10-11T01:00:49.333947Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,9 +15,23 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 2227
+            "value": 2916
           },
           "published_at": "2026-10-08T05:33:06Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "franzenzenhofer/big-arrow-on-the-screen",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 585
+          },
+          "published_at": "2026-10-08T08:39:15Z",
           "relevance": 0.0
         },
         {
@@ -29,7 +43,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 13102
+            "value": 13679
           },
           "published_at": "2026-10-06T21:47:02Z",
           "relevance": 0.0
@@ -43,7 +57,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 2890
+            "value": 3205
           },
           "published_at": "2026-10-06T04:49:37Z",
           "relevance": 0.0
@@ -57,7 +71,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1877
+            "value": 2293
           },
           "published_at": "2026-10-07T08:13:12Z",
           "relevance": 0.0
@@ -71,23 +85,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1555
+            "value": 2094
           },
           "published_at": "2026-10-06T20:14:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "storytold/cadcraft",
-          "url": "https://github.com/storytold/cadcraft",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1388
-          },
-          "published_at": "2026-10-07T05:22:31Z",
           "relevance": 0.0
         }
       ]
@@ -97,45 +97,17 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 378
+            "value": 241
           },
-          "published_at": "2026-10-09T11:03:48Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 1338
-          },
-          "published_at": "2026-10-06T22:17:21Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 317
-          },
-          "published_at": "2026-10-09T10:00:26Z",
+          "published_at": "2026-10-10T10:52:09Z",
           "relevance": 0.0
         },
         {
@@ -147,7 +119,7 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 272
+            "value": 431
           },
           "published_at": "2026-10-09T17:02:31Z",
           "relevance": 0.0
@@ -161,23 +133,51 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 214
+            "value": 410
           },
           "published_at": "2026-10-09T18:10:55Z",
           "relevance": 0.0
         },
         {
-          "title": "OpenAI, the Partition Principle, and Mathematics",
-          "url": "https://karagila.org/2026/openai-pp/",
+          "title": "Grieving the loss of details",
+          "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 196
+            "value": 341
           },
-          "published_at": "2026-10-08T23:29:43Z",
+          "published_at": "2026-10-06T16:37:21Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+          "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 193
+          },
+          "published_at": "2026-10-09T17:42:12Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 179
+          },
+          "published_at": "2026-10-09T11:36:20Z",
           "relevance": 0.0
         }
       ]
@@ -187,22 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Kalshi taps former FBI agent to fight against money laundering",
-          "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-09T22:23:11Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -211,12 +197,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-10T00:45:51Z",
+          "published_at": "2026-10-10T19:28:28Z",
           "relevance": 0.0
         },
         {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+          "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -225,12 +211,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-09T22:30:22Z",
+          "published_at": "2026-10-11T00:21:52Z",
           "relevance": 0.0
         },
         {
-          "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+          "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+          "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -239,12 +225,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-09T23:02:07Z",
+          "published_at": "2026-10-10T22:13:08Z",
           "relevance": 0.0
         },
         {
-          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+          "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -253,28 +239,42 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-09T17:14:44Z",
+          "published_at": "2026-10-10T17:44:26Z",
           "relevance": 0.0
         },
         {
-          "title": "Fired OpenAI employees question the company's commitment to safety",
-          "url": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
+          "source_label": "BBC World",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-09T21:28:09Z",
+          "published_at": "2026-10-10T23:19:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-10T18:22:29Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 94,
+    "scanned": 107,
     "kept": 18,
     "levels": [
       {
