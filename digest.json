@@ -1,120 +1,94 @@
 {
-  "generated_at": "2026-10-12T01:19:13.196574Z",
+  "generated_at": "2026-10-13T03:02:17.255100Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "rociiu/talorys",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This tool lets you deploy a personal AI assistant on Cloudflare's free tier with a single command.",
-          "summary": "Talorys is an open-source personal AI agent that runs inside your own Cloudflare account to handle chat, tasks, notes, and reminders. It deploys with a single terminal command and stays within free usage tiers.",
-          "signal": {
-            "metric": "stars",
-            "value": 752
-          },
-          "published_at": "2026-10-10T09:46:56Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "ARahim3/DigUp",
-          "url": "https://github.com/ARahim3/DigUp",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows how small, locally run AI models can significantly improve everyday computer search.",
-          "summary": "DigUp is an open-source macOS app that lets you search your local files by semantic content using Google's EmbeddingGemma 2 model. It indexes photos, PDFs, video, and code without sending data off your machine.",
-          "signal": {
-            "metric": "stars",
-            "value": 1036
-          },
-          "published_at": "2026-10-08T20:37:51Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "ThariqS/ai-newtab",
-          "url": "https://github.com/ThariqS/ai-newtab",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows a simple, creative way to use Claude to enhance your daily workflow.",
-          "summary": "AI Newtab is a browser extension that uses Anthropic's Claude to dynamically create a custom start page based on your browsing history. It gives you a personalized start page every time you open a new tab.",
-          "signal": {
-            "metric": "stars",
-            "value": 740
-          },
-          "published_at": "2026-10-08T17:44:43Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "LosaLosSantos/aurelio-finance",
-          "url": "https://github.com/LosaLosSantos/aurelio-finance",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source project combining local personal data tracking with an AI assistant.",
-          "summary": "Aurelio Finance is an open-source application that lets you track your net worth and investments locally on your computer. It includes an integrated AI financial advisor to analyze your personal financial data.",
-          "signal": {
-            "metric": "stars",
-            "value": 2263
-          },
-          "published_at": "2026-10-06T20:14:19Z",
-          "relevance": 0.8
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "pingdotgg/ts-rust",
-          "url": "https://github.com/pingdotgg/ts-rust",
+          "title": "wheresryan22/anatomy",
+          "url": "https://github.com/wheresryan22/anatomy",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a great example of how developers are using Rust to speed up web development tooling.",
-          "summary": "TS-Rust is an open-source project attempting to rewrite the official TypeScript compiler from JavaScript into Rust. The project aims to dramatically increase compilation speeds for TypeScript developers.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1057
+            "value": 6472
           },
-          "published_at": "2026-10-07T05:17:07Z",
-          "relevance": 0.8
+          "published_at": "2026-10-08T10:12:49Z",
+          "relevance": 0.0
         },
         {
-          "title": "apsw: Another Python SQLite Wrapper",
-          "url": "https://github.com/rogerbinns/apsw",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "SQLite and Python are essential developer tools, and this library gives full low-level access to SQLite features.",
-          "summary": "APSW is an open-source Python wrapper for the SQLite database engine that provides direct access to SQLite's C-level API. It is ideal for Python developers who need fine-grained control over local database operations.",
+          "title": "mhtsec/ARTEX",
+          "url": "https://github.com/mhtsec/ARTEX",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 60
+            "metric": "stars",
+            "value": 3629
           },
-          "published_at": "2026-10-11T16:58:22Z",
-          "relevance": 0.75
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
+          "published_at": "2026-10-08T05:33:06Z",
+          "relevance": 0.0
+        },
         {
-          "title": "I paid people to try and follow my README",
-          "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Learning how to write clear project documentation is a valuable career skill early in your coding journey.",
-          "summary": "The author paid regular people to follow their project's setup documentation to identify points of confusion. The findings highlight practical strategies for writing documentation that is easy for newcomers to follow.",
+          "title": "rociiu/talorys",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 365
+            "metric": "stars",
+            "value": 907
           },
-          "published_at": "2026-10-11T11:47:29Z",
-          "relevance": 0.85
+          "published_at": "2026-10-10T09:46:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "onehumanbeing/esp32-iphone-agent",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 766
+          },
+          "published_at": "2026-10-11T19:10:25Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "storytold/cadcraft",
+          "url": "https://github.com/storytold/cadcraft",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 3542
+          },
+          "published_at": "2026-10-07T05:22:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "nullmoth/nvidia-macos-driver",
+          "url": "https://github.com/nullmoth/nvidia-macos-driver",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2762
+          },
+          "published_at": "2026-10-07T08:13:12Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -123,46 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-          "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+          "title": "AI coding agents generate more code, but not more software",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a student learning to code, relying on AI too early can affect your problem-solving resilience.",
-          "summary": "A discussion exploring research that shows relying on AI assistance too early can reduce a developer's persistence when tackling tricky technical problems. It emphasizes building problem-solving stamina manually first.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 71
+            "value": 314
           },
-          "published_at": "2026-10-11T10:47:21Z",
-          "relevance": 0.88
+          "published_at": "2026-10-12T17:14:01Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 112
+          },
+          "published_at": "2026-10-12T16:46:34Z",
+          "relevance": 0.0
         },
         {
           "title": "The gap in shared understanding of LLM capability is widening",
           "url": "https://twitter.com/karpathy/status/2109361546505966046",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding realistic LLM capabilities helps you build better software without falling for AI hype.",
-          "summary": "This article discusses the disconnect between public hype and actual technical capabilities of LLMs. It offers perspective on how to realistically evaluate what modern AI models can accomplish.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 230
+            "value": 680
           },
           "published_at": "2026-10-11T20:20:52Z",
-          "relevance": 0.86
+          "relevance": 0.0
         },
         {
-          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers an intriguing look at how modern AI agents can assist with complex reverse engineering tasks.",
-          "summary": "An experiment tested using AI agents fed 500 billion tokens to decompile and reconstruct the source code of a complex first-person shooter game. It illustrates both the potential and current limits of LLMs in large software engineering tasks.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 150
+            "value": 476
           },
-          "published_at": "2026-10-11T02:02:38Z",
-          "relevance": 0.85
+          "published_at": "2026-10-12T12:16:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "QGIS enacts moratorium on AI contributions",
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 367
+          },
+          "published_at": "2026-10-12T11:22:24Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "AI is a tool and using it well takes skill",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 251
+          },
+          "published_at": "2026-10-12T21:40:18Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -171,267 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+          "title": "Immigration agents search congresswoman Ilhan Omar's home",
+          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It highlights how major tech infrastructure is increasingly targeted during geopolitical conflict.",
-          "summary": "A Ukrainian drone attack struck a data center belonging to Russian tech firm Yandex, forcing temporary service suspensions. This marks the third time this week the tech company was targeted.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-11T14:38:10Z",
-          "relevance": 0.82
+          "published_at": "2026-10-12T22:05:31Z",
+          "relevance": 0.0
         },
         {
-          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-          "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is a key diplomatic development regarding potential diplomatic progress in the war in Ukraine.",
-          "summary": "Ukrainian President Volodymyr Zelensky stated Kyiv would support a proposed energy infrastructure truce. Russian officials have not yet officially commented on the proposal.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-11T21:36:40Z",
-          "relevance": 0.8
+          "published_at": "2026-10-12T21:20:51Z",
+          "relevance": 0.0
         },
         {
-          "title": "Poland detains man suspected of planning assassination of PM Tusk",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is a major security story affecting government leadership in Europe.",
-          "summary": "Polish police arrested a man after obtaining credible evidence of planned attacks on Prime Minister Donald Tusk and the defense minister. Authorities are investigating the suspect's motives and network.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-11T17:27:24Z",
-          "relevance": 0.8
+          "published_at": "2026-10-12T20:17:37Z",
+          "relevance": 0.0
         },
         {
-          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This represents a notable escalation in Middle East regional stability.",
-          "summary": "A second strike on Saudi Arabia's capital airport in two days left one person dead and eleven injured. Saudi authorities attributed the attack to the Yemen-based Houthi group.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-11T22:45:58Z",
-          "relevance": 0.78
+          "published_at": "2026-10-13T01:26:02Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Qantas flight grounded after bedbug outbreak",
+          "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-12T21:01:45Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-12T22:17:43Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 92,
-    "kept": 14,
+    "scanned": 109,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.75,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -443,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
