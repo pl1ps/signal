@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:02:17.255100Z",
+  "generated_at": "2026-10-14T01:12:24.744458Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,7 +15,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 6472
+            "value": 8241
           },
           "published_at": "2026-10-08T10:12:49Z",
           "relevance": 0.0
@@ -29,23 +29,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 3629
+            "value": 3873
           },
           "published_at": "2026-10-08T05:33:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "rociiu/talorys",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 907
-          },
-          "published_at": "2026-10-10T09:46:56Z",
           "relevance": 0.0
         },
         {
@@ -57,37 +43,51 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 766
+            "value": 1530
           },
           "published_at": "2026-10-11T19:10:25Z",
           "relevance": 0.0
         },
         {
-          "title": "storytold/cadcraft",
-          "url": "https://github.com/storytold/cadcraft",
+          "title": "trhhubsd/ARTEXX",
+          "url": "https://github.com/trhhubsd/ARTEXX",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 3542
+            "value": 1156
           },
-          "published_at": "2026-10-07T05:22:31Z",
+          "published_at": "2026-10-08T20:35:22Z",
           "relevance": 0.0
         },
         {
-          "title": "nullmoth/nvidia-macos-driver",
-          "url": "https://github.com/nullmoth/nvidia-macos-driver",
+          "title": "rociiu/talorys",
+          "url": "https://github.com/rociiu/talorys",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 2762
+            "value": 960
           },
-          "published_at": "2026-10-07T08:13:12Z",
+          "published_at": "2026-10-10T09:46:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "franzenzenhofer/big-arrow-on-the-screen",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 711
+          },
+          "published_at": "2026-10-08T08:39:15Z",
           "relevance": 0.0
         }
       ]
@@ -97,20 +97,6 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "AI coding agents generate more code, but not more software",
-          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 314
-          },
-          "published_at": "2026-10-12T17:14:01Z",
-          "relevance": 0.0
-        },
-        {
           "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
           "url": "https://news.ycombinator.com/item?id=50059096",
           "source": "hackernews",
@@ -119,23 +105,9 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 112
+            "value": 157
           },
           "published_at": "2026-10-12T16:46:34Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "The gap in shared understanding of LLM capability is widening",
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 680
-          },
-          "published_at": "2026-10-11T20:20:52Z",
           "relevance": 0.0
         },
         {
@@ -147,23 +119,9 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 476
+            "value": 883
           },
           "published_at": "2026-10-12T12:16:42Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "QGIS enacts moratorium on AI contributions",
-          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 367
-          },
-          "published_at": "2026-10-12T11:22:24Z",
           "relevance": 0.0
         },
         {
@@ -175,9 +133,51 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 251
+            "value": 648
           },
           "published_at": "2026-10-12T21:40:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 390
+          },
+          "published_at": "2026-10-13T20:23:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 285
+          },
+          "published_at": "2026-10-13T07:28:34Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+          "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 242
+          },
+          "published_at": "2026-10-13T15:25:50Z",
           "relevance": 0.0
         }
       ]
@@ -187,78 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Immigration agents search congresswoman Ilhan Omar's home",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-12T22:05:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-12T21:20:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-12T20:17:37Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-13T01:26:02Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Qantas flight grounded after bedbug outbreak",
-          "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-12T21:01:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
-          "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+          "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -267,14 +197,84 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-12T22:17:43Z",
+          "published_at": "2026-10-13T11:08:14Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-14T00:17:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-13T21:42:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-13T23:42:22Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-13T15:52:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+          "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-13T19:23:28Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 109,
+    "scanned": 92,
     "kept": 18,
     "levels": [
       {
