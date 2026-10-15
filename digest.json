@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-10-14T01:12:24.744458Z",
+  "generated_at": "2026-10-15T00:31:00.144137Z",
   "generator_version": 1,
   "sections": [
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
-        {
-          "title": "wheresryan22/anatomy",
-          "url": "https://github.com/wheresryan22/anatomy",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 8241
-          },
-          "published_at": "2026-10-08T10:12:49Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "mhtsec/ARTEX",
-          "url": "https://github.com/mhtsec/ARTEX",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 3873
-          },
-          "published_at": "2026-10-08T05:33:06Z",
-          "relevance": 0.0
-        },
         {
           "title": "onehumanbeing/esp32-iphone-agent",
           "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
@@ -43,23 +15,9 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1530
+            "value": 2076
           },
           "published_at": "2026-10-11T19:10:25Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "trhhubsd/ARTEXX",
-          "url": "https://github.com/trhhubsd/ARTEXX",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1156
-          },
-          "published_at": "2026-10-08T20:35:22Z",
           "relevance": 0.0
         },
         {
@@ -71,23 +29,65 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 960
+            "value": 1001
           },
           "published_at": "2026-10-10T09:46:56Z",
           "relevance": 0.0
         },
         {
-          "title": "franzenzenhofer/big-arrow-on-the-screen",
-          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "title": "marclou/mailcheap",
+          "url": "https://github.com/marclou/mailcheap",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 711
+            "value": 930
           },
-          "published_at": "2026-10-08T08:39:15Z",
+          "published_at": "2026-10-10T12:55:36Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "outcrawlai/scout",
+          "url": "https://github.com/outcrawlai/scout",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 647
+          },
+          "published_at": "2026-10-13T09:18:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "jhaizhou-ops/d2r-mobile",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2116
+          },
+          "published_at": "2026-10-12T08:41:19Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "zhuyansen/new-term-radar",
+          "url": "https://github.com/zhuyansen/new-term-radar",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 955
+          },
+          "published_at": "2026-10-12T07:11:01Z",
           "relevance": 0.0
         }
       ]
@@ -97,31 +97,31 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-          "url": "https://news.ycombinator.com/item?id=50059096",
+          "title": "TV4 postpones show after AI agent erases edited material",
+          "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 157
+            "value": 139
           },
-          "published_at": "2026-10-12T16:46:34Z",
+          "published_at": "2026-10-14T10:28:26Z",
           "relevance": 0.0
         },
         {
-          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 883
+            "value": 820
           },
-          "published_at": "2026-10-12T12:16:42Z",
+          "published_at": "2026-10-14T17:45:23Z",
           "relevance": 0.0
         },
         {
@@ -133,51 +133,51 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 648
+            "value": 757
           },
           "published_at": "2026-10-12T21:40:18Z",
           "relevance": 0.0
         },
         {
-          "title": "OpenAI engineer arrested in bugging of executive conference room",
-          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+          "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 390
+            "value": 261
           },
-          "published_at": "2026-10-13T20:23:55Z",
+          "published_at": "2026-10-14T18:32:52Z",
           "relevance": 0.0
         },
         {
-          "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-          "url": "https://blog.character.ai/an-update-on-character-ai/",
+          "title": "Why do LLM pelicans look like this?",
+          "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 285
+            "value": 151
           },
-          "published_at": "2026-10-13T07:28:34Z",
+          "published_at": "2026-10-14T16:33:34Z",
           "relevance": 0.0
         },
         {
-          "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-          "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+          "url": "https://petal.live/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 242
+            "value": 107
           },
-          "published_at": "2026-10-13T15:25:50Z",
+          "published_at": "2026-10-14T18:23:14Z",
           "relevance": 0.0
         }
       ]
@@ -187,22 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
-          "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-13T11:08:14Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -211,21 +197,7 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-14T00:17:00Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-13T21:42:49Z",
+          "published_at": "2026-10-14T20:55:24Z",
           "relevance": 0.0
         },
         {
@@ -239,12 +211,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-13T23:42:22Z",
+          "published_at": "2026-10-14T13:41:51Z",
           "relevance": 0.0
         },
         {
-          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-          "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+          "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+          "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -253,12 +225,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-13T15:52:15Z",
+          "published_at": "2026-10-14T22:31:10Z",
           "relevance": 0.0
         },
         {
-          "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-          "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+          "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+          "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -267,14 +239,42 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-13T19:23:28Z",
+          "published_at": "2026-10-14T15:34:19Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+          "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-14T19:42:03Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
+          "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-14T13:33:44Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 92,
+    "scanned": 104,
     "kept": 18,
     "levels": [
       {
