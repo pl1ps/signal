@@ -1,207 +1,14 @@
 {
-  "generated_at": "2026-10-17T00:27:01.571463Z",
+  "generated_at": "2026-10-18T00:01:03.757835Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "onehumanbeing/esp32-iphone-agent",
-          "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It demonstrates a creative and affordable way to build hardware-controlled AI agents using basic components.",
-          "summary": "This open-source project uses a low-cost $7 ESP32 microcontroller to let AI vision models perceive an iPhone screen and interact with it using touch controls.",
-          "signal": {
-            "metric": "stars",
-            "value": 2853
-          },
-          "published_at": "2026-10-11T19:10:25Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "outcrawlai/scout",
-          "url": "https://github.com/outcrawlai/scout",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source browser agent tool you can inspect and use for web automation.",
-          "summary": "Scout is an open-source browser agent that automates web navigation and online tasks using AI.",
-          "signal": {
-            "metric": "stars",
-            "value": 894
-          },
-          "published_at": "2026-10-13T09:18:55Z",
-          "relevance": 0.82
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "chenglou/handwired",
-          "url": "https://github.com/chenglou/handwired",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an intriguing open-source project bridging web development in JavaScript with fundamental machine learning concepts.",
-          "summary": "Handwired is an experimental open-source library that transforms standard JavaScript functions into neural network models.",
-          "signal": {
-            "metric": "stars",
-            "value": 1551
-          },
-          "published_at": "2026-10-15T02:15:09Z",
-          "relevance": 0.81
-        },
-        {
-          "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-          "url": "https://github.com/cobanov/PS5LM",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is an impressive example of running open-source AI models on everyday consumer hardware.",
-          "summary": "Developers ported llama.cpp to jailbroken PS5 consoles, allowing open-source language models to run locally using the console graphics hardware.",
-          "signal": {
-            "metric": "points",
-            "value": 167
-          },
-          "published_at": "2026-10-16T18:32:35Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "What this bankruptcy says about AI startups",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It helps you understand the evolving job market and business strategies inside the AI startup ecosystem.",
-          "summary": "This analysis explains how big tech firms acquire AI startups by licensing technology and hiring founders rather than completing traditional buyouts.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-16T11:00:00Z",
-          "relevance": 0.83
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It illustrates a practical dilemma software teams face when integrating AI code review tools into real projects.",
-          "summary": "Development on Postgres 19 was delayed because automated AI code reviewers flagged more potential bugs than human maintainers could inspect and fix.",
-          "signal": {
-            "metric": "points",
-            "value": 176
-          },
-          "published_at": "2026-10-16T15:55:40Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you realistic context on how current AI models perform relative to real-world human jobs.",
-          "summary": "A recent discussion highlights that 90% of actual workplace tasks are not adequately measured by current AI benchmark tests.",
-          "signal": {
-            "metric": "points",
-            "value": 378
-          },
-          "published_at": "2026-10-16T17:08:38Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "Claude reveals ECDSA curve origins",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights how modern LLMs can assist in solving real-world mathematical and technical puzzles.",
-          "summary": "Security researchers used Claude to analyze mathematical patterns, solving a long-standing mystery behind key cryptographic seed values.",
-          "signal": {
-            "metric": "points",
-            "value": 621
-          },
-          "published_at": "2026-10-16T18:55:59Z",
-          "relevance": 0.76
-        },
-        {
-          "title": "Anthropic assigned highest junk credit rating in June",
-          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It offers insight into the financial realities and business challenges facing major AI companies.",
-          "summary": "Credit rating agencies assigned AI startup Anthropic a junk credit rating, drawing attention to high operating costs and financial burn rates.",
-          "signal": {
-            "metric": "points",
-            "value": 202
-          },
-          "published_at": "2026-10-16T18:11:42Z",
-          "relevance": 0.72
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It keeps you informed on major global news and shows how technology like satellite internet impacts real-world events.",
-          "summary": "Ukrainian military forces report making progress in Donbas while relying heavily on SpaceX Starlink terminals for tactical communications.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-16T16:00:30Z",
-          "relevance": 0.75
-        },
-        {
-          "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It covers a critical world news story involving major international conflict and shipping routes.",
-          "summary": "U.S. officials report establishing a naval blockade in the Strait of Hormuz to stop Iranian shipping traffic amid rising regional tensions.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-17T00:00:00Z",
-          "relevance": 0.7
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
     "scanned": 100,
-    "kept": 11,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.88,
-        "kept": true
-      },
-      {
         "v": 0.25,
         "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
       },
       {
         "v": 0.25,
@@ -220,6 +27,34 @@
         "kept": false
       },
       {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -248,20 +83,20 @@
         "kept": false
       },
       {
-        "v": 0.78,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.72,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -280,10 +115,6 @@
         "kept": false
       },
       {
-        "v": 0.75,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -300,51 +131,7 @@
         "kept": false
       },
       {
-        "v": 0.83,
-        "kept": true
-      },
-      {
         "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.7,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.81,
-        "kept": true
-      },
-      {
-        "v": 0.0,
         "kept": false
       },
       {
@@ -380,8 +167,36 @@
         "kept": false
       },
       {
-        "v": 0.76,
-        "kept": true
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
