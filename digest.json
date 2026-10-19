@@ -1,210 +1,481 @@
 {
-  "generated_at": "2026-10-18T00:01:03.757835Z",
+  "generated_at": "2026-10-19T00:11:57.903970Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "LiCinCan/blender-ai-mcp-addon",
+          "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 785
+          },
+          "published_at": "2026-10-15T22:30:47Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "feder-cr/git-ai",
+          "url": "https://github.com/feder-cr/git-ai",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 2297
+          },
+          "published_at": "2026-10-15T13:12:02Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "outcrawlai/scout",
+          "url": "https://github.com/outcrawlai/scout",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 945
+          },
+          "published_at": "2026-10-13T09:18:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Leonxlnx/earshot",
+          "url": "https://github.com/Leonxlnx/earshot",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 801
+          },
+          "published_at": "2026-10-15T06:52:46Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "i12bp8/decomp.wtf",
+          "url": "https://github.com/i12bp8/decomp.wtf",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 498
+          },
+          "published_at": "2026-10-13T08:19:01Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Zfinix/eleven",
+          "url": "https://github.com/Zfinix/eleven",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 754
+          },
+          "published_at": "2026-10-13T13:47:31Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://sphinx-six-theta.vercel.app/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 239
+          },
+          "published_at": "2026-10-18T04:33:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 161
+          },
+          "published_at": "2026-10-18T20:48:14Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Namecheap just seized and disabled all my domains",
+          "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 395
+          },
+          "published_at": "2026-10-18T16:56:56Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "The Brain Sandwich",
+          "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 71
+          },
+          "published_at": "2026-10-18T11:15:37Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "I built a programming language that LLMs can't use",
+          "url": "https://blog.picheta.me/post/killswitch-lang/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 59
+          },
+          "published_at": "2026-10-17T22:26:47Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 621
+          },
+          "published_at": "2026-10-16T19:01:17Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-18T23:06:09Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-19T00:06:25Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-18T21:00:22Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-18T23:28:45Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+          "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-18T18:38:49Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-18T12:55:01Z",
+          "relevance": 0.0
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 100,
-    "kept": 0,
+    "scanned": 98,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -216,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
