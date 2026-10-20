@@ -1,94 +1,92 @@
 {
-  "generated_at": "2026-10-19T00:11:57.903970Z",
+  "generated_at": "2026-10-20T01:05:12.503709Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
           "title": "LiCinCan/blender-ai-mcp-addon",
           "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It lets you control 3D graphics software using natural language prompts and AI agents.",
+          "summary": "An open-source Blender addon that connects 3D modeling workflows to LLMs like ChatGPT and Claude using the Model Context Protocol.",
           "signal": {
             "metric": "stars",
-            "value": 785
+            "value": 929
           },
           "published_at": "2026-10-15T22:30:47Z",
-          "relevance": 0.0
-        },
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
         {
-          "title": "feder-cr/git-ai",
-          "url": "https://github.com/feder-cr/git-ai",
+          "title": "Noniv/web-ocean",
+          "url": "https://github.com/Noniv/web-ocean",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It offers an inspiring open-source example of modern web graphics created with assistance from AI tools like Claude Code.",
+          "summary": "A real-time ocean simulator built with WebGPU directly in the browser, featuring custom wave physics and realistic lighting rendered without a game engine.",
           "signal": {
             "metric": "stars",
-            "value": 2297
+            "value": 768
           },
-          "published_at": "2026-10-15T13:12:02Z",
-          "relevance": 0.0
+          "published_at": "2026-10-16T23:49:53Z",
+          "relevance": 0.86
         },
         {
-          "title": "outcrawlai/scout",
-          "url": "https://github.com/outcrawlai/scout",
+          "title": "ahwootech/BRUTAL",
+          "url": "https://github.com/ahwootech/BRUTAL",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a practical open-source project if you want to explore how game engines and graphics libraries work under the hood.",
+          "summary": "An open-source C# framework providing direct access to native APIs and Vulkan graphics for building custom game engines.",
           "signal": {
             "metric": "stars",
-            "value": 945
+            "value": 1992
           },
-          "published_at": "2026-10-13T09:18:55Z",
-          "relevance": 0.0
+          "published_at": "2026-10-14T19:33:56Z",
+          "relevance": 0.81
         },
         {
-          "title": "Leonxlnx/earshot",
-          "url": "https://github.com/Leonxlnx/earshot",
+          "title": "Caho1/open-claude-ui",
+          "url": "https://github.com/Caho1/open-claude-ui",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It serves as a great learning reference for building desktop user interfaces and modern React components.",
+          "summary": "A project that recreates Claude's official desktop client UI using React components along with documented reverse-engineering analysis.",
           "signal": {
             "metric": "stars",
-            "value": 801
+            "value": 1247
           },
-          "published_at": "2026-10-15T06:52:46Z",
-          "relevance": 0.0
-        },
+          "published_at": "2026-10-14T14:05:05Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
         {
-          "title": "i12bp8/decomp.wtf",
-          "url": "https://github.com/i12bp8/decomp.wtf",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "title": "Schools struggle to measure how much AI experiments are helping",
+          "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It highlights how educational institutions are navigating and evaluating AI in student learning environments.",
+          "summary": "As schools rapidly roll out generative AI programs, administrators and researchers report difficulty measuring whether the technology actually improves learning outcomes.",
           "signal": {
-            "metric": "stars",
-            "value": 498
+            "metric": "",
+            "value": 0
           },
-          "published_at": "2026-10-13T08:19:01Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Zfinix/eleven",
-          "url": "https://github.com/Zfinix/eleven",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 754
-          },
-          "published_at": "2026-10-13T13:47:31Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T20:59:57Z",
+          "relevance": 0.88
         }
       ]
     },
@@ -97,88 +95,32 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-          "url": "https://sphinx-six-theta.vercel.app/",
+          "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+          "url": "https://news.ycombinator.com/item?id=50151036",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "This discussion addresses a crucial issue you will face when using AI tools as you learn to program.",
+          "summary": "Engineers on Hacker News discuss the practical and professional risks of deploying AI-generated code when developers do not fully understand how it works.",
           "signal": {
             "metric": "points",
-            "value": 239
+            "value": 247
           },
-          "published_at": "2026-10-18T04:33:49Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T11:24:34Z",
+          "relevance": 0.9
         },
         {
-          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It gives you insight into real-world security issues surrounding top AI technology companies.",
+          "summary": "US court documents allege that a former OpenAI staff member accused of leaving a device on company premises received support from foreign agents linked to Saudi Arabia.",
           "signal": {
-            "metric": "points",
-            "value": 161
+            "metric": "",
+            "value": 0
           },
-          "published_at": "2026-10-18T20:48:14Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Namecheap just seized and disabled all my domains",
-          "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 395
-          },
-          "published_at": "2026-10-18T16:56:56Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "The Brain Sandwich",
-          "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 71
-          },
-          "published_at": "2026-10-18T11:15:37Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "I built a programming language that LLMs can't use",
-          "url": "https://blog.picheta.me/post/killswitch-lang/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 59
-          },
-          "published_at": "2026-10-17T22:26:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 621
-          },
-          "published_at": "2026-10-16T19:01:17Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T21:12:30Z",
+          "relevance": 0.84
         }
       ]
     },
@@ -187,295 +129,253 @@
       "title": "World",
       "items": [
         {
-          "title": "Major fire at Canada military base leaves four dead, dozens injured",
-          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It covers critical international developments regarding US foreign policy and the war in Ukraine.",
+          "summary": "A senior Ukrainian official stated that US restrictions on intelligence sharing have deprived the country of vital early warnings about incoming missile strikes.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-18T23:06:09Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T20:49:00Z",
+          "relevance": 0.85
         },
         {
-          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-          "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+          "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It provides updates on high-level foreign policy and rising international tensions.",
+          "summary": "Former US President Donald Trump stated that the US continues to target Iran militarily and economically amid growing regional conflict.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-20T00:00:00Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It highlights major international news following the conclusion of a significant criminal trial.",
+          "summary": "A Kenyan court convicted self-proclaimed pastor Paul Mackenzie of 191 murders after he instructed followers and their children to starve to death.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-19T00:06:25Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-          "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-18T21:00:22Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-18T23:28:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-18T18:38:49Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-18T12:55:01Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T17:18:04Z",
+          "relevance": 0.8
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 98,
-    "kept": 18,
+    "scanned": 93,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.84,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +387,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
