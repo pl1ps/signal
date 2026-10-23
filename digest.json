@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:40:44.917886Z",
+  "generated_at": "2026-10-23T00:38:58.533906Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,37 +15,37 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1272
+            "value": 1438
           },
           "published_at": "2026-10-18T12:19:27Z",
           "relevance": 0.0
         },
         {
-          "title": "cranebeaker/coop-anything",
-          "url": "https://github.com/cranebeaker/coop-anything",
+          "title": "aicodeking/pandacode",
+          "url": "https://github.com/aicodeking/pandacode",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 794
+            "value": 505
           },
-          "published_at": "2026-10-16T11:12:03Z",
+          "published_at": "2026-10-18T02:21:29Z",
           "relevance": 0.0
         },
         {
-          "title": "VITASID57/bluntcore-intimacy-lab",
-          "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+          "title": "ikow/php2shell-poc",
+          "url": "https://github.com/ikow/php2shell-poc",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 558
+            "value": 1521
           },
-          "published_at": "2026-10-16T15:46:10Z",
+          "published_at": "2026-10-21T07:55:16Z",
           "relevance": 0.0
         },
         {
@@ -57,7 +57,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1290
+            "value": 1367
           },
           "published_at": "2026-10-17T02:53:24Z",
           "relevance": 0.0
@@ -71,23 +71,23 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1166
+            "value": 1289
           },
           "published_at": "2026-10-18T06:42:29Z",
           "relevance": 0.0
         },
         {
-          "title": "reason-machines/reason-network",
-          "url": "https://github.com/reason-machines/reason-network",
+          "title": "openai/php2shell-checker",
+          "url": "https://github.com/openai/php2shell-checker",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 914
+            "value": 816
           },
-          "published_at": "2026-10-16T15:34:34Z",
+          "published_at": "2026-10-21T00:29:12Z",
           "relevance": 0.0
         }
       ]
@@ -97,31 +97,31 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Using thousands of AI agents to uncover new leads in biological data",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "url": "https://github.com/NVIDIA/OpenShell",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 129
+            "value": 287
           },
-          "published_at": "2026-10-21T13:37:00Z",
+          "published_at": "2026-10-22T17:44:06Z",
           "relevance": 0.0
         },
         {
-          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 423
+            "value": 702
           },
-          "published_at": "2026-10-21T14:00:26Z",
+          "published_at": "2026-10-22T08:01:52Z",
           "relevance": 0.0
         },
         {
@@ -133,51 +133,51 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 336
+            "value": 677
           },
           "published_at": "2026-10-21T17:45:13Z",
           "relevance": 0.0
         },
         {
-          "title": "Railway Security Disclosure",
-          "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 266
+            "value": 500
           },
-          "published_at": "2026-10-21T21:58:03Z",
+          "published_at": "2026-10-22T02:18:41Z",
           "relevance": 0.0
         },
         {
-          "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+          "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 228
+            "value": 238
           },
-          "published_at": "2026-10-21T14:03:43Z",
+          "published_at": "2026-10-22T11:12:37Z",
           "relevance": 0.0
         },
         {
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "title": "Every AI model has the same \"controversial\" take on humans",
+          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 227
+            "value": 219
           },
-          "published_at": "2026-10-21T12:53:11Z",
+          "published_at": "2026-10-22T16:08:00Z",
           "relevance": 0.0
         }
       ]
@@ -187,8 +187,8 @@
       "title": "World",
       "items": [
         {
-          "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -197,12 +197,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-21T20:19:51Z",
+          "published_at": "2026-10-22T21:42:39Z",
           "relevance": 0.0
         },
         {
-          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -211,12 +211,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-21T21:27:41Z",
+          "published_at": "2026-10-23T00:25:30Z",
           "relevance": 0.0
         },
         {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+          "title": "Race to update services' computer systems after cyber-security flaw found",
+          "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -225,12 +225,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-21T19:58:06Z",
+          "published_at": "2026-10-22T17:12:51Z",
           "relevance": 0.0
         },
         {
-          "title": "Meta fined $25bn for 'lies' over user data privacy",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -239,12 +239,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-21T21:49:07Z",
+          "published_at": "2026-10-22T17:07:03Z",
           "relevance": 0.0
         },
         {
-          "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+          "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+          "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -253,12 +253,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-22T00:22:48Z",
+          "published_at": "2026-10-22T20:12:52Z",
           "relevance": 0.0
         },
         {
-          "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
+          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -267,14 +267,14 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-21T19:47:18Z",
+          "published_at": "2026-10-22T13:50:55Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
+    "scanned": 96,
     "kept": 18,
     "levels": [
       {
