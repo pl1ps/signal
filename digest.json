@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:38:58.533906Z",
+  "generated_at": "2026-10-24T00:40:45.061908Z",
   "generator_version": 1,
   "sections": [
     {
@@ -15,7 +15,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1438
+            "value": 1539
           },
           "published_at": "2026-10-18T12:19:27Z",
           "relevance": 0.0
@@ -29,7 +29,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 505
+            "value": 593
           },
           "published_at": "2026-10-18T02:21:29Z",
           "relevance": 0.0
@@ -43,23 +43,23 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1521
+            "value": 1695
           },
           "published_at": "2026-10-21T07:55:16Z",
           "relevance": 0.0
         },
         {
-          "title": "aicodeking/leanrea",
-          "url": "https://github.com/aicodeking/leanrea",
+          "title": "EthanArbuckle/fairplay-decrypt",
+          "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
           "source": "github",
           "source_label": "GitHub",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1367
+            "value": 1576
           },
-          "published_at": "2026-10-17T02:53:24Z",
+          "published_at": "2026-10-19T10:07:58Z",
           "relevance": 0.0
         },
         {
@@ -71,7 +71,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1289
+            "value": 1381
           },
           "published_at": "2026-10-18T06:42:29Z",
           "relevance": 0.0
@@ -85,7 +85,7 @@
           "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 816
+            "value": 1173
           },
           "published_at": "2026-10-21T00:29:12Z",
           "relevance": 0.0
@@ -97,73 +97,17 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-          "url": "https://github.com/NVIDIA/OpenShell",
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
           "source": "hackernews",
           "source_label": "Hacker News",
           "why": "",
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 287
+            "value": 686
           },
-          "published_at": "2026-10-22T17:44:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Jailbreaking the Switch 2",
-          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 702
-          },
-          "published_at": "2026-10-22T08:01:52Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 677
-          },
-          "published_at": "2026-10-21T17:45:13Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 500
-          },
-          "published_at": "2026-10-22T02:18:41Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-          "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 238
-          },
-          "published_at": "2026-10-22T11:12:37Z",
+          "published_at": "2026-10-23T16:59:08Z",
           "relevance": 0.0
         },
         {
@@ -175,9 +119,65 @@
           "summary": "",
           "signal": {
             "metric": "points",
-            "value": 219
+            "value": 614
           },
           "published_at": "2026-10-22T16:08:00Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 609
+          },
+          "published_at": "2026-10-22T02:18:41Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+          "url": "https://news.ycombinator.com/item?id=50200997",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 591
+          },
+          "published_at": "2026-10-22T21:03:55Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 249
+          },
+          "published_at": "2026-10-23T19:34:15Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 67
+          },
+          "published_at": "2026-10-23T19:50:56Z",
           "relevance": 0.0
         }
       ]
@@ -187,7 +187,35 @@
       "title": "World",
       "items": [
         {
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+          "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-23T20:18:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-23T19:30:19Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
@@ -197,12 +225,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-22T21:42:39Z",
+          "published_at": "2026-10-23T18:52:17Z",
           "relevance": 0.0
         },
         {
-          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "title": "PSG v Lyon moved as Paris prepares for more protests",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
           "why": "",
@@ -211,40 +239,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-23T00:25:30Z",
+          "published_at": "2026-10-23T14:18:41Z",
           "relevance": 0.0
         },
         {
-          "title": "Race to update services' computer systems after cyber-security flaw found",
-          "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-22T17:12:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-          "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-22T17:07:03Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-          "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+          "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -253,12 +253,12 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-22T20:12:52Z",
+          "published_at": "2026-10-23T19:31:15Z",
           "relevance": 0.0
         },
         {
-          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-          "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+          "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
           "source": "news",
           "source_label": "NPR News",
           "why": "",
@@ -267,14 +267,14 @@
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-22T13:50:55Z",
+          "published_at": "2026-10-23T18:30:00Z",
           "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 96,
+    "scanned": 95,
     "kept": 18,
     "levels": [
       {
