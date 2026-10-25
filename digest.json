@@ -1,94 +1,142 @@
 {
-  "generated_at": "2026-10-24T00:40:45.061908Z",
+  "generated_at": "2026-10-25T00:20:04.272679Z",
   "generator_version": 1,
   "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "dominikmartn/harp",
+          "url": "https://github.com/dominikmartn/harp",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It helps you manage multiple AI coding assistants like Claude Code in one single interface.",
+          "summary": "Harp is a desktop sidebar application that runs multiple AI coding agents concurrently and alerts you when one needs human input.",
+          "signal": {
+            "metric": "stars",
+            "value": 602
+          },
+          "published_at": "2026-10-20T10:39:43Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "A practical guide to AI image generation, from diffusion to agents",
+          "url": "https://danielball.com/notes/ai_image_generation.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It breaks down how modern AI image generation works step-by-step in an approachable way.",
+          "summary": "A practical walkthrough explaining diffusion models and AI image generation techniques without requiring heavy math background.",
+          "signal": {
+            "metric": "points",
+            "value": 243
+          },
+          "published_at": "2026-10-20T19:22:39Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+          "url": "https://corgi.computer/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It is an open-source tool designed to manage multiple coding AI agents from your terminal.",
+          "summary": "Corgi is a terminal multiplexer that lets developers run and organize multiple AI agents side by side in one command line interface.",
+          "signal": {
+            "metric": "points",
+            "value": 125
+          },
+          "published_at": "2026-10-23T19:46:38Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It introduces a fast new LLM series specifically designed for coding tasks.",
+          "summary": "Kimi released its K3.1 Pro AI models, optimized for software development with low latency and high-speed response modes.",
+          "signal": {
+            "metric": "points",
+            "value": 1057
+          },
+          "published_at": "2026-10-23T16:59:08Z",
+          "relevance": 0.82
+        }
+      ]
+    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "alchaincyf/huashu-motion",
-          "url": "https://github.com/alchaincyf/huashu-motion",
+          "title": "wesbos/3d-model-anything",
+          "url": "https://github.com/wesbos/3d-model-anything",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It demonstrates how to combine mobile camera sensors with web graphics libraries to make 3D models.",
+          "summary": "An open-source library by Wes Bos that converts iPhone LiDAR scans into interactive 3D web environments using Three.js.",
           "signal": {
             "metric": "stars",
-            "value": 1539
+            "value": 1644
           },
-          "published_at": "2026-10-18T12:19:27Z",
-          "relevance": 0.0
+          "published_at": "2026-10-21T19:38:50Z",
+          "relevance": 0.87
         },
         {
-          "title": "aicodeking/pandacode",
-          "url": "https://github.com/aicodeking/pandacode",
+          "title": "colinhacks/reylo",
+          "url": "https://github.com/colinhacks/reylo",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It simplifies working with databases in Web development by linking SQL and TypeScript directly.",
+          "summary": "Reylo is a TypeScript utility that imports raw SQL files with full type safety and zero code generation steps.",
           "signal": {
             "metric": "stars",
-            "value": 593
+            "value": 1211
           },
-          "published_at": "2026-10-18T02:21:29Z",
-          "relevance": 0.0
+          "published_at": "2026-10-21T00:16:54Z",
+          "relevance": 0.83
         },
         {
-          "title": "ikow/php2shell-poc",
-          "url": "https://github.com/ikow/php2shell-poc",
+          "title": "ELY-Open-Source/ElyOffice",
+          "url": "https://github.com/ELY-Open-Source/ElyOffice",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is an open-source example of building modern offline desktop applications using Rust.",
+          "summary": "ElyOffice provides offline-first desktop productivity apps built with Rust and GPU-accelerated UI components.",
           "signal": {
             "metric": "stars",
-            "value": 1695
+            "value": 967
           },
-          "published_at": "2026-10-21T07:55:16Z",
-          "relevance": 0.0
+          "published_at": "2026-10-19T23:04:42Z",
+          "relevance": 0.81
         },
         {
-          "title": "EthanArbuckle/fairplay-decrypt",
-          "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It shows a creative AI project where a small open-source language model simulates a command-line terminal.",
+          "summary": "WorldTUI is a lightweight 360 million parameter AI model trained to mimic terminal commands and responses.",
           "signal": {
-            "metric": "stars",
-            "value": 1576
+            "metric": "points",
+            "value": 640
           },
-          "published_at": "2026-10-19T10:07:58Z",
-          "relevance": 0.0
+          "published_at": "2026-10-22T02:18:41Z",
+          "relevance": 0.8
         },
         {
-          "title": "Ansub/tv-detox",
-          "url": "https://github.com/Ansub/tv-detox",
+          "title": "xevrion/hatchzip",
+          "url": "https://github.com/xevrion/hatchzip",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It is a clever open-source tool that solves file storage limits when extracting large zip archives.",
+          "summary": "Hatchzip unzips large archives in place by deleting compressed files as they extract, saving local disk space.",
           "signal": {
             "metric": "stars",
-            "value": 1381
+            "value": 1697
           },
-          "published_at": "2026-10-18T06:42:29Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "openai/php2shell-checker",
-          "url": "https://github.com/openai/php2shell-checker",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1173
-          },
-          "published_at": "2026-10-21T00:29:12Z",
-          "relevance": 0.0
+          "published_at": "2026-10-21T17:29:28Z",
+          "relevance": 0.79
         }
       ]
     },
@@ -97,88 +145,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "title": "No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It offers realistic perspective on how AI adoption is impacting traditional industries beyond tech.",
+          "summary": "A discussion analyzing economic data on whether generative AI tools are driving measurable productivity gains in non-tech businesses.",
           "signal": {
             "metric": "points",
-            "value": 686
+            "value": 450
           },
-          "published_at": "2026-10-23T16:59:08Z",
-          "relevance": 0.0
+          "published_at": "2026-10-24T19:47:19Z",
+          "relevance": 0.78
         },
         {
-          "title": "Every AI model has the same \"controversial\" take on humans",
-          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+          "title": "Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It discusses why AI-generated writing often feels unnatural or difficult to read.",
+          "summary": "An exploration into the linguistic patterns and stylistic quirks that make AI text feel verbose and hard to digest.",
           "signal": {
             "metric": "points",
-            "value": 614
+            "value": 146
           },
-          "published_at": "2026-10-22T16:08:00Z",
-          "relevance": 0.0
+          "published_at": "2026-10-24T18:04:57Z",
+          "relevance": 0.76
         },
         {
-          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It is a fun web project idea that filters Wikipedia articles based on your immediate physical location.",
+          "summary": "Local Wikipedia displays Wikipedia entries exclusively for points of interest within a short walking distance of the user.",
           "signal": {
             "metric": "points",
-            "value": 609
+            "value": 1544
           },
-          "published_at": "2026-10-22T02:18:41Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-          "url": "https://news.ycombinator.com/item?id=50200997",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 591
-          },
-          "published_at": "2026-10-22T21:03:55Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 249
-          },
-          "published_at": "2026-10-23T19:34:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 67
-          },
-          "published_at": "2026-10-23T19:50:56Z",
-          "relevance": 0.0
+          "published_at": "2026-10-22T23:01:18Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -187,295 +193,239 @@
       "title": "World",
       "items": [
         {
-          "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-          "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It covers critical news on satellite internet infrastructure supporting emergency operations.",
+          "summary": "Starlink satellite internet service in Ukraine has returned to normal operating speeds following a week of severe connection limits.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-23T20:18:13Z",
-          "relevance": 0.0
+          "published_at": "2026-10-24T12:12:40Z",
+          "relevance": 0.85
         },
         {
-          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "Al Jazeera",
+          "why": "It provides key world news regarding diplomatic developments in the Russia-Ukraine conflict.",
+          "summary": "A localized diplomatic ceasefire agreement was reached in the Ukrainian region of Oleshky.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-23T19:30:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-23T18:52:17Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "PSG v Lyon moved as Paris prepares for more protests",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-23T14:18:41Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-          "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-23T19:31:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-          "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-23T18:30:00Z",
-          "relevance": 0.0
+          "published_at": "2026-10-24T23:08:16Z",
+          "relevance": 0.82
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 95,
-    "kept": 18,
+    "scanned": 101,
+    "kept": 14,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.76,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.79,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.87,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +437,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
