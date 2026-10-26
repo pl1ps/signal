@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:20:04.272679Z",
+  "generated_at": "2026-10-26T00:19:41.916094Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,59 +7,31 @@
       "title": "AI & Tools",
       "items": [
         {
+          "title": "morganlinton/BeautifulRust",
+          "url": "https://github.com/morganlinton/BeautifulRust",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Combines AI assistance with best practices for learning to program in Rust.",
+          "summary": "BeautifulRust is a Claude Code extension that guides the AI coding agent to output high-quality, idiomatic Rust code.",
+          "signal": {
+            "metric": "stars",
+            "value": 715
+          },
+          "published_at": "2026-10-23T03:01:11Z",
+          "relevance": 0.86
+        },
+        {
           "title": "dominikmartn/harp",
           "url": "https://github.com/dominikmartn/harp",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It helps you manage multiple AI coding assistants like Claude Code in one single interface.",
-          "summary": "Harp is a desktop sidebar application that runs multiple AI coding agents concurrently and alerts you when one needs human input.",
+          "why": "This tool helps you manage multiple AI coding assistants simultaneously in a single interface.",
+          "summary": "Harp is an open-source sidebar application designed to run and organize multiple Claude Code and Codex agents at once.",
           "signal": {
             "metric": "stars",
-            "value": 602
+            "value": 615
           },
           "published_at": "2026-10-20T10:39:43Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "A practical guide to AI image generation, from diffusion to agents",
-          "url": "https://danielball.com/notes/ai_image_generation.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It breaks down how modern AI image generation works step-by-step in an approachable way.",
-          "summary": "A practical walkthrough explaining diffusion models and AI image generation techniques without requiring heavy math background.",
-          "signal": {
-            "metric": "points",
-            "value": 243
-          },
-          "published_at": "2026-10-20T19:22:39Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-          "url": "https://corgi.computer/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is an open-source tool designed to manage multiple coding AI agents from your terminal.",
-          "summary": "Corgi is a terminal multiplexer that lets developers run and organize multiple AI agents side by side in one command line interface.",
-          "signal": {
-            "metric": "points",
-            "value": 125
-          },
-          "published_at": "2026-10-23T19:46:38Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It introduces a fast new LLM series specifically designed for coding tasks.",
-          "summary": "Kimi released its K3.1 Pro AI models, optimized for software development with low latency and high-speed response modes.",
-          "signal": {
-            "metric": "points",
-            "value": 1057
-          },
-          "published_at": "2026-10-23T16:59:08Z",
           "relevance": 0.82
         }
       ]
@@ -73,70 +45,90 @@
           "url": "https://github.com/wesbos/3d-model-anything",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It demonstrates how to combine mobile camera sensors with web graphics libraries to make 3D models.",
-          "summary": "An open-source library by Wes Bos that converts iPhone LiDAR scans into interactive 3D web environments using Three.js.",
+          "why": "A great project example combining web graphics libraries like Three.js with phone hardware.",
+          "summary": "An open-source project that converts iPhone photo and LiDAR data into interactive, editable 3D web environments.",
           "signal": {
             "metric": "stars",
-            "value": 1644
+            "value": 1915
           },
           "published_at": "2026-10-21T19:38:50Z",
-          "relevance": 0.87
+          "relevance": 0.84
         },
         {
           "title": "colinhacks/reylo",
           "url": "https://github.com/colinhacks/reylo",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It simplifies working with databases in Web development by linking SQL and TypeScript directly.",
-          "summary": "Reylo is a TypeScript utility that imports raw SQL files with full type safety and zero code generation steps.",
+          "why": "Useful if you are learning TypeScript and database integration without heavy boilerplate code.",
+          "summary": "Reylo is an open-source library that allows developers to import SQL files directly into TypeScript with type safety.",
           "signal": {
             "metric": "stars",
-            "value": 1211
+            "value": 1263
           },
           "published_at": "2026-10-21T00:16:54Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "ELY-Open-Source/ElyOffice",
-          "url": "https://github.com/ELY-Open-Source/ElyOffice",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an open-source example of building modern offline desktop applications using Rust.",
-          "summary": "ElyOffice provides offline-first desktop productivity apps built with Rust and GPU-accelerated UI components.",
-          "signal": {
-            "metric": "stars",
-            "value": 967
-          },
-          "published_at": "2026-10-19T23:04:42Z",
           "relevance": 0.81
         },
         {
-          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-          "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It shows a creative AI project where a small open-source language model simulates a command-line terminal.",
-          "summary": "WorldTUI is a lightweight 360 million parameter AI model trained to mimic terminal commands and responses.",
+          "why": "An inspiring, beginner-friendly project showing how open data can create practical local tools.",
+          "summary": "A web application that filters Wikipedia to present articles about locations within walking distance of the user.",
           "signal": {
             "metric": "points",
-            "value": 640
+            "value": 1679
           },
-          "published_at": "2026-10-22T02:18:41Z",
-          "relevance": 0.8
+          "published_at": "2026-10-22T23:01:18Z",
+          "relevance": 0.79
+        },
+        {
+          "title": "torrentplayer/torrentplayer",
+          "url": "https://github.com/torrentplayer/torrentplayer",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "An interesting open-source application showcasing peer-to-peer desktop media streaming.",
+          "summary": "TorrentPlayer is a free desktop app that lets users stream video and audio directly from torrent files.",
+          "signal": {
+            "metric": "stars",
+            "value": 596
+          },
+          "published_at": "2026-10-20T19:44:10Z",
+          "relevance": 0.77
         },
         {
           "title": "xevrion/hatchzip",
           "url": "https://github.com/xevrion/hatchzip",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a clever open-source tool that solves file storage limits when extracting large zip archives.",
-          "summary": "Hatchzip unzips large archives in place by deleting compressed files as they extract, saving local disk space.",
+          "why": "A useful utility showing how to build clean, efficient open-source cross-platform desktop software.",
+          "summary": "HatchZip is an open-source tool that extracts zip and rar archives directly in place without copying files first.",
           "signal": {
             "metric": "stars",
-            "value": 1697
+            "value": 1935
           },
           "published_at": "2026-10-21T17:29:28Z",
-          "relevance": 0.79
+          "relevance": 0.72
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Relevant to your student journey as AI tools transform how computer science and math are taught.",
+          "summary": "A UC Berkeley professor stopped grading math homework after widespread AI tool adoption made traditional grading ineffective.",
+          "signal": {
+            "metric": "points",
+            "value": 190
+          },
+          "published_at": "2026-10-25T16:28:26Z",
+          "relevance": 0.85
         }
       ]
     },
@@ -145,45 +137,73 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "No signs of AI payoff outside the tech sector",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It offers realistic perspective on how AI adoption is impacting traditional industries beyond tech.",
-          "summary": "A discussion analyzing economic data on whether generative AI tools are driving measurable productivity gains in non-tech businesses.",
+          "why": "Understanding LLM price drops helps you track the decreasing cost of building AI applications.",
+          "summary": "OpenAI and Anthropic have slashed their API pricing by up to 80 percent, making frontier AI models much cheaper to build with.",
           "signal": {
             "metric": "points",
-            "value": 450
+            "value": 94
           },
-          "published_at": "2026-10-24T19:47:19Z",
+          "published_at": "2026-10-25T21:11:31Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It shows how specialized traditional machine learning models can outperform general LLMs for specific tasks.",
+          "summary": "A decade-old convolutional neural network proved more accurate at detecting skin cancer than modern frontier language models.",
+          "signal": {
+            "metric": "points",
+            "value": 396
+          },
+          "published_at": "2026-10-25T17:15:38Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Keeps you updated on hardware developments that allow massive AI models to run faster.",
+          "summary": "Cerebras deployed specialized hardware systems capable of executing trillion-parameter AI models at high speed.",
+          "signal": {
+            "metric": "points",
+            "value": 350
+          },
+          "published_at": "2026-10-25T01:33:49Z",
           "relevance": 0.78
         },
         {
-          "title": "Why is AI generated language so hard to understand?",
-          "url": "https://arxiv.org/abs/2610.29162",
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It discusses why AI-generated writing often feels unnatural or difficult to read.",
-          "summary": "An exploration into the linguistic patterns and stylistic quirks that make AI text feel verbose and hard to digest.",
+          "why": "Provides inspiring perspective on software engineering mindset for new computer science students.",
+          "summary": "An essay encouraging developers to build more ambitious, high-quality software systems.",
           "signal": {
             "metric": "points",
-            "value": 146
+            "value": 738
           },
-          "published_at": "2026-10-24T18:04:57Z",
+          "published_at": "2026-10-24T21:47:31Z",
           "relevance": 0.76
         },
         {
-          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-          "url": "https://edjefferson.com/localwiki/",
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It is a fun web project idea that filters Wikipedia articles based on your immediate physical location.",
-          "summary": "Local Wikipedia displays Wikipedia entries exclusively for points of interest within a short walking distance of the user.",
+          "why": "This discussion gives insight into how AI automation is affecting real-world creative and tech job markets.",
+          "summary": "A discussion exploring the extent to which AI adoption is responsible for recent job cuts across media and arts industries.",
           "signal": {
             "metric": "points",
-            "value": 1544
+            "value": 501
           },
-          "published_at": "2026-10-22T23:01:18Z",
+          "published_at": "2026-10-24T23:11:54Z",
           "relevance": 0.75
         }
       ]
@@ -193,40 +213,44 @@
       "title": "World",
       "items": [
         {
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It covers critical news on satellite internet infrastructure supporting emergency operations.",
-          "summary": "Starlink satellite internet service in Ukraine has returned to normal operating speeds following a week of severe connection limits.",
+          "why": "Important global news about technology infrastructure and geopolitical policy.",
+          "summary": "Elon Musk restricted Ukraine from using SpaceX's Starlink satellite internet for military offensive operations.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-24T12:12:40Z",
-          "relevance": 0.85
+          "published_at": "2026-10-25T09:00:00Z",
+          "relevance": 0.7
         },
         {
-          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+          "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
           "source": "news",
           "source_label": "Al Jazeera",
-          "why": "It provides key world news regarding diplomatic developments in the Russia-Ukraine conflict.",
-          "summary": "A localized diplomatic ceasefire agreement was reached in the Ukrainian region of Oleshky.",
+          "why": "Key international news updating major ongoing geopolitical conflicts.",
+          "summary": "Developments in global military tensions as foreign policy leaders address ongoing conflict operations.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-24T23:08:16Z",
-          "relevance": 0.82
+          "published_at": "2026-10-26T00:00:00Z",
+          "relevance": 0.68
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 101,
-    "kept": 14,
+    "scanned": 100,
+    "kept": 15,
     "levels": [
+      {
+        "v": 0.25,
+        "kept": false
+      },
       {
         "v": 0.25,
         "kept": false
@@ -236,8 +260,8 @@
         "kept": true
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -253,6 +277,18 @@
       },
       {
         "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
@@ -264,36 +300,8 @@
         "kept": true
       },
       {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
         "v": 0.78,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.76,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
       },
       {
         "v": 0.85,
@@ -312,27 +320,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.7,
         "kept": true
       },
       {
@@ -348,7 +336,35 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.68,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -358,29 +374,17 @@
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.72,
+        "kept": true
+      },
+      {
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.79,
-        "kept": true
-      },
-      {
-        "v": 0.87,
-        "kept": true
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.83,
         "kept": true
       },
       {
@@ -416,12 +420,28 @@
         "kept": false
       },
       {
+        "v": 0.76,
+        "kept": true
+      },
+      {
+        "v": 0.86,
+        "kept": true
+      },
+      {
         "v": 0.0,
         "kept": false
       },
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.77,
+        "kept": true
       },
       {
         "v": 0.0,
