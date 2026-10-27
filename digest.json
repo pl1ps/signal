@@ -1,134 +1,94 @@
 {
-  "generated_at": "2026-10-26T00:19:41.916094Z",
+  "generated_at": "2026-10-27T01:29:23.340991Z",
   "generator_version": 1,
   "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "morganlinton/BeautifulRust",
-          "url": "https://github.com/morganlinton/BeautifulRust",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "Combines AI assistance with best practices for learning to program in Rust.",
-          "summary": "BeautifulRust is a Claude Code extension that guides the AI coding agent to output high-quality, idiomatic Rust code.",
-          "signal": {
-            "metric": "stars",
-            "value": 715
-          },
-          "published_at": "2026-10-23T03:01:11Z",
-          "relevance": 0.86
-        },
-        {
-          "title": "dominikmartn/harp",
-          "url": "https://github.com/dominikmartn/harp",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This tool helps you manage multiple AI coding assistants simultaneously in a single interface.",
-          "summary": "Harp is an open-source sidebar application designed to run and organize multiple Claude Code and Codex agents at once.",
-          "signal": {
-            "metric": "stars",
-            "value": 615
-          },
-          "published_at": "2026-10-20T10:39:43Z",
-          "relevance": 0.82
-        }
-      ]
-    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "wesbos/3d-model-anything",
-          "url": "https://github.com/wesbos/3d-model-anything",
+          "title": "DenisSergeevitch/ex-ussr-kinship-research",
+          "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A great project example combining web graphics libraries like Three.js with phone hardware.",
-          "summary": "An open-source project that converts iPhone photo and LiDAR data into interactive, editable 3D web environments.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1915
+            "value": 799
           },
-          "published_at": "2026-10-21T19:38:50Z",
-          "relevance": 0.84
+          "published_at": "2026-10-25T10:05:56Z",
+          "relevance": 0.0
         },
         {
-          "title": "colinhacks/reylo",
-          "url": "https://github.com/colinhacks/reylo",
+          "title": "andyhuo520/digital-human-koubo",
+          "url": "https://github.com/andyhuo520/digital-human-koubo",
           "source": "github",
           "source_label": "GitHub",
-          "why": "Useful if you are learning TypeScript and database integration without heavy boilerplate code.",
-          "summary": "Reylo is an open-source library that allows developers to import SQL files directly into TypeScript with type safety.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1263
+            "value": 717
           },
-          "published_at": "2026-10-21T00:16:54Z",
-          "relevance": 0.81
+          "published_at": "2026-10-26T04:34:09Z",
+          "relevance": 0.0
         },
         {
-          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-          "url": "https://edjefferson.com/localwiki/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "An inspiring, beginner-friendly project showing how open data can create practical local tools.",
-          "summary": "A web application that filters Wikipedia to present articles about locations within walking distance of the user.",
-          "signal": {
-            "metric": "points",
-            "value": 1679
-          },
-          "published_at": "2026-10-22T23:01:18Z",
-          "relevance": 0.79
-        },
-        {
-          "title": "torrentplayer/torrentplayer",
-          "url": "https://github.com/torrentplayer/torrentplayer",
+          "title": "Alejandros17487/ai-jailbreaks",
+          "url": "https://github.com/Alejandros17487/ai-jailbreaks",
           "source": "github",
           "source_label": "GitHub",
-          "why": "An interesting open-source application showcasing peer-to-peer desktop media streaming.",
-          "summary": "TorrentPlayer is a free desktop app that lets users stream video and audio directly from torrent files.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 596
+            "value": 500
           },
-          "published_at": "2026-10-20T19:44:10Z",
-          "relevance": 0.77
+          "published_at": "2026-10-21T14:44:06Z",
+          "relevance": 0.0
         },
         {
-          "title": "xevrion/hatchzip",
-          "url": "https://github.com/xevrion/hatchzip",
+          "title": "rddmwmddr/android-ad-cleaner",
+          "url": "https://github.com/rddmwmddr/android-ad-cleaner",
           "source": "github",
           "source_label": "GitHub",
-          "why": "A useful utility showing how to build clean, efficient open-source cross-platform desktop software.",
-          "summary": "HatchZip is an open-source tool that extracts zip and rar archives directly in place without copying files first.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1935
+            "value": 1953
           },
-          "published_at": "2026-10-21T17:29:28Z",
-          "relevance": 0.72
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
+          "published_at": "2026-10-24T05:35:47Z",
+          "relevance": 0.0
+        },
         {
-          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Relevant to your student journey as AI tools transform how computer science and math are taught.",
-          "summary": "A UC Berkeley professor stopped grading math homework after widespread AI tool adoption made traditional grading ineffective.",
+          "title": "ikow/php2shell-poc",
+          "url": "https://github.com/ikow/php2shell-poc",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 190
+            "metric": "stars",
+            "value": 1832
           },
-          "published_at": "2026-10-25T16:28:26Z",
-          "relevance": 0.85
+          "published_at": "2026-10-21T07:55:16Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "t3dotgg/tstack",
+          "url": "https://github.com/t3dotgg/tstack",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1572
+          },
+          "published_at": "2026-10-24T05:00:20Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -137,74 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "title": "Birdwatching rewires the brain and slows cognitive decline",
+          "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Understanding LLM price drops helps you track the decreasing cost of building AI applications.",
-          "summary": "OpenAI and Anthropic have slashed their API pricing by up to 80 percent, making frontier AI models much cheaper to build with.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 94
+            "value": 510
           },
-          "published_at": "2026-10-25T21:11:31Z",
-          "relevance": 0.88
+          "published_at": "2026-10-23T22:04:55Z",
+          "relevance": 0.0
         },
         {
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer",
+          "title": "GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It shows how specialized traditional machine learning models can outperform general LLMs for specific tasks.",
-          "summary": "A decade-old convolutional neural network proved more accurate at detecting skin cancer than modern frontier language models.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 396
+            "value": 493
           },
-          "published_at": "2026-10-25T17:15:38Z",
-          "relevance": 0.8
+          "published_at": "2026-10-26T18:01:17Z",
+          "relevance": 0.0
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "title": "Blaise Pascal invented fixed route public transport (2024)",
+          "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Keeps you updated on hardware developments that allow massive AI models to run faster.",
-          "summary": "Cerebras deployed specialized hardware systems capable of executing trillion-parameter AI models at high speed.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 350
+            "value": 261
           },
-          "published_at": "2026-10-25T01:33:49Z",
-          "relevance": 0.78
+          "published_at": "2026-10-22T19:52:50Z",
+          "relevance": 0.0
         },
         {
-          "title": "We should be more ambitious with the software we build",
-          "url": "https://danluu.com/ambitious/",
+          "title": "Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Provides inspiring perspective on software engineering mindset for new computer science students.",
-          "summary": "An essay encouraging developers to build more ambitious, high-quality software systems.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 738
+            "value": 254
           },
-          "published_at": "2026-10-24T21:47:31Z",
-          "relevance": 0.76
+          "published_at": "2026-10-26T16:35:44Z",
+          "relevance": 0.0
         },
         {
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "title": "Fixing Tool-Call Accuracy in vLLM",
+          "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This discussion gives insight into how AI automation is affecting real-world creative and tech job markets.",
-          "summary": "A discussion exploring the extent to which AI adoption is responsible for recent job cuts across media and arts industries.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 501
+            "value": 145
           },
-          "published_at": "2026-10-24T23:11:54Z",
-          "relevance": 0.75
+          "published_at": "2026-10-26T12:59:48Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 63
+          },
+          "published_at": "2026-10-26T22:41:48Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -213,239 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "Important global news about technology infrastructure and geopolitical policy.",
-          "summary": "Elon Musk restricted Ukraine from using SpaceX's Starlink satellite internet for military offensive operations.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-25T09:00:00Z",
-          "relevance": 0.7
+          "published_at": "2026-10-26T16:27:17Z",
+          "relevance": 0.0
         },
         {
-          "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "Key international news updating major ongoing geopolitical conflicts.",
-          "summary": "Developments in global military tensions as foreign policy leaders address ongoing conflict operations.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-26T00:00:00Z",
-          "relevance": 0.68
+          "published_at": "2026-10-26T15:46:31Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "'Maxxing' selected as Dictionary.com word of the year",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-26T21:31:53Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-27T00:31:45Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "AI giant Anthropic files for an IPO that could break records",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-26T14:16:23Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-26T09:22:36Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 15,
+    "scanned": 102,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.7,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.68,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.72,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.79,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.81,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.76,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.77,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -457,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
