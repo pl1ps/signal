@@ -1,481 +1,210 @@
 {
-  "generated_at": "2026-10-27T01:29:23.340991Z",
+  "generated_at": "2026-10-28T01:18:42.878928Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "DenisSergeevitch/ex-ussr-kinship-research",
-          "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 799
-          },
-          "published_at": "2026-10-25T10:05:56Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "andyhuo520/digital-human-koubo",
-          "url": "https://github.com/andyhuo520/digital-human-koubo",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 717
-          },
-          "published_at": "2026-10-26T04:34:09Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Alejandros17487/ai-jailbreaks",
-          "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 500
-          },
-          "published_at": "2026-10-21T14:44:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "rddmwmddr/android-ad-cleaner",
-          "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1953
-          },
-          "published_at": "2026-10-24T05:35:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "ikow/php2shell-poc",
-          "url": "https://github.com/ikow/php2shell-poc",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1832
-          },
-          "published_at": "2026-10-21T07:55:16Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "t3dotgg/tstack",
-          "url": "https://github.com/t3dotgg/tstack",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1572
-          },
-          "published_at": "2026-10-24T05:00:20Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Birdwatching rewires the brain and slows cognitive decline",
-          "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 510
-          },
-          "published_at": "2026-10-23T22:04:55Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 493
-          },
-          "published_at": "2026-10-26T18:01:17Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Blaise Pascal invented fixed route public transport (2024)",
-          "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 261
-          },
-          "published_at": "2026-10-22T19:52:50Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 254
-          },
-          "published_at": "2026-10-26T16:35:44Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Fixing Tool-Call Accuracy in vLLM",
-          "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 145
-          },
-          "published_at": "2026-10-26T12:59:48Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 63
-          },
-          "published_at": "2026-10-26T22:41:48Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-26T16:27:17Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-26T15:46:31Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "'Maxxing' selected as Dictionary.com word of the year",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-26T21:31:53Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-          "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-27T00:31:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "AI giant Anthropic files for an IPO that could break records",
-          "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-26T14:16:23Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-26T09:22:36Z",
-          "relevance": 0.0
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
     "scanned": 102,
-    "kept": 18,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +216,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
