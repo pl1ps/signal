@@ -1,10 +1,147 @@
 {
-  "generated_at": "2026-10-28T01:18:42.878928Z",
+  "generated_at": "2026-10-29T01:47:54.787369Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "anonnerdfrenzy/survival-llm",
+          "url": "https://github.com/anonnerdfrenzy/survival-llm",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical, offline AI assistant you can run entirely on your own computer without an internet connection.",
+          "summary": "Survival LLM is an open-source local AI tool and knowledge library designed to work offline. It answers queries locally while citing its exact sources for transparency.",
+          "signal": {
+            "metric": "stars",
+            "value": 581
+          },
+          "published_at": "2026-10-24T19:12:41Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "stormydayy/halo-overlay",
+          "url": "https://github.com/stormydayy/halo-overlay",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This open-source project shows how modern AI tools can process audio and visual context in real time.",
+          "summary": "Halo Overlay is a lightweight assistant that listens to live conversations and watches your screen to provide real-time suggestions.",
+          "signal": {
+            "metric": "stars",
+            "value": 516
+          },
+          "published_at": "2026-10-25T17:33:04Z",
+          "relevance": 0.84
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "t3dotgg/tstack",
+          "url": "https://github.com/t3dotgg/tstack",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Created by popular tech creator Theo, this repository shares daily workflows you can use to boost your AI coding assistants.",
+          "summary": "tstack is a curated collection of reusable skills and instructions designed to enhance coding agents like Claude Code and Codex.",
+          "signal": {
+            "metric": "stars",
+            "value": 2271
+          },
+          "published_at": "2026-10-24T05:00:20Z",
+          "relevance": 0.87
+        },
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Ghostty is a widely discussed open-source terminal emulator that just released a major update.",
+          "summary": "Ghostty is a high-performance, GPU-accelerated terminal application designed for modern software development.",
+          "signal": {
+            "metric": "points",
+            "value": 1300
+          },
+          "published_at": "2026-10-27T16:51:22Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "blakeandersonw/ai-app-playbook",
+          "url": "https://github.com/blakeandersonw/ai-app-playbook",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It offers a practical roadmap for early developers looking to build and deploy real-world AI applications using coding agents.",
+          "summary": "This repository provides a step-by-step guide and template structure for building full-stack software applications using modern AI coding tools.",
+          "signal": {
+            "metric": "stars",
+            "value": 564
+          },
+          "published_at": "2026-10-26T16:07:05Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Start Doing Graph Theory",
+          "url": "https://vertex.degree/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Graph theory is a core computer science foundation that is crucial for understanding data structures and coding interviews.",
+          "summary": "This resource introduces foundational graph theory concepts in an accessible format tailored for computer science learners.",
+          "signal": {
+            "metric": "points",
+            "value": 584
+          },
+          "published_at": "2026-10-23T13:49:50Z",
+          "relevance": 0.83
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It covers today's major world news story regarding a fatal railway disaster in Spain.",
+          "summary": "A high-speed train collision in Toledo, Spain, left at least 68 people dead after a moving train struck a stationary one.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-28T21:38:54Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Fed holds interest rates steady even as inflation remains stubborn",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "It keeps you informed on major global economic news regarding inflation and interest rates.",
+          "summary": "The US Federal Reserve decided to hold interest rates steady while monitoring ongoing inflation concerns.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-10-28T18:04:42Z",
+          "relevance": 0.8
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 102,
-    "kept": 0,
+    "scanned": 100,
+    "kept": 8,
     "levels": [
       {
         "v": 0.25,
@@ -15,6 +152,18 @@
         "kept": false
       },
       {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
         "v": 0.25,
         "kept": false
       },
@@ -27,8 +176,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.87,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -63,8 +212,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -83,8 +232,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.9,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -95,48 +244,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -179,6 +288,14 @@
         "kept": false
       },
       {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
         "v": 0.0,
         "kept": false
       },
@@ -189,6 +306,26 @@
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.83,
+        "kept": true
       },
       {
         "v": 0.0,
