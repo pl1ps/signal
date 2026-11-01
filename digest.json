@@ -1,94 +1,162 @@
 {
-  "generated_at": "2026-10-31T01:34:41.556908Z",
+  "generated_at": "2026-11-01T01:07:35.812465Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "qybaihe/bla",
-          "url": "https://github.com/qybaihe/bla",
+          "title": "haydenschmitty/floorplan",
+          "url": "https://github.com/haydenschmitty/floorplan",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "Understanding large codebases can be daunting for beginners, and this tool builds visual diagrams of your project automatically.",
+          "summary": "Floorplan uses AI coding assistants like Claude to generate plain-English, interactive structural maps of software codebases.",
           "signal": {
             "metric": "stars",
-            "value": 1415
+            "value": 862
           },
-          "published_at": "2026-10-25T05:25:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "andyhuo520/digital-human-koubo",
-          "url": "https://github.com/andyhuo520/digital-human-koubo",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1556
-          },
-          "published_at": "2026-10-26T04:34:09Z",
-          "relevance": 0.0
+          "published_at": "2026-10-27T12:03:01Z",
+          "relevance": 0.88
         },
         {
           "title": "wangzan101/Mika",
           "url": "https://github.com/wangzan101/Mika",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It gives you an open-source look at how AI agents can interact with mobile phone screens and apps directly.",
+          "summary": "Mika is an open-source Android app that acts as a personal AI agent, controlling mobile applications and searching the web to perform tasks for you.",
           "signal": {
             "metric": "stars",
-            "value": 1381
+            "value": 2747
           },
           "published_at": "2026-10-29T14:34:07Z",
-          "relevance": 0.0
+          "relevance": 0.85
         },
         {
-          "title": "DenisSergeevitch/ex-ussr-kinship-research",
-          "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+          "title": "jackwener/DSH-Android",
+          "url": "https://github.com/jackwener/DSH-Android",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It showcases how to run automated AI phone agents locally without needing root permissions or complex command-line setups.",
+          "summary": "DSH-Android is a standalone Android app that runs DeepSeek automation workflows locally to read screens and perform automated tasks on your phone.",
           "signal": {
             "metric": "stars",
-            "value": 1346
+            "value": 632
           },
-          "published_at": "2026-10-25T10:05:56Z",
-          "relevance": 0.0
+          "published_at": "2026-10-27T19:26:12Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "heydamir/unslop",
+          "url": "https://github.com/heydamir/unslop",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "If you use AI to draft user interfaces, this tool automatically cleans up unpolished AI design outputs.",
+          "summary": "Unslop is a custom skill for Claude that refines AI-generated user interfaces into clean, professionally styled web designs.",
+          "signal": {
+            "metric": "stars",
+            "value": 3505
+          },
+          "published_at": "2026-10-29T15:41:21Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Mistral releasing flagship model weights is a major event for open-source AI development and self-hosted LLMs.",
+          "summary": "AI company Mistral has publicly released the model weights for Mistral Large 4, allowing developers to run and customize a top-tier language model.",
+          "signal": {
+            "metric": "points",
+            "value": 1706
+          },
+          "published_at": "2026-10-29T14:13:21Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "deepseek-ai/dsh-superagent-prototype",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "DeepSeek is a top AI lab, and this project demonstrates how modern autonomous AI agent systems are designed.",
+          "summary": "This open-source repository from DeepSeek provides a prototype framework for building autonomous AI agents capable of multi-step task execution.",
+          "signal": {
+            "metric": "stars",
+            "value": 2473
+          },
+          "published_at": "2026-10-31T09:32:46Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "Arjun-Ingole/hop",
+          "url": "https://github.com/Arjun-Ingole/hop",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Setting up a Linux environment is a common milestone for CS students, and this tool simplifies dual-booting without needing a USB drive.",
+          "summary": "Hop is an open-source Windows utility that allows users to install Linux alongside Windows directly without using a bootable flash drive.",
+          "signal": {
+            "metric": "stars",
+            "value": 725
+          },
+          "published_at": "2026-10-30T19:40:45Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "OpenBMB/MiniCPM-OCR",
+          "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "OpenBMB makes lightweight, efficient vision models that are great for learning how small multimodal AI models operate.",
+          "summary": "MiniCPM-OCR is an open-source vision-AI project focused on fast optical character recognition that also evaluates its own text extraction accuracy.",
+          "signal": {
+            "metric": "stars",
+            "value": 721
+          },
+          "published_at": "2026-10-27T13:22:00Z",
+          "relevance": 0.76
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It provides a massive, community-curated collection of top tech talks and programming tutorials ideal for learning CS concepts.",
+          "summary": "HackerTube is a video discovery site that indexes over 6,000 tech talks and tutorials recommended in Hacker News discussions over the past two decades.",
+          "signal": {
+            "metric": "points",
+            "value": 652
+          },
+          "published_at": "2026-10-31T19:56:53Z",
+          "relevance": 0.81
         },
         {
           "title": "blakeandersonw/ai-app-playbook",
           "url": "https://github.com/blakeandersonw/ai-app-playbook",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It offers structured advice and templates for leveraging AI coding assistants to build complete software products.",
+          "summary": "The AI App Playbook is a practical guide and repository designed to help developers use AI coding agents to build and launch useful software applications.",
           "signal": {
             "metric": "stars",
-            "value": 590
+            "value": 597
           },
           "published_at": "2026-10-26T16:07:05Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "anhao/ai-pose-gallery-zh",
-          "url": "https://github.com/anhao/ai-pose-gallery-zh",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 3978
-          },
-          "published_at": "2026-10-27T12:24:37Z",
-          "relevance": 0.0
+          "relevance": 0.8
         }
       ]
     },
@@ -97,88 +165,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "We ran AI agent swarms in Minecraft and Mindustry",
-          "url": "https://labs.ycombinator.com/projects/games/index.html",
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "As a developer using AI coding extensions in IDEs, awareness of malicious extension marketplace listings is critical for machine security.",
+          "summary": "A security notice warned developers that a malicious fake version of the Claude Code extension on the Cursor marketplace contained hidden backdoors.",
           "signal": {
             "metric": "points",
-            "value": 395
+            "value": 967
           },
-          "published_at": "2026-10-29T21:40:28Z",
-          "relevance": 0.0
+          "published_at": "2026-10-30T07:09:12Z",
+          "relevance": 0.88
         },
         {
-          "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It highlights how cyber threats are evolving by integrating AI models into malicious software workflows.",
+          "summary": "Security researchers discovered malware that connects to large language models to evaluate infected machines and rank high-value target victims.",
           "signal": {
             "metric": "points",
-            "value": 166
+            "value": 230
           },
-          "published_at": "2026-10-28T12:24:25Z",
-          "relevance": 0.0
+          "published_at": "2026-10-31T14:29:03Z",
+          "relevance": 0.78
         },
         {
-          "title": "AI isn't replacing SREs, it's deskilling them",
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It is important to stay informed about API terms of service when using major commercial AI models for your projects.",
+          "summary": "Anthropic has begun banning user accounts that use its AI models or output data to train competing AI systems.",
           "signal": {
             "metric": "points",
-            "value": 503
+            "value": 176
           },
-          "published_at": "2026-10-30T15:52:18Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-          "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 203
-          },
-          "published_at": "2026-10-30T20:23:30Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Building an AI-native engineering org",
-          "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 110
-          },
-          "published_at": "2026-10-29T21:58:34Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 101
-          },
-          "published_at": "2026-10-30T14:08:20Z",
-          "relevance": 0.0
+          "published_at": "2026-10-31T19:39:19Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -187,295 +213,239 @@
       "title": "World",
       "items": [
         {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "NPR News",
+          "why": "This represents one of the largest cybersecurity breaches in the history of financial technology.",
+          "summary": "Cryptocurrency exchange Binance suffered a massive $6.3 billion security breach, triggering major security concerns across the crypto industry.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-31T00:40:43Z",
-          "relevance": 0.0
+          "published_at": "2026-10-31T18:11:02Z",
+          "relevance": 0.8
         },
         {
-          "title": "Police deployed during stand-off over control of top Poland court",
-          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "It keeps you informed on widespread economic and civic unrest currently impacting major European nations.",
+          "summary": "Hundreds of thousands of protesters gathered in France and across Europe to demonstrate against rising living costs and public service cuts.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-10-31T01:11:43Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-30T16:26:11Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-          "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-30T17:07:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-30T15:03:39Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-10-30T14:48:22Z",
-          "relevance": 0.0
+          "published_at": "2026-10-31T21:29:01Z",
+          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 103,
-    "kept": 18,
+    "scanned": 99,
+    "kept": 15,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.7,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.76,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.81,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.83,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +457,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
