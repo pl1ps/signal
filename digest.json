@@ -1,134 +1,94 @@
 {
-  "generated_at": "2026-11-03T03:28:37.896990Z",
+  "generated_at": "2026-11-04T02:17:27.987719Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "ai-tools",
-      "title": "AI & Tools",
+      "id": "code-projects",
+      "title": "Code & Projects",
       "items": [
+        {
+          "title": "deepseek-ai/dsh-superagent-prototype",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 16972
+          },
+          "published_at": "2026-10-31T09:32:46Z",
+          "relevance": 0.0
+        },
         {
           "title": "wangzan101/Mika",
           "url": "https://github.com/wangzan101/Mika",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical on-device AI agent project you can explore and test on Android.",
-          "summary": "Mika is an open-source Android AI agent that can automatically navigate mobile apps and web pages to perform tasks for you.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 5488
+            "value": 6103
           },
           "published_at": "2026-10-29T14:34:07Z",
-          "relevance": 0.85
+          "relevance": 0.0
         },
         {
-          "title": "caru-ini/stack-diagram",
-          "url": "https://github.com/caru-ini/stack-diagram",
+          "title": "Balanov/uncut",
+          "url": "https://github.com/Balanov/uncut",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a useful practical tool to quickly document and visualize system architecture for your student projects.",
-          "summary": "Stack Diagram is an AI prompt skill that takes a plain English description of your tech stack and generates a visual system architecture diagram.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 1246
+            "value": 593
           },
-          "published_at": "2026-11-01T05:35:12Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-          "url": "https://momentic.ai/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It demonstrates a practical software engineering use case for AI agents in quality assurance.",
-          "summary": "Momentic provides autonomous AI testing agents that navigate mobile and web applications to discover and report software bugs.",
-          "signal": {
-            "metric": "points",
-            "value": 131
-          },
-          "published_at": "2026-11-02T17:05:25Z",
-          "relevance": 0.81
+          "published_at": "2026-11-01T17:19:30Z",
+          "relevance": 0.0
         },
         {
           "title": "heydamir/unslop",
           "url": "https://github.com/heydamir/unslop",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This tool helps you quickly turn basic AI-generated frontend code into clean, well-designed user interfaces.",
-          "summary": "Unslop is a Claude extension tool that automatically cleans up generic AI-generated interface designs into polished user interfaces.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 6400
+            "value": 7593
           },
           "published_at": "2026-10-29T15:41:21Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "Arjun-Ingole/hop",
-          "url": "https://github.com/Arjun-Ingole/hop",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical tool if you want to easily set up a dual-boot Linux development environment.",
-          "summary": "Hop is an open-source utility that lets users install Linux side-by-side with Windows without needing a USB drive.",
-          "signal": {
-            "metric": "stars",
-            "value": 1392
-          },
-          "published_at": "2026-10-30T19:40:45Z",
-          "relevance": 0.78
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-          "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It provides valuable realistic perspective on current entry-level tech hiring trends and the software job market.",
-          "summary": "A discussion on how unemployed tech workers in San Francisco are struggling to land roles despite massive investments in the local AI sector.",
-          "signal": {
-            "metric": "points",
-            "value": 166
-          },
-          "published_at": "2026-11-02T14:40:05Z",
-          "relevance": 0.88
+          "relevance": 0.0
         },
         {
-          "title": "storytold/craft-anything",
-          "url": "https://github.com/storytold/craft-anything",
+          "title": "paipiange/nvzhuang",
+          "url": "https://github.com/paipiange/nvzhuang",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an practical learning resource for strengthening your core programming skills through hands-on projects.",
-          "summary": "Craft Anything is an open-source educational repository that teaches how software works by guiding you to build your own implementations.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "stars",
-            "value": 4754
+            "value": 2132
           },
-          "published_at": "2026-10-31T14:50:00Z",
-          "relevance": 0.86
+          "published_at": "2026-10-29T06:08:00Z",
+          "relevance": 0.0
         },
         {
-          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-          "url": "https://hackerbooks.org",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It offers an easy way to discover highly recommended software engineering and computer science books.",
-          "summary": "HackerBooks is a curated web application listing over 16,000 computer science and tech books recommended on Hacker News since 2007.",
+          "title": "caru-ini/stack-diagram",
+          "url": "https://github.com/caru-ini/stack-diagram",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "points",
-            "value": 1812
+            "metric": "stars",
+            "value": 1558
           },
-          "published_at": "2026-11-01T15:58:28Z",
-          "relevance": 0.85
+          "published_at": "2026-11-01T05:35:12Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -137,46 +97,88 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights how heavily leading AI research companies rely on their own LLM products internally.",
-          "summary": "Anthropic revealed that the internal cost of its own engineers running Claude models has surpassed total employee salary expenditures.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 297
+            "value": 1041
           },
-          "published_at": "2026-11-02T16:40:29Z",
-          "relevance": 0.84
+          "published_at": "2026-11-03T17:22:37Z",
+          "relevance": 0.0
         },
         {
-          "title": "Scaling Git at OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai/",
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Learning how major tech companies handle massive codebases provides great real-world software engineering insight.",
-          "summary": "OpenAI shared the technical strategies and custom tooling required to manage exceptionally large Git version control repositories at scale.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "points",
-            "value": 56
+            "value": 622
           },
-          "published_at": "2026-11-02T23:47:56Z",
-          "relevance": 0.83
+          "published_at": "2026-11-02T16:29:19Z",
+          "relevance": 0.0
         },
         {
-          "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-          "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It explores important real-world societal impacts and reliability limitations of current LLM chatbots.",
-          "summary": "An NPR report details how voters increasingly turn to AI chatbots for election news despite frequent factual errors and biased candidate recommendations.",
+          "title": "Google will turn off search for schools that reject AI",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
           "signal": {
-            "metric": "",
-            "value": 0
+            "metric": "points",
+            "value": 561
           },
-          "published_at": "2026-11-02T20:02:41Z",
-          "relevance": 0.8
+          "published_at": "2026-11-03T15:25:47Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+          "url": "https://news.ycombinator.com/item?id=50352757",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 436
+          },
+          "published_at": "2026-11-03T14:53:41Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 384
+          },
+          "published_at": "2026-11-02T14:02:42Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 255
+          },
+          "published_at": "2026-11-03T21:26:44Z",
+          "relevance": 0.0
         }
       ]
     },
@@ -185,253 +187,295 @@
       "title": "World",
       "items": [
         {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "title": "Spanish transport minister resigns days after deadly train crash",
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This covers a major international news event regarding the ongoing conflict in Ukraine.",
-          "summary": "Russian aerial strikes hit a Ukrainian village school serving as a humanitarian aid center, killing at least 26 people.",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-03T01:56:27Z",
-          "relevance": 0.9
+          "published_at": "2026-11-03T22:45:59Z",
+          "relevance": 0.0
         },
         {
-          "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It reports critical breaking world news regarding geopolitical tensions along key global trade lanes.",
-          "summary": "US military forces launched targeted defensive strikes against Iranian military positions in the Strait of Hormuz following missile threats.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-03T00:00:00Z",
-          "relevance": 0.89
+          "published_at": "2026-11-03T20:42:47Z",
+          "relevance": 0.0
         },
         {
-          "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
-          "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "This is a major global health news development affecting central Africa.",
-          "summary": "A severe Ebola outbreak in the Democratic Republic of Congo has resulted in over 5,300 deaths and spread to neighboring African countries.",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-03T00:50:38Z",
-          "relevance": 0.88
+          "published_at": "2026-11-03T21:53:38Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Libya's top religious authority rules against wearing Nike clothes",
+          "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-03T14:56:46Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-03T13:55:47Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-03T16:57:41Z",
+          "relevance": 0.0
         }
       ]
     }
   ],
   "readout": {
     "scanned": 100,
-    "kept": 14,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.81,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.83,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.9,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.89,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.86,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.85,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.78,
+        "v": 0.55,
         "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
+      },
+      {
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -443,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
