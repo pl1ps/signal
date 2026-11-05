@@ -1,94 +1,92 @@
 {
-  "generated_at": "2026-11-04T02:17:27.987719Z",
+  "generated_at": "2026-11-05T02:23:27.106120Z",
   "generator_version": 1,
   "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+          "url": "https://www.ricursive.com/ripple",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Open-weight coding models let developers run powerful AI coding assistants locally without relying on proprietary APIs.",
+          "summary": "A new state-of-the-art open-weight AI model designed specifically for software engineering and agentic coding tasks.",
+          "signal": {
+            "metric": "points",
+            "value": 227
+          },
+          "published_at": "2026-11-04T18:53:29Z",
+          "relevance": 0.8
+        }
+      ]
+    },
     {
       "id": "code-projects",
       "title": "Code & Projects",
       "items": [
         {
-          "title": "deepseek-ai/dsh-superagent-prototype",
-          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 16972
-          },
-          "published_at": "2026-10-31T09:32:46Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "wangzan101/Mika",
-          "url": "https://github.com/wangzan101/Mika",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 6103
-          },
-          "published_at": "2026-10-29T14:34:07Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Balanov/uncut",
-          "url": "https://github.com/Balanov/uncut",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 593
-          },
-          "published_at": "2026-11-01T17:19:30Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "heydamir/unslop",
-          "url": "https://github.com/heydamir/unslop",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 7593
-          },
-          "published_at": "2026-10-29T15:41:21Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "paipiange/nvzhuang",
-          "url": "https://github.com/paipiange/nvzhuang",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 2132
-          },
-          "published_at": "2026-10-29T06:08:00Z",
-          "relevance": 0.0
-        },
-        {
           "title": "caru-ini/stack-diagram",
           "url": "https://github.com/caru-ini/stack-diagram",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "This is a handy tool to quickly visualize system architectures for projects you build or study.",
+          "summary": "An open-source agent skill that takes a one-sentence description of your tech stack and automatically generates an architecture diagram with official logos.",
           "signal": {
             "metric": "stars",
-            "value": 1558
+            "value": 1761
           },
           "published_at": "2026-11-01T05:35:12Z",
-          "relevance": 0.0
+          "relevance": 0.85
+        },
+        {
+          "title": "brightsongwrath/personal-data-deletor-osint",
+          "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "A practical open-source project showing how automation scripts can help manage online personal privacy.",
+          "summary": "A free, local open-source script that sends automated data removal requests to nearly 1,000 data brokers without requiring an account or server.",
+          "signal": {
+            "metric": "stars",
+            "value": 584
+          },
+          "published_at": "2026-11-03T16:47:18Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "storytold/craft-anything",
+          "url": "https://github.com/storytold/craft-anything",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This repository offers a practical, hands-on way for beginner developers to deconstruct and learn how existing software works.",
+          "summary": "An open-source educational project designed to help you analyze real-world software architecture and build your own projects from scratch.",
+          "signal": {
+            "metric": "stars",
+            "value": 12078
+          },
+          "published_at": "2026-10-31T14:50:00Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "Arjun-Ingole/hop",
+          "url": "https://github.com/Arjun-Ingole/hop",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "Dual-booting Linux alongside Windows is a common task for CS students, and this utility makes the installation process much simpler.",
+          "summary": "An open-source tool that lets you install a Linux operating system directly next to Windows without requiring a bootable USB drive.",
+          "signal": {
+            "metric": "stars",
+            "value": 1511
+          },
+          "published_at": "2026-10-30T19:40:45Z",
+          "relevance": 0.87
         }
       ]
     },
@@ -97,88 +95,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "url": "https://news.ycombinator.com/item?id=50366117",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "Understanding how real developers use AI agents in their daily workflows will help you build your own productive setup.",
+          "summary": "A community discussion where developers share the specific tools, workflows, and prompts they use to integrate AI agents into their daily routine.",
           "signal": {
             "metric": "points",
-            "value": 1041
+            "value": 128
           },
-          "published_at": "2026-11-03T17:22:37Z",
-          "relevance": 0.0
+          "published_at": "2026-11-04T14:37:22Z",
+          "relevance": 0.88
         },
         {
-          "title": "Jailbreaking my car's navigation system just so I can change the time",
-          "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "url": "https://news.ycombinator.com/item?id=50363461",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "As a developer using AI tools daily, it is crucial to understand how AI providers handle your private code and chat history.",
+          "summary": "Reports highlight that Google uses saved Gemini chat histories to train its models even for paying personal accounts, unless chat history is explicitly turned off.",
           "signal": {
             "metric": "points",
-            "value": 622
+            "value": 629
           },
-          "published_at": "2026-11-02T16:29:19Z",
-          "relevance": 0.0
+          "published_at": "2026-11-04T10:10:27Z",
+          "relevance": 0.82
         },
         {
-          "title": "Google will turn off search for schools that reject AI",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "If you plan to run local AI models on Linux, hardware firmware restrictions can heavily impact your system's performance.",
+          "summary": "Developers report that encrypted GPU firmware updates from Nvidia cause significant AI inference speed slowdowns when running on Linux systems.",
           "signal": {
             "metric": "points",
-            "value": 561
+            "value": 591
           },
-          "published_at": "2026-11-03T15:25:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-          "url": "https://news.ycombinator.com/item?id=50352757",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 436
-          },
-          "published_at": "2026-11-03T14:53:41Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-          "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 384
-          },
-          "published_at": "2026-11-02T14:02:42Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 255
-          },
-          "published_at": "2026-11-03T21:26:44Z",
-          "relevance": 0.0
+          "published_at": "2026-11-04T08:46:29Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -187,294 +143,238 @@
       "title": "World",
       "items": [
         {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "why": "Keeps you informed on major international news developments in the ongoing war in Ukraine.",
+          "summary": "Ukrainian officials released bodycam footage from a double-tap missile strike on a village that killed at least 40 people.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-03T22:45:59Z",
-          "relevance": 0.0
+          "published_at": "2026-11-04T22:48:43Z",
+          "relevance": 0.75
         },
         {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+          "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+          "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "NPR News",
+          "why": "Keeps you updated on major political developments following recent US election results.",
+          "summary": "Senate Democratic leadership announced major plans for party strategy following key victories that shifted the balance of power in Congress.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-03T20:42:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-03T21:53:38Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Libya's top religious authority rules against wearing Nike clothes",
-          "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-03T14:56:46Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-03T13:55:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-03T16:57:41Z",
-          "relevance": 0.0
+          "published_at": "2026-11-04T18:37:34Z",
+          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 18,
+    "scanned": 96,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.7,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.9,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.78,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
+        "v": 0.8,
         "kept": true
       }
     ]
@@ -487,6 +387,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
