@@ -1,181 +1,10 @@
 {
-  "generated_at": "2026-11-05T02:23:27.106120Z",
+  "generated_at": "2026-11-06T02:23:52.472693Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-          "url": "https://www.ricursive.com/ripple",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Open-weight coding models let developers run powerful AI coding assistants locally without relying on proprietary APIs.",
-          "summary": "A new state-of-the-art open-weight AI model designed specifically for software engineering and agentic coding tasks.",
-          "signal": {
-            "metric": "points",
-            "value": 227
-          },
-          "published_at": "2026-11-04T18:53:29Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "caru-ini/stack-diagram",
-          "url": "https://github.com/caru-ini/stack-diagram",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This is a handy tool to quickly visualize system architectures for projects you build or study.",
-          "summary": "An open-source agent skill that takes a one-sentence description of your tech stack and automatically generates an architecture diagram with official logos.",
-          "signal": {
-            "metric": "stars",
-            "value": 1761
-          },
-          "published_at": "2026-11-01T05:35:12Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "brightsongwrath/personal-data-deletor-osint",
-          "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "A practical open-source project showing how automation scripts can help manage online personal privacy.",
-          "summary": "A free, local open-source script that sends automated data removal requests to nearly 1,000 data brokers without requiring an account or server.",
-          "signal": {
-            "metric": "stars",
-            "value": 584
-          },
-          "published_at": "2026-11-03T16:47:18Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "storytold/craft-anything",
-          "url": "https://github.com/storytold/craft-anything",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This repository offers a practical, hands-on way for beginner developers to deconstruct and learn how existing software works.",
-          "summary": "An open-source educational project designed to help you analyze real-world software architecture and build your own projects from scratch.",
-          "signal": {
-            "metric": "stars",
-            "value": 12078
-          },
-          "published_at": "2026-10-31T14:50:00Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "Arjun-Ingole/hop",
-          "url": "https://github.com/Arjun-Ingole/hop",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "Dual-booting Linux alongside Windows is a common task for CS students, and this utility makes the installation process much simpler.",
-          "summary": "An open-source tool that lets you install a Linux operating system directly next to Windows without requiring a bootable USB drive.",
-          "signal": {
-            "metric": "stars",
-            "value": 1511
-          },
-          "published_at": "2026-10-30T19:40:45Z",
-          "relevance": 0.87
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Ask HN: What's your current AI agentic setup?",
-          "url": "https://news.ycombinator.com/item?id=50366117",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "Understanding how real developers use AI agents in their daily workflows will help you build your own productive setup.",
-          "summary": "A community discussion where developers share the specific tools, workflows, and prompts they use to integrate AI agents into their daily routine.",
-          "signal": {
-            "metric": "points",
-            "value": 128
-          },
-          "published_at": "2026-11-04T14:37:22Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-          "url": "https://news.ycombinator.com/item?id=50363461",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "As a developer using AI tools daily, it is crucial to understand how AI providers handle your private code and chat history.",
-          "summary": "Reports highlight that Google uses saved Gemini chat histories to train its models even for paying personal accounts, unless chat history is explicitly turned off.",
-          "signal": {
-            "metric": "points",
-            "value": 629
-          },
-          "published_at": "2026-11-04T10:10:27Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "If you plan to run local AI models on Linux, hardware firmware restrictions can heavily impact your system's performance.",
-          "summary": "Developers report that encrypted GPU firmware updates from Nvidia cause significant AI inference speed slowdowns when running on Linux systems.",
-          "signal": {
-            "metric": "points",
-            "value": 591
-          },
-          "published_at": "2026-11-04T08:46:29Z",
-          "relevance": 0.78
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "Keeps you informed on major international news developments in the ongoing war in Ukraine.",
-          "summary": "Ukrainian officials released bodycam footage from a double-tap missile strike on a village that killed at least 40 people.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-04T22:48:43Z",
-          "relevance": 0.75
-        },
-        {
-          "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-          "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "Keeps you updated on major political developments following recent US election results.",
-          "summary": "Senate Democratic leadership announced major plans for party strategy following key victories that shifted the balance of power in Congress.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-04T18:37:34Z",
-          "relevance": 0.7
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 96,
-    "kept": 10,
+    "scanned": 108,
+    "kept": 0,
     "levels": [
       {
         "v": 0.25,
@@ -190,10 +19,6 @@
         "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
-      },
-      {
         "v": 0.25,
         "kept": false
       },
@@ -210,8 +35,28 @@
         "kept": false
       },
       {
-        "v": 0.85,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -238,20 +83,8 @@
         "kept": false
       },
       {
-        "v": 0.82,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -270,8 +103,20 @@
         "kept": false
       },
       {
-        "v": 0.75,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -290,10 +135,6 @@
         "kept": false
       },
       {
-        "v": 0.7,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
@@ -306,8 +147,12 @@
         "kept": false
       },
       {
-        "v": 0.9,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.0,
@@ -330,10 +175,6 @@
         "kept": false
       },
       {
-        "v": 0.87,
-        "kept": true
-      },
-      {
         "v": 0.0,
         "kept": false
       },
@@ -364,18 +205,6 @@
       {
         "v": 0.0,
         "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
       }
     ]
   },
