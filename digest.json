@@ -1,94 +1,66 @@
 {
-  "generated_at": "2026-11-07T01:53:52.554508Z",
+  "generated_at": "2026-11-08T01:24:54.162053Z",
   "generator_version": 1,
   "sections": [
     {
-      "id": "code-projects",
-      "title": "Code & Projects",
+      "id": "ai-tools",
+      "title": "AI & Tools",
       "items": [
         {
-          "title": "Sandflow-ai/sand3d",
-          "url": "https://github.com/Sandflow-ai/sand3d",
+          "title": "JosssphZhou/poki",
+          "url": "https://github.com/JosssphZhou/poki",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It shows a practical open-source implementation of AI agents controlling real smartphone hardware.",
+          "summary": "Poki is a local Model Context Protocol (MCP) server that lets AI agents interact directly with an iPhone without needing hardware mods or jailbreaking.",
           "signal": {
             "metric": "stars",
-            "value": 805
+            "value": 512
           },
-          "published_at": "2026-11-03T08:23:03Z",
-          "relevance": 0.0
+          "published_at": "2026-11-05T15:04:31Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It explains a smart, budget-friendly strategy for leveraging powerful LLMs effectively.",
+          "summary": "Researchers showed that using a smaller, cheaper AI model to draft answers and only consult Claude Opus when stuck matches high accuracy at a fraction of the cost.",
+          "signal": {
+            "metric": "points",
+            "value": 572
+          },
+          "published_at": "2026-11-06T19:48:51Z",
+          "relevance": 0.86
         },
         {
           "title": "sarpstar/cinecode",
           "url": "https://github.com/sarpstar/cinecode",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "It demonstrates how AI agents can automate creative multimedia projects entirely through code.",
+          "summary": "Cinecode is an open-source tool where an AI agent writes scripts, generates visual frames via code, and builds complete video files automatically.",
           "signal": {
             "metric": "stars",
-            "value": 489
+            "value": 820
           },
           "published_at": "2026-11-03T10:08:16Z",
-          "relevance": 0.0
+          "relevance": 0.85
         },
         {
-          "title": "KKKKhazix/agent-autoloop",
-          "url": "https://github.com/KKKKhazix/agent-autoloop",
+          "title": "shanselman/gputaskman",
+          "url": "https://github.com/shanselman/gputaskman",
           "source": "github",
           "source_label": "GitHub",
-          "why": "",
-          "summary": "",
+          "why": "If you run local LLMs, this tool helps you monitor GPU VRAM usage and model performance directly from your system.",
+          "summary": "Gputaskman is an open-source GPU task manager for Windows and Linux that tracks VRAM consumption, GPU activity, and LLM KV-cache metrics per process.",
           "signal": {
             "metric": "stars",
-            "value": 3701
+            "value": 527
           },
-          "published_at": "2026-11-03T08:02:11Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 2894
-          },
-          "published_at": "2026-11-04T14:54:56Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "caru-ini/stack-diagram",
-          "url": "https://github.com/caru-ini/stack-diagram",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1967
-          },
-          "published_at": "2026-11-01T05:35:12Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "wquguru/cicada",
-          "url": "https://github.com/wquguru/cicada",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1560
-          },
-          "published_at": "2026-11-01T05:41:23Z",
-          "relevance": 0.0
+          "published_at": "2026-11-03T00:49:34Z",
+          "relevance": 0.82
         }
       ]
     },
@@ -97,88 +69,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Claude Code sends your email address to websites",
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "This is a critical security warning if you use AI coding tools alongside Git and GitHub.",
+          "summary": "A flaw involving Claude Code's 'Don't Ask Again' setting caused developer passwords and API keys to be accidentally committed to over 1,000 public GitHub repositories.",
           "signal": {
             "metric": "points",
-            "value": 1553
+            "value": 168
           },
-          "published_at": "2026-11-05T22:17:15Z",
-          "relevance": 0.0
+          "published_at": "2026-11-07T20:45:32Z",
+          "relevance": 0.95
         },
         {
-          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+          "title": "The Components of Agent Memory",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "Understanding how AI agents store and recall context is essential when learning to build agentic software.",
+          "summary": "This article breaks down the architectural pieces of agent memory, explaining short-term, long-term, and working memory in LLM systems.",
           "signal": {
             "metric": "points",
-            "value": 277
+            "value": 151
           },
-          "published_at": "2026-11-06T04:00:28Z",
-          "relevance": 0.0
+          "published_at": "2026-11-07T06:39:04Z",
+          "relevance": 0.89
         },
         {
-          "title": "AI is dramatically accelerating AI research",
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "title": "The end of Microsoft Research's AI Frontiers group",
+          "url": "https://hunch.net/?p=13764006",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
+          "why": "It highlights major structural shifts happening inside big tech AI research divisions.",
+          "summary": "Microsoft has reportedly disbanded its AI Frontiers research group as part of reorganizing its artificial intelligence teams.",
           "signal": {
             "metric": "points",
-            "value": 201
+            "value": 374
           },
-          "published_at": "2026-11-06T20:27:23Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "I struggle to believe that AI R&D is ingenious",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 178
-          },
-          "published_at": "2026-11-06T05:19:04Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Restaurant Delivery Payment-Skimming Campaign",
-          "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 94
-          },
-          "published_at": "2026-11-06T19:19:27Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "AI for scientific discovery: How researchers use Claude",
-          "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 87
-          },
-          "published_at": "2026-11-06T09:13:30Z",
-          "relevance": 0.0
+          "published_at": "2026-11-07T18:02:17Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -187,295 +117,267 @@
       "title": "World",
       "items": [
         {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
+          "source_label": "Al Jazeera",
+          "why": "It provides essential coverage on escalating global geopolitical conflicts.",
+          "summary": "Iranian state media reported military strikes near key strait and port cities amid expanding regional warfare.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-06T21:06:25Z",
-          "relevance": 0.0
+          "published_at": "2026-11-08T00:00:56Z",
+          "relevance": 0.74
         },
         {
-          "title": "New wave of bomb threats hit European airlines",
-          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-06T15:25:35Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-06T17:44:02Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-06T16:51:01Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
           "source": "news",
           "source_label": "NPR News",
-          "why": "",
-          "summary": "",
+          "why": "It reports on significant political changes in Middle Eastern leadership.",
+          "summary": "Israel's president selected opposition leader Gadi Eisenkot instead of Benjamin Netanyahu to attempt to form the next government coalition.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-06T20:09:58Z",
-          "relevance": 0.0
+          "published_at": "2026-11-07T20:18:18Z",
+          "relevance": 0.73
         },
         {
-          "title": "European flights and broadcasters are targeted with another wave of bomb threats",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+          "title": "US offers $20m reward for information about Iran's nuclear programme",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
+          "source_label": "BBC World",
+          "why": "It highlights major developments in global diplomacy and security policy.",
+          "summary": "The US government offered a $20 million reward for details on Iran's nuclear program amid heightened military tensions.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-06T15:21:31Z",
-          "relevance": 0.0
+          "published_at": "2026-11-07T18:14:38Z",
+          "relevance": 0.72
+        },
+        {
+          "title": "What we know so far after Krakow gun attack",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It covers a major international breaking news event in Europe.",
+          "summary": "A mass shooting in Krakow's main square left six people dead before police apprehended the suspect.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-07T22:58:49Z",
+          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 100,
-    "kept": 18,
+    "scanned": 103,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.55,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.89,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.7,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.72,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.73,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.74,
         "kept": true
       },
       {
-        "v": 0.55,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.86,
         "kept": true
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
-      },
-      {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +389,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
