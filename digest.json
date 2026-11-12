@@ -1,14 +1,193 @@
 {
-  "generated_at": "2026-11-11T01:54:56.350603Z",
+  "generated_at": "2026-11-12T02:56:44.138141Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This will make running local open-source LLMs on your Mac much easier without complex command-line setup.",
+          "summary": "Apple is developing a dedicated desktop application for macOS to streamline downloading and executing open AI models locally on user hardware.",
+          "signal": {
+            "metric": "points",
+            "value": 517
+          },
+          "published_at": "2026-11-10T21:25:03Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+          "url": "https://news.ycombinator.com/item?id=50455811",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It introduces a helpful tool for connecting AI agents to real-time web data using standardized protocols.",
+          "summary": "Pomerado turns standard websites into Model Context Protocol endpoints, allowing AI agents to easily read and interact with web content.",
+          "signal": {
+            "metric": "points",
+            "value": 50
+          },
+          "published_at": "2026-11-11T17:11:56Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Atuin Threads: All your agent sessions on every machine",
+          "url": "https://blog.atuin.sh/threads-agent-sessions/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It is a practical utility if you plan to experiment with terminal-based AI coding agents across different setups.",
+          "summary": "Atuin Threads adds session management capabilities to track and organize AI agent interactions across multiple terminal environments.",
+          "signal": {
+            "metric": "points",
+            "value": 191
+          },
+          "published_at": "2026-11-11T14:10:46Z",
+          "relevance": 0.74
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "DIYgod/pinky",
+          "url": "https://github.com/DIYgod/pinky",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This open-source tool offers a practical example of building interactive AI agents that perform real-world tasks on mobile devices.",
+          "summary": "Pinky is an open-source project that allows AI agents to interact with and control smartphone applications while keeping a human in the loop for approval.",
+          "signal": {
+            "metric": "stars",
+            "value": 1889
+          },
+          "published_at": "2026-11-06T16:53:14Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+          "url": "https://github.com/FrigadeHQ/yogurt",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It is a practical, privacy-focused open-source AI project that demonstrates on-device audio processing.",
+          "summary": "Yogurt is an open-source desktop app that runs local AI models to transcribe, summarize, and query audio notes privately.",
+          "signal": {
+            "metric": "points",
+            "value": 181
+          },
+          "published_at": "2026-11-11T15:33:06Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "AI, activity, and outcomes in software engineering",
+          "url": "https://cabird.com/talks/shipping-faster/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "This talk offers helpful career guidance on how AI tools are actually impacting early-career software developers.",
+          "summary": "A presentation analyzing data on how AI coding assistants affect developer speed, code quality, and engineering workflows.",
+          "signal": {
+            "metric": "points",
+            "value": 107
+          },
+          "published_at": "2026-11-11T16:33:28Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "As a Python learner, understanding key historical figures like Tim Peters gives valuable context to the language and community you are joining.",
+          "summary": "Tim Peters, an influential early Python core developer famous for writing the Zen of Python and creating the Timsort sorting algorithm, has passed away.",
+          "signal": {
+            "metric": "points",
+            "value": 905
+          },
+          "published_at": "2026-11-11T07:03:17Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "AWS emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It provides insight into how major tech companies are leveraging AI agents to automate practical software engineering workflows.",
+          "summary": "AWS engineers explain how they configured autonomous AI agents to construct a working cloud service emulator.",
+          "signal": {
+            "metric": "points",
+            "value": 707
+          },
+          "published_at": "2026-11-11T18:21:38Z",
+          "relevance": 0.78
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It shows a creative and practical application of autonomous AI agents working on real-world discovery problems.",
+          "summary": "A developer describes how their autonomous AI agents analyzed geographic and historical data to uncover a previously unmapped ancient Maya site.",
+          "signal": {
+            "metric": "points",
+            "value": 935
+          },
+          "published_at": "2026-11-11T12:05:22Z",
+          "relevance": 0.75
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "This is a major humanitarian development in the ongoing conflict between Russia and Ukraine.",
+          "summary": "Negotiators from Russia and Ukraine agreed to a significant exchange of prisoners of war following diplomatic discussions in Abu Dhabi.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-11T13:30:00Z",
+          "relevance": 0.85
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 104,
-    "kept": 0,
+    "scanned": 105,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -19,8 +198,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -43,8 +222,52 @@
         "kept": false
       },
       {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.74,
+        "kept": true
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -67,83 +290,31 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
