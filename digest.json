@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:56:44.138141Z",
+  "generated_at": "2026-11-13T02:36:59.472526Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,46 +7,46 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "Apple has new Mac app coming to make running local AI models easy",
-          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This will make running local open-source LLMs on your Mac much easier without complex command-line setup.",
-          "summary": "Apple is developing a dedicated desktop application for macOS to streamline downloading and executing open AI models locally on user hardware.",
+          "title": "alexeyw/lot-map",
+          "url": "https://github.com/alexeyw/lot-map",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It gives you a visual way to understand how AI agents break down tasks and call tools in real time.",
+          "summary": "Lot-map is a live visual dashboard that displays the internal steps, subagents, and tool calls made by Claude Code as it runs.",
           "signal": {
-            "metric": "points",
-            "value": 517
+            "metric": "stars",
+            "value": 617
           },
-          "published_at": "2026-11-10T21:25:03Z",
+          "published_at": "2026-11-09T19:13:52Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "agentes-chat/agentes-chat",
+          "url": "https://github.com/agentes-chat/agentes-chat",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows how teams can build open-source workflows that combine human team members with AI agents in chat channels.",
+          "summary": "Agentes-chat is a self-hosted, open-source alternative to Slack where humans and AI agents interact together using models like Claude and ChatGPT.",
+          "signal": {
+            "metric": "stars",
+            "value": 1199
+          },
+          "published_at": "2026-11-09T00:50:28Z",
           "relevance": 0.85
         },
         {
-          "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-          "url": "https://news.ycombinator.com/item?id=50455811",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It introduces a helpful tool for connecting AI agents to real-time web data using standardized protocols.",
-          "summary": "Pomerado turns standard websites into Model Context Protocol endpoints, allowing AI agents to easily read and interact with web content.",
+          "title": "FrigadeHQ/yogurt",
+          "url": "https://github.com/FrigadeHQ/yogurt",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This is a practical open-source project showing how to build privacy-focused local AI utilities.",
+          "summary": "Yogurt is a free and open-source application that automatically generates meeting notes privately using local AI.",
           "signal": {
-            "metric": "points",
-            "value": 50
+            "metric": "stars",
+            "value": 971
           },
-          "published_at": "2026-11-11T17:11:56Z",
+          "published_at": "2026-11-10T20:01:01Z",
           "relevance": 0.8
-        },
-        {
-          "title": "Atuin Threads: All your agent sessions on every machine",
-          "url": "https://blog.atuin.sh/threads-agent-sessions/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a practical utility if you plan to experiment with terminal-based AI coding agents across different setups.",
-          "summary": "Atuin Threads adds session management capabilities to track and organize AI agent interactions across multiple terminal environments.",
-          "signal": {
-            "metric": "points",
-            "value": 191
-          },
-          "published_at": "2026-11-11T14:10:46Z",
-          "relevance": 0.74
         }
       ]
     },
@@ -55,52 +55,18 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "DIYgod/pinky",
-          "url": "https://github.com/DIYgod/pinky",
+          "title": "Goblinmine/homelab-diagram",
+          "url": "https://github.com/Goblinmine/homelab-diagram",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This open-source tool offers a practical example of building interactive AI agents that perform real-world tasks on mobile devices.",
-          "summary": "Pinky is an open-source project that allows AI agents to interact with and control smartphone applications while keeping a human in the loop for approval.",
+          "why": "It is a clear example of a beginner-friendly Python project built alongside Claude to convert data files into visual diagrams.",
+          "summary": "Homelab-diagram is a Python script that reads network descriptions written in simple YAML configuration files and turns them into visual image diagrams.",
           "signal": {
             "metric": "stars",
-            "value": 1889
+            "value": 941
           },
-          "published_at": "2026-11-06T16:53:14Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-          "url": "https://github.com/FrigadeHQ/yogurt",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a practical, privacy-focused open-source AI project that demonstrates on-device audio processing.",
-          "summary": "Yogurt is an open-source desktop app that runs local AI models to transcribe, summarize, and query audio notes privately.",
-          "signal": {
-            "metric": "points",
-            "value": 181
-          },
-          "published_at": "2026-11-11T15:33:06Z",
-          "relevance": 0.8
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "AI, activity, and outcomes in software engineering",
-          "url": "https://cabird.com/talks/shipping-faster/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This talk offers helpful career guidance on how AI tools are actually impacting early-career software developers.",
-          "summary": "A presentation analyzing data on how AI coding assistants affect developer speed, code quality, and engineering workflows.",
-          "signal": {
-            "metric": "points",
-            "value": 107
-          },
-          "published_at": "2026-11-11T16:33:28Z",
-          "relevance": 0.85
+          "published_at": "2026-11-07T12:45:46Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -113,42 +79,42 @@
           "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a Python learner, understanding key historical figures like Tim Peters gives valuable context to the language and community you are joining.",
-          "summary": "Tim Peters, an influential early Python core developer famous for writing the Zen of Python and creating the Timsort sorting algorithm, has passed away.",
+          "why": "As a Python learner, it is valuable to know about Tim Peters, a fundamental developer who shaped Python core concepts.",
+          "summary": "Tim Peters, a legendary Python core developer famous for creating the Timsort sorting algorithm and writing the Zen of Python, has passed away.",
           "signal": {
             "metric": "points",
-            "value": 905
+            "value": 1397
           },
           "published_at": "2026-11-11T07:03:17Z",
-          "relevance": 0.88
+          "relevance": 0.9
         },
         {
-          "title": "AWS emulator",
-          "url": "https://github.com/aws/aws-emulator",
+          "title": "Anthropic IPO",
+          "url": "https://ipo.anthropic.com/us/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It provides insight into how major tech companies are leveraging AI agents to automate practical software engineering workflows.",
-          "summary": "AWS engineers explain how they configured autonomous AI agents to construct a working cloud service emulator.",
+          "why": "Anthropic makes Claude, a core tool in modern AI development, making news of its business milestones highly relevant.",
+          "summary": "News and discussions have emerged regarding Anthropic preparing for an initial public offering to list its company on public stock markets.",
           "signal": {
             "metric": "points",
-            "value": 707
+            "value": 831
           },
-          "published_at": "2026-11-11T18:21:38Z",
-          "relevance": 0.78
+          "published_at": "2026-11-12T11:46:41Z",
+          "relevance": 0.87
         },
         {
-          "title": "My AI agents found an unmapped Maya site?",
-          "url": "https://pietromiotti.com/latest/maya-site",
+          "title": "I'm making LLMs work on small and old devices",
+          "url": "https://github.com/hyperionaidev/smolmaxxing/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It shows a creative and practical application of autonomous AI agents working on real-world discovery problems.",
-          "summary": "A developer describes how their autonomous AI agents analyzed geographic and historical data to uncover a previously unmapped ancient Maya site.",
+          "why": "Learning how developers optimize LLMs for weaker hardware is great practical background for understanding efficient coding.",
+          "summary": "A developer shares practical techniques and experiments for getting Large Language Models to run efficiently on low-power and legacy devices.",
           "signal": {
             "metric": "points",
-            "value": 935
+            "value": 284
           },
-          "published_at": "2026-11-11T12:05:22Z",
-          "relevance": 0.75
+          "published_at": "2026-11-12T15:23:10Z",
+          "relevance": 0.82
         }
       ]
     },
@@ -157,32 +123,88 @@
       "title": "World",
       "items": [
         {
-          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "This is a major humanitarian development in the ongoing conflict between Russia and Ukraine.",
-          "summary": "Negotiators from Russia and Ukraine agreed to a significant exchange of prisoners of war following diplomatic discussions in Abu Dhabi.",
+          "source_label": "BBC World",
+          "why": "Nvidia is the primary chipmaker powering modern AI, making this executive change major global tech news.",
+          "summary": "Nvidia CEO Jensen Huang has resigned amid personal scandal and spy allegations, throwing the world's leading AI chipmaker into turmoil.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-11T13:30:00Z",
+          "published_at": "2026-11-12T23:34:05Z",
+          "relevance": 0.95
+        },
+        {
+          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "A major global outage at Microsoft impacts tech infrastructure and daily tools across the tech industry.",
+          "summary": "Microsoft suffered a widespread cloud server outage that disrupted Outlook email, Teams, and Copilot services globally.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-13T01:26:24Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This is one of today's most significant major world news updates regarding global diplomacy and peace talks.",
+          "summary": "Ukrainian President Volodymyr Zelensky expressed support for involving European leaders alongside the US in peace negotiations with Russia.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-13T02:01:35Z",
           "relevance": 0.85
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 105,
+    "scanned": 101,
     "kept": 10,
     "levels": [
       {
-        "v": 0.82,
+        "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.75,
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.8,
         "kept": true
       },
       {
@@ -190,20 +212,68 @@
         "kept": true
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.8,
+        "v": 0.88,
         "kept": true
       },
       {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
+        "kept": true
+      },
+      {
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -226,132 +296,56 @@
         "kept": true
       },
       {
-        "v": 0.85,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.74,
-        "kept": true
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
       },
       {
         "v": 0.0,
