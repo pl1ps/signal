@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:36:59.472526Z",
+  "generated_at": "2026-11-14T02:24:01.571366Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,42 +11,56 @@
           "url": "https://github.com/alexeyw/lot-map",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It gives you a visual way to understand how AI agents break down tasks and call tools in real time.",
-          "summary": "Lot-map is a live visual dashboard that displays the internal steps, subagents, and tool calls made by Claude Code as it runs.",
+          "why": "If you are exploring modern AI coding agents, this visualizer helps you learn how models break down and execute tasks behind the scenes.",
+          "summary": "Lot Map is a visual developer tool that runs locally alongside your chat to show real-time maps of Claude Code tool calls, skills, and subagents.",
           "signal": {
             "metric": "stars",
-            "value": 617
+            "value": 738
           },
           "published_at": "2026-11-09T19:13:52Z",
-          "relevance": 0.88
+          "relevance": 0.9
         },
         {
           "title": "agentes-chat/agentes-chat",
           "url": "https://github.com/agentes-chat/agentes-chat",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It shows how teams can build open-source workflows that combine human team members with AI agents in chat channels.",
-          "summary": "Agentes-chat is a self-hosted, open-source alternative to Slack where humans and AI agents interact together using models like Claude and ChatGPT.",
+          "why": "It is a practical open-source project showing how team collaboration apps can integrate AI agents into everyday workflow channels.",
+          "summary": "Agentes-chat is an open-source, self-hosted Slack alternative where AI agents run on models like Claude and ChatGPT to work alongside human team members.",
           "signal": {
             "metric": "stars",
-            "value": 1199
+            "value": 1345
           },
           "published_at": "2026-11-09T00:50:28Z",
-          "relevance": 0.85
+          "relevance": 0.88
         },
         {
           "title": "FrigadeHQ/yogurt",
           "url": "https://github.com/FrigadeHQ/yogurt",
           "source": "github",
           "source_label": "GitHub",
-          "why": "This is a practical open-source project showing how to build privacy-focused local AI utilities.",
-          "summary": "Yogurt is a free and open-source application that automatically generates meeting notes privately using local AI.",
+          "why": "It offers a privacy-focused open-source AI utility that runs locally on your machine without relying on subscription services.",
+          "summary": "Yogurt is a free and open-source desktop app that transcribes meeting audio and takes structured notes locally on your computer.",
           "signal": {
             "metric": "stars",
-            "value": 971
+            "value": 1287
           },
           "published_at": "2026-11-10T20:01:01Z",
-          "relevance": 0.8
+          "relevance": 0.85
+        },
+        {
+          "title": "Dodaios/ste80-humanizer",
+          "url": "https://github.com/Dodaios/ste80-humanizer",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This tool gives you an actionable AI agent skill for polishing AI-generated writing to sound clearer and more natural.",
+          "summary": "STE80 Humanizer is an agent skill that rewrites text to remove robotic AI patterns using Simplified Technical English principles.",
+          "signal": {
+            "metric": "stars",
+            "value": 490
+          },
+          "published_at": "2026-11-09T17:18:59Z",
+          "relevance": 0.82
         }
       ]
     },
@@ -55,18 +69,18 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "Goblinmine/homelab-diagram",
-          "url": "https://github.com/Goblinmine/homelab-diagram",
+          "title": "JDhruv14/line-art-animation",
+          "url": "https://github.com/JDhruv14/line-art-animation",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a clear example of a beginner-friendly Python project built alongside Claude to convert data files into visual diagrams.",
-          "summary": "Homelab-diagram is a Python script that reads network descriptions written in simple YAML configuration files and turns them into visual image diagrams.",
+          "why": "It is a creative open-source project showing how to extend AI assistant capabilities with practical frontend code skills.",
+          "summary": "This open-source TypeScript project provides a custom skill for Claude that renders interactive animated line-art vector graphics on websites.",
           "signal": {
             "metric": "stars",
-            "value": 941
+            "value": 663
           },
-          "published_at": "2026-11-07T12:45:46Z",
-          "relevance": 0.78
+          "published_at": "2026-11-10T09:25:25Z",
+          "relevance": 0.84
         }
       ]
     },
@@ -75,46 +89,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Tim Peters has died",
-          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "title": "OpenAI disbands its robotics team as its general models start running robots",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "As a Python learner, it is valuable to know about Tim Peters, a fundamental developer who shaped Python core concepts.",
-          "summary": "Tim Peters, a legendary Python core developer famous for creating the Timsort sorting algorithm and writing the Zen of Python, has passed away.",
+          "why": "This signals a major strategic shift in AI development towards unified models handling physical hardware.",
+          "summary": "OpenAI has disbanded its dedicated hardware robotics team because modern general-purpose AI models are now capable of operating robotic systems directly.",
           "signal": {
             "metric": "points",
-            "value": 1397
+            "value": 143
           },
-          "published_at": "2026-11-11T07:03:17Z",
-          "relevance": 0.9
+          "published_at": "2026-11-13T17:55:23Z",
+          "relevance": 0.89
         },
         {
-          "title": "Anthropic IPO",
-          "url": "https://ipo.anthropic.com/us/",
+          "title": "AI is destroying the trust between writers and readers",
+          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Anthropic makes Claude, a core tool in modern AI development, making news of its business milestones highly relevant.",
-          "summary": "News and discussions have emerged regarding Anthropic preparing for an initial public offering to list its company on public stock markets.",
+          "why": "It covers an important ongoing debate on how generative AI tools impact content authenticity and digital media.",
+          "summary": "This discussion explores how the rapid rise of low-quality automated AI content is affecting reader trust in written material across the web.",
           "signal": {
             "metric": "points",
-            "value": 831
+            "value": 312
           },
-          "published_at": "2026-11-12T11:46:41Z",
-          "relevance": 0.87
+          "published_at": "2026-11-13T11:13:46Z",
+          "relevance": 0.78
         },
         {
-          "title": "I'm making LLMs work on small and old devices",
-          "url": "https://github.com/hyperionaidev/smolmaxxing/",
+          "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "url": "https://text.npr.org/nx-s1-6029408",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Learning how developers optimize LLMs for weaker hardware is great practical background for understanding efficient coding.",
-          "summary": "A developer shares practical techniques and experiments for getting Large Language Models to run efficiently on low-power and legacy devices.",
+          "why": "It highlights a relevant tech policy topic about how major tech platforms handle AI integration within school environments.",
+          "summary": "Developers and educators are analyzing why Google is restricting certain Search functionalities in educational institutions that enforce bans on AI tools.",
           "signal": {
             "metric": "points",
-            "value": 284
+            "value": 166
           },
-          "published_at": "2026-11-12T15:23:10Z",
-          "relevance": 0.82
+          "published_at": "2026-11-13T15:29:10Z",
+          "relevance": 0.75
+        },
+        {
+          "title": "Rust 1.100",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Following key programming language version milestones helps you track trends in modern systems software engineering.",
+          "summary": "The Rust programming language community has officially released version 1.100, marking a major version milestone for modern systems software development.",
+          "signal": {
+            "metric": "points",
+            "value": 876
+          },
+          "published_at": "2026-11-12T18:39:05Z",
+          "relevance": 0.72
         }
       ]
     },
@@ -123,73 +151,83 @@
       "title": "World",
       "items": [
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "Nvidia is the primary chipmaker powering modern AI, making this executive change major global tech news.",
-          "summary": "Nvidia CEO Jensen Huang has resigned amid personal scandal and spy allegations, throwing the world's leading AI chipmaker into turmoil.",
+          "why": "It provides key coverage on a major tech infrastructure outage impacting critical business and AI tools globally.",
+          "summary": "A widespread cloud service disruption has temporarily knocked out access to Microsoft services worldwide, including Outlook, Teams, and Copilot.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-12T23:34:05Z",
-          "relevance": 0.95
+          "published_at": "2026-11-13T18:36:57Z",
+          "relevance": 0.92
         },
         {
-          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+          "title": "FAA lifts the nationwide ground stop for all U.S. airports",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
           "source": "news",
           "source_label": "NPR News",
-          "why": "A major global outage at Microsoft impacts tech infrastructure and daily tools across the tech industry.",
-          "summary": "Microsoft suffered a widespread cloud server outage that disrupted Outlook email, Teams, and Copilot services globally.",
+          "why": "This covers essential breaking world news regarding a major national disruption to US air travel infrastructure.",
+          "summary": "The Federal Aviation Administration has lifted a temporary nationwide order that grounded all departing domestic flights due to a communication network failure.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-13T01:26:24Z",
-          "relevance": 0.88
+          "published_at": "2026-11-13T21:55:13Z",
+          "relevance": 0.91
         },
         {
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+          "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It reports on significant geopolitical news concerning major economic disruption caused by the ongoing war in Ukraine.",
+          "summary": "Ukrainian long-range military strikes have successfully disrupted over a third of Russia's domestic oil refining infrastructure.",
+          "signal": {
+            "metric": "points",
+            "value": 108
+          },
+          "published_at": "2026-11-14T01:10:22Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "This is one of today's most significant major world news updates regarding global diplomacy and peace talks.",
-          "summary": "Ukrainian President Volodymyr Zelensky expressed support for involving European leaders alongside the US in peace negotiations with Russia.",
+          "why": "It tracks ongoing international trade news focused on the supply chain of chips powering modern artificial intelligence.",
+          "summary": "US government officials are in public dispute regarding export policy oversight after advanced Nvidia AI microchips reportedly reached restricted foreign entities.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-13T02:01:35Z",
-          "relevance": 0.85
+          "published_at": "2026-11-13T19:53:57Z",
+          "relevance": 0.8
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 101,
-    "kept": 10,
+    "scanned": 98,
+    "kept": 13,
     "levels": [
       {
-        "v": 0.85,
+        "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.25,
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -204,8 +242,36 @@
         "kept": true
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.78,
@@ -220,7 +286,27 @@
         "kept": false
       },
       {
-        "v": 0.88,
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.89,
+        "kept": true
+      },
+      {
+        "v": 0.83,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.92,
         "kept": true
       },
       {
@@ -232,15 +318,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.8,
         "kept": true
       },
       {
@@ -252,47 +330,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.95,
-        "kept": true
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.88,
+        "v": 0.91,
         "kept": true
       },
       {
@@ -316,7 +354,11 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -344,7 +386,7 @@
         "kept": false
       },
       {
-        "v": 0.87,
+        "v": 0.72,
         "kept": true
       },
       {
@@ -360,8 +402,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.0,
