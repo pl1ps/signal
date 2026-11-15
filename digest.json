@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:24:01.571366Z",
+  "generated_at": "2026-11-15T01:52:38.430495Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,56 +11,56 @@
           "url": "https://github.com/alexeyw/lot-map",
           "source": "github",
           "source_label": "GitHub",
-          "why": "If you are exploring modern AI coding agents, this visualizer helps you learn how models break down and execute tasks behind the scenes.",
-          "summary": "Lot Map is a visual developer tool that runs locally alongside your chat to show real-time maps of Claude Code tool calls, skills, and subagents.",
+          "why": "Helps you visually understand how complex AI coding assistants execute tools and subagents.",
+          "summary": "A local map interface that displays real-time actions and tool calls made by Claude Code during execution.",
           "signal": {
             "metric": "stars",
-            "value": 738
+            "value": 835
           },
           "published_at": "2026-11-09T19:13:52Z",
-          "relevance": 0.9
+          "relevance": 0.88
         },
         {
           "title": "agentes-chat/agentes-chat",
           "url": "https://github.com/agentes-chat/agentes-chat",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical open-source project showing how team collaboration apps can integrate AI agents into everyday workflow channels.",
-          "summary": "Agentes-chat is an open-source, self-hosted Slack alternative where AI agents run on models like Claude and ChatGPT to work alongside human team members.",
+          "why": "An active open-source example of building collaborative workspaces with AI agents.",
+          "summary": "An open-source team chat platform where human team members and AI agents work together in channels.",
           "signal": {
             "metric": "stars",
-            "value": 1345
+            "value": 1405
           },
           "published_at": "2026-11-09T00:50:28Z",
-          "relevance": 0.88
+          "relevance": 0.85
         },
         {
           "title": "FrigadeHQ/yogurt",
           "url": "https://github.com/FrigadeHQ/yogurt",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a privacy-focused open-source AI utility that runs locally on your machine without relying on subscription services.",
-          "summary": "Yogurt is a free and open-source desktop app that transcribes meeting audio and takes structured notes locally on your computer.",
+          "why": "A practical local privacy tool that shows how open-source software can replace paid AI products.",
+          "summary": "A private, open-source desktop app that generates meeting notes locally on your computer.",
           "signal": {
             "metric": "stars",
-            "value": 1287
+            "value": 1497
           },
           "published_at": "2026-11-10T20:01:01Z",
-          "relevance": 0.85
+          "relevance": 0.8
         },
         {
-          "title": "Dodaios/ste80-humanizer",
-          "url": "https://github.com/Dodaios/ste80-humanizer",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "This tool gives you an actionable AI agent skill for polishing AI-generated writing to sound clearer and more natural.",
-          "summary": "STE80 Humanizer is an agent skill that rewrites text to remove robotic AI patterns using Simplified Technical English principles.",
+          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Demonstrates how software design changes when building interfaces for AI agents instead of human users.",
+          "summary": "An open-source, minimalist web browser designed specifically to let AI agents navigate web pages efficiently.",
           "signal": {
-            "metric": "stars",
-            "value": 490
+            "metric": "points",
+            "value": 87
           },
-          "published_at": "2026-11-09T17:18:59Z",
-          "relevance": 0.82
+          "published_at": "2026-11-14T14:08:12Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -69,18 +69,18 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "JDhruv14/line-art-animation",
-          "url": "https://github.com/JDhruv14/line-art-animation",
+          "title": "adriadam10/mkw-recomp",
+          "url": "https://github.com/adriadam10/mkw-recomp",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a creative open-source project showing how to extend AI assistant capabilities with practical frontend code skills.",
-          "summary": "This open-source TypeScript project provides a custom skill for Claude that renders interactive animated line-art vector graphics on websites.",
+          "why": "An impressive low-level engineering project showing how modern games can be recompiled for PC.",
+          "summary": "An open-source project that statically recompiles Nintendo Switch 2 game binaries into native PC applications.",
           "signal": {
             "metric": "stars",
-            "value": 663
+            "value": 933
           },
-          "published_at": "2026-11-10T09:25:25Z",
-          "relevance": 0.84
+          "published_at": "2026-11-09T15:40:06Z",
+          "relevance": 0.8
         }
       ]
     },
@@ -89,60 +89,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "OpenAI disbands its robotics team as its general models start running robots",
-          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "This signals a major strategic shift in AI development towards unified models handling physical hardware.",
-          "summary": "OpenAI has disbanded its dedicated hardware robotics team because modern general-purpose AI models are now capable of operating robotic systems directly.",
+          "why": "Highlights essential security considerations when deploying applications built with low-code AI tools.",
+          "summary": "A security vulnerability in apps built with the Lovable platform led to publicly exposed user messages and passport details.",
           "signal": {
             "metric": "points",
-            "value": 143
+            "value": 647
           },
-          "published_at": "2026-11-13T17:55:23Z",
-          "relevance": 0.89
+          "published_at": "2026-11-14T17:43:10Z",
+          "relevance": 0.82
         },
         {
-          "title": "AI is destroying the trust between writers and readers",
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+          "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It covers an important ongoing debate on how generative AI tools impact content authenticity and digital media.",
-          "summary": "This discussion explores how the rapid rise of low-quality automated AI content is affecting reader trust in written material across the web.",
+          "why": "Offers a practical perspective on why AI coding assistants haven't automatically eliminated software bugs.",
+          "summary": "Game developer Jonathan Blow discusses why the rise of AI tools hasn't yet led to noticeably higher software quality.",
           "signal": {
             "metric": "points",
-            "value": 312
+            "value": 460
           },
-          "published_at": "2026-11-13T11:13:46Z",
+          "published_at": "2026-11-13T15:08:44Z",
           "relevance": 0.78
         },
         {
-          "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-          "url": "https://text.npr.org/nx-s1-6029408",
+          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It highlights a relevant tech policy topic about how major tech platforms handle AI integration within school environments.",
-          "summary": "Developers and educators are analyzing why Google is restricting certain Search functionalities in educational institutions that enforce bans on AI tools.",
+          "why": "Provides insight into how AI hardware economics and supply chains shape the tech industry.",
+          "summary": "Reports claim Nvidia funded AI startups on the condition that the capital be used to purchase Nvidia GPUs.",
           "signal": {
             "metric": "points",
-            "value": 166
+            "value": 1036
           },
-          "published_at": "2026-11-13T15:29:10Z",
+          "published_at": "2026-11-14T02:52:59Z",
           "relevance": 0.75
         },
         {
-          "title": "Rust 1.100",
-          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "title": "Generative AI uses more energy on non-English text",
+          "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Following key programming language version milestones helps you track trends in modern systems software engineering.",
-          "summary": "The Rust programming language community has officially released version 1.100, marking a major version milestone for modern systems software development.",
+          "why": "Explains how LLM tokenization design choices directly impact computational cost and energy efficiency.",
+          "summary": "Research shows AI models consume significantly more energy when processing non-English text due to how text is tokenized.",
           "signal": {
             "metric": "points",
-            "value": 876
+            "value": 178
           },
-          "published_at": "2026-11-12T18:39:05Z",
-          "relevance": 0.72
+          "published_at": "2026-11-10T15:07:28Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -151,71 +151,197 @@
       "title": "World",
       "items": [
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It provides key coverage on a major tech infrastructure outage impacting critical business and AI tools globally.",
-          "summary": "A widespread cloud service disruption has temporarily knocked out access to Microsoft services worldwide, including Outlook, Teams, and Copilot.",
+          "why": "Keeps you informed on major international diplomatic discussions regarding the war in Ukraine.",
+          "summary": "Ukrainian President Zelensky stated that US officials floated a proposal to trade territory in Donbas for NATO membership.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-13T18:36:57Z",
-          "relevance": 0.92
+          "published_at": "2026-11-14T22:37:25Z",
+          "relevance": 0.85
         },
         {
-          "title": "FAA lifts the nationwide ground stop for all U.S. airports",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+          "title": "SpaceX’s Starship nails a smooth return with historic catch",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "Covers a landmark engineering milestone in space technology and reusable rocketry.",
+          "summary": "SpaceX completed a test flight of its Starship rocket, successfully catching the returning booster mid-air with mechanical arms.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-15T01:22:01Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
           "source": "news",
           "source_label": "NPR News",
-          "why": "This covers essential breaking world news regarding a major national disruption to US air travel infrastructure.",
-          "summary": "The Federal Aviation Administration has lifted a temporary nationwide order that grounded all departing domestic flights due to a communication network failure.",
+          "why": "Illustrates the widespread real-world consequences when critical software infrastructure upgrades fail.",
+          "summary": "A nationwide outage of US flight management systems was caused by a contractor's equipment issue during a network upgrade.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-13T21:55:13Z",
-          "relevance": 0.91
-        },
-        {
-          "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-          "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It reports on significant geopolitical news concerning major economic disruption caused by the ongoing war in Ukraine.",
-          "summary": "Ukrainian long-range military strikes have successfully disrupted over a third of Russia's domestic oil refining infrastructure.",
-          "signal": {
-            "metric": "points",
-            "value": 108
-          },
-          "published_at": "2026-11-14T01:10:22Z",
-          "relevance": 0.83
-        },
-        {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It tracks ongoing international trade news focused on the supply chain of chips powering modern artificial intelligence.",
-          "summary": "US government officials are in public dispute regarding export policy oversight after advanced Nvidia AI microchips reportedly reached restricted foreign entities.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-13T19:53:57Z",
-          "relevance": 0.8
+          "published_at": "2026-11-14T16:53:04Z",
+          "relevance": 0.82
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 98,
-    "kept": 13,
+    "scanned": 105,
+    "kept": 12,
     "levels": [
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
       {
         "v": 0.88,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.75,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.82,
@@ -238,176 +364,36 @@
         "kept": false
       },
       {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.89,
-        "kept": true
-      },
-      {
-        "v": 0.83,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.92,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
         "v": 0.8,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.91,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.72,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
       },
       {
         "v": 0.0,
