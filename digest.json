@@ -1,481 +1,210 @@
 {
-  "generated_at": "2026-11-16T02:01:08.215276Z",
+  "generated_at": "2026-11-17T04:28:29.193224Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "hitkeeen/blender-ai-mcp-addon",
-          "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1270
-          },
-          "published_at": "2026-11-12T14:32:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "duwqijlk/muse-protocol",
-          "url": "https://github.com/duwqijlk/muse-protocol",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1049
-          },
-          "published_at": "2026-11-14T01:24:58Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "credoksopho1984/blender-ai-copilot-studio",
-          "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 513
-          },
-          "published_at": "2026-11-12T19:30:32Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "racdeufindurch198812/Blender-AI-MCP-Studio",
-          "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 511
-          },
-          "published_at": "2026-11-12T19:28:20Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "precygtrucqui1981/blender-ai-copilot-lab",
-          "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 506
-          },
-          "published_at": "2026-11-12T19:33:16Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "findavoulot1973/Blender-AI-MCP-Suite",
-          "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 497
-          },
-          "published_at": "2026-11-12T19:26:22Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 1093
-          },
-          "published_at": "2026-11-15T14:46:58Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Lovable apps expose passport details and more than 200K private messages",
-          "url": "https://www.crissyfield.de/research/lovable-en/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 974
-          },
-          "published_at": "2026-11-14T17:43:10Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 462
-          },
-          "published_at": "2026-11-15T11:40:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 205
-          },
-          "published_at": "2026-11-15T12:14:06Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "A short explainer on how El Niño works [video]",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 176
-          },
-          "published_at": "2026-11-15T18:23:21Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 171
-          },
-          "published_at": "2026-11-15T17:53:31Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-15T19:32:39Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-16T01:47:57Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-15T13:37:45Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-          "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-15T22:57:27Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Czechs rally against plan to switch funding of public media",
-          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-15T21:03:40Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Flight disruptions expected to last into Monday",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-16T01:19:28Z",
-          "relevance": 0.0
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 97,
-    "kept": 18,
+    "scanned": 100,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +216,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
