@@ -1,210 +1,481 @@
 {
-  "generated_at": "2026-11-17T04:28:29.193224Z",
+  "generated_at": "2026-11-18T03:42:24.913526Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "huggingface/pybot",
+          "url": "https://github.com/huggingface/pybot",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 700
+          },
+          "published_at": "2026-11-12T11:35:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "duwqijlk/muse-protocol",
+          "url": "https://github.com/duwqijlk/muse-protocol",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1599
+          },
+          "published_at": "2026-11-14T01:24:58Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "erkamyaman/rust-anything",
+          "url": "https://github.com/erkamyaman/rust-anything",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 1581
+          },
+          "published_at": "2026-11-16T12:10:36Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "sybil-solutions/inference-optimisation-skill",
+          "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 948
+          },
+          "published_at": "2026-11-16T18:40:04Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "boringmarketer/boring-marketing-skills",
+          "url": "https://github.com/boringmarketer/boring-marketing-skills",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 547
+          },
+          "published_at": "2026-11-16T15:09:46Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "berkantay/gpucanvas",
+          "url": "https://github.com/berkantay/gpucanvas",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "stars",
+            "value": 518
+          },
+          "published_at": "2026-11-12T23:19:42Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 81
+          },
+          "published_at": "2026-11-17T21:16:12Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+          "url": "https://starsling.dev",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 60
+          },
+          "published_at": "2026-11-17T19:01:43Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "MAI Code 2 and Code 2 Flash",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 308
+          },
+          "published_at": "2026-11-17T18:25:13Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 151
+          },
+          "published_at": "2026-11-18T00:17:58Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Not Everything Needs an LLM",
+          "url": "https://newsletter.posthog.com/p/decision-models",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 113
+          },
+          "published_at": "2026-11-17T18:16:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+          "url": "https://github.com/ZigaoWang/zigzag",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "points",
+            "value": 112
+          },
+          "published_at": "2026-11-14T13:17:10Z",
+          "relevance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-17T21:24:35Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "How the attack on Crimean Bridge unfolded",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-17T15:38:10Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-18T01:18:18Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-17T17:19:57Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-17T18:20:36Z",
+          "relevance": 0.0
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "source": "news",
+          "source_label": "NPR News",
+          "why": "",
+          "summary": "",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-17T18:34:31Z",
+          "relevance": 0.0
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 100,
-    "kept": 0,
+    "scanned": 103,
+    "kept": 18,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       },
       {
-        "v": 0.0,
-        "kept": false
+        "v": 0.55,
+        "kept": true
       }
     ]
   },
@@ -216,6 +487,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": true
+    "ai_used": false
   }
 }
