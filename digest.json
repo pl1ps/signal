@@ -1,481 +1,210 @@
 {
-  "generated_at": "2026-11-19T03:22:40.629381Z",
+  "generated_at": "2026-11-20T03:08:39.258178Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "erkamyaman/rust-anything",
-          "url": "https://github.com/erkamyaman/rust-anything",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 3517
-          },
-          "published_at": "2026-11-16T12:10:36Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "duwqijlk/muse-protocol",
-          "url": "https://github.com/duwqijlk/muse-protocol",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1628
-          },
-          "published_at": "2026-11-14T01:24:58Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "sybil-solutions/inference-optimisation-skill",
-          "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1129
-          },
-          "published_at": "2026-11-16T18:40:04Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "boringmarketer/boring-marketing-skills",
-          "url": "https://github.com/boringmarketer/boring-marketing-skills",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 671
-          },
-          "published_at": "2026-11-16T15:09:46Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 4065
-          },
-          "published_at": "2026-11-16T19:28:29Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "CzzzzzzJ/mdldm-maitian",
-          "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "stars",
-            "value": 1358
-          },
-          "published_at": "2026-11-14T03:59:22Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "AI agents ask better questions than KPMG accountants in audit trial",
-          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 381
-          },
-          "published_at": "2026-11-18T15:49:34Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Genie 4 is now available",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 202
-          },
-          "published_at": "2026-11-18T18:49:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Advancing chip design with OpenAI models",
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 168
-          },
-          "published_at": "2026-11-18T17:45:47Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-          "url": "https://rshekhar.com/voyager/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 163
-          },
-          "published_at": "2026-11-18T16:18:51Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "DaisyRose-27B",
-          "url": "https://www.radixark.com/blog/daisyrose-27b",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 151
-          },
-          "published_at": "2026-11-18T19:39:16Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "LLM assisted reverse engineering",
-          "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "points",
-            "value": 88
-          },
-          "published_at": "2026-11-18T22:29:13Z",
-          "relevance": 0.0
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-          "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-18T17:00:40Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-          "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-18T17:00:04Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-19T02:20:15Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-19T00:49:19Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Crimean Bridge attacked again, Russian official says",
-          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-19T01:05:03Z",
-          "relevance": 0.0
-        },
-        {
-          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "",
-          "summary": "",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-19T02:59:06Z",
-          "relevance": 0.0
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 96,
-    "kept": 18,
+    "scanned": 103,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.25,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
-        "v": 0.55,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
@@ -487,6 +216,6 @@
       "news"
     ],
     "sources_failed": [],
-    "ai_used": false
+    "ai_used": true
   }
 }
