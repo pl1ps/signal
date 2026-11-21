@@ -1,14 +1,189 @@
 {
-  "generated_at": "2026-11-20T03:08:39.258178Z",
+  "generated_at": "2026-11-21T03:12:16.895411Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "Show HN: OpenComputer – an open source alternative to Devin",
+          "url": "https://github.com/diggerhq/opencomputer",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "AI coding agents are heavily reshaping software engineering, and this project lets you study how an open-source coding agent is built.",
+          "summary": "An open-source alternative to Devin that acts as an autonomous cloud-based software engineer capable of writing code and running inside a team's private cloud infrastructure.",
+          "signal": {
+            "metric": "points",
+            "value": 72
+          },
+          "published_at": "2026-11-20T20:19:56Z",
+          "relevance": 0.92
+        },
+        {
+          "title": "iamajmeena/neonclipping",
+          "url": "https://github.com/iamajmeena/neonclipping",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a great example of a practical, local AI tool built with Python that solves a real-world video processing problem without relying on paid APIs.",
+          "summary": "A free, locally run open-source application that extracts speech from long YouTube videos and automatically generates vertical 9:16 short-form video clips with captions in under two minutes.",
+          "signal": {
+            "metric": "stars",
+            "value": 1264
+          },
+          "published_at": "2026-11-19T10:00:43Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows a practical application of AI agents interacting with complex software through the new Model Context Protocol (MCP) standard.",
+          "summary": "An open-source add-on for Blender that embeds an AI copilot into the 3D creation software via Model Context Protocol (MCP). It lets users use conversational prompts to generate, edit, and control 3D scenes using models like ChatGPT, Claude, and local LLMs via Ollama.",
+          "signal": {
+            "metric": "stars",
+            "value": 1806
+          },
+          "published_at": "2026-11-19T14:43:10Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It shows a practical application of AI agents interacting with complex software through the new Model Context Protocol (MCP) standard.",
+          "summary": "An open-source add-on for Blender that embeds an AI copilot into the 3D creation software via Model Context Protocol (MCP). It lets users use conversational prompts to generate, edit, and control 3D scenes using models like ChatGPT, Claude, and local LLMs via Ollama.",
+          "signal": {
+            "metric": "stars",
+            "value": 1806
+          },
+          "published_at": "2026-11-19T14:43:10Z",
+          "relevance": 0.85
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+          "url": "https://kobi.music/research/dettato",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It highlights an open-source machine learning project focused on extreme efficiency without relying on copyrighted training data.",
+          "summary": "An open-weight machine learning model named Dettato that converts raw audio recordings into digital MIDI music files while requiring 60 times fewer computational resources than existing models.",
+          "signal": {
+            "metric": "points",
+            "value": 247
+          },
+          "published_at": "2026-11-17T01:03:05Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "erkamyaman/rust-anything",
+          "url": "https://github.com/erkamyaman/rust-anything",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It offers an interesting look at how developers safely migrate legacy codebases in languages like Python to systems languages like Rust.",
+          "summary": "A command-line tool designed to help developers incrementally rewrite existing software applications into Rust. It monitors and compares the outputs of the new Rust code against the original implementation to ensure functionality matches perfectly.",
+          "signal": {
+            "metric": "stars",
+            "value": 6736
+          },
+          "published_at": "2026-11-16T12:10:36Z",
+          "relevance": 0.72
+        }
+      ]
+    },
+    {
+      "id": "learn-career",
+      "title": "Learn & Career",
+      "items": [
+        {
+          "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+          "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Developing this mindset will greatly help you break down difficult computer science and programming concepts as a beginner.",
+          "summary": "A discussion centered on the famous Feynman technique, which posits that true mastery of a concept—including programming and computer science topics—is demonstrated by the ability to explain it in plain, simple language.",
+          "signal": {
+            "metric": "points",
+            "value": 633
+          },
+          "published_at": "2026-11-20T09:43:19Z",
+          "relevance": 0.95
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "AI is giving everyone the same advice",
+          "url": "https://a90.com/experiments/same-advice/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "As a student using AI tools, understanding their limitations and tendency toward generic advice will help you use them more critically.",
+          "summary": "An analysis discussing how widespread reliance on standard AI prompts leads to repetitive, homogenized suggestions across career planning, coding, and decision-making.",
+          "signal": {
+            "metric": "points",
+            "value": 62
+          },
+          "published_at": "2026-11-20T16:58:05Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It gives you insight into how AI is moving beyond writing software code to designing fundamental hardware architectures.",
+          "summary": "A breakthrough report detailing how AI models were used to discover, design, and formally verify a completely new computer processor architecture named Frostbite.",
+          "signal": {
+            "metric": "points",
+            "value": 631
+          },
+          "published_at": "2026-11-20T10:01:41Z",
+          "relevance": 0.78
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "This major news story highlights how geopolitics and policy are directly shaping the global infrastructure behind AI technology.",
+          "summary": "US President Trump signaled potential policy measures to ban American technology companies from constructing artificial intelligence data centers in foreign nations.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-20T20:54:12Z",
+          "relevance": 0.82
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 103,
-    "kept": 0,
+    "scanned": 101,
+    "kept": 10,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.72,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -23,8 +198,28 @@
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.95,
+        "kept": true
+      },
+      {
+        "v": 0.78,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -83,6 +278,62 @@
         "kept": false
       },
       {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.92,
+        "kept": true
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -116,86 +367,6 @@
       },
       {
         "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
         "kept": false
       },
       {
