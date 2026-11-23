@@ -1,255 +1,22 @@
 {
-  "generated_at": "2026-11-22T02:12:45.452165Z",
+  "generated_at": "2026-11-23T02:42:20.449196Z",
   "generator_version": 1,
-  "sections": [
-    {
-      "id": "ai-tools",
-      "title": "AI & Tools",
-      "items": [
-        {
-          "title": "iamajmeena/neonclipping",
-          "url": "https://github.com/iamajmeena/neonclipping",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It shows how local LLMs can be used to build useful real-world automation tools for video content.",
-          "summary": "Neonclipping is a free, local tool that automatically turns YouTube videos into short, captioned vertical video clips using AI.",
-          "signal": {
-            "metric": "stars",
-            "value": 1745
-          },
-          "published_at": "2026-11-19T10:00:43Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-          "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an accessible open-source project showing how to integrate LLMs into complex 3D software like Blender.",
-          "summary": "This Blender add-on lets creators control 3D modeling workflows using AI chat tools like ChatGPT and Claude.",
-          "signal": {
-            "metric": "stars",
-            "value": 2484
-          },
-          "published_at": "2026-11-19T14:43:10Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "ClawDOS – An AI coding agent for DOS",
-          "url": "http://ricapar.net/ClawDOS/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a creative open-source demonstration of building an AI coding assistant for retro operating systems.",
-          "summary": "ClawDOS is an experimental coding agent designed to run inside classic MS-DOS environments.",
-          "signal": {
-            "metric": "points",
-            "value": 159
-          },
-          "published_at": "2026-11-21T05:38:01Z",
-          "relevance": 0.72
-        }
-      ]
-    },
-    {
-      "id": "code-projects",
-      "title": "Code & Projects",
-      "items": [
-        {
-          "title": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-          "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical open-source toolkit for exploring machine vision and face detection in Python.",
-          "summary": "An all-in-one open-source computer vision repository providing tools for face detection, matching, and liveness testing.",
-          "signal": {
-            "metric": "stars",
-            "value": 536
-          },
-          "published_at": "2026-11-19T10:40:46Z",
-          "relevance": 0.77
-        },
-        {
-          "title": "Lemxy/WinRust",
-          "url": "https://github.com/Lemxy/WinRust",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is an impressive open-source system programming project written in Rust that shows how desktop software is built.",
-          "summary": "WinRust is a complete custom Windows taskbar, file explorer, and desktop environment written entirely in Rust.",
-          "signal": {
-            "metric": "stars",
-            "value": 968
-          },
-          "published_at": "2026-11-17T14:27:06Z",
-          "relevance": 0.74
-        },
-        {
-          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights how major government organizations are adopting open-source code practices.",
-          "summary": "The Brazilian tax authority published its core tax calculation engine on GitHub under a permissive open-source license.",
-          "signal": {
-            "metric": "points",
-            "value": 761
-          },
-          "published_at": "2026-11-17T15:22:57Z",
-          "relevance": 0.71
-        },
-        {
-          "title": "Show HN: An ASCII cell aquarium for your terminal",
-          "url": "https://github.com/kborer/cells/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It is a fun terminal project that serves as great inspiration for early programming projects.",
-          "summary": "An open-source command-line tool that renders an interactive ASCII aquarium with swimming cells and bacteria inside your terminal.",
-          "signal": {
-            "metric": "points",
-            "value": 52
-          },
-          "published_at": "2026-11-18T02:18:29Z",
-          "relevance": 0.7
-        }
-      ]
-    },
-    {
-      "id": "learn-career",
-      "title": "Learn & Career",
-      "items": [
-        {
-          "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-          "url": "https://news.ycombinator.com/item?id=50583761",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It offers valuable perspective on current tech hiring trends and real-world advice for navigating the job market.",
-          "summary": "A community discussion offering insights and career advice for software developers facing extended periods of job searching.",
-          "signal": {
-            "metric": "points",
-            "value": 620
-          },
-          "published_at": "2026-11-20T23:18:32Z",
-          "relevance": 0.9
-        },
-        {
-          "title": "We promoted developers into architects without informing them",
-          "url": "https://manidoraisamy.com/developer-to-architect.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It helps you understand technical career paths and the difference between developer and software architect roles.",
-          "summary": "A practical career discussion exploring how software engineering management handles promotions and technical leadership roles.",
-          "signal": {
-            "metric": "points",
-            "value": 583
-          },
-          "published_at": "2026-11-20T18:17:51Z",
-          "relevance": 0.82
-        }
-      ]
-    },
-    {
-      "id": "tech-discussion",
-      "title": "Tech Discussion",
-      "items": [
-        {
-          "title": "Google employees protest AI in schools policy",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It covers an important ongoing debate about the role and ethics of AI in educational settings.",
-          "summary": "Hundreds of Google employees signed a petition asking the company to let schools use standard web search without forced AI features.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-21T22:01:40Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It provides context on current financial markets and investor sentiment surrounding major AI companies.",
-          "summary": "Tech stock indexes dropped sharply as investors pulled back from AI-related stocks following recent company updates.",
-          "signal": {
-            "metric": "points",
-            "value": 497
-          },
-          "published_at": "2026-11-20T13:29:59Z",
-          "relevance": 0.78
-        },
-        {
-          "title": "LLMs can read and write executables byte by byte from a hex dump",
-          "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It gives you insight into the unexpected capabilities of LLMs when interacting directly with low-level binary code.",
-          "summary": "Developers discovered that modern AI models can interpret and modify raw machine executable code formatted as hexadecimal text.",
-          "signal": {
-            "metric": "points",
-            "value": 193
-          },
-          "published_at": "2026-11-18T14:15:58Z",
-          "relevance": 0.76
-        }
-      ]
-    },
-    {
-      "id": "world",
-      "title": "World",
-      "items": [
-        {
-          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "This is a major geopolitical breaking news event involving international conflict.",
-          "summary": "Iran launched targeted strikes against U.S. military bases located in Bahrain, escalating regional tensions in the Middle East.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-21T23:59:03Z",
-          "relevance": 0.88
-        },
-        {
-          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "This represents a major global medical breakthrough that is dominating science and world news today.",
-          "summary": "Researchers have announced a promising new oral pill treatment for pancreatic cancer, widely regarded as a huge medical step forward.",
-          "signal": {
-            "metric": "points",
-            "value": 641
-          },
-          "published_at": "2026-11-20T21:03:12Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "source": "news",
-          "source_label": "NPR News",
-          "why": "It touches on the global policy debate surrounding military applications of artificial intelligence.",
-          "summary": "United Nations discussions failed to reach an international treaty governing the use of autonomous AI-powered weapons.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-21T14:18:17Z",
-          "relevance": 0.8
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "readout": {
-    "scanned": 105,
-    "kept": 15,
+    "scanned": 102,
+    "kept": 0,
     "levels": [
       {
-        "v": 0.78,
-        "kept": true
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
+      },
+      {
+        "v": 0.25,
+        "kept": false
       },
       {
         "v": 0.25,
@@ -264,36 +31,12 @@
         "kept": false
       },
       {
-        "v": 0.72,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
       },
       {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.78,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -308,20 +51,8 @@
         "kept": false
       },
       {
-        "v": 0.76,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.7,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -348,16 +79,28 @@
         "kept": false
       },
       {
-        "v": 0.84,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.8,
-        "kept": true
+        "v": 0.143,
+        "kept": false
       },
       {
-        "v": 0.88,
-        "kept": true
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
       },
       {
         "v": 0.143,
@@ -392,8 +135,20 @@
         "kept": false
       },
       {
-        "v": 0.74,
-        "kept": true
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
@@ -412,8 +167,12 @@
         "kept": false
       },
       {
-        "v": 0.71,
-        "kept": true
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
@@ -424,24 +183,24 @@
         "kept": false
       },
       {
-        "v": 0.9,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.82,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.77,
-        "kept": true
+        "v": 0.0,
+        "kept": false
       },
       {
         "v": 0.0,
