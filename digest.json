@@ -1,14 +1,193 @@
 {
-  "generated_at": "2026-11-23T02:42:20.449196Z",
+  "generated_at": "2026-11-24T05:59:32.086810Z",
   "generator_version": 1,
-  "sections": [],
+  "sections": [
+    {
+      "id": "ai-tools",
+      "title": "AI & Tools",
+      "items": [
+        {
+          "title": "w01fb0ss/PiBot",
+          "url": "https://github.com/w01fb0ss/PiBot",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is an approachable open-source project showing how to run local AI agents that automate computer tasks.",
+          "summary": "PiBot is a desktop application for Windows, Mac, and Linux that lets teams of AI agents automate tasks, browse the web, and execute desktop routines locally.",
+          "signal": {
+            "metric": "stars",
+            "value": 515
+          },
+          "published_at": "2026-11-21T06:54:24Z",
+          "relevance": 0.88
+        },
+        {
+          "title": "sybil-solutions/skill-distill",
+          "url": "https://github.com/sybil-solutions/skill-distill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It offers a practical way to capture expert coding agent workflows and apply them to open-source models.",
+          "summary": "Skill-distill is an open-source utility that analyzes successful coding sessions from advanced AI assistants like Claude Code and turns them into repeatable prompts for open-source models.",
+          "signal": {
+            "metric": "stars",
+            "value": 531
+          },
+          "published_at": "2026-11-21T01:43:00Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "EL4CTEO/fast-anything",
+          "url": "https://github.com/EL4CTEO/fast-anything",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It demonstrates how you can practicaly use AI coding agents to optimize slow Python code using Rust.",
+          "summary": "This open-source tool profiles your Python, Node, or Ruby application to find performance bottlenecks and uses an AI agent to rewrite just those slow sections in Rust.",
+          "signal": {
+            "metric": "stars",
+            "value": 3269
+          },
+          "published_at": "2026-11-21T14:40:27Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "iamajmeena/neonclipping",
+          "url": "https://github.com/iamajmeena/neonclipping",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a practical open-source project demonstrating local LLM integration for video processing.",
+          "summary": "Neonclipping is a free open-source tool that converts video links into captioned vertical short clips using local speech recognition and local language models.",
+          "signal": {
+            "metric": "stars",
+            "value": 2330
+          },
+          "published_at": "2026-11-19T10:00:43Z",
+          "relevance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "code-projects",
+      "title": "Code & Projects",
+      "items": [
+        {
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It is a milestone update on one of the most prominent independent open-source software projects.",
+          "summary": "Ladybird, an open-source web browser built entirely from scratch without relying on Chromium or WebKit, has officially reached its alpha milestone.",
+          "signal": {
+            "metric": "points",
+            "value": 1652
+          },
+          "published_at": "2026-11-23T16:13:12Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "lukendeasy/open-diagram",
+          "url": "https://github.com/lukendeasy/open-diagram",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a helpful Python library for CS students learning to diagram system architectures.",
+          "summary": "Open-diagram provides Python building blocks to programmatically generate clean software architecture diagrams that automatically validate their own visual layout.",
+          "signal": {
+            "metric": "stars",
+            "value": 365
+          },
+          "published_at": "2026-11-18T17:34:59Z",
+          "relevance": 0.75
+        }
+      ]
+    },
+    {
+      "id": "tech-discussion",
+      "title": "Tech Discussion",
+      "items": [
+        {
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It reports on executive leadership changes at Nvidia, the leading chip maker driving the AI industry.",
+          "summary": "Nvidia's board of directors has officially reinstated Jensen Huang as President and CEO following recent corporate governance developments.",
+          "signal": {
+            "metric": "points",
+            "value": 2383
+          },
+          "published_at": "2026-11-23T14:00:18Z",
+          "relevance": 0.9
+        },
+        {
+          "title": "How should an LLM see a computer?",
+          "url": "https://www.greptile.com/blog/trex-computer-use",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It explores a core design question behind modern computer-using AI agents.",
+          "summary": "This article discusses the technical trade-offs between giving LLMs direct visual screenshots versus structured interface data when building AI computer agents.",
+          "signal": {
+            "metric": "points",
+            "value": 50
+          },
+          "published_at": "2026-11-23T17:19:25Z",
+          "relevance": 0.82
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "items": [
+        {
+          "title": "UN chief calls for world to agree on AI oversight within a year",
+          "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It is a major international policy news item regarding global artificial intelligence governance.",
+          "summary": "UN Secretary-General Antonio Guterres has urged member nations to reach an international consensus on governing and overseeing AI technologies within the next year.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-24T02:27:19Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It highlights a major geopolitical development expanding the geographical scope of the war in Ukraine.",
+          "summary": "Ukrainian forces reportedly sank a Russian naval ship docked in Libya using maritime drones, marking a significant strategic expansion of the conflict beyond the Black Sea.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-23T20:48:35Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It covers a significant global security story regarding potential nuclear weapons in space.",
+          "summary": "NATO leadership has warned of responses against space threats following intelligence reports that Russia plans to launch a satellite equipped with a nuclear warhead.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-24T02:15:59Z",
+          "relevance": 0.78
+        }
+      ]
+    }
+  ],
   "readout": {
-    "scanned": 102,
-    "kept": 0,
+    "scanned": 95,
+    "kept": 11,
     "levels": [
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.85,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -19,8 +198,8 @@
         "kept": false
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.88,
+        "kept": true
       },
       {
         "v": 0.25,
@@ -31,8 +210,8 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -59,8 +238,44 @@
         "kept": false
       },
       {
+        "v": 0.75,
+        "kept": true
+      },
+      {
         "v": 0.143,
         "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.8,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -87,36 +302,32 @@
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.9,
+        "kept": true
+      },
+      {
+        "v": 0.0,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
+        "v": 0.84,
+        "kept": true
       },
       {
         "v": 0.0,
@@ -171,40 +382,8 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
+        "v": 0.86,
+        "kept": true
       }
     ]
   },
