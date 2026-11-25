@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:59:32.086810Z",
+  "generated_at": "2026-11-25T04:53:12.218647Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,17 +7,17 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "w01fb0ss/PiBot",
-          "url": "https://github.com/w01fb0ss/PiBot",
+          "title": "EL4CTEO/fast-anything",
+          "url": "https://github.com/EL4CTEO/fast-anything",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is an approachable open-source project showing how to run local AI agents that automate computer tasks.",
-          "summary": "PiBot is a desktop application for Windows, Mac, and Linux that lets teams of AI agents automate tasks, browse the web, and execute desktop routines locally.",
+          "why": "It provides a practical workflow using AI coding agents to find and speed up slow bottlenecks in your Python applications.",
+          "summary": "Fast-anything is a profiling tool that uses AI coding assistants to rewrite only the slowest 5% of your code. Instead of rewriting an entire project in a language like Rust, it targets just the performance bottlenecks.",
           "signal": {
             "metric": "stars",
-            "value": 515
+            "value": 3676
           },
-          "published_at": "2026-11-21T06:54:24Z",
+          "published_at": "2026-11-21T14:40:27Z",
           "relevance": 0.88
         },
         {
@@ -25,41 +25,55 @@
           "url": "https://github.com/sybil-solutions/skill-distill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers a practical way to capture expert coding agent workflows and apply them to open-source models.",
-          "summary": "Skill-distill is an open-source utility that analyzes successful coding sessions from advanced AI assistants like Claude Code and turns them into repeatable prompts for open-source models.",
+          "why": "It provides a practical open-source tool for translating advanced AI coding workflows to local models.",
+          "summary": "Skill-distill is an open-source project that extracts useful skills from Claude Code or Codex sessions into reusable prompts. This lets open-weight AI models replicate complex developer tasks.",
           "signal": {
             "metric": "stars",
-            "value": 531
+            "value": 739
           },
           "published_at": "2026-11-21T01:43:00Z",
-          "relevance": 0.86
+          "relevance": 0.85
         },
         {
-          "title": "EL4CTEO/fast-anything",
-          "url": "https://github.com/EL4CTEO/fast-anything",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It demonstrates how you can practicaly use AI coding agents to optimize slow Python code using Rust.",
-          "summary": "This open-source tool profiles your Python, Node, or Ruby application to find performance bottlenecks and uses an AI agent to rewrite just those slow sections in Rust.",
+          "title": "A training engine for your local model, using your idle compute",
+          "url": "https://github.com/sous-labs/songe",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It offers a practical way to experiment with training local machine learning models without expensive hardware.",
+          "summary": "This project is a training engine designed to fine-tune AI models on your local computer by utilizing background idle compute time.",
           "signal": {
-            "metric": "stars",
-            "value": 3269
+            "metric": "points",
+            "value": 205
           },
-          "published_at": "2026-11-21T14:40:27Z",
-          "relevance": 0.85
+          "published_at": "2026-11-24T15:03:40Z",
+          "relevance": 0.84
         },
         {
           "title": "iamajmeena/neonclipping",
           "url": "https://github.com/iamajmeena/neonclipping",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a practical open-source project demonstrating local LLM integration for video processing.",
-          "summary": "Neonclipping is a free open-source tool that converts video links into captioned vertical short clips using local speech recognition and local language models.",
+          "why": "It is a great example of an open-source local AI project that combines multimedia processing with LLMs.",
+          "summary": "Neonclipping is a free tool that generates captioned vertical videos from links in about two minutes. It runs entirely on your local machine using open-source audio processing and local language models.",
           "signal": {
             "metric": "stars",
-            "value": 2330
+            "value": 2510
           },
           "published_at": "2026-11-19T10:00:43Z",
+          "relevance": 0.82
+        },
+        {
+          "title": "danielwh2/sprite-stacking",
+          "url": "https://github.com/danielwh2/sprite-stacking",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "This demonstrates how you can create custom skills for popular AI coding tools like Claude Code and Cursor.",
+          "summary": "Sprite-stacking is an AI agent skill that transforms four 2D pixel art images into interactive fake-3D sprites. It works inside popular code editors like Cursor and Claude Code.",
+          "signal": {
+            "metric": "stars",
+            "value": 805
+          },
+          "published_at": "2026-11-20T14:32:43Z",
           "relevance": 0.8
         }
       ]
@@ -73,28 +87,14 @@
           "url": "https://ladybird.org/posts/alpha/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It is a milestone update on one of the most prominent independent open-source software projects.",
-          "summary": "Ladybird, an open-source web browser built entirely from scratch without relying on Chromium or WebKit, has officially reached its alpha milestone.",
+          "why": "Ladybird is one of the most exciting open-source software efforts building an independent web browser from scratch.",
+          "summary": "The Ladybird web browser has reached its official alpha release. Unlike most modern browsers based on Google's Chromium code, Ladybird is built completely from scratch as an open-source project.",
           "signal": {
             "metric": "points",
-            "value": 1652
+            "value": 2391
           },
           "published_at": "2026-11-23T16:13:12Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "lukendeasy/open-diagram",
-          "url": "https://github.com/lukendeasy/open-diagram",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a helpful Python library for CS students learning to diagram system architectures.",
-          "summary": "Open-diagram provides Python building blocks to programmatically generate clean software architecture diagrams that automatically validate their own visual layout.",
-          "signal": {
-            "metric": "stars",
-            "value": 365
-          },
-          "published_at": "2026-11-18T17:34:59Z",
-          "relevance": 0.75
+          "relevance": 0.87
         }
       ]
     },
@@ -103,32 +103,46 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Nvidia Reinstates Jensen Huang as CEO",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "title": "LLM agents work for their parent companies, not for you",
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It reports on executive leadership changes at Nvidia, the leading chip maker driving the AI industry.",
-          "summary": "Nvidia's board of directors has officially reinstated Jensen Huang as President and CEO following recent corporate governance developments.",
+          "why": "As you learn about AI agents, understanding vendor incentives helps you build smarter projects and choose open tools.",
+          "summary": "This article discusses how commercial AI agents are often designed to serve their creator company's business ecosystem rather than the end user. It argues for open standards and user-aligned AI agent architectures.",
           "signal": {
             "metric": "points",
-            "value": 2383
+            "value": 947
           },
-          "published_at": "2026-11-23T14:00:18Z",
-          "relevance": 0.9
+          "published_at": "2026-11-24T12:40:15Z",
+          "relevance": 0.85
         },
         {
-          "title": "How should an LLM see a computer?",
-          "url": "https://www.greptile.com/blog/trex-computer-use",
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "url": "https://news.ycombinator.com/item?id=50634426",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It explores a core design question behind modern computer-using AI agents.",
-          "summary": "This article discusses the technical trade-offs between giving LLMs direct visual screenshots versus structured interface data when building AI computer agents.",
+          "why": "Model Context Protocol (MCP) is an important emerging technology that allows AI agents to interact with external services.",
+          "summary": "Versine is a Y Combinator-backed project that provides an MCP interface for AI agents to send and request money. MCP is a standard format enabling AI models to interact with real-world apps and APIs.",
           "signal": {
             "metric": "points",
-            "value": 50
+            "value": 77
           },
-          "published_at": "2026-11-23T17:19:25Z",
-          "relevance": 0.82
+          "published_at": "2026-11-24T20:44:15Z",
+          "relevance": 0.83
+        },
+        {
+          "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+          "source": "news",
+          "source_label": "Al Jazeera",
+          "why": "It gives you insight into financial market trends and corporate investments surrounding the AI industry.",
+          "summary": "Major Asian stock markets dropped significantly due to growing investor skepticism about the financial returns on massive AI investments. The sell-off affected major tech companies in Japan, South Korea, and Taiwan.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-25T03:31:59Z",
+          "relevance": 0.81
         }
       ]
     },
@@ -137,76 +151,76 @@
       "title": "World",
       "items": [
         {
-          "title": "UN chief calls for world to agree on AI oversight within a year",
-          "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It is a major international policy news item regarding global artificial intelligence governance.",
-          "summary": "UN Secretary-General Antonio Guterres has urged member nations to reach an international consensus on governing and overseeing AI technologies within the next year.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-24T02:27:19Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+          "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It highlights a major geopolitical development expanding the geographical scope of the war in Ukraine.",
-          "summary": "Ukrainian forces reportedly sank a Russian naval ship docked in Libya using maritime drones, marking a significant strategic expansion of the conflict beyond the Black Sea.",
+          "why": "This shows how artificial intelligence is being used in real-world geopolitical campaign manipulation.",
+          "summary": "A BBC investigation revealed a China-linked network using AI-generated deepfakes to target Taiwanese election candidates. The effort aimed to covertly influence public opinion during political campaigns.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-23T20:48:35Z",
-          "relevance": 0.8
+          "published_at": "2026-11-24T23:05:11Z",
+          "relevance": 0.86
         },
         {
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
           "source": "news",
           "source_label": "BBC World",
-          "why": "It covers a significant global security story regarding potential nuclear weapons in space.",
-          "summary": "NATO leadership has warned of responses against space threats following intelligence reports that Russia plans to launch a satellite equipped with a nuclear warhead.",
+          "why": "It reports on significant global statistics regarding the human toll of the conflict in Ukraine.",
+          "summary": "Leaked official data indicates that nearly 500,000 Russian military personnel have died during the war in Ukraine. The figures show how the conflict has drastically affected Russia's mortality statistics.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-24T02:15:59Z",
-          "relevance": 0.78
+          "published_at": "2026-11-25T00:56:51Z",
+          "relevance": 0.75
+        },
+        {
+          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "source": "news",
+          "source_label": "BBC World",
+          "why": "It keeps you updated on major political and military events in the ongoing Middle East conflict.",
+          "summary": "An Israeli airstrike in Gaza killed Hamas internal security chief Naeem Abu Nahel. The strike was part of ongoing military operations in the region.",
+          "signal": {
+            "metric": "",
+            "value": 0
+          },
+          "published_at": "2026-11-24T15:35:53Z",
+          "relevance": 0.72
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 95,
-    "kept": 11,
+    "scanned": 98,
+    "kept": 12,
     "levels": [
-      {
-        "v": 0.85,
-        "kept": true
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
       {
         "v": 0.88,
         "kept": true
       },
       {
-        "v": 0.25,
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
-        "v": 0.25,
+        "v": 0.82,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
         "kept": false
       },
       {
@@ -226,12 +240,12 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.84,
+        "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.83,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -254,136 +268,136 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
+        "v": 0.72,
         "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.9,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
       },
       {
         "v": 0.86,
         "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.81,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.87,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
