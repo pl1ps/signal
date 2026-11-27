@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:09:27.475517Z",
+  "generated_at": "2026-11-27T04:13:56.120477Z",
   "generator_version": 1,
   "sections": [
     {
@@ -7,74 +7,46 @@
       "title": "AI & Tools",
       "items": [
         {
-          "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-          "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It combines core Computer Science algorithm concepts with AI agents to automatically improve code efficiency.",
-          "summary": "Created by an algorithm engineering professor, this agent tool uses scientific hypothesis testing to systematically benchmark and optimize code performance.",
+          "title": "nexu-io/opengame",
+          "url": "https://github.com/nexu-io/opengame",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It connects AI agents with game development, showing how multiple coding agents can work together on software projects.",
+          "summary": "OpenGame is an open-source engine that connects over 20 AI coding agents together to help developers generate and publish custom games.",
           "signal": {
-            "metric": "points",
-            "value": 90
+            "metric": "stars",
+            "value": 1235
           },
-          "published_at": "2026-11-23T14:02:15Z",
+          "published_at": "2026-11-25T10:35:45Z",
           "relevance": 0.88
         },
         {
-          "title": "EL4CTEO/fast-anything",
-          "url": "https://github.com/EL4CTEO/fast-anything",
+          "title": "qianyiai/KuroCat",
+          "url": "https://github.com/qianyiai/KuroCat",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It shows a practical, real-world way to use AI agents to speed up Python code without rewriting your entire codebase.",
-          "summary": "Fast-Anything profiles your Python app to find slow functions and uses an AI coding agent to rewrite only those parts in high-performance Rust.",
+          "why": "It is a fun open-source desktop tool that combines modern frontend tech with AI coding assistant integrations.",
+          "summary": "KuroCat is an open-source 3D desktop cat companion built with Rust and Tauri that integrates with AI models like Claude and DeepSeek to assist while coding.",
           "signal": {
             "metric": "stars",
-            "value": 4031
-          },
-          "published_at": "2026-11-21T14:40:27Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "qianyiai/kurocat",
-          "url": "https://github.com/qianyiai/kurocat",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a fun open-source project demonstrating how to use the Model Context Protocol (MCP) in desktop AI tools.",
-          "summary": "KuroCat is an open-source desktop cat animation and AI coding companion that connects with LLMs like Claude and DeepSeek using the Model Context Protocol (MCP).",
-          "signal": {
-            "metric": "stars",
-            "value": 1055
+            "value": 1482
           },
           "published_at": "2026-11-21T15:49:31Z",
+          "relevance": 0.8
+        },
+        {
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "url": "https://news.ycombinator.com/item?id=50634426",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It highlights how startups are building dedicated developer infrastructure specifically designed for autonomous AI agents.",
+          "summary": "Versine is a Y Combinator-backed project providing a standardized server interface for AI agents to send and request payments programmatically.",
+          "signal": {
+            "metric": "points",
+            "value": 106
+          },
+          "published_at": "2026-11-24T20:44:15Z",
           "relevance": 0.78
-        },
-        {
-          "title": "danielwh2/sprite-stacking",
-          "url": "https://github.com/danielwh2/sprite-stacking",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It demonstrates how custom agent skills can expand the capabilities of coding assistants like Claude Code and Cursor.",
-          "summary": "Sprite Stacking is an AI agent plugin that turns 2D pixel art views into rotatable pseudo-3D graphics for game projects.",
-          "signal": {
-            "metric": "stars",
-            "value": 938
-          },
-          "published_at": "2026-11-20T14:32:43Z",
-          "relevance": 0.72
-        },
-        {
-          "title": "xikhar/papercraft",
-          "url": "https://github.com/xikhar/papercraft",
-          "source": "github",
-          "source_label": "GitHub",
-          "why": "It is a practical example of extending AI coding agents to produce specialized creative web layouts.",
-          "summary": "Papercraft is an agent plugin that enables AI tools to build interactive web pages and animations styled like handcrafted pop-up paper art.",
-          "signal": {
-            "metric": "stars",
-            "value": 719
-          },
-          "published_at": "2026-11-21T00:29:56Z",
-          "relevance": 0.7
         }
       ]
     },
@@ -83,18 +55,32 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "sous-labs/songe",
-          "url": "https://github.com/sous-labs/songe",
+          "title": "EL4CTEO/fast-anything",
+          "url": "https://github.com/EL4CTEO/fast-anything",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It offers an approachable open-source tool if you want to experiment with fine-tuning AI models locally.",
-          "summary": "Songe is an open-source training engine designed to fine-tune local machine learning models by using spare compute resources on your machine.",
+          "why": "It shows a practical way to use AI coding agents to optimize performance in projects you build.",
+          "summary": "Fast-Anything helps you profile slow parts of Python, Node, or Ruby applications and use AI coding agents to rewrite just those bottleneck functions in high-performance Rust.",
           "signal": {
             "metric": "stars",
-            "value": 873
+            "value": 4275
           },
-          "published_at": "2026-11-20T11:01:20Z",
-          "relevance": 0.76
+          "published_at": "2026-11-21T14:40:27Z",
+          "relevance": 0.85
+        },
+        {
+          "title": "sybil-solutions/skill-distill",
+          "url": "https://github.com/sybil-solutions/skill-distill",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It touches on an active area in open-source AI: helping free, open-weight models match the coding skill of proprietary tools.",
+          "summary": "Skill-Distill captures coding patterns from proprietary AI assistants like Claude Code and packages them into instruction sets that open-source models can follow.",
+          "signal": {
+            "metric": "stars",
+            "value": 935
+          },
+          "published_at": "2026-11-21T01:43:00Z",
+          "relevance": 0.85
         }
       ]
     },
@@ -103,74 +89,60 @@
       "title": "Tech Discussion",
       "items": [
         {
-          "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-          "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights a practical story of using LLMs to assist with low-level software engineering and reverse engineering.",
-          "summary": "A developer documented how they used LLMs to help write drivers and port open-source music player software to a cheap, undocumented MP3 player.",
-          "signal": {
-            "metric": "points",
-            "value": 238
-          },
-          "published_at": "2026-11-24T06:22:36Z",
-          "relevance": 0.85
-        },
-        {
-          "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-          "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
-          "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It keeps you informed on key industry debates regarding AI safety and ethics from leading AI company founders.",
-          "summary": "Anthropic CEO Dario Amodei publicly addressed concerns about advanced AI, denying claims that humanity would have to cede decision-making power to AI systems.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-26T03:20:23Z",
-          "relevance": 0.84
-        },
-        {
-          "title": "US stocks fall further as fears over AI intensify",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It shows how market sentiment around AI infrastructure investment is affecting the broader tech economy.",
-          "summary": "US stock markets saw tech indices like the Nasdaq drop nearly 4 percent as market concerns mounted over AI development spending and returns.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-25T21:43:18Z",
-          "relevance": 0.82
-        },
-        {
-          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-          "url": "https://news.ycombinator.com/item?id=50634426",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It introduces a startup building financial infrastructure specifically designed for AI agents.",
-          "summary": "Versine is a Y Combinator startup using the Model Context Protocol (MCP) to allow autonomous AI agents to request and transfer funds.",
-          "signal": {
-            "metric": "points",
-            "value": 104
-          },
-          "published_at": "2026-11-24T20:44:15Z",
-          "relevance": 0.8
-        },
-        {
           "title": "1Password Security Incident",
           "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It is important cybersecurity news affecting developer tools and security practices.",
-          "summary": "1Password reported a security incident, prompting developers and cybersecurity teams to review their access security practices.",
+          "why": "1Password is standard security tooling across tech companies, making security disclosures relevant to developers.",
+          "summary": "Password management provider 1Password reported a security incident, prompting widespread discussion on security practices across developer communities.",
           "signal": {
             "metric": "points",
-            "value": 1252
+            "value": 1639
           },
           "published_at": "2026-11-25T17:18:26Z",
-          "relevance": 0.8
+          "relevance": 0.88
+        },
+        {
+          "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+          "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "It demonstrates how you can use LLMs as interactive tutors to tackle challenging low-level programming tasks.",
+          "summary": "A developer shares how they used LLMs to guide them through reverse-engineering a cheap hardware player and writing low-level software for it.",
+          "signal": {
+            "metric": "points",
+            "value": 275
+          },
+          "published_at": "2026-11-24T06:22:36Z",
+          "relevance": 0.86
+        },
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "Setting up your own server is great CS practice, and AI tools make troubleshooting complex infrastructure much easier.",
+          "summary": "Developers discuss how using LLMs to write configuration files and explain setup steps makes building home servers far less intimidating for beginners.",
+          "signal": {
+            "metric": "points",
+            "value": 419
+          },
+          "published_at": "2026-11-26T21:47:45Z",
+          "relevance": 0.84
+        },
+        {
+          "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+          "source": "hackernews",
+          "source_label": "Hacker News",
+          "why": "MCP is rapidly becoming an industry standard for connecting AI agents to external applications and tools.",
+          "summary": "Google is integrating Model Context Protocol (MCP) servers into its ecosystem to let AI agents safely interact with services like Gmail.",
+          "signal": {
+            "metric": "points",
+            "value": 278
+          },
+          "published_at": "2026-11-26T09:44:23Z",
+          "relevance": 0.82
         }
       ]
     },
@@ -179,113 +151,59 @@
       "title": "World",
       "items": [
         {
-          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
           "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers a significant global political development regarding the legal proceedings of a world leader.",
-          "summary": "Israeli judges formally advised prosecutors to drop the most serious corruption charges against Prime Minister Benjamin Netanyahu due to insufficient evidence.",
+          "source_label": "NPR News",
+          "why": "It covers major tech policy news intersecting space exploration, data center infrastructure, and regulatory approval.",
+          "summary": "The US FCC approved SpaceX plans to launch satellites intended for orbital data processing, despite skepticism raised by scientific organizations.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-25T19:47:39Z",
-          "relevance": 0.75
+          "published_at": "2026-11-26T06:53:09Z",
+          "relevance": 0.8
         },
         {
-          "title": "Ukraine attacks Russian military base, says five planes struck",
-          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
           "source": "news",
-          "source_label": "Al Jazeera",
-          "why": "It delivers an update on major developments in ongoing global conflicts.",
-          "summary": "Ukrainian military forces reported striking an airbase in Russia's Nizhny Novgorod region, damaging multiple military aircraft.",
+          "source_label": "NPR News",
+          "why": "It keeps you informed on a major global public health emergency currently unfolding.",
+          "summary": "An ongoing Ebola outbreak in eastern Congo has surpassed 12,000 cases while regional conflict hampers international medical aid response.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-26T01:39:46Z",
+          "published_at": "2026-11-26T13:47:09Z",
           "relevance": 0.75
-        },
-        {
-          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-          "source": "news",
-          "source_label": "BBC World",
-          "why": "It covers a major international news event regarding a fatal infrastructure accident.",
-          "summary": "A fuel tanker overturn and explosion on a busy highway in Cairo, Egypt resulted in at least 31 deaths and over 20 injuries.",
-          "signal": {
-            "metric": "",
-            "value": 0
-          },
-          "published_at": "2026-11-25T22:18:06Z",
-          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 101,
-    "kept": 14,
+    "scanned": 107,
+    "kept": 11,
     "levels": [
-      {
-        "v": 0.82,
-        "kept": true
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.25,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.78,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.72,
-        "kept": true
-      },
-      {
-        "v": 0.76,
-        "kept": true
-      },
-      {
-        "v": 0.7,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
       {
         "v": 0.85,
         "kept": true
       },
       {
-        "v": 0.143,
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
+        "v": 0.88,
+        "kept": true
+      },
+      {
+        "v": 0.25,
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
+        "v": 0.82,
+        "kept": true
       },
       {
         "v": 0.143,
@@ -296,24 +214,8 @@
         "kept": true
       },
       {
-        "v": 0.88,
-        "kept": true
-      },
-      {
-        "v": 0.7,
-        "kept": true
-      },
-      {
         "v": 0.143,
         "kept": false
-      },
-      {
-        "v": 0.75,
-        "kept": true
-      },
-      {
-        "v": 0.82,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -336,6 +238,38 @@
         "kept": false
       },
       {
+        "v": 0.86,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.78,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.75,
         "kept": true
       },
@@ -348,6 +282,34 @@
         "kept": false
       },
       {
+        "v": 0.8,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -384,31 +346,7 @@
         "kept": false
       },
       {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.0,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.88,
         "kept": true
       },
       {
@@ -426,6 +364,26 @@
       {
         "v": 0.0,
         "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.85,
+        "kept": true
       }
     ]
   },
