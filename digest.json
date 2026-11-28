@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:13:56.120477Z",
+  "generated_at": "2026-11-28T03:53:39.958978Z",
   "generator_version": 1,
   "sections": [
     {
@@ -11,42 +11,28 @@
           "url": "https://github.com/nexu-io/opengame",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It connects AI agents with game development, showing how multiple coding agents can work together on software projects.",
-          "summary": "OpenGame is an open-source engine that connects over 20 AI coding agents together to help developers generate and publish custom games.",
+          "why": "It demonstrates how multiple AI coding agents can work together to help build and customize video games.",
+          "summary": "OpenGame is an open-source platform that orchestrates multiple AI coding agents to create and modify games.",
           "signal": {
             "metric": "stars",
-            "value": 1235
+            "value": 2366
           },
           "published_at": "2026-11-25T10:35:45Z",
-          "relevance": 0.88
+          "relevance": 0.85
         },
         {
-          "title": "qianyiai/KuroCat",
-          "url": "https://github.com/qianyiai/KuroCat",
+          "title": "DeadInternetStudios/100x-engineer-skill",
+          "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It is a fun open-source desktop tool that combines modern frontend tech with AI coding assistant integrations.",
-          "summary": "KuroCat is an open-source 3D desktop cat companion built with Rust and Tauri that integrates with AI models like Claude and DeepSeek to assist while coding.",
+          "why": "It provides a practical tool to improve the code generation quality of AI developer tools.",
+          "summary": "100x is an open-source prompt framework designed to turn standard LLM prompts into cleaner, formally verified code.",
           "signal": {
             "metric": "stars",
-            "value": 1482
+            "value": 961
           },
-          "published_at": "2026-11-21T15:49:31Z",
-          "relevance": 0.8
-        },
-        {
-          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-          "url": "https://news.ycombinator.com/item?id=50634426",
-          "source": "hackernews",
-          "source_label": "Hacker News",
-          "why": "It highlights how startups are building dedicated developer infrastructure specifically designed for autonomous AI agents.",
-          "summary": "Versine is a Y Combinator-backed project providing a standardized server interface for AI agents to send and request payments programmatically.",
-          "signal": {
-            "metric": "points",
-            "value": 106
-          },
-          "published_at": "2026-11-24T20:44:15Z",
-          "relevance": 0.78
+          "published_at": "2026-11-23T11:06:07Z",
+          "relevance": 0.85
         }
       ]
     },
@@ -55,32 +41,46 @@
       "title": "Code & Projects",
       "items": [
         {
-          "title": "EL4CTEO/fast-anything",
-          "url": "https://github.com/EL4CTEO/fast-anything",
+          "title": "alesha-pro/llm.asm",
+          "url": "https://github.com/alesha-pro/llm.asm",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It shows a practical way to use AI coding agents to optimize performance in projects you build.",
-          "summary": "Fast-Anything helps you profile slow parts of Python, Node, or Ruby applications and use AI coding agents to rewrite just those bottleneck functions in high-performance Rust.",
+          "why": "It is an impressive showcase of low-level assembly programming running a machine learning model from scratch.",
+          "summary": "llm.asm is an open-source project that runs an LLM directly on bare-metal hardware using pure x86-64 assembly code.",
           "signal": {
             "metric": "stars",
-            "value": 4275
+            "value": 2285
           },
-          "published_at": "2026-11-21T14:40:27Z",
-          "relevance": 0.85
+          "published_at": "2026-11-25T07:28:51Z",
+          "relevance": 0.8
         },
         {
-          "title": "sybil-solutions/skill-distill",
-          "url": "https://github.com/sybil-solutions/skill-distill",
+          "title": "erkamyaman/safe-anything",
+          "url": "https://github.com/erkamyaman/safe-anything",
           "source": "github",
           "source_label": "GitHub",
-          "why": "It touches on an active area in open-source AI: helping free, open-weight models match the coding skill of proprietary tools.",
-          "summary": "Skill-Distill captures coding patterns from proprietary AI assistants like Claude Code and packages them into instruction sets that open-source models can follow.",
+          "why": "It helps you practice security best practices by scanning your code and AI agent setups for vulnerabilities.",
+          "summary": "Safe Anything is a fast vulnerability scanner written in Rust that detects security flaws and leaked secrets in code bases and AI setups.",
           "signal": {
             "metric": "stars",
-            "value": 935
+            "value": 835
           },
-          "published_at": "2026-11-21T01:43:00Z",
-          "relevance": 0.85
+          "published_at": "2026-11-22T16:44:10Z",
+          "relevance": 0.75
+        },
+        {
+          "title": "gary23w/f-ck_data_brokers",
+          "url": "https://github.com/gary23w/f-ck_data_brokers",
+          "source": "github",
+          "source_label": "GitHub",
+          "why": "It is a great example of a practical Python script built to automate personal privacy tasks.",
+          "summary": "fck_data_brokers is a free Python script that sends automated data deletion requests to data brokers on your behalf.",
+          "signal": {
+            "metric": "stars",
+            "value": 768
+          },
+          "published_at": "2026-11-26T17:53:07Z",
+          "relevance": 0.75
         }
       ]
     },
@@ -93,56 +93,56 @@
           "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "1Password is standard security tooling across tech companies, making security disclosures relevant to developers.",
-          "summary": "Password management provider 1Password reported a security incident, prompting widespread discussion on security practices across developer communities.",
+          "why": "Security notices from major software tools like 1Password are important to follow as a software developer.",
+          "summary": "Password manager 1Password disclosed a security incident, sparking widespread discussion around account security and credential safety.",
           "signal": {
             "metric": "points",
-            "value": 1639
+            "value": 1702
           },
           "published_at": "2026-11-25T17:18:26Z",
           "relevance": 0.88
         },
         {
-          "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-          "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+          "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "It demonstrates how you can use LLMs as interactive tutors to tackle challenging low-level programming tasks.",
-          "summary": "A developer shares how they used LLMs to guide them through reverse-engineering a cheap hardware player and writing low-level software for it.",
+          "why": "It highlights the real-world risks when people rely on automated AI tools for crucial communication.",
+          "summary": "A tenant was evicted after an automated AI landlord assistant inaccurately informed her that she could delay her rent payment.",
           "signal": {
             "metric": "points",
-            "value": 275
+            "value": 85
           },
-          "published_at": "2026-11-24T06:22:36Z",
-          "relevance": 0.86
+          "published_at": "2026-11-28T01:32:56Z",
+          "relevance": 0.82
         },
         {
           "title": "AI made self-hosting fun again",
           "url": "https://janlukas.blog/posts/ai-self-hosting",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "Setting up your own server is great CS practice, and AI tools make troubleshooting complex infrastructure much easier.",
-          "summary": "Developers discuss how using LLMs to write configuration files and explain setup steps makes building home servers far less intimidating for beginners.",
+          "why": "It offers perspective on how modern AI coding tools make running your own web services much simpler.",
+          "summary": "This article discusses how AI assistants have made setting up and managing self-hosted personal applications accessible and fun again.",
           "signal": {
             "metric": "points",
-            "value": 419
+            "value": 1107
           },
           "published_at": "2026-11-26T21:47:45Z",
-          "relevance": 0.84
+          "relevance": 0.8
         },
         {
-          "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+          "title": "US Air Force's cloud computing platform hacked",
+          "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
           "source": "hackernews",
           "source_label": "Hacker News",
-          "why": "MCP is rapidly becoming an industry standard for connecting AI agents to external applications and tools.",
-          "summary": "Google is integrating Model Context Protocol (MCP) servers into its ecosystem to let AI agents safely interact with services like Gmail.",
+          "why": "It highlights a major cybersecurity breach affecting critical military cloud infrastructure.",
+          "summary": "Reports indicate that the US Air Force cloud computing environment experienced a security breach by hackers.",
           "signal": {
             "metric": "points",
-            "value": 278
+            "value": 336
           },
-          "published_at": "2026-11-26T09:44:23Z",
-          "relevance": 0.82
+          "published_at": "2026-11-27T12:54:11Z",
+          "relevance": 0.78
         }
       ]
     },
@@ -151,38 +151,38 @@
       "title": "World",
       "items": [
         {
-          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-          "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It covers major tech policy news intersecting space exploration, data center infrastructure, and regulatory approval.",
-          "summary": "The US FCC approved SpaceX plans to launch satellites intended for orbital data processing, despite skepticism raised by scientific organizations.",
+          "source_label": "BBC World",
+          "why": "It gives you an update on key international diplomatic developments regarding the war in Ukraine.",
+          "summary": "Ukrainian President Volodymyr Zelensky criticized US diplomatic approaches toward Russia and called for stronger international pressure to end the war.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-26T06:53:09Z",
-          "relevance": 0.8
+          "published_at": "2026-11-27T18:00:40Z",
+          "relevance": 0.85
         },
         {
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+          "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss",
           "source": "news",
-          "source_label": "NPR News",
-          "why": "It keeps you informed on a major global public health emergency currently unfolding.",
-          "summary": "An ongoing Ebola outbreak in eastern Congo has surpassed 12,000 cases while regional conflict hampers international medical aid response.",
+          "source_label": "Al Jazeera",
+          "why": "It covers a major natural event affecting infrastructure and power across the US.",
+          "summary": "A severe holiday storm brought heavy rain, wind, and snow to the US East Coast, leaving hundreds of thousands without electricity.",
           "signal": {
             "metric": "",
             "value": 0
           },
-          "published_at": "2026-11-26T13:47:09Z",
-          "relevance": 0.75
+          "published_at": "2026-11-28T03:00:00Z",
+          "relevance": 0.7
         }
       ]
     }
   ],
   "readout": {
-    "scanned": 107,
+    "scanned": 102,
     "kept": 11,
     "levels": [
       {
@@ -190,20 +190,16 @@
         "kept": true
       },
       {
-        "v": 0.25,
-        "kept": false
+        "v": 0.8,
+        "kept": true
       },
       {
-        "v": 0.88,
+        "v": 0.75,
         "kept": true
       },
       {
         "v": 0.25,
         "kept": false
-      },
-      {
-        "v": 0.82,
-        "kept": true
       },
       {
         "v": 0.143,
@@ -214,31 +210,7 @@
         "kept": true
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.84,
-        "kept": true
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.86,
+        "v": 0.75,
         "kept": true
       },
       {
@@ -258,19 +230,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.75,
+        "v": 0.82,
         "kept": true
       },
       {
@@ -278,11 +238,7 @@
         "kept": false
       },
       {
-        "v": 0.143,
-        "kept": false
-      },
-      {
-        "v": 0.8,
+        "v": 0.85,
         "kept": true
       },
       {
@@ -306,6 +262,14 @@
         "kept": false
       },
       {
+        "v": 0.7,
+        "kept": true
+      },
+      {
+        "v": 0.143,
+        "kept": false
+      },
+      {
         "v": 0.143,
         "kept": false
       },
@@ -314,7 +278,7 @@
         "kept": false
       },
       {
-        "v": 0.0,
+        "v": 0.143,
         "kept": false
       },
       {
@@ -382,8 +346,44 @@
         "kept": false
       },
       {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
         "v": 0.85,
         "kept": true
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
+      },
+      {
+        "v": 0.0,
+        "kept": false
       }
     ]
   },
